@@ -22,23 +22,6 @@ Este proyecto es ideal para entusiastas del fútbol, analistas de datos y estudi
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Resumen del Proyecto ⚽📊 (Español)
-Este repositorio contiene un modelo predictivo de machine learning para predecir los resultados de los partidos de la LaLiga de España. Utilizando un enfoque de data science, el proyecto tiene como objetivo identificar los factores clave que influyen en las victorias y derrotas de los equipos.
-
-¿Qué se hizo?
-Ingeniería de Características Avanzada: Se crearon métricas de rendimiento basadas en medias móviles para capturar el estado actual y el momentum de los equipos, evitando el data leakage.
-
-Modelo de Machine Learning: Se implementó un modelo XGBoost, conocido por su robustez y alto rendimiento, para clasificar los partidos en victoria o derrota.
-
-Análisis y Resultados: El modelo logró identificar que la diferencia de goles esperados (xg_diff) y la posesión efectiva son los principales factores que determinan el resultado de un partido.
-
-Validación del Modelo: Se validó el rendimiento del modelo en las últimas 6 temporadas de la liga para asegurar su fiabilidad.
-
-Uso
-El notebook LaLiga_Predictor_Final.ipynb contiene todo el flujo de trabajo, desde la preparación de los datos hasta el entrenamiento, la evaluación y la interpretación del modelo.
-
-Este proyecto es ideal para entusiastas del fútbol, analistas de datos y estudiantes de data science que busquen un ejemplo práctico de cómo aplicar modelos predictivos a datos deportivos.
-
 Project Summary ⚽📊 (English)
 This repository contains a machine learning model to predict the outcomes of Spanish LaLiga matches. Using a data science approach, the project aims to identify the key factors that influence team victories and losses.
 
