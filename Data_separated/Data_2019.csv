@@ -1,0 +1,761 @@
+,Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Team,season,Sh,SoT,Dist,FK,PK,PKatt
+1,2018-08-18,22:15,La Liga,Matchweek 1,Sat,Home,W,3,0,Alavés,3.2,0.3,79.0,52356,Lionel Messi,4-4-2,4-5-1,José Sánchez,Match Report,,Barcelona,2019,25.0,9.0,16.2,2.0,0,0
+2,2018-08-25,22:15,La Liga,Matchweek 2,Sat,Away,W,1,0,Valladolid,1.0,0.4,64.0,22651,Lionel Messi,4-3-3,4-3-1-2,Ricardo de Burgos,Match Report,,Barcelona,2019,10.0,5.0,16.9,1.0,0,0
+3,2018-09-02,18:30,La Liga,Matchweek 3,Sun,Home,W,8,2,Huesca,5.3,1.7,68.0,72892,Lionel Messi,4-3-3,4-4-2,Mario Melero,Match Report,,Barcelona,2019,29.0,13.0,16.4,2.0,1,1
+4,2018-09-15,16:15,La Liga,Matchweek 4,Sat,Away,W,2,1,Real Sociedad,1.4,1.4,69.0,26756,Lionel Messi,4-3-3,4-1-2-1-2,Carlos del Cerro,Match Report,,Barcelona,2019,12.0,6.0,12.9,0.0,0,0
+6,2018-09-23,20:45,La Liga,Matchweek 5,Sun,Home,D,2,2,Girona,1.4,1.5,67.0,76055,Lionel Messi,4-3-3,5-3-2,Jesús Gil,Match Report,,Barcelona,2019,22.0,11.0,20.5,4.0,0,0
+7,2018-09-26,20:00,La Liga,Matchweek 6,Wed,Away,L,1,2,Leganés,0.4,1.1,77.0,12231,Lionel Messi,4-3-3,5-4-1,Alberto Undiano,Match Report,,Barcelona,2019,9.0,5.0,21.2,0.0,0,0
+8,2018-09-29,16:15,La Liga,Matchweek 7,Sat,Home,D,1,1,Athletic Club,3.2,0.9,70.0,78015,Gerard Piqué,4-3-3,4-2-3-1,Santiago Jaime,Match Report,,Barcelona,2019,20.0,8.0,17.4,2.0,0,0
+10,2018-10-07,20:45,La Liga,Matchweek 8,Sun,Away,D,1,1,Valencia,0.4,1.5,75.0,46249,Lionel Messi,4-3-3,4-4-2,José González,Match Report,,Barcelona,2019,10.0,5.0,24.2,1.0,0,0
+11,2018-10-20,20:45,La Liga,Matchweek 9,Sat,Home,W,4,2,Sevilla,2.5,2.2,53.0,88712,Lionel Messi,4-3-3,3-5-2,Juan Martínez,Match Report,,Barcelona,2019,22.0,8.0,20.0,1.0,1,1
+13,2018-10-28,16:15,La Liga,Matchweek 10,Sun,Home,W,5,1,Real Madrid,3.0,2.1,53.0,93265,Sergio Busquets,4-3-3,4-3-3,José Sánchez,Match Report,,Barcelona,2019,12.0,7.0,17.6,0.0,1,1
+15,2018-11-03,20:45,La Liga,Matchweek 11,Sat,Away,W,3,2,Rayo Vallecano,1.9,1.6,69.0,13785,Sergio Busquets,4-3-3,4-1-4-1,Alejandro Hernández,Match Report,,Barcelona,2019,10.0,5.0,15.4,1.0,0,0
+17,2018-11-11,16:15,La Liga,Matchweek 12,Sun,Home,L,3,4,Betis,3.8,2.3,55.0,83174,Lionel Messi,4-3-3,3-4-1-2,Antonio Matéu Lahoz,Match Report,,Barcelona,2019,19.0,4.0,15.4,1.0,1,1
+18,2018-11-24,20:45,La Liga,Matchweek 13,Sat,Away,D,1,1,Atlético Madrid,0.6,0.2,69.0,67204,Lionel Messi,4-4-2,4-4-2,Jesús Gil,Match Report,,Barcelona,2019,8.0,2.0,22.8,3.0,0,0
+20,2018-12-02,18:30,La Liga,Matchweek 14,Sun,Home,W,2,0,Villarreal,1.0,1.1,62.0,73003,Lionel Messi,4-1-4-1,4-5-1,José Luis Munuera,Match Report,,Barcelona,2019,15.0,7.0,21.1,2.0,0,0
+22,2018-12-08,20:45,La Liga,Matchweek 15,Sat,Away,W,4,0,Espanyol,2.9,1.1,55.0,24037,Lionel Messi,4-3-3,4-4-1-1,Carlos del Cerro,Match Report,,Barcelona,2019,17.0,9.0,13.8,3.0,0,0
+24,2018-12-16,20:45,La Liga,Matchweek 16,Sun,Away,W,5,0,Levante,3.7,1.0,57.0,23736,Lionel Messi,3-5-2,3-5-2,José González,Match Report,,Barcelona,2019,16.0,9.0,18.1,2.0,0,0
+25,2018-12-22,18:30,La Liga,Matchweek 17,Sat,Home,W,2,0,Celta Vigo,1.4,0.6,52.0,78686,Lionel Messi,4-3-3,4-4-2,Eduardo Prieto,Match Report,,Barcelona,2019,9.0,4.0,19.8,1.0,0,0
+26,2019-01-06,20:45,La Liga,Matchweek 18,Sun,Away,W,2,1,Getafe,1.5,1.2,75.0,14721,Lionel Messi,4-3-3,4-4-2,Guillermo Cuadra,Match Report,,Barcelona,2019,12.0,8.0,17.3,2.0,0,0
+28,2019-01-13,18:30,La Liga,Matchweek 19,Sun,Home,W,3,0,Eibar,1.1,0.9,58.0,71039,Lionel Messi,4-3-3,4-2-3-1,Jesús Gil,Match Report,,Barcelona,2019,7.0,6.0,11.6,0.0,0,0
+30,2019-01-20,20:45,La Liga,Matchweek 20,Sun,Home,W,3,1,Leganés,1.8,0.9,72.0,50670,Sergio Busquets,4-3-3,5-4-1,Ricardo de Burgos,Match Report,,Barcelona,2019,15.0,7.0,16.8,1.0,0,0
+32,2019-01-27,16:15,La Liga,Matchweek 21,Sun,Away,W,2,0,Girona,2.2,1.3,64.0,14021,Lionel Messi,4-3-3,3-5-2,Pablo González,Match Report,,Barcelona,2019,15.0,6.0,18.2,2.0,0,0
+34,2019-02-02,18:30,La Liga,Matchweek 22,Sat,Home,D,2,2,Valencia,2.0,3.3,68.0,76789,Lionel Messi,4-3-3,4-4-2,Alberto Undiano,Match Report,,Barcelona,2019,19.0,7.0,21.2,2.0,1,1
+36,2019-02-10,20:45,La Liga,Matchweek 23,Sun,Away,D,0,0,Athletic Club,0.7,1.3,67.0,47557,Lionel Messi,4-3-3,4-2-3-1,Carlos del Cerro,Match Report,,Barcelona,2019,10.0,2.0,22.8,1.0,0,0
+37,2019-02-16,20:45,La Liga,Matchweek 24,Sat,Home,W,1,0,Valladolid,3.7,0.4,61.0,67435,Lionel Messi,4-3-3,3-4-1-2,Juan Martínez,Match Report,,Barcelona,2019,18.0,6.0,19.7,0.0,1,2
+39,2019-02-23,16:15,La Liga,Matchweek 25,Sat,Away,W,4,2,Sevilla,1.8,1.6,60.0,40661,Lionel Messi,4-3-3,4-4-1-1,Antonio Matéu Lahoz,Match Report,,Barcelona,2019,17.0,8.0,18.9,0.0,0,0
+41,2019-03-02,20:45,La Liga,Matchweek 26,Sat,Away,W,1,0,Real Madrid,1.1,0.9,51.0,78921,Lionel Messi,4-3-3,4-3-3,Alberto Undiano,Match Report,,Barcelona,2019,9.0,4.0,19.2,2.0,0,0
+42,2019-03-09,18:30,La Liga,Matchweek 27,Sat,Home,W,3,1,Rayo Vallecano,2.4,0.4,68.0,74158,Lionel Messi,4-3-3,5-4-1,Mario Melero,Match Report,,Barcelona,2019,11.0,5.0,18.6,2.0,1,1
+44,2019-03-17,20:45,La Liga,Matchweek 28,Sun,Away,W,4,1,Betis,3.0,1.2,44.0,54172,Lionel Messi,4-4-2,3-1-4-2,Ricardo de Burgos,Match Report,,Barcelona,2019,16.0,9.0,16.0,2.0,0,0
+45,2019-03-30,16:15,La Liga,Matchweek 29,Sat,Home,W,2,0,Espanyol,1.3,0.2,69.0,92795,Lionel Messi,4-3-3,5-3-2,Carlos del Cerro,Match Report,,Barcelona,2019,13.0,3.0,17.0,2.0,0,0
+46,2019-04-02,21:30,La Liga,Matchweek 30,Tue,Away,D,4,4,Villarreal,2.7,2.2,68.0,19515,Sergio Busquets,4-3-3,3-4-3,Alejandro Hernández,Match Report,,Barcelona,2019,15.0,9.0,19.5,2.0,0,0
+47,2019-04-06,20:45,La Liga,Matchweek 31,Sat,Home,W,2,0,Atlético Madrid,2.6,0.8,64.0,92453,Lionel Messi,4-3-3,4-4-2,Jesús Gil,Match Report,,Barcelona,2019,21.0,10.0,19.2,1.0,0,0
+49,2019-04-13,16:15,La Liga,Matchweek 32,Sat,Away,D,0,0,Huesca,1.1,0.2,73.0,7332,Marc-André ter Stegen,3-1-4-2,4-1-4-1,Guillermo Cuadra,Match Report,,Barcelona,2019,10.0,2.0,15.4,0.0,0,0
+51,2019-04-20,20:45,La Liga,Matchweek 33,Sat,Home,W,2,1,Real Sociedad,1.1,1.5,50.0,75470,Lionel Messi,4-3-3,4-3-3,Pablo González,Match Report,,Barcelona,2019,11.0,4.0,15.9,2.0,0,0
+52,2019-04-23,21:30,La Liga,Matchweek 34,Tue,Away,W,2,0,Alavés,2.5,0.3,76.0,18735,Sergio Busquets,4-3-3,5-4-1,Adrián Cordero,Match Report,,Barcelona,2019,15.0,5.0,17.4,1.0,1,1
+53,2019-04-27,20:45,La Liga,Matchweek 35,Sat,Home,W,1,0,Levante,2.1,1.0,62.0,91917,Gerard Piqué,4-3-3,4-1-4-1,Ricardo de Burgos,Match Report,,Barcelona,2019,23.0,12.0,17.7,1.0,0,0
+55,2019-05-04,20:45,La Liga,Matchweek 36,Sat,Away,L,0,2,Celta Vigo,0.5,1.9,65.0,22519,Jasper Cillessen,4-3-3,4-4-2,José Sánchez,Match Report,,Barcelona,2019,8.0,1.0,20.7,0.0,0,0
+57,2019-05-12,18:30,La Liga,Matchweek 37,Sun,Home,W,2,0,Getafe,2.4,1.2,78.0,57088,Lionel Messi,4-3-3,4-4-2,José González,Match Report,,Barcelona,2019,13.0,8.0,14.7,0.0,0,0
+58,2019-05-19,16:15,La Liga,Matchweek 38,Sun,Away,D,2,2,Eibar,1.1,1.5,60.0,5145,Lionel Messi,4-3-3,4-4-2,José Luis Munuera,Match Report,,Barcelona,2019,8.0,3.0,19.5,1.0,0,0
+1,2018-08-20,20:00,La Liga,Matchweek 1,Mon,Away,D,1,1,Valencia,0.9,1.1,49.0,46174,Diego Godín,4-4-2,4-4-2,Jesús Gil,Match Report,,Atletico-Madrid,2019,9.0,3.0,20.6,1.0,0,0
+2,2018-08-25,20:15,La Liga,Matchweek 2,Sat,Home,W,1,0,Rayo Vallecano,0.9,1.5,47.0,52693,Diego Godín,4-4-2,4-1-4-1,José González,Match Report,,Atletico-Madrid,2019,9.0,2.0,18.0,0.0,0,0
+3,2018-09-01,18:30,La Liga,Matchweek 3,Sat,Away,L,0,2,Celta Vigo,0.4,0.5,50.0,19013,Diego Godín,4-4-2,3-4-3,Antonio Matéu Lahoz,Match Report,,Atletico-Madrid,2019,10.0,0.0,19.9,0.0,0,0
+4,2018-09-15,13:00,La Liga,Matchweek 4,Sat,Home,D,1,1,Eibar,2.3,1.3,58.0,55674,Diego Godín,4-1-4-1,4-2-3-1,Juan Martínez,Match Report,,Atletico-Madrid,2019,19.0,9.0,14.2,0.0,0,0
+6,2018-09-22,18:30,La Liga,Matchweek 5,Sat,Away,W,2,0,Getafe,1.1,0.6,59.0,12756,Koke,4-4-2,4-4-2,José Sánchez,Match Report,,Atletico-Madrid,2019,7.0,5.0,21.1,0.0,0,0
+7,2018-09-25,22:00,La Liga,Matchweek 6,Tue,Home,W,3,0,Huesca,0.9,0.9,58.0,47023,Diego Godín,4-4-2,4-4-2,Pablo González,Match Report,,Atletico-Madrid,2019,17.0,5.0,22.6,1.0,0,0
+8,2018-09-29,20:45,La Liga,Matchweek 7,Sat,Away,D,0,0,Real Madrid,0.8,1.2,35.0,78642,Diego Godín,4-4-2,4-3-3,Juan Martínez,Match Report,,Atletico-Madrid,2019,8.0,3.0,21.3,0.0,0,0
+10,2018-10-07,16:15,La Liga,Matchweek 8,Sun,Home,W,1,0,Betis,0.6,0.3,37.0,63786,Diego Godín,4-4-2,3-4-3,Alberto Undiano,Match Report,,Atletico-Madrid,2019,13.0,4.0,17.7,0.0,0,0
+11,2018-10-20,18:30,La Liga,Matchweek 9,Sat,Away,D,1,1,Villarreal,1.4,1.9,47.0,17518,Koke,4-4-2,4-2-3-1,Javier Estrada,Match Report,,Atletico-Madrid,2019,15.0,4.0,16.7,0.0,0,0
+13,2018-10-27,20:45,La Liga,Matchweek 10,Sat,Home,W,2,0,Real Sociedad,1.4,0.3,61.0,57514,Diego Godín,4-4-2,4-2-3-1,Antonio Matéu Lahoz,Match Report,,Atletico-Madrid,2019,14.0,4.0,15.1,0.0,0,0
+15,2018-11-03,13:00,La Liga,Matchweek 11,Sat,Away,D,1,1,Leganés,0.4,1.3,55.0,12319,Antoine Griezmann,4-4-2,3-4-3,Mario Melero,Match Report,,Atletico-Madrid,2019,9.0,4.0,21.5,2.0,0,0
+17,2018-11-10,18:30,La Liga,Matchweek 12,Sat,Home,W,3,2,Athletic Club,1.1,1.9,51.0,59321,Diego Godín,4-4-2,4-3-3,José Sánchez,Match Report,,Atletico-Madrid,2019,9.0,3.0,16.5,1.0,0,0
+18,2018-11-24,20:45,La Liga,Matchweek 13,Sat,Home,D,1,1,Barcelona,0.2,0.6,31.0,67204,Koke,4-4-2,4-4-2,Jesús Gil,Match Report,,Atletico-Madrid,2019,3.0,1.0,17.4,1.0,0,0
+20,2018-12-02,16:15,La Liga,Matchweek 14,Sun,Away,D,1,1,Girona,1.6,1.5,56.0,12104,Koke,4-4-2,3-4-3,Ricardo de Burgos,Match Report,,Atletico-Madrid,2019,17.0,3.0,20.9,0.0,0,0
+22,2018-12-08,13:00,La Liga,Matchweek 15,Sat,Home,W,3,0,Alavés,2.7,1.4,48.0,55810,Antoine Griezmann,4-4-2,4-3-3,Alejandro Hernández,Match Report,,Atletico-Madrid,2019,12.0,5.0,12.1,0.0,0,0
+24,2018-12-15,16:15,La Liga,Matchweek 16,Sat,Away,W,3,2,Valladolid,1.9,0.8,44.0,22585,Diego Godín,4-4-2,4-4-1-1,Alberto Undiano,Match Report,,Atletico-Madrid,2019,13.0,4.0,18.9,2.0,1,1
+25,2018-12-22,16:15,La Liga,Matchweek 17,Sat,Home,W,1,0,Espanyol,1.0,0.8,38.0,58069,Diego Godín,4-4-2,4-1-4-1,Mario Melero,Match Report,,Atletico-Madrid,2019,7.0,4.0,19.7,0.0,1,1
+26,2019-01-06,16:15,La Liga,Matchweek 18,Sun,Away,D,1,1,Sevilla,0.7,1.4,44.0,38603,Diego Godín,4-4-2,3-5-2,Antonio Matéu Lahoz,Match Report,,Atletico-Madrid,2019,12.0,7.0,25.0,1.0,0,0
+28,2019-01-13,12:00,La Liga,Matchweek 19,Sun,Home,W,1,0,Levante,2.5,0.7,58.0,57093,Diego Godín,4-4-2,3-5-2,Eduardo Prieto,Match Report,,Atletico-Madrid,2019,18.0,4.0,18.2,0.0,1,1
+30,2019-01-19,18:30,La Liga,Matchweek 20,Sat,Away,W,3,0,Huesca,2.5,1.3,49.0,7106,Diego Godín,4-4-2,4-1-4-1,Guillermo Cuadra,Match Report,,Atletico-Madrid,2019,15.0,8.0,13.4,1.0,0,0
+31,2019-01-26,16:15,La Liga,Matchweek 21,Sat,Home,W,2,0,Getafe,1.1,0.3,65.0,55709,Diego Godín,4-4-2,4-4-2,Ignacio Iglesias,Match Report,,Atletico-Madrid,2019,10.0,6.0,18.7,1.0,0,0
+32,2019-02-03,16:15,La Liga,Matchweek 22,Sun,Away,L,0,1,Betis,0.7,1.0,46.0,50864,Antoine Griezmann,4-4-2,3-5-2,David Medié,Match Report,,Atletico-Madrid,2019,13.0,1.0,19.6,1.0,0,0
+33,2019-02-09,16:15,La Liga,Matchweek 23,Sat,Home,L,1,3,Real Madrid,1.1,1.6,35.0,67752,Diego Godín,4-4-2,4-3-3,Javier Estrada,Match Report,,Atletico-Madrid,2019,11.0,2.0,15.7,0.0,0,0
+34,2019-02-16,16:15,La Liga,Matchweek 24,Sat,Away,W,1,0,Rayo Vallecano,0.2,1.0,51.0,13880,Diego Godín,4-4-2,3-4-3,Jesús Gil,Match Report,,Atletico-Madrid,2019,4.0,3.0,17.0,0.0,0,0
+36,2019-02-24,16:15,La Liga,Matchweek 25,Sun,Home,W,2,0,Villarreal,1.2,1.2,51.0,59114,Koke,4-4-2,3-5-2,Alberto Undiano,Match Report,,Atletico-Madrid,2019,15.0,7.0,19.6,1.0,0,0
+37,2019-03-03,18:30,La Liga,Matchweek 26,Sun,Away,W,2,0,Real Sociedad,1.4,0.9,39.0,26004,Diego Godín,4-4-2,4-1-4-1,José González,Match Report,,Atletico-Madrid,2019,8.0,3.0,12.8,0.0,0,0
+38,2019-03-09,16:15,La Liga,Matchweek 27,Sat,Home,W,1,0,Leganés,1.3,0.1,45.0,58321,Antoine Griezmann,4-4-2,3-1-4-2,Antonio Matéu Lahoz,Match Report,,Atletico-Madrid,2019,12.0,3.0,22.4,1.0,0,1
+40,2019-03-16,18:30,La Liga,Matchweek 28,Sat,Away,L,0,2,Athletic Club,0.9,1.3,53.0,39659,Diego Godín,4-4-2,4-2-3-1,Santiago Jaime,Match Report,,Atletico-Madrid,2019,9.0,2.0,20.2,0.0,0,0
+41,2019-03-30,20:45,La Liga,Matchweek 29,Sat,Away,W,4,0,Alavés,1.5,0.8,55.0,19117,Diego Godín,4-4-2,4-4-2,Mario Melero,Match Report,,Atletico-Madrid,2019,11.0,7.0,18.7,0.0,0,0
+42,2019-04-02,19:30,La Liga,Matchweek 30,Tue,Home,W,2,0,Girona,2.5,0.8,49.0,40863,Diego Godín,3-1-4-2,4-1-4-1,Ignacio Iglesias,Match Report,,Atletico-Madrid,2019,17.0,7.0,16.1,0.0,0,0
+43,2019-04-06,20:45,La Liga,Matchweek 31,Sat,Away,L,0,2,Barcelona,0.8,2.6,36.0,92453,Diego Godín,4-4-2,4-3-3,Jesús Gil,Match Report,,Atletico-Madrid,2019,9.0,2.0,17.3,1.0,0,0
+44,2019-04-13,18:30,La Liga,Matchweek 32,Sat,Home,W,2,0,Celta Vigo,1.5,0.5,56.0,55269,Koke,4-4-2,4-2-3-1,Ricardo de Burgos,Match Report,,Atletico-Madrid,2019,11.0,4.0,19.4,1.0,0,0
+45,2019-04-20,16:15,La Liga,Matchweek 33,Sat,Away,W,1,0,Eibar,1.3,0.6,48.0,4750,Diego Godín,4-2-3-1,4-4-2,Alberola Rojas,Match Report,,Atletico-Madrid,2019,8.0,4.0,15.3,0.0,0,0
+46,2019-04-24,19:30,La Liga,Matchweek 34,Wed,Home,W,3,2,Valencia,1.6,2.1,56.0,43531,Diego Godín,4-4-2,4-4-2,Alejandro Hernández,Match Report,,Atletico-Madrid,2019,14.0,6.0,16.2,1.0,0,0
+47,2019-04-27,16:15,La Liga,Matchweek 35,Sat,Home,W,1,0,Valladolid,0.7,0.7,58.0,53123,Diego Godín,4-4-2,4-4-2,Mario Melero,Match Report,,Atletico-Madrid,2019,13.0,1.0,18.2,1.0,0,0
+48,2019-05-04,16:15,La Liga,Matchweek 36,Sat,Away,L,0,3,Espanyol,0.7,1.6,50.0,20207,Diego Godín,4-4-2,4-3-3,José Luis Munuera,Match Report,,Atletico-Madrid,2019,11.0,3.0,17.8,0.0,0,0
+49,2019-05-12,18:30,La Liga,Matchweek 37,Sun,Home,D,1,1,Sevilla,1.3,0.8,49.0,60234,Diego Godín,4-4-2,4-4-1-1,Ricardo de Burgos,Match Report,,Atletico-Madrid,2019,11.0,4.0,23.1,1.0,0,0
+50,2019-05-18,13:00,La Liga,Matchweek 38,Sat,Away,D,2,2,Levante,1.9,2.7,53.0,20575,Juanfran,4-4-2,3-5-2,Ignacio Iglesias,Match Report,,Atletico-Madrid,2019,17.0,8.0,19.7,2.0,0,0
+1,2018-08-19,22:15,La Liga,Matchweek 1,Sun,Home,W,2,0,Getafe,1.0,0.2,77.0,48446,Sergio Ramos,4-3-3,4-1-4-1,Javier Estrada,Match Report,,Real-Madrid,2019,10.0,3.0,18.0,0.0,0,0
+2,2018-08-26,22:15,La Liga,Matchweek 2,Sun,Away,W,4,1,Girona,3.9,0.4,66.0,13889,Sergio Ramos,4-2-3-1,4-3-3,Juan Martínez,Match Report,,Real-Madrid,2019,18.0,6.0,18.5,1.0,2,2
+3,2018-09-01,20:45,La Liga,Matchweek 3,Sat,Home,W,4,1,Leganés,2.5,1.1,77.0,59255,Sergio Ramos,4-3-3,4-4-2,Santiago Jaime,Match Report,,Real-Madrid,2019,16.0,7.0,17.0,0.0,1,1
+4,2018-09-15,20:45,La Liga,Matchweek 4,Sat,Away,D,1,1,Athletic Club,1.8,1.4,61.0,46413,Sergio Ramos,4-3-3,4-2-3-1,José González,Match Report,,Real-Madrid,2019,16.0,6.0,18.3,2.0,0,0
+6,2018-09-22,20:45,La Liga,Matchweek 5,Sat,Home,W,1,0,Espanyol,1.0,0.4,64.0,67658,Sergio Ramos,4-3-3,4-1-4-1,Antonio Matéu Lahoz,Match Report,,Real-Madrid,2019,19.0,5.0,19.9,0.0,0,0
+7,2018-09-26,22:00,La Liga,Matchweek 6,Wed,Away,L,0,3,Sevilla,1.5,2.4,60.0,40972,Sergio Ramos,4-3-3,3-5-2,Alejandro Hernández,Match Report,,Real-Madrid,2019,21.0,3.0,20.3,2.0,0,0
+8,2018-09-29,20:45,La Liga,Matchweek 7,Sat,Home,D,0,0,Atlético Madrid,1.2,0.8,65.0,78642,Sergio Ramos,4-3-3,4-4-2,Juan Martínez,Match Report,,Real-Madrid,2019,15.0,6.0,19.0,1.0,0,0
+10,2018-10-06,18:30,La Liga,Matchweek 8,Sat,Away,L,0,1,Alavés,0.8,1.1,69.0,19461,Sergio Ramos,4-3-3,4-3-3,Santiago Jaime,Match Report,,Real-Madrid,2019,13.0,5.0,18.5,2.0,0,0
+11,2018-10-20,13:00,La Liga,Matchweek 9,Sat,Home,L,1,2,Levante,2.9,2.0,70.0,63423,Sergio Ramos,4-3-3,3-1-4-2,Guillermo Cuadra,Match Report,,Real-Madrid,2019,33.0,12.0,14.2,1.0,0,0
+13,2018-10-28,16:15,La Liga,Matchweek 10,Sun,Away,L,1,5,Barcelona,2.1,3.0,47.0,93265,Sergio Ramos,4-3-3,4-3-3,José Sánchez,Match Report,,Real-Madrid,2019,15.0,4.0,17.9,0.0,0,0
+15,2018-11-03,16:15,La Liga,Matchweek 11,Sat,Home,W,2,0,Valladolid,2.2,0.9,58.0,68050,Sergio Ramos,4-3-3,4-4-2,Jesús Gil,Match Report,,Real-Madrid,2019,16.0,6.0,16.4,0.0,1,1
+17,2018-11-11,20:45,La Liga,Matchweek 12,Sun,Away,W,4,2,Celta Vigo,2.5,0.9,48.0,21184,Sergio Ramos,4-3-3,4-4-2,Alberto Undiano,Match Report,,Real-Madrid,2019,13.0,4.0,18.1,0.0,1,1
+18,2018-11-24,13:00,La Liga,Matchweek 13,Sat,Away,L,0,3,Eibar,1.1,2.8,60.0,6435,Sergio Ramos,4-3-3,4-4-2,Juan Martínez,Match Report,,Real-Madrid,2019,9.0,2.0,19.0,1.0,0,0
+20,2018-12-01,20:45,La Liga,Matchweek 14,Sat,Home,W,2,0,Valencia,0.8,0.8,60.0,69653,Sergio Ramos,4-3-3,4-4-2,José González,Match Report,,Real-Madrid,2019,13.0,3.0,17.1,0.0,0,0
+22,2018-12-09,16:15,La Liga,Matchweek 15,Sun,Away,W,1,0,Huesca,0.4,1.2,55.0,7341,Sergio Ramos,4-1-4-1,4-2-3-1,Mario Melero,Match Report,,Real-Madrid,2019,5.0,4.0,20.2,0.0,0,0
+24,2018-12-15,18:30,La Liga,Matchweek 16,Sat,Home,W,1,0,Rayo Vallecano,1.2,0.7,69.0,55229,Sergio Ramos,4-3-3,4-1-4-1,Ricardo de Burgos,Match Report,,Real-Madrid,2019,9.0,4.0,17.0,0.0,0,0
+25,2019-01-03,21:30,La Liga,Matchweek 17,Thu,Away,D,2,2,Villarreal,1.6,1.2,54.0,19903,Sergio Ramos,4-3-3,4-2-3-1,Pablo González,Match Report,,Real-Madrid,2019,14.0,7.0,18.6,0.0,0,0
+26,2019-01-06,18:30,La Liga,Matchweek 18,Sun,Home,L,0,2,Real Sociedad,2.6,2.3,59.0,53412,Sergio Ramos,4-3-3,4-2-3-1,José Luis Munuera,Match Report,,Real-Madrid,2019,28.0,8.0,16.2,0.0,0,0
+28,2019-01-13,20:45,La Liga,Matchweek 19,Sun,Away,W,2,1,Betis,0.7,0.8,28.0,54187,Sergio Ramos,3-4-3,4-3-3,Alejandro Hernández,Match Report,,Real-Madrid,2019,14.0,5.0,19.8,2.0,0,0
+30,2019-01-19,16:15,La Liga,Matchweek 20,Sat,Home,W,2,0,Sevilla,1.5,0.5,69.0,68232,Sergio Ramos,4-3-3,5-3-2,Antonio Matéu Lahoz,Match Report,,Real-Madrid,2019,23.0,6.0,20.5,1.0,0,0
+32,2019-01-27,20:45,La Liga,Matchweek 21,Sun,Away,W,4,2,Espanyol,2.1,1.1,63.0,21215,Sergio Ramos,4-3-3,4-3-3,Jesús Gil,Match Report,,Real-Madrid,2019,16.0,9.0,16.0,0.0,0,0
+34,2019-02-03,20:45,La Liga,Matchweek 22,Sun,Home,W,3,0,Alavés,2.5,0.6,70.0,53132,Sergio Ramos,4-3-3,4-5-1,Santiago Jaime,Match Report,,Real-Madrid,2019,22.0,8.0,17.7,1.0,0,0
+36,2019-02-09,16:15,La Liga,Matchweek 23,Sat,Away,W,3,1,Atlético Madrid,1.6,1.1,65.0,67752,Sergio Ramos,4-3-3,4-4-2,Javier Estrada,Match Report,,Real-Madrid,2019,10.0,3.0,16.9,0.0,1,1
+38,2019-02-17,12:00,La Liga,Matchweek 24,Sun,Home,L,1,2,Girona,1.8,2.6,57.0,68099,Sergio Ramos,4-3-3,4-1-4-1,Guillermo Cuadra,Match Report,,Real-Madrid,2019,19.0,7.0,15.9,1.0,0,0
+39,2019-02-24,20:45,La Liga,Matchweek 25,Sun,Away,W,2,1,Levante,2.7,1.2,60.0,23018,Karim Benzema,4-3-3,3-5-2,Ignacio Iglesias,Match Report,,Real-Madrid,2019,17.0,3.0,19.3,0.0,2,2
+41,2019-03-02,20:45,La Liga,Matchweek 26,Sat,Home,L,0,1,Barcelona,0.9,1.1,49.0,78921,Sergio Ramos,4-3-3,4-3-3,Alberto Undiano,Match Report,,Real-Madrid,2019,17.0,3.0,18.8,1.0,0,0
+43,2019-03-10,20:45,La Liga,Matchweek 27,Sun,Away,W,4,1,Valladolid,2.8,2.2,61.0,21914,Karim Benzema,4-3-3,4-4-1-1,Jesús Gil,Match Report,,Real-Madrid,2019,14.0,5.0,16.6,0.0,1,1
+44,2019-03-16,16:15,La Liga,Matchweek 28,Sat,Home,W,2,0,Celta Vigo,2.5,0.4,54.0,65054,Sergio Ramos,4-2-3-1,4-2-3-1,Juan Martínez,Match Report,,Real-Madrid,2019,22.0,7.0,18.1,0.0,0,0
+45,2019-03-31,20:45,La Liga,Matchweek 29,Sun,Home,W,3,2,Huesca,4.1,1.7,70.0,49269,Sergio Ramos,4-3-3,5-3-2,Javier Estrada,Match Report,,Real-Madrid,2019,16.0,8.0,15.1,1.0,0,0
+46,2019-04-03,21:30,La Liga,Matchweek 30,Wed,Away,L,1,2,Valencia,0.8,1.8,67.0,44274,Sergio Ramos,4-3-3,4-4-2,Santiago Jaime,Match Report,,Real-Madrid,2019,15.0,5.0,20.0,0.0,0,0
+47,2019-04-06,16:15,La Liga,Matchweek 31,Sat,Home,W,2,1,Eibar,1.6,0.8,56.0,50284,Karim Benzema,4-3-3,4-1-4-1,Pablo González,Match Report,,Real-Madrid,2019,13.0,7.0,16.6,0.0,0,0
+48,2019-04-15,21:00,La Liga,Matchweek 32,Mon,Away,D,1,1,Leganés,1.2,0.6,69.0,12118,Marcelo,4-3-3,5-3-2,David Medié,Match Report,,Real-Madrid,2019,13.0,6.0,18.4,1.0,0,0
+49,2019-04-21,16:15,La Liga,Matchweek 33,Sun,Home,W,3,0,Athletic Club,1.9,0.5,57.0,59815,Marcelo,4-3-3,4-2-3-1,Mario Melero,Match Report,,Real-Madrid,2019,11.0,4.0,13.7,0.0,0,0
+50,2019-04-25,21:30,La Liga,Matchweek 34,Thu,Away,D,0,0,Getafe,1.8,0.6,66.0,13135,Karim Benzema,4-3-3,4-4-2,Ricardo de Burgos,Match Report,,Real-Madrid,2019,12.0,4.0,18.2,0.0,0,0
+51,2019-04-28,20:45,La Liga,Matchweek 35,Sun,Away,L,0,1,Rayo Vallecano,0.5,1.8,50.0,13273,Marcelo,4-2-2-2,4-2-3-1,Pablo González,Match Report,,Real-Madrid,2019,9.0,3.0,18.2,1.0,0,0
+52,2019-05-05,16:15,La Liga,Matchweek 36,Sun,Home,W,3,2,Villarreal,2.7,0.7,60.0,46294,Marcelo,4-3-3,4-2-3-1,Jesús Gil,Match Report,,Real-Madrid,2019,24.0,11.0,17.5,0.0,0,0
+53,2019-05-12,18:30,La Liga,Matchweek 37,Sun,Away,L,1,3,Real Sociedad,0.9,2.1,46.0,27322,Marcelo,4-3-3,4-2-3-1,Juan Martínez,Match Report,,Real-Madrid,2019,6.0,2.0,13.4,0.0,0,0
+54,2019-05-19,12:00,La Liga,Matchweek 38,Sun,Home,L,0,2,Betis,0.9,1.3,47.0,56900,Marcelo,4-3-3,3-1-4-2,Alberto Undiano,Match Report,,Real-Madrid,2019,9.0,2.0,21.1,0.0,0,0
+0,2018-08-20,20:00,La Liga,Matchweek 1,Mon,Home,D,1,1,Atlético Madrid,1.1,0.9,51.0,46174,Daniel Parejo,4-4-2,4-4-2,Jesús Gil,Match Report,,Valencia,2019,13.0,4.0,21.1,0.0,0,0
+1,2018-08-26,18:15,La Liga,Matchweek 2,Sun,Away,L,0,2,Espanyol,1.9,1.3,51.0,18714,Daniel Parejo,4-4-2,4-1-4-1,Carlos del Cerro,Match Report,,Valencia,2019,16.0,3.0,20.0,0.0,0,0
+2,2018-09-02,12:00,La Liga,Matchweek 3,Sun,Away,D,2,2,Levante,4.1,1.6,54.0,24073,Daniel Parejo,4-4-2,4-4-2,Javier Estrada,Match Report,,Valencia,2019,17.0,4.0,17.6,0.0,1,1
+3,2018-09-15,18:30,La Liga,Matchweek 4,Sat,Home,D,0,0,Betis,1.0,1.0,40.0,40050,Daniel Parejo,4-4-2,3-4-3,Alejandro Hernández,Match Report,,Valencia,2019,12.0,2.0,16.6,0.0,0,0
+5,2018-09-23,16:15,La Liga,Matchweek 5,Sun,Away,D,0,0,Villarreal,0.4,0.7,45.0,18373,Daniel Parejo,4-4-2,4-4-2,Santiago Jaime,Match Report,,Valencia,2019,11.0,2.0,21.5,0.0,0,0
+6,2018-09-26,22:00,La Liga,Matchweek 6,Wed,Home,D,1,1,Celta Vigo,1.1,0.4,37.0,35945,Rodrigo,4-4-2,5-3-2,Ricardo de Burgos,Match Report,,Valencia,2019,14.0,5.0,18.7,0.0,0,0
+7,2018-09-29,13:00,La Liga,Matchweek 7,Sat,Away,W,1,0,Real Sociedad,0.9,1.3,46.0,23577,Daniel Parejo,4-4-2,4-4-2,Jesús Gil,Match Report,,Valencia,2019,9.0,2.0,20.4,1.0,0,0
+9,2018-10-07,20:45,La Liga,Matchweek 8,Sun,Home,D,1,1,Barcelona,1.5,0.4,25.0,46249,Daniel Parejo,4-4-2,4-3-3,José González,Match Report,,Valencia,2019,10.0,3.0,18.0,0.0,0,0
+10,2018-10-20,16:15,La Liga,Matchweek 9,Sat,Home,D,1,1,Leganés,1.3,1.0,59.0,35597,Daniel Parejo,4-4-2,4-1-4-1,Ignacio Iglesias,Match Report,,Valencia,2019,18.0,4.0,17.1,0.0,0,0
+12,2018-10-27,16:15,La Liga,Matchweek 10,Sat,Away,D,0,0,Athletic Club,0.5,0.7,48.0,39261,Daniel Parejo,4-4-2,4-1-4-1,Alberto Undiano,Match Report,,Valencia,2019,11.0,3.0,22.8,2.0,0,0
+14,2018-11-03,18:30,La Liga,Matchweek 11,Sat,Home,L,0,1,Girona,2.3,0.3,54.0,38745,Rodrigo,4-4-2,3-4-3,Alberola Rojas,Match Report,,Valencia,2019,27.0,9.0,19.3,2.0,0,0
+16,2018-11-10,16:15,La Liga,Matchweek 12,Sat,Away,W,1,0,Getafe,2.2,1.5,62.0,10011,Daniel Parejo,4-4-2,4-4-2,Ricardo de Burgos,Match Report,,Valencia,2019,6.0,2.0,17.7,0.0,1,1
+17,2018-11-24,16:15,La Liga,Matchweek 13,Sat,Home,W,3,0,Rayo Vallecano,1.9,0.8,50.0,37814,Daniel Parejo,4-4-2,4-1-4-1,Pablo González,Match Report,,Valencia,2019,13.0,10.0,16.8,1.0,0,0
+19,2018-12-01,20:45,La Liga,Matchweek 14,Sat,Away,L,0,2,Real Madrid,0.8,0.8,40.0,69653,Daniel Parejo,4-4-2,4-3-3,José González,Match Report,,Valencia,2019,7.0,2.0,16.3,0.0,0,0
+21,2018-12-08,16:15,La Liga,Matchweek 15,Sat,Home,D,1,1,Sevilla,1.2,1.7,54.0,40057,Daniel Parejo,4-4-2,3-5-2,Javier Estrada,Match Report,,Valencia,2019,16.0,6.0,19.1,1.0,0,0
+23,2018-12-15,20:45,La Liga,Matchweek 16,Sat,Away,D,1,1,Eibar,2.1,1.6,44.0,4491,Daniel Parejo,4-4-2,4-4-2,Adrián Cordero,Match Report,,Valencia,2019,11.0,4.0,13.7,0.0,0,0
+24,2018-12-23,12:00,La Liga,Matchweek 17,Sun,Home,W,2,1,Huesca,3.2,2.3,49.0,36547,Daniel Parejo,4-4-2,4-1-4-1,Jesús Gil,Match Report,,Valencia,2019,19.0,8.0,14.9,2.0,0,0
+25,2019-01-05,16:15,La Liga,Matchweek 18,Sat,Away,L,1,2,Alavés,1.1,1.9,55.0,18304,Daniel Parejo,5-3-2,4-4-2,David Medié,Match Report,,Valencia,2019,14.0,2.0,16.1,1.0,0,0
+27,2019-01-12,16:15,La Liga,Matchweek 19,Sat,Home,D,1,1,Valladolid,3.5,0.2,63.0,36912,Daniel Parejo,4-4-2,4-4-2,Ignacio Iglesias,Match Report,,Valencia,2019,16.0,4.0,15.6,0.0,0,1
+29,2019-01-19,20:45,La Liga,Matchweek 20,Sat,Away,W,2,1,Celta Vigo,1.2,0.8,44.0,15668,Daniel Parejo,4-4-2,4-2-3-1,José González,Match Report,,Valencia,2019,13.0,8.0,16.4,1.0,0,0
+31,2019-01-26,20:45,La Liga,Matchweek 21,Sat,Home,W,3,0,Villarreal,1.5,0.7,45.0,37685,Daniel Parejo,4-4-2,4-2-3-1,Carlos del Cerro,Match Report,,Valencia,2019,18.0,9.0,16.2,0.0,0,0
+33,2019-02-02,18:30,La Liga,Matchweek 22,Sat,Away,D,2,2,Barcelona,3.3,2.0,32.0,76789,Daniel Parejo,4-4-2,4-3-3,Alberto Undiano,Match Report,,Valencia,2019,13.0,6.0,16.8,1.0,1,1
+35,2019-02-10,16:15,La Liga,Matchweek 23,Sun,Home,D,0,0,Real Sociedad,1.5,0.5,42.0,38885,Daniel Parejo,4-4-2,4-2-3-1,Mario Melero,Match Report,,Valencia,2019,10.0,4.0,16.5,1.0,0,0
+37,2019-02-17,16:15,La Liga,Matchweek 24,Sun,Home,D,0,0,Espanyol,1.7,0.4,52.0,39564,Daniel Parejo,4-4-2,4-1-4-1,Ricardo de Burgos,Match Report,,Valencia,2019,21.0,1.0,15.9,0.0,0,0
+39,2019-02-24,12:00,La Liga,Matchweek 25,Sun,Away,D,1,1,Leganés,0.5,1.8,50.0,11425,José Luis Gayà,4-4-2,3-5-2,Javier Estrada,Match Report,,Valencia,2019,6.0,1.0,16.4,0.0,0,0
+41,2019-03-03,20:45,La Liga,Matchweek 26,Sun,Home,W,2,0,Athletic Club,1.3,0.4,51.0,39041,Daniel Parejo,4-4-2,4-2-3-1,David Medié,Match Report,,Valencia,2019,11.0,3.0,18.6,1.0,0,0
+43,2019-03-10,16:15,La Liga,Matchweek 27,Sun,Away,W,3,2,Girona,1.2,2.3,41.0,11502,Daniel Parejo,4-4-2,4-3-2-1,Carlos del Cerro,Match Report,,Valencia,2019,11.0,6.0,19.4,0.0,0,0
+45,2019-03-17,18:30,La Liga,Matchweek 28,Sun,Home,D,0,0,Getafe,0.6,0.5,62.0,41778,Daniel Parejo,4-4-2,4-4-2,José Sánchez,Match Report,,Valencia,2019,8.0,2.0,15.2,0.0,0,0
+46,2019-03-31,16:15,La Liga,Matchweek 29,Sun,Away,W,1,0,Sevilla,1.0,0.9,40.0,38450,Daniel Parejo,4-4-2,4-4-2,José González,Match Report,,Valencia,2019,3.0,1.0,28.5,1.0,1,1
+47,2019-04-03,21:30,La Liga,Matchweek 30,Wed,Home,W,2,1,Real Madrid,1.8,0.8,33.0,44274,Daniel Parejo,4-4-2,4-3-3,Santiago Jaime,Match Report,,Valencia,2019,11.0,4.0,13.7,0.0,0,0
+48,2019-04-06,18:30,La Liga,Matchweek 31,Sat,Away,L,0,2,Rayo Vallecano,2.3,1.5,48.0,11320,Daniel Parejo,4-4-2,4-1-4-1,Alberola Rojas,Match Report,,Valencia,2019,11.0,2.0,17.2,0.0,0,1
+50,2019-04-14,20:45,La Liga,Matchweek 32,Sun,Home,W,3,1,Levante,2.4,0.3,53.0,42120,Daniel Parejo,4-4-2,3-1-4-2,Alberto Undiano,Match Report,,Valencia,2019,23.0,6.0,14.9,0.0,0,0
+52,2019-04-21,20:45,La Liga,Matchweek 33,Sun,Away,W,2,1,Betis,0.2,2.1,34.0,42508,Daniel Parejo,4-4-2,4-1-4-1,José Sánchez,Match Report,,Valencia,2019,4.0,3.0,18.4,0.0,0,0
+53,2019-04-24,19:30,La Liga,Matchweek 34,Wed,Away,L,2,3,Atlético Madrid,2.1,1.6,44.0,43531,Daniel Parejo,4-4-2,4-4-2,Alejandro Hernández,Match Report,,Valencia,2019,11.0,3.0,18.0,1.0,1,1
+54,2019-04-28,12:00,La Liga,Matchweek 35,Sun,Home,L,0,1,Eibar,0.5,1.3,49.0,35393,Daniel Parejo,4-4-2,4-2-3-1,Javier Estrada,Match Report,,Valencia,2019,7.0,2.0,21.0,1.0,0,0
+56,2019-05-05,20:45,La Liga,Matchweek 36,Sun,Away,W,6,2,Huesca,2.4,3.1,48.0,6378,Daniel Parejo,4-4-2,4-3-3,Carlos del Cerro,Match Report,,Valencia,2019,10.0,7.0,13.3,0.0,0,0
+58,2019-05-12,18:30,La Liga,Matchweek 37,Sun,Home,W,3,1,Alavés,1.9,0.8,43.0,37744,Daniel Parejo,4-4-2,4-4-2,Guillermo Cuadra,Match Report,,Valencia,2019,10.0,4.0,13.2,1.0,0,0
+59,2019-05-18,16:15,La Liga,Matchweek 38,Sat,Away,W,2,0,Valladolid,1.5,0.8,51.0,23455,Daniel Parejo,4-4-2,4-2-3-1,Ricardo de Burgos,Match Report,,Valencia,2019,9.0,6.0,14.5,0.0,0,0
+0,2018-08-19,22:15,La Liga,Matchweek 1,Sun,Away,L,0,2,Real Madrid,0.2,1.0,23.0,48446,Jorge Molina,4-1-4-1,4-3-3,Javier Estrada,Match Report,,Getafe,2019,5.0,1.0,21.1,0.0,0,0
+1,2018-08-24,20:15,La Liga,Matchweek 2,Fri,Home,W,2,0,Eibar,1.4,0.6,38.0,7851,Bruno González,4-4-2,4-4-2,David Medié,Match Report,,Getafe,2019,7.0,4.0,17.5,0.0,0,0
+2,2018-08-31,20:00,La Liga,Matchweek 3,Fri,Home,D,0,0,Valladolid,1.2,0.9,54.0,9817,Bruno González,4-4-2,4-2-3-1,Adrián Cordero,Match Report,,Getafe,2019,12.0,3.0,17.5,0.0,0,0
+3,2018-09-16,20:45,La Liga,Matchweek 4,Sun,Away,W,2,0,Sevilla,1.9,1.2,30.0,36943,Jorge Molina,4-4-2,3-4-3,Ricardo de Burgos,Match Report,,Getafe,2019,10.0,5.0,16.9,0.0,0,0
+4,2018-09-22,18:30,La Liga,Matchweek 5,Sat,Home,L,0,2,Atlético Madrid,0.6,1.1,41.0,12756,Jorge Molina,4-4-2,4-4-2,José Sánchez,Match Report,,Getafe,2019,11.0,2.0,19.5,2.0,0,0
+5,2018-09-27,20:00,La Liga,Matchweek 6,Thu,Away,D,1,1,Alavés,1.1,1.7,51.0,18373,Bruno González,4-4-2,4-4-2,Eduardo Prieto,Match Report,,Getafe,2019,13.0,5.0,14.6,0.0,0,0
+6,2018-10-01,21:00,La Liga,Matchweek 7,Mon,Away,D,1,1,Celta Vigo,1.2,0.5,48.0,14330,Jorge Molina,4-4-2,4-4-2,Guillermo Cuadra,Match Report,,Getafe,2019,12.0,4.0,12.8,0.0,0,0
+7,2018-10-06,16:15,La Liga,Matchweek 8,Sat,Home,L,0,1,Levante,1.1,1.0,54.0,9557,Jorge Molina,4-4-2,3-5-2,José Luis Munuera,Match Report,,Getafe,2019,15.0,4.0,15.8,0.0,0,0
+8,2018-10-21,12:00,La Liga,Matchweek 9,Sun,Away,W,2,1,Rayo Vallecano,0.5,0.4,36.0,12040,Jorge Molina,4-4-2,4-1-4-1,Mario Melero,Match Report,,Getafe,2019,5.0,2.0,15.4,0.0,0,0
+9,2018-10-28,12:00,La Liga,Matchweek 10,Sun,Home,W,2,0,Betis,2.2,0.5,32.0,12086,Jorge Molina,4-4-2,3-5-2,Santiago Jaime,Match Report,,Getafe,2019,15.0,5.0,16.5,0.0,0,0
+11,2018-11-04,18:30,La Liga,Matchweek 11,Sun,Away,D,1,1,Huesca,0.5,1.3,47.0,6420,Jorge Molina,4-4-2,5-4-1,Juan Martínez,Match Report,,Getafe,2019,8.0,2.0,18.2,1.0,0,0
+12,2018-11-10,16:15,La Liga,Matchweek 12,Sat,Home,L,0,1,Valencia,1.5,2.2,38.0,10011,Jorge Molina,4-4-2,4-4-2,Ricardo de Burgos,Match Report,,Getafe,2019,17.0,3.0,16.6,0.0,0,0
+13,2018-11-25,12:00,La Liga,Matchweek 13,Sun,Away,D,1,1,Athletic Club,2.0,0.6,36.0,39821,Jorge Molina,4-4-2,4-2-3-1,Ignacio Iglesias,Match Report,,Getafe,2019,16.0,2.0,15.9,0.0,0,0
+14,2018-12-01,18:30,La Liga,Matchweek 14,Sat,Home,W,3,0,Espanyol,1.4,1.1,42.0,9287,Jorge Molina,4-4-2,4-1-4-1,Antonio Matéu Lahoz,Match Report,,Getafe,2019,14.0,5.0,15.4,0.0,0,0
+16,2018-12-07,21:00,La Liga,Matchweek 15,Fri,Away,D,1,1,Leganés,0.9,1.7,35.0,11327,Jorge Molina,4-4-2,3-4-1-2,Pablo González,Match Report,,Getafe,2019,6.0,2.0,20.0,0.0,0,0
+17,2018-12-15,13:00,La Liga,Matchweek 16,Sat,Home,W,1,0,Real Sociedad,0.4,0.8,29.0,9018,Jorge Molina,4-4-2,4-2-3-1,Santiago Jaime,Match Report,,Getafe,2019,9.0,2.0,22.8,2.0,0,0
+18,2018-12-21,19:30,La Liga,Matchweek 17,Fri,Away,D,1,1,Girona,0.6,1.4,34.0,8450,Jorge Molina,4-4-2,3-4-3,Alberola Rojas,Match Report,,Getafe,2019,5.0,2.0,15.3,0.0,0,0
+19,2019-01-06,20:45,La Liga,Matchweek 18,Sun,Home,L,1,2,Barcelona,1.2,1.5,25.0,14721,Djené,4-4-2,4-3-3,Guillermo Cuadra,Match Report,,Getafe,2019,10.0,2.0,18.2,0.0,0,0
+21,2019-01-12,20:45,La Liga,Matchweek 19,Sat,Away,W,2,1,Villarreal,0.9,2.3,43.0,13671,Jorge Molina,4-4-2,4-2-3-1,Javier Estrada,Match Report,,Getafe,2019,9.0,4.0,24.3,1.0,0,0
+23,2019-01-18,21:00,La Liga,Matchweek 20,Fri,Home,W,4,0,Alavés,2.0,0.4,45.0,8748,Jorge Molina,4-4-2,4-4-2,José Luis Munuera,Match Report,,Getafe,2019,15.0,7.0,17.7,1.0,1,1
+25,2019-01-26,16:15,La Liga,Matchweek 21,Sat,Away,L,0,2,Atlético Madrid,0.3,1.1,35.0,55709,Jorge Molina,4-4-2,4-4-2,Ignacio Iglesias,Match Report,,Getafe,2019,6.0,2.0,16.0,1.0,0,0
+27,2019-02-02,13:00,La Liga,Matchweek 22,Sat,Away,D,0,0,Levante,0.4,0.6,44.0,18437,Damián Suárez,4-4-2,3-4-1-2,Adrián Cordero,Match Report,,Getafe,2019,9.0,2.0,21.0,0.0,0,0
+28,2019-02-09,13:00,La Liga,Matchweek 23,Sat,Home,W,3,1,Celta Vigo,2.7,0.9,49.0,9918,Jorge Molina,4-4-2,3-4-3,Pablo González,Match Report,,Getafe,2019,11.0,5.0,16.6,0.0,1,1
+29,2019-02-15,21:00,La Liga,Matchweek 24,Fri,Away,D,2,2,Eibar,0.7,1.8,42.0,4449,Djené,4-4-2,4-4-2,David Medié,Match Report,,Getafe,2019,7.0,4.0,16.8,0.0,0,0
+30,2019-02-23,13:00,La Liga,Matchweek 25,Sat,Home,W,2,1,Rayo Vallecano,1.3,0.8,43.0,11207,Jorge Molina,4-4-2,3-4-3,Alberola Rojas,Match Report,,Getafe,2019,11.0,2.0,14.0,0.0,0,0
+31,2019-03-03,16:15,La Liga,Matchweek 26,Sun,Away,W,2,1,Betis,1.6,0.6,37.0,46657,Jorge Molina,4-4-2,3-4-3,Juan Martínez,Match Report,,Getafe,2019,11.0,5.0,13.1,0.0,0,0
+32,2019-03-09,20:45,La Liga,Matchweek 27,Sat,Home,W,2,1,Huesca,1.4,0.9,57.0,10882,Djené,4-4-2,3-1-4-2,Eduardo Prieto,Match Report,,Getafe,2019,12.0,4.0,18.3,1.0,1,1
+33,2019-03-17,18:30,La Liga,Matchweek 28,Sun,Away,D,0,0,Valencia,0.5,0.6,38.0,41778,Jorge Molina,4-4-2,4-4-2,José Sánchez,Match Report,,Getafe,2019,9.0,1.0,19.3,0.0,0,0
+34,2019-03-30,13:00,La Liga,Matchweek 29,Sat,Home,L,0,2,Leganés,0.6,1.3,56.0,12705,Jorge Molina,4-4-2,5-3-2,Pablo González,Match Report,,Getafe,2019,9.0,2.0,19.0,0.0,0,0
+35,2019-04-02,20:30,La Liga,Matchweek 30,Tue,Away,D,1,1,Espanyol,1.5,1.7,50.0,16322,Djené,4-4-2,4-3-3,Ricardo de Burgos,Match Report,,Getafe,2019,13.0,3.0,15.4,0.0,0,0
+36,2019-04-07,14:00,La Liga,Matchweek 31,Sun,Home,W,1,0,Athletic Club,1.3,0.7,49.0,11617,Jorge Molina,4-4-2,4-2-3-1,José González,Match Report,,Getafe,2019,6.0,2.0,16.6,1.0,0,0
+37,2019-04-14,12:00,La Liga,Matchweek 32,Sun,Away,D,2,2,Valladolid,1.6,1.5,41.0,16909,Djené,4-4-2,4-4-2,José Luis Munuera,Match Report,,Getafe,2019,7.0,2.0,21.6,0.0,1,1
+38,2019-04-21,14:00,La Liga,Matchweek 33,Sun,Home,W,3,0,Sevilla,2.9,0.7,37.0,11495,Jorge Molina,4-4-2,4-4-2,Antonio Matéu Lahoz,Match Report,,Getafe,2019,8.0,1.0,16.7,0.0,2,2
+39,2019-04-25,21:30,La Liga,Matchweek 34,Thu,Home,D,0,0,Real Madrid,0.6,1.8,34.0,13135,Jorge Molina,4-4-2,4-3-3,Ricardo de Burgos,Match Report,,Getafe,2019,9.0,5.0,17.9,1.0,0,0
+40,2019-04-28,16:15,La Liga,Matchweek 35,Sun,Away,L,1,2,Real Sociedad,0.6,2.4,50.0,19386,Djené,4-4-2,4-2-3-1,Eduardo Prieto,Match Report,,Getafe,2019,12.0,3.0,18.9,0.0,0,0
+41,2019-05-05,12:00,La Liga,Matchweek 36,Sun,Home,W,2,0,Girona,2.0,0.7,42.0,10615,Jorge Molina,4-1-3-2,4-3-3,Alejandro Hernández,Match Report,,Getafe,2019,13.0,8.0,15.3,0.0,0,0
+42,2019-05-12,18:30,La Liga,Matchweek 37,Sun,Away,L,0,2,Barcelona,1.2,2.4,22.0,57088,Jorge Molina,4-4-2,4-3-3,José González,Match Report,,Getafe,2019,11.0,0.0,18.3,0.0,0,0
+43,2019-05-18,16:15,La Liga,Matchweek 38,Sat,Home,D,2,2,Villarreal,2.3,1.0,41.0,13579,Jorge Molina,4-4-2,4-5-1,Javier Estrada,Match Report,,Getafe,2019,17.0,5.0,13.1,2.0,0,0
+5,2018-08-19,20:15,La Liga,Matchweek 1,Sun,Away,W,4,1,Rayo Vallecano,2.8,2.1,51.0,11626,Sergio Escudero,3-4-3,4-1-4-1,Antonio Matéu Lahoz,Match Report,,Sevilla,2019,17.0,7.0,15.2,1.0,0,0
+7,2018-08-26,22:15,La Liga,Matchweek 2,Sun,Home,D,0,0,Villarreal,1.9,1.0,53.0,35831,Jesús Navas,3-4-3,4-1-2-1-2,Alberto Undiano,Match Report,,Sevilla,2019,19.0,2.0,17.8,1.0,0,0
+9,2018-09-02,20:45,La Liga,Matchweek 3,Sun,Away,L,0,1,Betis,0.6,0.9,38.0,53451,Jesús Navas,3-4-3,3-4-3,Jesús Gil,Match Report,,Sevilla,2019,8.0,2.0,14.6,0.0,0,0
+10,2018-09-16,20:45,La Liga,Matchweek 4,Sun,Home,L,0,2,Getafe,1.2,1.9,70.0,36943,Jesús Navas,3-4-3,4-4-2,Ricardo de Burgos,Match Report,,Sevilla,2019,15.0,1.0,16.9,1.0,0,0
+12,2018-09-23,12:00,La Liga,Matchweek 5,Sun,Away,W,6,2,Levante,3.2,2.3,51.0,21520,Jesús Navas,3-5-2,4-4-2,Guillermo Cuadra,Match Report,,Sevilla,2019,20.0,9.0,13.5,0.0,0,0
+13,2018-09-26,22:00,La Liga,Matchweek 6,Wed,Home,W,3,0,Real Madrid,2.4,1.5,40.0,40972,Jesús Navas,3-5-2,4-3-3,Alejandro Hernández,Match Report,,Sevilla,2019,16.0,7.0,14.7,0.0,0,0
+14,2018-09-29,18:30,La Liga,Matchweek 7,Sat,Away,W,3,1,Eibar,2.0,0.8,37.0,5443,Jesús Navas,3-5-2,4-4-2,Javier Estrada,Match Report,,Sevilla,2019,6.0,4.0,22.8,0.0,1,1
+16,2018-10-07,18:30,La Liga,Matchweek 8,Sun,Home,W,2,1,Celta Vigo,1.8,0.7,52.0,38068,Jesús Navas,3-5-1-1,3-4-3,Pablo González,Match Report,,Sevilla,2019,12.0,3.0,19.2,0.0,0,0
+17,2018-10-20,20:45,La Liga,Matchweek 9,Sat,Away,L,2,4,Barcelona,2.2,2.5,47.0,88712,Jesús Navas,3-5-2,4-3-3,Juan Martínez,Match Report,,Sevilla,2019,19.0,6.0,15.0,0.0,0,0
+19,2018-10-28,20:45,La Liga,Matchweek 10,Sun,Home,W,2,1,Huesca,1.7,0.8,62.0,33022,Jesús Navas,3-4-1-2,3-4-3,David Medié,Match Report,,Sevilla,2019,14.0,4.0,17.1,1.0,0,0
+21,2018-11-04,18:30,La Liga,Matchweek 11,Sun,Away,D,0,0,Real Sociedad,0.4,0.6,48.0,24882,Jesús Navas,3-4-3,4-2-3-1,Eduardo Prieto,Match Report,,Sevilla,2019,8.0,1.0,18.3,0.0,0,0
+23,2018-11-11,18:30,La Liga,Matchweek 12,Sun,Home,W,2,1,Espanyol,4.1,0.8,52.0,38769,Jesús Navas,3-5-2,4-3-3,Santiago Jaime,Match Report,,Sevilla,2019,23.0,10.0,12.8,0.0,0,0
+24,2018-11-25,16:15,La Liga,Matchweek 13,Sun,Home,W,1,0,Valladolid,1.3,0.7,49.0,34064,Daniel Carriço,3-4-1-2,4-3-3,Carlos del Cerro,Match Report,,Sevilla,2019,17.0,9.0,18.3,0.0,0,0
+26,2018-12-02,20:45,La Liga,Matchweek 14,Sun,Away,D,1,1,Alavés,1.7,1.0,54.0,17848,Daniel Carriço,3-1-4-2,4-1-4-1,José Sánchez,Match Report,,Sevilla,2019,14.0,3.0,16.1,0.0,0,0
+28,2018-12-08,16:15,La Liga,Matchweek 15,Sat,Away,D,1,1,Valencia,1.7,1.2,46.0,40057,Sergio Escudero,3-5-2,4-4-2,Javier Estrada,Match Report,,Sevilla,2019,11.0,3.0,21.3,0.0,0,0
+30,2018-12-16,12:00,La Liga,Matchweek 16,Sun,Home,W,2,0,Girona,2.1,1.0,50.0,33542,Jesús Navas,3-1-4-2,3-1-4-2,Guillermo Cuadra,Match Report,,Sevilla,2019,16.0,4.0,21.3,0.0,1,1
+31,2018-12-23,16:15,La Liga,Matchweek 17,Sun,Away,D,1,1,Leganés,0.7,1.3,53.0,11321,Jesús Navas,3-5-2,5-3-2,Alejandro Hernández,Match Report,,Sevilla,2019,8.0,2.0,22.0,1.0,0,0
+32,2019-01-06,16:15,La Liga,Matchweek 18,Sun,Home,D,1,1,Atlético Madrid,1.4,0.7,56.0,38603,Jesús Navas,3-5-2,4-4-2,Antonio Matéu Lahoz,Match Report,,Sevilla,2019,15.0,5.0,15.8,0.0,0,0
+34,2019-01-13,16:15,La Liga,Matchweek 19,Sun,Away,L,0,2,Athletic Club,0.7,0.9,56.0,41342,Jesús Navas,3-1-4-2,4-2-3-1,Pablo González,Match Report,,Sevilla,2019,10.0,4.0,18.9,1.0,0,0
+36,2019-01-19,16:15,La Liga,Matchweek 20,Sat,Away,L,0,2,Real Madrid,0.5,1.5,31.0,68232,Jesús Navas,5-3-2,4-3-3,Antonio Matéu Lahoz,Match Report,,Sevilla,2019,4.0,1.0,17.1,1.0,0,0
+38,2019-01-26,13:00,La Liga,Matchweek 21,Sat,Home,W,5,0,Levante,4.6,0.9,54.0,34220,Daniel Carriço,3-5-2,3-5-2,Alberola Rojas,Match Report,,Sevilla,2019,21.0,7.0,17.2,0.0,1,2
+40,2019-02-02,20:45,La Liga,Matchweek 22,Sat,Away,L,0,1,Celta Vigo,0.9,1.0,56.0,17503,Éver Banega,3-1-4-2,4-1-4-1,Ricardo de Burgos,Match Report,,Sevilla,2019,13.0,2.0,18.5,0.0,0,0
+41,2019-02-10,18:30,La Liga,Matchweek 23,Sun,Home,D,2,2,Eibar,1.7,1.3,58.0,36343,Daniel Carriço,3-1-4-2,4-4-2,Ignacio Iglesias,Match Report,,Sevilla,2019,13.0,4.0,13.6,0.0,0,0
+43,2019-02-17,18:30,La Liga,Matchweek 24,Sun,Away,L,0,3,Villarreal,2.6,1.6,57.0,17402,Jesús Navas,3-1-4-2,3-5-2,José González,Match Report,,Sevilla,2019,21.0,5.0,15.4,0.0,0,0
+45,2019-02-23,16:15,La Liga,Matchweek 25,Sat,Home,L,2,4,Barcelona,1.6,1.8,40.0,40661,Jesús Navas,4-4-1-1,4-3-3,Antonio Matéu Lahoz,Match Report,,Sevilla,2019,13.0,4.0,13.6,0.0,0,0
+46,2019-03-02,18:30,La Liga,Matchweek 26,Sat,Away,L,1,2,Huesca,2.3,1.0,71.0,6818,Jesús Navas,3-4-3,3-4-3,Ricardo de Burgos,Match Report,,Sevilla,2019,11.0,1.0,16.1,1.0,1,1
+48,2019-03-10,18:30,La Liga,Matchweek 27,Sun,Home,W,5,2,Real Sociedad,2.4,1.2,49.0,35813,Jesús Navas,3-1-4-2,4-3-1-2,Ignacio Iglesias,Match Report,,Sevilla,2019,21.0,9.0,15.9,0.0,0,0
+50,2019-03-17,16:15,La Liga,Matchweek 28,Sun,Away,W,1,0,Espanyol,1.5,0.7,50.0,20219,Jesús Navas,4-4-2,4-1-4-1,Guillermo Cuadra,Match Report,,Sevilla,2019,11.0,2.0,21.8,0.0,1,1
+51,2019-03-31,16:15,La Liga,Matchweek 29,Sun,Home,L,0,1,Valencia,0.9,1.0,60.0,38450,Jesús Navas,4-4-2,4-4-2,José González,Match Report,,Sevilla,2019,17.0,5.0,20.4,0.0,0,0
+52,2019-04-04,19:30,La Liga,Matchweek 30,Thu,Home,W,2,0,Alavés,1.9,0.6,64.0,33212,Jesús Navas,4-4-2,4-4-2,Juan Martínez,Match Report,,Sevilla,2019,18.0,5.0,17.9,0.0,0,0
+53,2019-04-07,16:15,La Liga,Matchweek 31,Sun,Away,W,2,0,Valladolid,2.1,1.4,61.0,17989,Daniel Carriço,4-4-1-1,4-2-3-1,José Sánchez,Match Report,,Sevilla,2019,15.0,4.0,15.8,0.0,0,0
+54,2019-04-13,20:45,La Liga,Matchweek 32,Sat,Home,W,3,2,Betis,2.0,1.0,39.0,42855,Jesús Navas,4-4-2,3-1-4-2,Alejandro Hernández,Match Report,,Sevilla,2019,11.0,5.0,18.9,0.0,0,0
+55,2019-04-21,14:00,La Liga,Matchweek 33,Sun,Away,L,0,3,Getafe,0.7,2.9,63.0,11495,Jesús Navas,4-4-2,4-4-2,Antonio Matéu Lahoz,Match Report,,Sevilla,2019,12.0,2.0,22.7,0.0,0,0
+56,2019-04-25,19:30,La Liga,Matchweek 34,Thu,Home,W,5,0,Rayo Vallecano,3.8,0.9,50.0,31636,Jesús Navas,4-1-4-1,3-4-3,Guillermo Cuadra,Match Report,,Sevilla,2019,21.0,11.0,16.7,1.0,0,0
+57,2019-04-28,14:00,La Liga,Matchweek 35,Sun,Away,L,0,1,Girona,0.6,1.0,57.0,11281,Jesús Navas,4-2-3-1,4-3-3,José González,Match Report,,Sevilla,2019,7.0,3.0,19.7,0.0,0,0
+58,2019-05-03,21:00,La Liga,Matchweek 36,Fri,Home,L,0,3,Leganés,0.3,0.9,64.0,32797,Jesús Navas,4-4-2,3-1-4-2,Alberto Undiano,Match Report,,Sevilla,2019,7.0,3.0,23.3,1.0,0,0
+59,2019-05-12,18:30,La Liga,Matchweek 37,Sun,Away,D,1,1,Atlético Madrid,0.8,1.3,51.0,60234,Jesús Navas,4-4-1-1,4-4-2,Ricardo de Burgos,Match Report,,Sevilla,2019,11.0,5.0,20.7,1.0,0,0
+60,2019-05-18,16:15,La Liga,Matchweek 38,Sat,Home,W,2,0,Athletic Club,1.5,0.7,47.0,28060,Jesús Navas,4-2-3-1,4-2-3-1,José Sánchez,Match Report,,Sevilla,2019,9.0,3.0,12.9,0.0,0,0
+0,2018-08-18,18:15,La Liga,Matchweek 1,Sat,Away,D,1,1,Celta Vigo,0.6,0.6,52.0,16215,Javi López,4-3-3,4-2-3-1,Santiago Jaime,Match Report,,Espanyol,2019,14.0,5.0,21.7,0.0,0,0
+1,2018-08-26,18:15,La Liga,Matchweek 2,Sun,Home,W,2,0,Valencia,1.3,1.9,49.0,18714,Javi López,4-1-4-1,4-4-2,Carlos del Cerro,Match Report,,Espanyol,2019,19.0,9.0,18.5,1.0,0,0
+2,2018-09-02,16:15,La Liga,Matchweek 3,Sun,Away,L,1,2,Alavés,1.2,1.4,62.0,18052,Javi López,4-3-3,4-4-2,Ignacio Iglesias,Match Report,,Espanyol,2019,10.0,6.0,22.4,1.0,1,1
+3,2018-09-16,16:15,La Liga,Matchweek 4,Sun,Home,W,1,0,Levante,1.6,0.8,56.0,18627,Sergio García,4-3-3,4-4-2,Alberto Undiano,Match Report,,Espanyol,2019,23.0,9.0,20.8,2.0,0,0
+4,2018-09-22,20:45,La Liga,Matchweek 5,Sat,Away,L,0,1,Real Madrid,0.4,1.0,36.0,67658,Javi López,4-1-4-1,4-3-3,Antonio Matéu Lahoz,Match Report,,Espanyol,2019,10.0,3.0,23.0,1.0,0,0
+5,2018-09-25,20:00,La Liga,Matchweek 6,Tue,Home,W,1,0,Eibar,0.9,0.3,46.0,13547,Sergio García,4-3-3,4-2-3-1,José Luis Munuera,Match Report,,Espanyol,2019,9.0,5.0,24.9,0.0,0,0
+6,2018-09-28,21:00,La Liga,Matchweek 7,Fri,Away,D,2,2,Rayo Vallecano,1.5,1.3,48.0,12100,Javi López,4-1-4-1,4-1-4-1,Alberola Rojas,Match Report,,Espanyol,2019,12.0,5.0,17.4,1.0,0,0
+7,2018-10-07,18:30,La Liga,Matchweek 8,Sun,Home,W,3,1,Villarreal,2.4,1.5,55.0,20032,Javi López,4-3-3,4-4-2,Ricardo de Burgos,Match Report,,Espanyol,2019,28.0,12.0,19.4,0.0,0,0
+8,2018-10-21,18:30,La Liga,Matchweek 9,Sun,Away,W,2,0,Huesca,1.7,0.4,47.0,6943,Javi López,4-3-3,4-4-2,Eduardo Prieto,Match Report,,Espanyol,2019,6.0,2.0,13.0,1.0,0,0
+9,2018-10-26,21:00,La Liga,Matchweek 10,Fri,Away,D,1,1,Valladolid,0.5,1.1,45.0,18231,Javi López,4-3-3,4-4-2,Adrián Cordero,Match Report,,Espanyol,2019,10.0,3.0,21.6,1.0,0,0
+11,2018-11-05,21:00,La Liga,Matchweek 11,Mon,Home,W,1,0,Athletic Club,1.5,0.5,42.0,14328,Javi López,4-3-3,4-2-3-1,Pablo González,Match Report,,Espanyol,2019,8.0,3.0,14.5,0.0,0,0
+12,2018-11-11,18:30,La Liga,Matchweek 12,Sun,Away,L,1,2,Sevilla,0.8,4.1,48.0,38769,David López,4-3-3,3-5-2,Santiago Jaime,Match Report,,Espanyol,2019,14.0,7.0,20.6,1.0,0,0
+13,2018-11-25,18:30,La Liga,Matchweek 13,Sun,Home,L,1,3,Girona,2.4,2.2,61.0,22716,David López,4-3-3,3-4-3,Alejandro Hernández,Match Report,,Espanyol,2019,18.0,10.0,15.8,0.0,0,0
+14,2018-12-01,18:30,La Liga,Matchweek 14,Sat,Away,L,0,3,Getafe,1.1,1.4,58.0,9287,Javi López,4-1-4-1,4-4-2,Antonio Matéu Lahoz,Match Report,,Espanyol,2019,8.0,2.0,20.1,0.0,0,0
+16,2018-12-08,20:45,La Liga,Matchweek 15,Sat,Home,L,0,4,Barcelona,1.1,2.9,45.0,24037,Javi López,4-4-1-1,4-3-3,Carlos del Cerro,Match Report,,Espanyol,2019,15.0,3.0,15.7,0.0,0,0
+17,2018-12-16,16:15,La Liga,Matchweek 16,Sun,Home,L,1,3,Betis,0.6,1.7,34.0,20275,Víctor Sánchez,4-3-3,3-1-4-2,José Sánchez,Match Report,,Espanyol,2019,11.0,3.0,21.0,0.0,0,0
+18,2018-12-22,16:15,La Liga,Matchweek 17,Sat,Away,L,0,1,Atlético Madrid,0.8,1.0,62.0,58069,David López,4-1-4-1,4-4-2,Mario Melero,Match Report,,Espanyol,2019,18.0,4.0,20.5,0.0,0,0
+19,2019-01-04,21:00,La Liga,Matchweek 18,Fri,Home,W,1,0,Leganés,1.3,0.4,52.0,15085,David López,4-2-3-1,5-3-2,José González,Match Report,,Espanyol,2019,12.0,1.0,17.2,0.0,0,0
+21,2019-01-14,21:00,La Liga,Matchweek 19,Mon,Away,L,2,3,Real Sociedad,2.1,2.6,59.0,17301,David López,4-1-4-1,4-2-3-1,Carlos del Cerro,Match Report,,Espanyol,2019,21.0,2.0,16.7,1.0,0,0
+23,2019-01-21,21:00,La Liga,Matchweek 20,Mon,Away,L,0,3,Eibar,0.9,1.6,44.0,3592,Javi López,4-3-3,4-4-2,Juan Martínez,Match Report,,Espanyol,2019,6.0,0.0,19.0,0.0,0,0
+25,2019-01-27,20:45,La Liga,Matchweek 21,Sun,Home,L,2,4,Real Madrid,1.1,2.1,37.0,21215,Javi López,4-3-3,4-3-3,Jesús Gil,Match Report,,Espanyol,2019,13.0,5.0,19.0,2.0,0,0
+27,2019-02-03,12:00,La Liga,Matchweek 22,Sun,Away,D,2,2,Villarreal,1.6,2.8,58.0,15476,Víctor Sánchez,4-3-3,3-4-3,Guillermo Cuadra,Match Report,,Espanyol,2019,17.0,2.0,19.5,3.0,0,0
+28,2019-02-09,18:30,La Liga,Matchweek 23,Sat,Home,W,2,1,Rayo Vallecano,2.0,0.6,61.0,22104,David López,4-3-3,3-4-3,Eduardo Prieto,Match Report,,Espanyol,2019,14.0,4.0,22.9,2.0,1,1
+29,2019-02-17,16:15,La Liga,Matchweek 24,Sun,Away,D,0,0,Valencia,0.4,1.7,48.0,39564,Javi López,4-1-4-1,4-4-2,Ricardo de Burgos,Match Report,,Espanyol,2019,7.0,1.0,24.1,0.0,0,0
+30,2019-02-22,21:00,La Liga,Matchweek 25,Fri,Home,D,1,1,Huesca,0.8,0.8,67.0,20078,David López,4-1-4-1,3-5-2,Alejandro Hernández,Match Report,,Espanyol,2019,13.0,2.0,17.4,2.0,0,0
+31,2019-03-02,13:00,La Liga,Matchweek 26,Sat,Home,W,3,1,Valladolid,2.6,1.5,54.0,20467,David López,4-3-3,3-4-1-2,Adrián Cordero,Match Report,,Espanyol,2019,15.0,6.0,16.2,1.0,0,0
+32,2019-03-08,21:00,La Liga,Matchweek 27,Fri,Away,D,1,1,Athletic Club,0.8,0.8,35.0,38453,Javi López,4-1-4-1,4-2-3-1,Pablo González,Match Report,,Espanyol,2019,5.0,2.0,18.2,0.0,0,0
+33,2019-03-17,16:15,La Liga,Matchweek 28,Sun,Home,L,0,1,Sevilla,0.7,1.5,50.0,20219,Esteban Granero,4-1-4-1,4-4-2,Guillermo Cuadra,Match Report,,Espanyol,2019,13.0,3.0,17.8,1.0,0,0
+34,2019-03-30,16:15,La Liga,Matchweek 29,Sat,Away,L,0,2,Barcelona,0.2,1.3,31.0,92795,Víctor Sánchez,5-3-2,4-3-3,Carlos del Cerro,Match Report,,Espanyol,2019,4.0,2.0,19.9,1.0,0,0
+35,2019-04-02,20:30,La Liga,Matchweek 30,Tue,Home,D,1,1,Getafe,1.7,1.5,50.0,16322,Dídac Vilà,4-3-3,4-4-2,Ricardo de Burgos,Match Report,,Espanyol,2019,9.0,3.0,13.9,0.0,0,0
+36,2019-04-06,13:00,La Liga,Matchweek 31,Sat,Away,W,2,1,Girona,0.4,1.5,44.0,11463,Javi López,4-4-2,4-2-3-1,Eduardo Prieto,Match Report,,Espanyol,2019,10.0,2.0,21.5,0.0,0,0
+37,2019-04-13,13:00,La Liga,Matchweek 32,Sat,Home,W,2,1,Alavés,0.5,1.4,56.0,18143,Víctor Sánchez,4-4-2,4-4-2,Ignacio Iglesias,Match Report,,Espanyol,2019,6.0,2.0,20.8,0.0,0,0
+38,2019-04-21,12:00,La Liga,Matchweek 33,Sun,Away,D,2,2,Levante,2.1,1.8,49.0,16876,Javi López,4-4-2,3-5-2,Jesús Gil,Match Report,,Espanyol,2019,15.0,7.0,14.6,0.0,0,0
+39,2019-04-24,20:30,La Liga,Matchweek 34,Wed,Home,D,1,1,Celta Vigo,2.2,2.7,48.0,15680,Javi López,4-4-2,4-4-2,Alberto Undiano,Match Report,,Espanyol,2019,9.0,2.0,14.0,0.0,0,0
+40,2019-04-29,21:00,La Liga,Matchweek 35,Mon,Away,D,1,1,Betis,1.1,1.4,46.0,30561,Javi López,5-3-2,3-4-3,Carlos del Cerro,Match Report,,Espanyol,2019,10.0,3.0,17.6,2.0,0,0
+41,2019-05-04,16:15,La Liga,Matchweek 36,Sat,Home,W,3,0,Atlético Madrid,1.6,0.7,50.0,20207,Esteban Granero,4-3-3,4-4-2,José Luis Munuera,Match Report,,Espanyol,2019,10.0,4.0,22.9,1.0,1,1
+42,2019-05-12,18:30,La Liga,Matchweek 37,Sun,Away,W,2,0,Leganés,3.3,0.7,54.0,10597,Víctor Sánchez,4-3-1-2,3-1-4-2,Mario Melero,Match Report,,Espanyol,2019,18.0,6.0,22.5,0.0,1,1
+43,2019-05-18,16:15,La Liga,Matchweek 38,Sat,Home,W,2,0,Real Sociedad,1.4,0.4,38.0,26568,Esteban Granero,4-3-3,4-2-3-1,Santiago Jaime,Match Report,,Espanyol,2019,10.0,4.0,17.4,0.0,0,0
+0,2018-08-20,22:00,La Liga,Matchweek 1,Mon,Home,W,2,1,Leganés,2.2,1.0,65.0,38327,Markel Susaeta,4-3-3,4-4-1-1,Adrián Cordero,Match Report,,Athletic-Club,2019,17.0,5.0,14.2,1.0,0,0
+1,2018-08-27,22:00,La Liga,Matchweek 2,Mon,Home,D,2,2,Huesca,0.6,0.3,59.0,36818,Markel Susaeta,4-1-4-1,4-4-2,Alberola Rojas,Match Report,,Athletic-Club,2019,14.0,4.0,20.9,0.0,0,0
+2,2018-09-15,20:45,La Liga,Matchweek 4,Sat,Home,D,1,1,Real Madrid,1.4,1.8,39.0,46413,Markel Susaeta,4-2-3-1,4-3-3,José González,Match Report,,Athletic-Club,2019,12.0,4.0,20.7,0.0,0,0
+3,2018-09-23,20:00,La Liga,Matchweek 5,Sun,Away,D,2,2,Betis,0.6,1.1,30.0,51093,Markel Susaeta,4-2-3-1,3-4-3,Javier Estrada,Match Report,,Athletic-Club,2019,7.0,4.0,23.1,1.0,0,0
+4,2018-09-26,20:00,La Liga,Matchweek 6,Wed,Home,L,0,3,Villarreal,0.8,2.5,66.0,39672,Ander Iturraspe,4-2-3-1,4-4-2,Carlos del Cerro,Match Report,,Athletic-Club,2019,12.0,2.0,14.2,0.0,0,0
+5,2018-09-29,16:15,La Liga,Matchweek 7,Sat,Away,D,1,1,Barcelona,0.9,3.2,30.0,78015,Markel Susaeta,4-2-3-1,4-3-3,Santiago Jaime,Match Report,,Athletic-Club,2019,8.0,2.0,23.2,0.0,0,0
+6,2018-10-05,21:00,La Liga,Matchweek 8,Fri,Home,L,1,3,Real Sociedad,1.4,2.2,69.0,46884,Markel Susaeta,4-3-3,4-2-3-1,Alejandro Hernández,Match Report,,Athletic-Club,2019,13.0,5.0,15.6,1.0,0,0
+7,2018-10-21,16:15,La Liga,Matchweek 9,Sun,Away,D,1,1,Eibar,0.7,1.9,39.0,6475,Iker Muniain,4-2-3-1,4-4-2,Jesús Gil,Match Report,,Athletic-Club,2019,6.0,3.0,14.3,0.0,0,0
+8,2018-10-24,19:00,La Liga,Matchweek 3,Wed,Away,D,1,1,Rayo Vallecano,1.3,1.3,65.0,11850,Markel Susaeta,4-3-3,4-1-4-1,Guillermo Cuadra,Match Report,,Athletic-Club,2019,11.0,4.0,14.8,0.0,0,0
+9,2018-10-27,16:15,La Liga,Matchweek 10,Sat,Home,D,0,0,Valencia,0.7,0.5,52.0,39261,Markel Susaeta,4-1-4-1,4-4-2,Alberto Undiano,Match Report,,Athletic-Club,2019,13.0,2.0,16.9,0.0,0,0
+10,2018-11-05,21:00,La Liga,Matchweek 11,Mon,Away,L,0,1,Espanyol,0.5,1.5,58.0,14328,Óscar de Marcos,4-2-3-1,4-3-3,Pablo González,Match Report,,Athletic-Club,2019,10.0,2.0,20.8,0.0,0,0
+11,2018-11-10,18:30,La Liga,Matchweek 12,Sat,Away,L,2,3,Atlético Madrid,1.9,1.1,49.0,59321,Markel Susaeta,4-3-3,4-4-2,José Sánchez,Match Report,,Athletic-Club,2019,6.0,5.0,13.4,0.0,0,0
+12,2018-11-25,12:00,La Liga,Matchweek 13,Sun,Home,D,1,1,Getafe,0.6,2.0,64.0,39821,Markel Susaeta,4-2-3-1,4-4-2,Ignacio Iglesias,Match Report,,Athletic-Club,2019,8.0,4.0,16.7,0.0,0,0
+14,2018-12-03,21:00,La Liga,Matchweek 14,Mon,Away,L,0,3,Levante,1.1,1.9,53.0,19928,Iker Muniain,3-4-1-2,3-5-2,Santiago Jaime,Match Report,,Athletic-Club,2019,11.0,3.0,18.3,0.0,0,0
+16,2018-12-10,21:00,La Liga,Matchweek 15,Mon,Home,W,1,0,Girona,2.1,0.2,52.0,34060,Óscar de Marcos,4-2-3-1,3-4-3,Eduardo Prieto,Match Report,,Athletic-Club,2019,24.0,9.0,16.4,0.0,1,1
+17,2018-12-17,21:00,La Liga,Matchweek 16,Mon,Away,D,0,0,Alavés,0.3,0.5,54.0,19349,Markel Susaeta,4-2-3-1,4-4-2,Antonio Matéu Lahoz,Match Report,,Athletic-Club,2019,6.0,3.0,19.5,0.0,0,0
+18,2018-12-22,20:45,La Liga,Matchweek 17,Sat,Home,D,1,1,Valladolid,1.1,0.6,43.0,42633,Iker Muniain,4-2-3-1,4-4-2,José Sánchez,Match Report,,Athletic-Club,2019,7.0,2.0,19.5,0.0,1,1
+19,2019-01-07,21:00,La Liga,Matchweek 18,Mon,Away,W,2,1,Celta Vigo,1.8,1.5,35.0,13266,Iker Muniain,4-2-3-1,4-2-3-1,Juan Martínez,Match Report,,Athletic-Club,2019,8.0,4.0,15.1,0.0,0,0
+21,2019-01-13,16:15,La Liga,Matchweek 19,Sun,Home,W,2,0,Sevilla,0.9,0.7,44.0,41342,Iker Muniain,4-2-3-1,3-1-4-2,Pablo González,Match Report,,Athletic-Club,2019,10.0,3.0,19.2,1.0,0,0
+23,2019-01-20,16:15,La Liga,Matchweek 20,Sun,Away,D,1,1,Villarreal,0.5,1.1,50.0,17054,Iker Muniain,4-2-3-1,4-2-3-1,Alberto Undiano,Match Report,,Athletic-Club,2019,9.0,2.0,17.9,0.0,0,0
+24,2019-01-27,18:30,La Liga,Matchweek 21,Sun,Home,W,1,0,Betis,1.1,0.4,39.0,40282,Iker Muniain,4-2-3-1,3-1-4-2,Javier Estrada,Match Report,,Athletic-Club,2019,11.0,2.0,19.9,0.0,0,0
+25,2019-02-02,16:15,La Liga,Matchweek 22,Sat,Away,L,1,2,Real Sociedad,1.4,1.5,53.0,27073,Iker Muniain,4-2-3-1,4-3-3,Antonio Matéu Lahoz,Match Report,,Athletic-Club,2019,7.0,4.0,24.2,0.0,0,1
+26,2019-02-10,20:45,La Liga,Matchweek 23,Sun,Home,D,0,0,Barcelona,1.3,0.7,33.0,47557,Markel Susaeta,4-2-3-1,4-3-3,Carlos del Cerro,Match Report,,Athletic-Club,2019,13.0,5.0,14.7,0.0,0,0
+27,2019-02-18,21:00,La Liga,Matchweek 24,Mon,Away,W,1,0,Huesca,1.4,1.2,50.0,6729,Markel Susaeta,4-2-3-1,3-5-2,José Sánchez,Match Report,,Athletic-Club,2019,8.0,3.0,21.6,0.0,1,1
+28,2019-02-23,20:45,La Liga,Matchweek 25,Sat,Home,W,1,0,Eibar,1.3,0.6,46.0,43363,Iker Muniain,4-2-3-1,4-4-2,Mario Melero,Match Report,,Athletic-Club,2019,9.0,4.0,12.5,0.0,0,0
+29,2019-03-03,20:45,La Liga,Matchweek 26,Sun,Away,L,0,2,Valencia,0.4,1.3,49.0,39041,Iker Muniain,4-2-3-1,4-4-2,David Medié,Match Report,,Athletic-Club,2019,4.0,1.0,18.6,0.0,0,0
+30,2019-03-08,21:00,La Liga,Matchweek 27,Fri,Home,D,1,1,Espanyol,0.8,0.8,65.0,38453,Markel Susaeta,4-2-3-1,4-1-4-1,Pablo González,Match Report,,Athletic-Club,2019,15.0,6.0,16.4,0.0,0,0
+31,2019-03-16,18:30,La Liga,Matchweek 28,Sat,Home,W,2,0,Atlético Madrid,1.3,0.9,47.0,39659,Iker Muniain,4-2-3-1,4-4-2,Santiago Jaime,Match Report,,Athletic-Club,2019,8.0,5.0,15.4,0.0,0,0
+32,2019-03-29,21:00,La Liga,Matchweek 29,Fri,Away,W,2,1,Girona,1.0,0.4,51.0,10652,Óscar de Marcos,4-2-3-1,4-1-4-1,José Sánchez,Match Report,,Athletic-Club,2019,8.0,5.0,13.4,0.0,0,0
+33,2019-04-03,19:30,La Liga,Matchweek 30,Wed,Home,W,3,2,Levante,1.8,1.5,40.0,36450,Óscar de Marcos,4-2-3-1,4-3-3,José Luis Munuera,Match Report,,Athletic-Club,2019,13.0,6.0,20.7,0.0,1,1
+34,2019-04-07,14:00,La Liga,Matchweek 31,Sun,Away,L,0,1,Getafe,0.7,1.3,51.0,11617,Óscar de Marcos,4-2-3-1,4-4-2,José González,Match Report,,Athletic-Club,2019,10.0,1.0,19.2,1.0,0,0
+35,2019-04-14,14:00,La Liga,Matchweek 32,Sun,Home,W,3,2,Rayo Vallecano,2.7,1.0,47.0,38732,Iker Muniain,4-2-3-1,4-2-3-1,Juan Martínez,Match Report,,Athletic-Club,2019,14.0,7.0,16.1,0.0,0,1
+36,2019-04-21,16:15,La Liga,Matchweek 33,Sun,Away,L,0,3,Real Madrid,0.5,1.9,43.0,59815,Iker Muniain,4-2-3-1,4-3-3,Mario Melero,Match Report,,Athletic-Club,2019,5.0,3.0,16.8,0.0,0,0
+37,2019-04-24,20:30,La Liga,Matchweek 34,Wed,Away,W,1,0,Leganés,0.6,0.6,43.0,4155,Mikel San José,3-4-3,3-1-4-2,Ignacio Iglesias,Match Report,,Athletic-Club,2019,3.0,2.0,17.8,0.0,0,0
+38,2019-04-27,13:00,La Liga,Matchweek 35,Sat,Home,D,1,1,Alavés,1.3,1.3,63.0,40402,Markel Susaeta,4-2-3-1,4-4-2,Jesús Gil,Match Report,,Athletic-Club,2019,14.0,1.0,17.3,1.0,0,0
+39,2019-05-05,18:30,La Liga,Matchweek 36,Sun,Away,L,0,1,Valladolid,1.6,0.8,59.0,21151,Iker Muniain,4-2-3-1,4-4-2,Antonio Matéu Lahoz,Match Report,,Athletic-Club,2019,9.0,1.0,8.7,0.0,0,0
+40,2019-05-12,18:30,La Liga,Matchweek 37,Sun,Home,W,3,1,Celta Vigo,2.1,1.1,52.0,42494,Iker Muniain,4-2-3-1,4-4-2,Javier Estrada,Match Report,,Athletic-Club,2019,7.0,3.0,16.0,0.0,1,1
+41,2019-05-18,16:15,La Liga,Matchweek 38,Sat,Away,L,0,2,Sevilla,0.7,1.5,53.0,28060,Iker Muniain,4-2-3-1,4-2-3-1,José Sánchez,Match Report,,Athletic-Club,2019,10.0,1.0,12.6,0.0,0,0
+0,2018-08-18,20:15,La Liga,Matchweek 1,Sat,Away,W,2,1,Villarreal,0.7,1.6,48.0,16250,Asier Illarramendi,4-4-1-1,4-4-2,Mario Melero,Match Report,,Real-Sociedad,2019,9.0,4.0,19.0,0.0,0,0
+1,2018-08-24,22:15,La Liga,Matchweek 2,Fri,Away,D,2,2,Leganés,1.6,1.7,33.0,9375,Asier Illarramendi,4-4-2,4-4-1-1,José Luis Munuera,Match Report,,Real-Sociedad,2019,7.0,6.0,15.0,1.0,0,0
+2,2018-08-31,22:00,La Liga,Matchweek 3,Fri,Away,L,1,2,Eibar,1.3,1.0,42.0,6144,Asier Illarramendi,4-4-2,4-4-2,José Sánchez,Match Report,,Real-Sociedad,2019,6.0,1.0,21.0,1.0,1,1
+3,2018-09-15,16:15,La Liga,Matchweek 4,Sat,Home,L,1,2,Barcelona,1.4,1.4,31.0,26756,Asier Illarramendi,4-1-2-1-2◆,4-3-3,Carlos del Cerro,Match Report,,Real-Sociedad,2019,8.0,5.0,17.1,0.0,0,0
+4,2018-09-21,21:00,La Liga,Matchweek 5,Fri,Away,W,1,0,Huesca,0.2,0.6,52.0,6948,Mikel Oyarzabal,4-3-3,4-2-3-1,Ignacio Iglesias,Match Report,,Real-Sociedad,2019,7.0,1.0,24.3,0.0,0,0
+5,2018-09-25,21:00,La Liga,Matchweek 6,Tue,Home,D,2,2,Rayo Vallecano,1.6,2.1,57.0,21510,Mikel Oyarzabal,4-2-3-1,4-1-4-1,Juan Martínez,Match Report,,Real-Sociedad,2019,16.0,6.0,16.4,0.0,0,0
+6,2018-09-29,13:00,La Liga,Matchweek 7,Sat,Home,L,0,1,Valencia,1.3,0.9,54.0,23577,Asier Illarramendi,4-4-2,4-4-2,Jesús Gil,Match Report,,Real-Sociedad,2019,9.0,4.0,21.8,0.0,0,1
+7,2018-10-05,21:00,La Liga,Matchweek 8,Fri,Away,W,3,1,Athletic Club,2.2,1.4,31.0,46884,Asier Illarramendi,4-2-3-1,4-3-3,Alejandro Hernández,Match Report,,Real-Sociedad,2019,4.0,1.0,26.1,1.0,2,2
+8,2018-10-22,21:00,La Liga,Matchweek 9,Mon,Home,D,0,0,Girona,0.6,0.9,54.0,20997,Asier Illarramendi,4-4-2,3-4-3,Pablo González,Match Report,,Real-Sociedad,2019,14.0,8.0,20.6,0.0,0,0
+9,2018-10-27,20:45,La Liga,Matchweek 10,Sat,Away,L,0,2,Atlético Madrid,0.3,1.4,39.0,57514,Asier Illarramendi,4-2-3-1,4-4-2,Antonio Matéu Lahoz,Match Report,,Real-Sociedad,2019,7.0,0.0,26.1,1.0,0,0
+11,2018-11-04,18:30,La Liga,Matchweek 11,Sun,Home,D,0,0,Sevilla,0.6,0.4,52.0,24882,Asier Illarramendi,4-2-3-1,3-4-3,Eduardo Prieto,Match Report,,Real-Sociedad,2019,11.0,1.0,20.8,2.0,0,0
+12,2018-11-09,21:00,La Liga,Matchweek 12,Fri,Away,W,3,1,Levante,1.2,1.3,53.0,19890,Asier Illarramendi,3-4-3,3-5-2,David Medié,Match Report,,Real-Sociedad,2019,15.0,4.0,20.7,0.0,0,0
+13,2018-11-26,21:00,La Liga,Matchweek 13,Mon,Home,W,2,1,Celta Vigo,1.9,0.5,49.0,17744,David Zurutuza,4-4-2,4-2-3-1,Mario Melero,Match Report,,Real-Sociedad,2019,15.0,7.0,14.6,0.0,0,0
+14,2018-12-02,12:00,La Liga,Matchweek 14,Sun,Away,L,0,1,Betis,1.3,1.3,43.0,46562,Asier Illarramendi,4-4-2,3-5-1-1,Guillermo Cuadra,Match Report,,Real-Sociedad,2019,6.0,4.0,11.0,0.0,0,0
+16,2018-12-09,18:30,La Liga,Matchweek 15,Sun,Home,L,1,2,Valladolid,2.4,1.0,68.0,23260,Asier Illarramendi,4-2-3-1,4-4-2,Ignacio Iglesias,Match Report,,Real-Sociedad,2019,23.0,5.0,16.5,1.0,0,0
+17,2018-12-15,13:00,La Liga,Matchweek 16,Sat,Away,L,0,1,Getafe,0.8,0.4,71.0,9018,Asier Illarramendi,4-2-3-1,4-4-2,Santiago Jaime,Match Report,,Real-Sociedad,2019,9.0,4.0,16.8,0.0,0,0
+18,2018-12-21,21:00,La Liga,Matchweek 17,Fri,Home,L,0,1,Alavés,1.1,0.8,67.0,22431,Asier Illarramendi,4-4-2,4-4-2,Javier Estrada,Match Report,,Real-Sociedad,2019,18.0,4.0,18.2,1.0,0,0
+19,2019-01-06,18:30,La Liga,Matchweek 18,Sun,Away,W,2,0,Real Madrid,2.3,2.6,41.0,53412,Asier Illarramendi,4-2-3-1,4-3-3,José Luis Munuera,Match Report,,Real-Sociedad,2019,11.0,3.0,19.6,1.0,1,1
+21,2019-01-14,21:00,La Liga,Matchweek 19,Mon,Home,W,3,2,Espanyol,2.6,2.1,41.0,17301,Asier Illarramendi,4-2-3-1,4-1-4-1,Carlos del Cerro,Match Report,,Real-Sociedad,2019,8.0,3.0,11.4,0.0,1,1
+23,2019-01-20,18:30,La Liga,Matchweek 20,Sun,Away,D,2,2,Rayo Vallecano,1.6,0.9,64.0,12562,Asier Illarramendi,4-1-4-1,3-5-2,David Medié,Match Report,,Real-Sociedad,2019,10.0,4.0,12.7,0.0,0,0
+24,2019-01-27,18:30,La Liga,Matchweek 21,Sun,Home,D,0,0,Huesca,0.4,0.4,68.0,21252,Asier Illarramendi,4-2-3-1,5-3-2,Eduardo Prieto,Match Report,,Real-Sociedad,2019,8.0,1.0,22.9,1.0,0,0
+25,2019-02-02,16:15,La Liga,Matchweek 22,Sat,Home,W,2,1,Athletic Club,1.5,1.4,47.0,27073,Asier Illarramendi,4-3-3,4-2-3-1,Antonio Matéu Lahoz,Match Report,,Real-Sociedad,2019,6.0,2.0,14.7,0.0,0,0
+26,2019-02-10,16:15,La Liga,Matchweek 23,Sun,Away,D,0,0,Valencia,0.5,1.5,58.0,38885,Asier Illarramendi,4-2-3-1,4-4-2,Mario Melero,Match Report,,Real-Sociedad,2019,8.0,1.0,20.6,2.0,0,0
+27,2019-02-16,18:30,La Liga,Matchweek 24,Sat,Home,W,3,0,Leganés,1.7,1.2,61.0,22997,David Zurutuza,4-3-3,3-5-2,José Luis Munuera,Match Report,,Real-Sociedad,2019,15.0,6.0,17.6,1.0,0,0
+28,2019-02-25,21:00,La Liga,Matchweek 25,Mon,Away,D,0,0,Girona,0.5,1.0,54.0,10170,David Zurutuza,4-2-3-1,4-3-2-1,Eduardo Prieto,Match Report,,Real-Sociedad,2019,7.0,1.0,13.8,0.0,0,0
+29,2019-03-03,18:30,La Liga,Matchweek 26,Sun,Home,L,0,2,Atlético Madrid,0.9,1.4,61.0,26004,David Zurutuza,4-1-4-1,4-4-2,José González,Match Report,,Real-Sociedad,2019,19.0,3.0,18.5,0.0,0,0
+30,2019-03-10,18:30,La Liga,Matchweek 27,Sun,Away,L,2,5,Sevilla,1.2,2.4,51.0,35813,Mikel Oyarzabal,4-3-1-2,3-1-4-2,Ignacio Iglesias,Match Report,,Real-Sociedad,2019,8.0,1.0,25.7,1.0,1,1
+31,2019-03-15,21:00,La Liga,Matchweek 28,Fri,Home,D,1,1,Levante,2.9,1.3,58.0,20605,David Zurutuza,4-3-3,5-3-2,Adrián Cordero,Match Report,,Real-Sociedad,2019,23.0,7.0,18.9,1.0,0,0
+32,2019-03-31,18:30,La Liga,Matchweek 29,Sun,Away,D,1,1,Valladolid,0.9,2.5,59.0,18775,Mikel Oyarzabal,4-3-3,4-4-2,Alberola Rojas,Match Report,,Real-Sociedad,2019,10.0,1.0,20.1,0.0,0,0
+33,2019-04-04,21:30,La Liga,Matchweek 30,Thu,Home,W,2,1,Betis,2.5,1.3,37.0,16417,Mikel Oyarzabal,4-3-3,4-2-3-1,David Medié,Match Report,,Real-Sociedad,2019,15.0,7.0,16.0,1.0,0,0
+34,2019-04-07,18:30,La Liga,Matchweek 31,Sun,Away,L,1,3,Celta Vigo,1.4,3.0,52.0,20519,Mikel Oyarzabal,4-4-2,4-1-3-2,Mario Melero,Match Report,,Real-Sociedad,2019,13.0,6.0,21.6,0.0,1,1
+35,2019-04-14,16:15,La Liga,Matchweek 32,Sun,Home,D,1,1,Eibar,0.4,1.5,38.0,24308,Mikel Oyarzabal,4-2-3-1,4-4-2,Santiago Jaime,Match Report,,Real-Sociedad,2019,3.0,2.0,14.1,0.0,0,0
+36,2019-04-20,20:45,La Liga,Matchweek 33,Sat,Away,L,1,2,Barcelona,1.5,1.1,50.0,75470,Mikel Oyarzabal,4-3-3,4-3-3,Pablo González,Match Report,,Real-Sociedad,2019,9.0,2.0,15.5,0.0,0,0
+37,2019-04-25,20:30,La Liga,Matchweek 34,Thu,Home,L,0,1,Villarreal,0.8,0.7,64.0,20060,Mikel Oyarzabal,4-2-3-1,4-4-1-1,José Luis Munuera,Match Report,,Real-Sociedad,2019,13.0,2.0,19.4,0.0,0,0
+38,2019-04-28,16:15,La Liga,Matchweek 35,Sun,Home,W,2,1,Getafe,2.4,0.6,50.0,19386,Mikel Oyarzabal,4-2-3-1,4-4-2,Eduardo Prieto,Match Report,,Real-Sociedad,2019,10.0,6.0,13.8,0.0,1,1
+39,2019-05-04,18:30,La Liga,Matchweek 36,Sat,Away,W,1,0,Alavés,0.8,0.8,49.0,18509,Mikel Oyarzabal,4-1-4-1,4-4-2,Alberola Rojas,Match Report,,Real-Sociedad,2019,9.0,2.0,18.5,0.0,0,0
+40,2019-05-12,18:30,La Liga,Matchweek 37,Sun,Home,W,3,1,Real Madrid,2.1,0.9,54.0,27322,Mikel Oyarzabal,4-2-3-1,4-3-3,Juan Martínez,Match Report,,Real-Sociedad,2019,18.0,6.0,19.5,0.0,0,1
+41,2019-05-18,16:15,La Liga,Matchweek 38,Sat,Away,L,0,2,Espanyol,0.4,1.4,62.0,26568,Mikel Oyarzabal,4-2-3-1,4-3-3,Santiago Jaime,Match Report,,Real-Sociedad,2019,11.0,2.0,25.6,0.0,0,0
+0,2018-08-17,22:15,La Liga,Matchweek 1,Fri,Home,L,0,3,Levante,0.9,2.5,76.0,46225,Andrés Guardado,3-1-4-2,4-4-2,Ignacio Iglesias,Match Report,,Real-Betis,2019,22.0,8.0,21.7,0.0,0,0
+1,2018-08-25,18:15,La Liga,Matchweek 2,Sat,Away,D,0,0,Alavés,0.9,0.6,66.0,18221,Andrés Guardado,3-4-3,4-4-2,Pablo González,Match Report,,Real-Betis,2019,12.0,4.0,14.9,0.0,0,0
+2,2018-09-02,20:45,La Liga,Matchweek 3,Sun,Home,W,1,0,Sevilla,0.9,0.6,62.0,53451,Andrés Guardado,3-4-3,3-4-3,Jesús Gil,Match Report,,Real-Betis,2019,11.0,3.0,17.0,0.0,0,0
+3,2018-09-15,18:30,La Liga,Matchweek 4,Sat,Away,D,0,0,Valencia,1.0,1.0,60.0,40050,Andrés Guardado,3-4-3,4-4-2,Alejandro Hernández,Match Report,,Real-Betis,2019,11.0,5.0,22.3,2.0,0,0
+5,2018-09-23,20:00,La Liga,Matchweek 5,Sun,Home,D,2,2,Athletic Club,1.1,0.6,70.0,51093,Joaquín,3-4-3,4-2-3-1,Javier Estrada,Match Report,,Real-Betis,2019,16.0,4.0,19.0,1.0,0,0
+6,2018-09-27,22:00,La Liga,Matchweek 6,Thu,Away,W,1,0,Girona,1.6,0.8,64.0,11358,Andrés Guardado,3-4-3,3-4-3,José González,Match Report,,Real-Betis,2019,14.0,6.0,18.4,0.0,0,0
+7,2018-09-30,20:45,La Liga,Matchweek 7,Sun,Home,W,1,0,Leganés,1.7,0.5,82.0,48115,Joaquín,3-5-2,5-4-1,José Sánchez,Match Report,,Real-Betis,2019,17.0,4.0,17.8,0.0,0,0
+9,2018-10-07,16:15,La Liga,Matchweek 8,Sun,Away,L,0,1,Atlético Madrid,0.3,0.6,63.0,63786,Joaquín,3-4-3,4-4-2,Alberto Undiano,Match Report,,Real-Betis,2019,5.0,0.0,23.0,1.0,0,0
+10,2018-10-21,20:45,La Liga,Matchweek 9,Sun,Home,L,0,1,Valladolid,0.9,0.4,62.0,42581,Javi García,3-4-3,4-4-2,Alberola Rojas,Match Report,,Real-Betis,2019,20.0,4.0,21.9,2.0,0,0
+12,2018-10-28,12:00,La Liga,Matchweek 10,Sun,Away,L,0,2,Getafe,0.5,2.2,68.0,12086,Aïssa Mandi,3-5-2,4-4-2,Santiago Jaime,Match Report,,Real-Betis,2019,7.0,3.0,17.1,0.0,0,0
+14,2018-11-04,20:45,La Liga,Matchweek 11,Sun,Home,D,3,3,Celta Vigo,1.7,2.1,57.0,42130,Andrés Guardado,3-4-3,4-4-2,Javier Estrada,Match Report,,Real-Betis,2019,14.0,6.0,23.3,1.0,0,0
+16,2018-11-11,16:15,La Liga,Matchweek 12,Sun,Away,W,4,3,Barcelona,2.3,3.8,45.0,83174,Joaquín,3-4-1-2,4-3-3,Antonio Matéu Lahoz,Match Report,,Real-Betis,2019,15.0,8.0,14.8,1.0,0,0
+17,2018-11-25,20:45,La Liga,Matchweek 13,Sun,Away,L,1,2,Villarreal,0.9,0.9,64.0,16028,Joaquín,3-1-4-2,4-1-2-1-2,Eduardo Prieto,Match Report,,Real-Betis,2019,13.0,6.0,15.0,0.0,0,0
+19,2018-12-02,12:00,La Liga,Matchweek 14,Sun,Home,W,1,0,Real Sociedad,1.3,1.3,57.0,46562,Joaquín,3-5-1-1,4-4-2,Guillermo Cuadra,Match Report,,Real-Betis,2019,6.0,4.0,16.7,1.0,0,0
+21,2018-12-09,20:45,La Liga,Matchweek 15,Sun,Home,W,2,0,Rayo Vallecano,1.7,1.2,61.0,40218,Aïssa Mandi,3-5-2,4-1-2-1-2,Juan Martínez,Match Report,,Real-Betis,2019,7.0,2.0,16.4,1.0,1,1
+23,2018-12-16,16:15,La Liga,Matchweek 16,Sun,Away,W,3,1,Espanyol,1.7,0.6,66.0,20275,Joaquín,3-1-4-2,4-3-3,José Sánchez,Match Report,,Real-Betis,2019,11.0,4.0,19.6,1.0,0,1
+24,2018-12-22,13:00,La Liga,Matchweek 17,Sat,Home,D,1,1,Eibar,1.5,2.3,57.0,49426,Joaquín,3-4-3,4-4-2,Carlos del Cerro,Match Report,,Real-Betis,2019,4.0,2.0,6.3,0.0,0,0
+25,2019-01-05,20:45,La Liga,Matchweek 18,Sat,Away,L,1,2,Huesca,1.1,1.5,66.0,6135,Javi García,3-5-2,4-1-4-1,Ricardo de Burgos,Match Report,,Real-Betis,2019,6.0,0.0,23.1,1.0,1,1
+27,2019-01-13,20:45,La Liga,Matchweek 19,Sun,Home,L,1,2,Real Madrid,0.8,0.7,72.0,54187,Joaquín,4-3-3,3-4-3,Alejandro Hernández,Match Report,,Real-Betis,2019,9.0,2.0,22.8,1.0,0,0
+29,2019-01-20,12:00,La Liga,Matchweek 20,Sun,Home,W,3,2,Girona,1.4,0.8,59.0,47218,Andrés Guardado,3-5-2,3-4-3,Adrián Cordero,Match Report,,Real-Betis,2019,11.0,4.0,21.7,1.0,1,1
+31,2019-01-27,18:30,La Liga,Matchweek 21,Sun,Away,L,0,1,Athletic Club,0.4,1.1,61.0,40282,Aïssa Mandi,3-1-4-2,4-2-3-1,Javier Estrada,Match Report,,Real-Betis,2019,8.0,2.0,20.0,2.0,0,0
+33,2019-02-03,16:15,La Liga,Matchweek 22,Sun,Home,W,1,0,Atlético Madrid,1.0,0.7,54.0,50864,Joaquín,3-5-2,4-4-2,David Medié,Match Report,,Real-Betis,2019,6.0,2.0,22.7,0.0,1,1
+35,2019-02-10,12:00,La Liga,Matchweek 23,Sun,Away,L,0,3,Leganés,0.1,1.6,68.0,11381,Javi García,3-1-4-2,5-3-2,Alberola Rojas,Match Report,,Real-Betis,2019,3.0,1.0,16.4,0.0,0,0
+37,2019-02-17,20:45,La Liga,Matchweek 24,Sun,Home,D,1,1,Alavés,3.1,1.2,66.0,43455,Andrés Guardado,3-4-3,4-1-4-1,Antonio Matéu Lahoz,Match Report,,Real-Betis,2019,18.0,8.0,15.6,3.0,0,0
+39,2019-02-24,18:30,La Liga,Matchweek 25,Sun,Away,W,2,0,Valladolid,0.8,0.6,51.0,20125,Javi García,3-4-3,4-4-2,Pablo González,Match Report,,Real-Betis,2019,6.0,2.0,20.1,1.0,0,0
+41,2019-03-03,16:15,La Liga,Matchweek 26,Sun,Home,L,1,2,Getafe,0.6,1.6,63.0,46657,Andrés Guardado,3-4-3,4-4-2,Juan Martínez,Match Report,,Real-Betis,2019,6.0,2.0,19.0,0.0,0,0
+42,2019-03-10,12:00,La Liga,Matchweek 27,Sun,Away,W,1,0,Celta Vigo,1.2,0.4,62.0,18005,Joaquín,3-1-4-2,4-4-1-1,Javier Estrada,Match Report,,Real-Betis,2019,14.0,4.0,19.5,1.0,0,0
+43,2019-03-17,20:45,La Liga,Matchweek 28,Sun,Home,L,1,4,Barcelona,1.2,3.0,56.0,54172,Joaquín,3-1-4-2,4-4-2,Ricardo de Burgos,Match Report,,Real-Betis,2019,13.0,3.0,17.9,1.0,0,0
+44,2019-03-31,14:00,La Liga,Matchweek 29,Sun,Away,D,1,1,Rayo Vallecano,0.6,2.2,54.0,12310,Joaquín,3-4-1-2,4-3-3,Antonio Matéu Lahoz,Match Report,,Real-Betis,2019,7.0,2.0,20.5,3.0,0,0
+45,2019-04-04,21:30,La Liga,Matchweek 30,Thu,Away,L,1,2,Real Sociedad,1.3,2.5,63.0,16417,Andrés Guardado,4-2-3-1,4-3-3,David Medié,Match Report,,Real-Betis,2019,11.0,6.0,18.0,1.0,0,0
+46,2019-04-07,20:45,La Liga,Matchweek 31,Sun,Home,W,2,1,Villarreal,1.8,1.5,56.0,28475,Andrés Guardado,3-1-4-2,3-4-3,Javier Estrada,Match Report,,Real-Betis,2019,17.0,6.0,14.7,0.0,0,0
+47,2019-04-13,20:45,La Liga,Matchweek 32,Sat,Away,L,2,3,Sevilla,1.0,2.0,61.0,42855,Andrés Guardado,3-1-4-2,4-4-2,Alejandro Hernández,Match Report,,Real-Betis,2019,12.0,6.0,19.5,2.0,0,0
+48,2019-04-21,20:45,La Liga,Matchweek 33,Sun,Home,L,1,2,Valencia,2.1,0.2,66.0,42508,Joaquín,4-1-4-1,4-4-2,José Sánchez,Match Report,,Real-Betis,2019,22.0,6.0,16.4,0.0,1,1
+49,2019-04-24,21:30,La Liga,Matchweek 34,Wed,Away,L,0,4,Levante,0.4,1.4,68.0,20394,Andrés Guardado,3-5-2,4-3-3,Santiago Jaime,Match Report,,Real-Betis,2019,7.0,2.0,18.6,0.0,0,0
+50,2019-04-29,21:00,La Liga,Matchweek 35,Mon,Home,D,1,1,Espanyol,1.4,1.1,54.0,30561,Joaquín,3-4-3,5-3-2,Carlos del Cerro,Match Report,,Real-Betis,2019,18.0,5.0,20.1,2.0,0,0
+51,2019-05-05,14:00,La Liga,Matchweek 36,Sun,Away,L,0,1,Eibar,2.1,0.7,55.0,4725,Joaquín,4-2-3-1,4-2-3-1,Ignacio Iglesias,Match Report,,Real-Betis,2019,11.0,5.0,17.0,0.0,0,1
+52,2019-05-12,18:30,La Liga,Matchweek 37,Sun,Home,W,2,1,Huesca,2.2,1.3,62.0,28078,Joaquín,4-2-3-1,4-2-3-1,Adrián Cordero,Match Report,,Real-Betis,2019,17.0,8.0,17.5,1.0,0,0
+53,2019-05-19,12:00,La Liga,Matchweek 38,Sun,Away,W,2,0,Real Madrid,1.3,0.9,53.0,56900,Andrés Guardado,3-1-4-2,4-3-3,Alberto Undiano,Match Report,,Real-Betis,2019,9.0,7.0,17.1,0.0,0,0
+0,2018-08-18,22:15,La Liga,Matchweek 1,Sat,Away,L,0,3,Barcelona,0.3,3.2,21.0,52356,Manu García,4-5-1,4-4-2,José Sánchez,Match Report,,Alaves,2019,3.0,0.0,12.3,0.0,0,0
+1,2018-08-25,18:15,La Liga,Matchweek 2,Sat,Home,D,0,0,Betis,0.6,0.9,34.0,18221,Manu García,4-4-2,3-4-3,Pablo González,Match Report,,Alaves,2019,16.0,4.0,23.3,1.0,0,0
+2,2018-09-02,16:15,La Liga,Matchweek 3,Sun,Home,W,2,1,Espanyol,1.4,1.2,38.0,18052,Manu García,4-4-2,4-3-3,Ignacio Iglesias,Match Report,,Alaves,2019,8.0,5.0,16.9,0.0,0,0
+3,2018-09-16,18:30,La Liga,Matchweek 4,Sun,Away,W,1,0,Valladolid,0.8,1.1,42.0,18873,Fernando Pacheco,4-4-2,4-2-3-1,José Luis Munuera,Match Report,,Alaves,2019,10.0,4.0,21.7,0.0,0,0
+4,2018-09-22,13:00,La Liga,Matchweek 5,Sat,Away,W,5,1,Rayo Vallecano,1.3,1.5,48.0,12011,Fernando Pacheco,4-4-2,4-1-4-1,Adrián Cordero,Match Report,,Alaves,2019,11.0,7.0,20.9,0.0,0,0
+5,2018-09-27,20:00,La Liga,Matchweek 6,Thu,Home,D,1,1,Getafe,1.7,1.1,49.0,18373,Fernando Pacheco,4-4-2,4-4-2,Eduardo Prieto,Match Report,,Alaves,2019,14.0,1.0,18.5,0.0,0,1
+6,2018-09-30,18:30,La Liga,Matchweek 7,Sun,Away,L,1,2,Levante,0.9,1.6,52.0,20239,Manu García,4-4-2,3-5-2,Mario Melero,Match Report,,Alaves,2019,13.0,2.0,20.0,2.0,0,0
+7,2018-10-06,18:30,La Liga,Matchweek 8,Sat,Home,W,1,0,Real Madrid,1.1,0.8,31.0,19461,Fernando Pacheco,4-3-3,4-3-3,Santiago Jaime,Match Report,,Alaves,2019,8.0,4.0,25.5,0.0,0,0
+8,2018-10-19,21:00,La Liga,Matchweek 9,Fri,Away,W,1,0,Celta Vigo,0.9,0.9,39.0,15627,Manu García,4-3-3,4-4-2,Carlos del Cerro,Match Report,,Alaves,2019,9.0,2.0,22.3,2.0,0,0
+9,2018-10-28,18:30,La Liga,Matchweek 10,Sun,Home,W,2,1,Villarreal,1.9,1.3,47.0,16956,Fernando Pacheco,4-4-2,4-2-3-1,Guillermo Cuadra,Match Report,,Alaves,2019,19.0,6.0,17.0,0.0,0,0
+11,2018-11-04,12:00,La Liga,Matchweek 11,Sun,Away,L,1,2,Eibar,0.6,1.5,29.0,5660,Manu García,4-4-2,4-2-3-1,Ignacio Iglesias,Match Report,,Alaves,2019,9.0,3.0,25.0,1.0,0,0
+12,2018-11-11,12:00,La Liga,Matchweek 12,Sun,Home,W,2,1,Huesca,1.3,0.9,50.0,18437,Manu García,4-4-2,5-4-1,José Luis Munuera,Match Report,,Alaves,2019,13.0,5.0,17.4,0.0,0,0
+13,2018-11-23,21:00,La Liga,Matchweek 13,Fri,Away,L,0,1,Leganés,0.4,0.9,51.0,9863,Manu García,4-4-2,5-3-2,Alberola Rojas,Match Report,,Alaves,2019,7.0,2.0,17.9,0.0,0,0
+14,2018-12-02,20:45,La Liga,Matchweek 14,Sun,Home,D,1,1,Sevilla,1.0,1.7,46.0,17848,Manu García,4-1-4-1,3-1-4-2,José Sánchez,Match Report,,Alaves,2019,10.0,3.0,16.9,0.0,0,0
+16,2018-12-08,13:00,La Liga,Matchweek 15,Sat,Away,L,0,3,Atlético Madrid,1.4,2.7,52.0,55810,Manu García,4-3-3,4-4-2,Alejandro Hernández,Match Report,,Alaves,2019,13.0,3.0,20.6,1.0,0,0
+17,2018-12-17,21:00,La Liga,Matchweek 16,Mon,Home,D,0,0,Athletic Club,0.5,0.3,46.0,19349,Manu García,4-4-2,4-2-3-1,Antonio Matéu Lahoz,Match Report,,Alaves,2019,11.0,2.0,18.6,1.0,0,0
+18,2018-12-21,21:00,La Liga,Matchweek 17,Fri,Away,W,1,0,Real Sociedad,0.8,1.1,33.0,22431,Fernando Pacheco,4-4-2,4-4-2,Javier Estrada,Match Report,,Alaves,2019,9.0,3.0,21.3,0.0,0,0
+19,2019-01-05,16:15,La Liga,Matchweek 18,Sat,Home,W,2,1,Valencia,1.9,1.1,45.0,18304,Manu García,4-4-2,5-3-2,David Medié,Match Report,,Alaves,2019,14.0,5.0,15.6,0.0,0,0
+20,2019-01-12,18:30,La Liga,Matchweek 19,Sat,Away,D,1,1,Girona,1.1,0.6,44.0,10303,Manu García,4-4-2,3-4-3,José Sánchez,Match Report,,Alaves,2019,15.0,3.0,18.1,0.0,0,0
+21,2019-01-18,21:00,La Liga,Matchweek 20,Fri,Away,L,0,4,Getafe,0.4,2.0,55.0,8748,Manu García,4-4-2,4-4-2,José Luis Munuera,Match Report,,Alaves,2019,7.0,0.0,18.4,0.0,0,0
+22,2019-01-28,21:00,La Liga,Matchweek 21,Mon,Home,L,0,1,Rayo Vallecano,1.0,1.0,52.0,13982,Manu García,4-4-2,3-1-4-2,Mario Melero,Match Report,,Alaves,2019,16.0,1.0,16.0,0.0,0,0
+23,2019-02-03,20:45,La Liga,Matchweek 22,Sun,Away,L,0,3,Real Madrid,0.6,2.5,30.0,53132,Manu García,4-5-1,4-3-3,Santiago Jaime,Match Report,,Alaves,2019,7.0,1.0,14.2,0.0,0,0
+24,2019-02-11,21:00,La Liga,Matchweek 23,Mon,Home,W,2,0,Levante,1.7,0.3,48.0,13691,Fernando Pacheco,4-3-3,4-4-2,Alberto Undiano,Match Report,,Alaves,2019,16.0,4.0,19.6,2.0,0,0
+25,2019-02-17,20:45,La Liga,Matchweek 24,Sun,Away,D,1,1,Betis,1.2,3.1,34.0,43455,Fernando Pacheco,4-1-4-1,3-4-3,Antonio Matéu Lahoz,Match Report,,Alaves,2019,6.0,3.0,12.6,0.0,0,0
+26,2019-02-23,18:30,La Liga,Matchweek 25,Sat,Home,D,0,0,Celta Vigo,1.4,0.5,48.0,18882,Manu García,4-3-3,3-4-3,Carlos del Cerro,Match Report,,Alaves,2019,17.0,4.0,17.4,2.0,0,0
+27,2019-03-02,16:15,La Liga,Matchweek 26,Sat,Away,W,2,1,Villarreal,1.4,1.2,41.0,15488,Manu García,4-4-2,3-5-2,José Luis Munuera,Match Report,,Alaves,2019,10.0,2.0,17.9,0.0,0,0
+28,2019-03-09,13:00,La Liga,Matchweek 27,Sat,Home,D,1,1,Eibar,2.0,2.4,44.0,18793,Fernando Pacheco,4-4-2,4-4-2,Alberola Rojas,Match Report,,Alaves,2019,16.0,3.0,14.9,0.0,0,0
+29,2019-03-16,13:00,La Liga,Matchweek 28,Sat,Away,W,3,1,Huesca,2.3,1.5,46.0,6811,Fernando Pacheco,4-4-2,5-3-2,Alberto Undiano,Match Report,,Alaves,2019,11.0,4.0,13.5,0.0,1,1
+30,2019-03-30,20:45,La Liga,Matchweek 29,Sat,Home,L,0,4,Atlético Madrid,0.8,1.5,45.0,19117,Manu García,4-4-2,4-4-2,Mario Melero,Match Report,,Alaves,2019,14.0,3.0,18.4,0.0,0,0
+31,2019-04-04,19:30,La Liga,Matchweek 30,Thu,Away,L,0,2,Sevilla,0.6,1.9,36.0,33212,Fernando Pacheco,4-4-2,4-4-2,Juan Martínez,Match Report,,Alaves,2019,4.0,1.0,8.8,0.0,0,0
+32,2019-04-07,12:00,La Liga,Matchweek 31,Sun,Home,D,1,1,Leganés,0.9,0.9,45.0,16783,Manu García,4-4-2,3-5-2,Antonio Matéu Lahoz,Match Report,,Alaves,2019,5.0,0.0,29.4,1.0,1,1
+33,2019-04-13,13:00,La Liga,Matchweek 32,Sat,Away,L,1,2,Espanyol,1.4,0.5,44.0,18143,Manu García,4-4-2,4-4-2,Ignacio Iglesias,Match Report,,Alaves,2019,13.0,3.0,13.4,0.0,0,0
+34,2019-04-19,21:00,La Liga,Matchweek 33,Fri,Home,D,2,2,Valladolid,1.3,2.0,46.0,13568,Manu García,4-4-2,4-4-2,Javier Estrada,Match Report,,Alaves,2019,10.0,3.0,15.4,2.0,0,0
+35,2019-04-23,21:30,La Liga,Matchweek 34,Tue,Home,L,0,2,Barcelona,0.3,2.5,24.0,18735,Fernando Pacheco,5-4-1,4-3-3,Adrián Cordero,Match Report,,Alaves,2019,6.0,1.0,19.8,0.0,0,0
+36,2019-04-27,13:00,La Liga,Matchweek 35,Sat,Away,D,1,1,Athletic Club,1.3,1.3,37.0,40402,Manu García,4-4-2,4-2-3-1,Jesús Gil,Match Report,,Alaves,2019,14.0,3.0,17.8,0.0,0,0
+37,2019-05-04,18:30,La Liga,Matchweek 36,Sat,Home,L,0,1,Real Sociedad,0.8,0.8,51.0,18509,Manu García,4-4-2,4-1-4-1,Alberola Rojas,Match Report,,Alaves,2019,18.0,6.0,20.1,0.0,0,0
+38,2019-05-12,18:30,La Liga,Matchweek 37,Sun,Away,L,1,3,Valencia,0.8,1.9,57.0,37744,Fernando Pacheco,4-4-2,4-4-2,Guillermo Cuadra,Match Report,,Alaves,2019,10.0,3.0,18.1,1.0,0,0
+39,2019-05-18,20:45,La Liga,Matchweek 38,Sat,Home,W,2,1,Girona,1.3,1.0,44.0,11549,Manu García,4-1-4-1,4-3-1-2,Mario Melero,Match Report,,Alaves,2019,14.0,7.0,16.1,0.0,0,0
+0,2018-08-19,18:15,La Liga,Matchweek 1,Sun,Home,L,1,2,Huesca,1.3,1.7,68.0,4234,Sergi Enrich,4-4-2,4-4-2,Eduardo Prieto,Match Report,,Eibar,2019,18.0,6.0,15.7,0.0,0,0
+1,2018-08-24,20:15,La Liga,Matchweek 2,Fri,Away,L,0,2,Getafe,0.6,1.4,63.0,7851,Gonzalo Escalante,4-4-2,4-4-2,David Medié,Match Report,,Eibar,2019,9.0,0.0,16.0,1.0,0,0
+2,2018-08-31,22:00,La Liga,Matchweek 3,Fri,Home,W,2,1,Real Sociedad,1.0,1.3,58.0,6144,Sergi Enrich,4-4-2,4-4-2,José Sánchez,Match Report,,Eibar,2019,8.0,2.0,20.9,0.0,0,0
+3,2018-09-15,13:00,La Liga,Matchweek 4,Sat,Away,D,1,1,Atlético Madrid,1.3,2.3,42.0,55674,Anaitz Arbilla,4-2-3-1,4-1-4-1,Juan Martínez,Match Report,,Eibar,2019,12.0,3.0,20.1,0.0,0,0
+4,2018-09-22,16:15,La Liga,Matchweek 5,Sat,Home,W,1,0,Leganés,1.3,0.3,56.0,4456,Iván Ramis,4-4-2,4-4-2,Mario Melero,Match Report,,Eibar,2019,14.0,3.0,20.0,0.0,0,0
+5,2018-09-25,20:00,La Liga,Matchweek 6,Tue,Away,L,0,1,Espanyol,0.3,0.9,54.0,13547,Anaitz Arbilla,4-2-3-1,4-3-3,José Luis Munuera,Match Report,,Eibar,2019,8.0,1.0,20.2,0.0,0,0
+6,2018-09-29,18:30,La Liga,Matchweek 7,Sat,Home,L,1,3,Sevilla,0.8,2.0,63.0,5443,Iván Ramis,4-4-2,3-5-2,Javier Estrada,Match Report,,Eibar,2019,16.0,2.0,20.2,0.0,0,0
+7,2018-10-06,13:00,La Liga,Matchweek 8,Sat,Away,W,3,2,Girona,1.7,1.2,48.0,10569,Sergi Enrich,4-4-2,3-5-2,Eduardo Prieto,Match Report,,Eibar,2019,11.0,3.0,16.1,0.0,1,1
+8,2018-10-21,16:15,La Liga,Matchweek 9,Sun,Home,D,1,1,Athletic Club,1.9,0.7,61.0,6475,Iván Ramis,4-4-2,4-2-3-1,Jesús Gil,Match Report,,Eibar,2019,17.0,5.0,20.2,2.0,1,1
+9,2018-10-27,18:30,La Liga,Matchweek 10,Sat,Away,L,0,4,Celta Vigo,1.7,0.8,60.0,15509,Asier Riesgo,4-4-2,4-2-3-1,José González,Match Report,,Eibar,2019,17.0,5.0,18.7,0.0,0,0
+11,2018-11-04,12:00,La Liga,Matchweek 11,Sun,Home,W,2,1,Alavés,1.5,0.6,71.0,5660,Gonzalo Escalante,4-2-3-1,4-4-2,Ignacio Iglesias,Match Report,,Eibar,2019,22.0,7.0,16.1,1.0,0,0
+12,2018-11-10,13:00,La Liga,Matchweek 12,Sat,Away,D,0,0,Valladolid,1.1,0.5,49.0,16038,Gonzalo Escalante,4-2-3-1,4-2-3-1,Guillermo Cuadra,Match Report,,Eibar,2019,16.0,6.0,20.6,2.0,0,0
+13,2018-11-24,13:00,La Liga,Matchweek 13,Sat,Home,W,3,0,Real Madrid,2.8,1.1,40.0,6435,Iván Ramis,4-4-2,4-3-3,Juan Martínez,Match Report,,Eibar,2019,14.0,7.0,14.1,0.0,0,0
+14,2018-11-30,21:00,La Liga,Matchweek 14,Fri,Away,L,0,1,Rayo Vallecano,1.0,1.2,64.0,11257,Iván Ramis,4-2-3-1,4-1-4-1,Alberto Undiano,Match Report,,Eibar,2019,13.0,5.0,16.0,0.0,0,0
+16,2018-12-09,12:00,La Liga,Matchweek 15,Sun,Home,D,4,4,Levante,4.2,2.2,59.0,5328,Iván Ramis,4-4-2,3-5-2,Alberola Rojas,Match Report,,Eibar,2019,31.0,6.0,14.3,0.0,1,1
+17,2018-12-15,20:45,La Liga,Matchweek 16,Sat,Home,D,1,1,Valencia,1.6,2.1,56.0,4491,Iván Ramis,4-4-2,4-4-2,Adrián Cordero,Match Report,,Eibar,2019,17.0,5.0,21.4,3.0,1,1
+18,2018-12-22,13:00,La Liga,Matchweek 17,Sat,Away,D,1,1,Betis,2.3,1.5,43.0,49426,Iván Ramis,4-4-2,3-4-3,Carlos del Cerro,Match Report,,Eibar,2019,14.0,3.0,20.1,1.0,1,1
+19,2019-01-06,12:00,La Liga,Matchweek 18,Sun,Home,D,0,0,Villarreal,1.8,1.2,54.0,4141,Iván Ramis,4-4-2,4-2-3-1,Santiago Jaime,Match Report,,Eibar,2019,24.0,5.0,15.2,1.0,0,0
+20,2019-01-13,18:30,La Liga,Matchweek 19,Sun,Away,L,0,3,Barcelona,0.9,1.1,42.0,71039,Asier Riesgo,4-2-3-1,4-3-3,Jesús Gil,Match Report,,Eibar,2019,15.0,2.0,15.2,0.0,0,0
+21,2019-01-21,21:00,La Liga,Matchweek 20,Mon,Home,W,3,0,Espanyol,1.6,0.9,56.0,3592,Asier Riesgo,4-4-2,4-3-3,Juan Martínez,Match Report,,Eibar,2019,16.0,9.0,17.0,1.0,0,0
+22,2019-01-26,18:30,La Liga,Matchweek 21,Sat,Away,D,2,2,Leganés,0.2,0.7,46.0,9341,Sergi Enrich,4-4-2,5-3-2,Alejandro Hernández,Match Report,,Eibar,2019,5.0,2.0,21.2,1.0,0,0
+23,2019-02-03,18:30,La Liga,Matchweek 22,Sun,Home,W,3,0,Girona,1.7,0.2,56.0,4419,Iván Ramis,4-4-2,3-5-2,José González,Match Report,,Eibar,2019,16.0,4.0,18.1,0.0,1,1
+24,2019-02-10,18:30,La Liga,Matchweek 23,Sun,Away,D,2,2,Sevilla,1.3,1.7,42.0,36343,Iván Ramis,4-4-2,3-1-4-2,Ignacio Iglesias,Match Report,,Eibar,2019,8.0,4.0,12.7,0.0,0,0
+25,2019-02-15,21:00,La Liga,Matchweek 24,Fri,Home,D,2,2,Getafe,1.8,0.7,58.0,4449,Asier Riesgo,4-4-2,4-4-2,David Medié,Match Report,,Eibar,2019,10.0,5.0,17.6,1.0,1,1
+26,2019-02-23,20:45,La Liga,Matchweek 25,Sat,Away,L,0,1,Athletic Club,0.6,1.3,54.0,43363,Asier Riesgo,4-4-2,4-2-3-1,Mario Melero,Match Report,,Eibar,2019,7.0,2.0,18.2,0.0,0,0
+27,2019-03-03,12:00,La Liga,Matchweek 26,Sun,Home,W,1,0,Celta Vigo,2.5,0.5,62.0,4682,Iván Ramis,4-4-2,5-4-1,Guillermo Cuadra,Match Report,,Eibar,2019,14.0,4.0,19.1,1.0,0,1
+28,2019-03-09,13:00,La Liga,Matchweek 27,Sat,Away,D,1,1,Alavés,2.4,2.0,56.0,18793,Iván Ramis,4-4-2,4-4-2,Alberola Rojas,Match Report,,Eibar,2019,20.0,3.0,14.5,0.0,0,0
+29,2019-03-17,12:00,La Liga,Matchweek 28,Sun,Home,L,1,2,Valladolid,2.1,2.4,62.0,4508,Iván Ramis,4-2-2-2,4-4-1-1,David Medié,Match Report,,Eibar,2019,15.0,3.0,15.6,1.0,0,0
+30,2019-03-31,12:00,La Liga,Matchweek 29,Sun,Away,D,2,2,Levante,2.3,1.0,59.0,16179,Iván Ramis,4-4-2,3-1-4-2,Eduardo Prieto,Match Report,,Eibar,2019,17.0,3.0,16.5,1.0,0,0
+31,2019-04-03,20:30,La Liga,Matchweek 30,Wed,Home,W,2,1,Rayo Vallecano,1.6,0.9,46.0,3940,Iván Ramis,4-4-2,4-2-3-1,Alberto Undiano,Match Report,,Eibar,2019,12.0,6.0,14.7,0.0,0,0
+32,2019-04-06,16:15,La Liga,Matchweek 31,Sat,Away,L,1,2,Real Madrid,0.8,1.6,44.0,50284,Iván Ramis,4-1-4-1,4-3-3,Pablo González,Match Report,,Eibar,2019,3.0,1.0,15.4,0.0,0,0
+33,2019-04-14,16:15,La Liga,Matchweek 32,Sun,Away,D,1,1,Real Sociedad,1.5,0.4,62.0,24308,Gonzalo Escalante,4-4-2,4-2-3-1,Santiago Jaime,Match Report,,Eibar,2019,17.0,2.0,17.4,2.0,0,0
+34,2019-04-20,16:15,La Liga,Matchweek 33,Sat,Home,L,0,1,Atlético Madrid,0.6,1.3,52.0,4750,Gonzalo Escalante,4-4-2,4-2-3-1,Alberola Rojas,Match Report,,Eibar,2019,10.0,2.0,20.1,0.0,0,0
+35,2019-04-23,19:30,La Liga,Matchweek 34,Tue,Away,L,0,2,Huesca,0.8,1.0,52.0,6157,Gonzalo Escalante,4-4-2,4-4-2,David Medié,Match Report,,Eibar,2019,8.0,4.0,19.3,0.0,0,0
+36,2019-04-28,12:00,La Liga,Matchweek 35,Sun,Away,W,1,0,Valencia,1.3,0.5,51.0,35393,Gonzalo Escalante,4-2-3-1,4-4-2,Javier Estrada,Match Report,,Eibar,2019,13.0,3.0,20.9,0.0,0,0
+37,2019-05-05,14:00,La Liga,Matchweek 36,Sun,Home,W,1,0,Betis,0.7,2.1,45.0,4725,Iván Ramis,4-2-3-1,4-2-3-1,Ignacio Iglesias,Match Report,,Eibar,2019,14.0,6.0,18.6,1.0,0,0
+38,2019-05-12,18:30,La Liga,Matchweek 37,Sun,Away,L,0,1,Villarreal,0.3,1.5,58.0,17901,Iván Ramis,4-2-3-1,4-4-2,Pablo González,Match Report,,Eibar,2019,5.0,0.0,13.6,0.0,0,0
+39,2019-05-19,16:15,La Liga,Matchweek 38,Sun,Home,D,2,2,Barcelona,1.5,1.1,40.0,5145,Iván Ramis,4-4-2,4-3-3,José Luis Munuera,Match Report,,Eibar,2019,18.0,8.0,16.0,0.0,0,0
+0,2018-08-20,22:00,La Liga,Matchweek 1,Mon,Away,L,1,2,Athletic Club,1.0,2.2,35.0,38327,Rubén Pérez,4-4-1-1,4-3-3,Adrián Cordero,Match Report,,Leganes,2019,11.0,2.0,15.4,1.0,0,0
+1,2018-08-24,22:15,La Liga,Matchweek 2,Fri,Home,D,2,2,Real Sociedad,1.7,1.6,67.0,9375,Rubén Pérez,4-4-1-1,4-4-2,José Luis Munuera,Match Report,,Leganes,2019,18.0,4.0,16.5,0.0,0,0
+2,2018-09-01,20:45,La Liga,Matchweek 3,Sat,Away,L,1,4,Real Madrid,1.1,2.5,23.0,59255,Unai Bustinza,4-4-2,4-3-3,Santiago Jaime,Match Report,,Leganes,2019,7.0,2.0,23.1,0.0,1,1
+3,2018-09-16,12:00,La Liga,Matchweek 4,Sun,Home,L,0,1,Villarreal,1.4,0.5,47.0,10432,Unai Bustinza,4-2-3-1,4-4-2,Pablo González,Match Report,,Leganes,2019,15.0,3.0,20.2,0.0,0,1
+4,2018-09-22,16:15,La Liga,Matchweek 5,Sat,Away,L,0,1,Eibar,0.3,1.3,44.0,4456,Unai Bustinza,4-4-2,4-4-2,Mario Melero,Match Report,,Leganes,2019,4.0,2.0,12.3,0.0,0,0
+5,2018-09-26,20:00,La Liga,Matchweek 6,Wed,Home,W,2,1,Barcelona,1.1,0.4,23.0,12231,Unai Bustinza,5-4-1,4-3-3,Alberto Undiano,Match Report,,Leganes,2019,10.0,6.0,17.2,0.0,0,0
+6,2018-09-30,20:45,La Liga,Matchweek 7,Sun,Away,L,0,1,Betis,0.5,1.7,18.0,48115,Unai Bustinza,5-4-1,3-5-2,José Sánchez,Match Report,,Leganes,2019,11.0,5.0,21.3,1.0,0,0
+7,2018-10-06,20:45,La Liga,Matchweek 8,Sat,Home,W,1,0,Rayo Vallecano,0.9,0.4,36.0,11539,Unai Bustinza,4-4-1-1,4-3-3,David Medié,Match Report,,Leganes,2019,13.0,4.0,17.5,2.0,0,0
+8,2018-10-20,16:15,La Liga,Matchweek 9,Sat,Away,D,1,1,Valencia,1.0,1.3,41.0,35597,Rubén Pérez,4-1-4-1,4-4-2,Ignacio Iglesias,Match Report,,Leganes,2019,6.0,4.0,27.2,1.0,1,1
+9,2018-10-27,18:30,La Liga,Matchweek 10,Sat,Away,L,0,2,Levante,1.4,1.3,58.0,19754,Rubén Pérez,5-3-2,3-5-2,Ricardo de Burgos,Match Report,,Leganes,2019,21.0,6.0,20.2,0.0,0,0
+11,2018-11-03,13:00,La Liga,Matchweek 11,Sat,Home,D,1,1,Atlético Madrid,1.3,0.4,45.0,12319,Rubén Pérez,3-4-3,4-4-2,Mario Melero,Match Report,,Leganes,2019,8.0,3.0,15.8,2.0,0,0
+12,2018-11-10,20:45,La Liga,Matchweek 12,Sat,Away,D,0,0,Girona,1.1,0.4,41.0,9874,Rubén Pérez,3-4-3,3-4-3,Adrián Cordero,Match Report,,Leganes,2019,11.0,2.0,13.3,1.0,0,0
+13,2018-11-23,21:00,La Liga,Matchweek 13,Fri,Home,W,1,0,Alavés,0.9,0.4,49.0,9863,Rubén Pérez,5-3-2,4-4-2,Alberola Rojas,Match Report,,Leganes,2019,13.0,6.0,19.7,0.0,0,0
+14,2018-12-01,16:15,La Liga,Matchweek 14,Sat,Away,W,4,2,Valladolid,1.7,1.7,33.0,16783,Rubén Pérez,5-3-2,4-2-3-1,David Medié,Match Report,,Leganes,2019,14.0,5.0,14.5,0.0,0,0
+16,2018-12-07,21:00,La Liga,Matchweek 15,Fri,Home,D,1,1,Getafe,1.7,0.9,65.0,11327,Unai Bustinza,3-4-1-2,4-4-2,Pablo González,Match Report,,Leganes,2019,17.0,5.0,16.7,0.0,0,0
+17,2018-12-14,21:00,La Liga,Matchweek 16,Fri,Away,D,0,0,Celta Vigo,0.7,1.2,20.0,15134,Unai Bustinza,5-3-2,4-4-2,José Luis Munuera,Match Report,,Leganes,2019,5.0,2.0,17.7,0.0,0,0
+18,2018-12-23,16:15,La Liga,Matchweek 17,Sun,Home,D,1,1,Sevilla,1.3,0.7,47.0,11321,Unai Bustinza,5-3-2,3-5-2,Alejandro Hernández,Match Report,,Leganes,2019,13.0,4.0,16.5,0.0,0,0
+19,2019-01-04,21:00,La Liga,Matchweek 18,Fri,Away,L,0,1,Espanyol,0.4,1.3,48.0,15085,Unai Bustinza,5-3-2,4-2-3-1,José González,Match Report,,Leganes,2019,10.0,2.0,25.9,1.0,0,0
+21,2019-01-12,13:00,La Liga,Matchweek 19,Sat,Home,W,1,0,Huesca,2.0,0.5,50.0,10341,Unai Bustinza,5-3-2,4-3-3,Mario Melero,Match Report,,Leganes,2019,14.0,7.0,14.9,0.0,0,0
+23,2019-01-20,20:45,La Liga,Matchweek 20,Sun,Away,L,1,3,Barcelona,0.9,1.8,28.0,50670,Dimitris Siovas,5-4-1,4-3-3,Ricardo de Burgos,Match Report,,Leganes,2019,5.0,2.0,23.4,1.0,0,0
+24,2019-01-26,18:30,La Liga,Matchweek 21,Sat,Home,D,2,2,Eibar,0.7,0.2,54.0,9341,Unai Bustinza,5-3-2,4-4-2,Alejandro Hernández,Match Report,,Leganes,2019,9.0,3.0,15.1,0.0,0,0
+25,2019-02-04,21:00,La Liga,Matchweek 22,Mon,Away,W,2,1,Rayo Vallecano,1.3,1.7,39.0,11435,Unai Bustinza,3-5-2,3-4-3,Juan Martínez,Match Report,,Leganes,2019,13.0,4.0,14.5,0.0,0,0
+26,2019-02-10,12:00,La Liga,Matchweek 23,Sun,Home,W,3,0,Betis,1.6,0.1,32.0,11381,Unai Bustinza,5-3-2,3-1-4-2,Alberola Rojas,Match Report,,Leganes,2019,16.0,4.0,15.5,0.0,0,0
+27,2019-02-16,18:30,La Liga,Matchweek 24,Sat,Away,L,0,3,Real Sociedad,1.2,1.7,39.0,22997,Unai Bustinza,3-5-2,4-3-3,José Luis Munuera,Match Report,,Leganes,2019,8.0,3.0,13.7,1.0,0,0
+28,2019-02-24,12:00,La Liga,Matchweek 25,Sun,Home,D,1,1,Valencia,1.8,0.5,50.0,11425,Unai Bustinza,3-5-2,4-4-2,Javier Estrada,Match Report,,Leganes,2019,17.0,6.0,18.4,0.0,0,0
+29,2019-03-04,21:00,La Liga,Matchweek 26,Mon,Home,W,1,0,Levante,1.9,1.5,39.0,9758,Rubén Pérez,3-5-2,3-4-1-2,Jesús Gil,Match Report,,Leganes,2019,14.0,3.0,17.2,1.0,0,0
+30,2019-03-09,16:15,La Liga,Matchweek 27,Sat,Away,L,0,1,Atlético Madrid,0.1,1.3,55.0,58321,Rubén Pérez,3-1-4-2,4-4-2,Antonio Matéu Lahoz,Match Report,,Leganes,2019,3.0,2.0,22.8,0.0,0,0
+31,2019-03-16,20:45,La Liga,Matchweek 28,Sat,Home,L,0,2,Girona,0.6,1.5,54.0,9873,Rubén Pérez,3-5-2,4-2-3-1,José Luis Munuera,Match Report,,Leganes,2019,12.0,3.0,19.9,0.0,0,0
+32,2019-03-30,13:00,La Liga,Matchweek 29,Sat,Away,W,2,0,Getafe,1.3,0.6,44.0,12705,Unai Bustinza,5-3-2,4-4-2,Pablo González,Match Report,,Leganes,2019,6.0,2.0,14.1,0.0,0,1
+33,2019-04-04,20:30,La Liga,Matchweek 30,Thu,Home,W,1,0,Valladolid,1.7,0.8,56.0,10185,Unai Bustinza,3-5-2,3-4-3,Guillermo Cuadra,Match Report,,Leganes,2019,18.0,2.0,16.0,0.0,0,0
+34,2019-04-07,12:00,La Liga,Matchweek 31,Sun,Away,D,1,1,Alavés,0.9,0.9,55.0,16783,Unai Bustinza,3-5-2,4-4-2,Antonio Matéu Lahoz,Match Report,,Leganes,2019,9.0,5.0,18.5,1.0,0,0
+35,2019-04-15,21:00,La Liga,Matchweek 32,Mon,Home,D,1,1,Real Madrid,0.6,1.2,31.0,12118,Unai Bustinza,5-3-2,4-3-3,David Medié,Match Report,,Leganes,2019,5.0,2.0,14.3,0.0,0,0
+36,2019-04-21,18:30,La Liga,Matchweek 33,Sun,Away,L,1,2,Villarreal,1.2,1.0,34.0,14753,Unai Bustinza,3-1-4-2,4-4-2,Eduardo Prieto,Match Report,,Leganes,2019,5.0,1.0,16.0,0.0,1,1
+37,2019-04-24,20:30,La Liga,Matchweek 34,Wed,Home,L,0,1,Athletic Club,0.6,0.6,57.0,4155,Rubén Pérez,3-1-4-2,3-4-3,Ignacio Iglesias,Match Report,,Leganes,2019,14.0,1.0,21.5,1.0,0,0
+38,2019-04-27,18:30,La Liga,Matchweek 35,Sat,Home,D,0,0,Celta Vigo,0.5,0.3,48.0,10324,Unai Bustinza,3-1-4-2,4-4-2,Juan Martínez,Match Report,,Leganes,2019,10.0,1.0,18.0,0.0,0,0
+39,2019-05-03,21:00,La Liga,Matchweek 36,Fri,Away,W,3,0,Sevilla,0.9,0.3,36.0,32797,Unai Bustinza,3-1-4-2,4-4-2,Alberto Undiano,Match Report,,Leganes,2019,9.0,5.0,18.2,0.0,0,0
+40,2019-05-12,18:30,La Liga,Matchweek 37,Sun,Home,L,0,2,Espanyol,0.7,3.3,46.0,10597,Unai Bustinza,3-1-4-2,4-3-1-2,Mario Melero,Match Report,,Leganes,2019,11.0,4.0,15.0,0.0,0,0
+41,2019-05-18,20:45,La Liga,Matchweek 38,Sat,Away,L,1,2,Huesca,0.9,0.9,49.0,5575,Rubén Pérez,3-1-4-2,4-3-3,Alberola Rojas,Match Report,,Leganes,2019,9.0,1.0,14.0,0.0,0,0
+0,2018-08-18,20:15,La Liga,Matchweek 1,Sat,Home,L,1,2,Real Sociedad,1.6,0.7,52.0,16250,Mario Gaspar,4-4-2,4-4-1-1,Mario Melero,Match Report,,Villarreal,2019,16.0,7.0,18.3,0.0,0,0
+1,2018-08-26,22:15,La Liga,Matchweek 2,Sun,Away,D,0,0,Sevilla,1.0,1.9,47.0,35831,Mario Gaspar,4-1-2-1-2◆,3-4-3,Alberto Undiano,Match Report,,Villarreal,2019,15.0,6.0,20.6,0.0,0,0
+2,2018-08-31,22:00,La Liga,Matchweek 3,Fri,Home,L,0,1,Girona,1.1,1.0,65.0,15740,Mario Gaspar,4-1-2-1-2◆,3-4-3,Eduardo Prieto,Match Report,,Villarreal,2019,13.0,3.0,15.7,0.0,0,0
+3,2018-09-16,12:00,La Liga,Matchweek 4,Sun,Away,W,1,0,Leganés,0.5,1.4,53.0,10432,Mario Gaspar,4-4-2,4-2-3-1,Pablo González,Match Report,,Villarreal,2019,9.0,3.0,19.1,1.0,0,0
+5,2018-09-23,16:15,La Liga,Matchweek 5,Sun,Home,D,0,0,Valencia,0.7,0.4,55.0,18373,Mario Gaspar,4-4-2,4-4-2,Santiago Jaime,Match Report,,Villarreal,2019,11.0,1.0,19.0,0.0,0,0
+6,2018-09-26,20:00,La Liga,Matchweek 6,Wed,Away,W,3,0,Athletic Club,2.5,0.8,34.0,39672,Mario Gaspar,4-4-2,4-2-3-1,Carlos del Cerro,Match Report,,Villarreal,2019,19.0,6.0,20.7,0.0,0,0
+7,2018-09-30,16:15,La Liga,Matchweek 7,Sun,Home,L,0,1,Valladolid,2.8,0.8,62.0,15602,Mario Gaspar,4-4-2,4-4-2,Ignacio Iglesias,Match Report,,Villarreal,2019,25.0,6.0,15.2,0.0,0,1
+9,2018-10-07,18:30,La Liga,Matchweek 8,Sun,Away,L,1,3,Espanyol,1.5,2.4,45.0,20032,Jaume Costa,4-4-2,4-3-3,Ricardo de Burgos,Match Report,,Villarreal,2019,13.0,5.0,20.5,1.0,0,0
+10,2018-10-20,18:30,La Liga,Matchweek 9,Sat,Home,D,1,1,Atlético Madrid,1.9,1.4,53.0,17518,Mario Gaspar,4-2-3-1,4-4-2,Javier Estrada,Match Report,,Villarreal,2019,18.0,6.0,16.5,0.0,0,0
+12,2018-10-28,18:30,La Liga,Matchweek 10,Sun,Away,L,1,2,Alavés,1.3,1.9,53.0,16956,Mario Gaspar,4-2-3-1,4-4-2,Guillermo Cuadra,Match Report,,Villarreal,2019,10.0,2.0,16.1,0.0,0,0
+14,2018-11-04,16:15,La Liga,Matchweek 11,Sun,Home,D,1,1,Levante,1.2,0.5,58.0,16499,Jaume Costa,4-4-2,3-1-4-2,Carlos del Cerro,Match Report,,Villarreal,2019,23.0,4.0,18.6,0.0,0,0
+16,2018-11-11,18:30,La Liga,Matchweek 12,Sun,Away,D,2,2,Rayo Vallecano,0.9,2.3,42.0,11840,Jaume Costa,4-4-2,4-1-4-1,José González,Match Report,,Villarreal,2019,11.0,5.0,17.0,0.0,0,0
+17,2018-11-25,20:45,La Liga,Matchweek 13,Sun,Home,W,2,1,Betis,0.9,0.9,36.0,16028,Mario Gaspar,4-1-2-1-2◆,3-1-4-2,Eduardo Prieto,Match Report,,Villarreal,2019,13.0,8.0,17.6,0.0,0,0
+19,2018-12-02,18:30,La Liga,Matchweek 14,Sun,Away,L,0,2,Barcelona,1.1,1.0,38.0,73003,Mario Gaspar,4-5-1,4-1-4-1,José Luis Munuera,Match Report,,Villarreal,2019,12.0,2.0,17.9,1.0,0,0
+21,2018-12-08,18:30,La Liga,Matchweek 15,Sat,Home,L,2,3,Celta Vigo,1.6,2.0,53.0,15720,Mario Gaspar,4-1-2-1-2◆,4-4-2,Jesús Gil,Match Report,,Villarreal,2019,13.0,3.0,17.1,1.0,0,0
+23,2018-12-16,18:30,La Liga,Matchweek 16,Sun,Away,D,2,2,Huesca,1.7,4.2,45.0,6455,Mario Gaspar,4-4-2,4-1-4-1,David Medié,Match Report,,Villarreal,2019,9.0,5.0,18.7,0.0,1,1
+24,2019-01-03,21:30,La Liga,Matchweek 17,Thu,Home,D,2,2,Real Madrid,1.2,1.6,46.0,19903,Jaume Costa,4-2-3-1,4-3-3,Pablo González,Match Report,,Villarreal,2019,12.0,4.0,17.3,0.0,0,0
+25,2019-01-06,12:00,La Liga,Matchweek 18,Sun,Away,D,0,0,Eibar,1.2,1.8,46.0,4141,Mario Gaspar,4-2-3-1,4-4-2,Santiago Jaime,Match Report,,Villarreal,2019,7.0,4.0,14.6,0.0,0,0
+27,2019-01-12,20:45,La Liga,Matchweek 19,Sat,Home,L,1,2,Getafe,2.3,0.9,57.0,13671,Mario Gaspar,4-2-3-1,4-4-2,Javier Estrada,Match Report,,Villarreal,2019,16.0,7.0,14.4,0.0,0,1
+29,2019-01-20,16:15,La Liga,Matchweek 20,Sun,Home,D,1,1,Athletic Club,1.1,0.5,50.0,17054,Mario Gaspar,4-2-3-1,4-2-3-1,Alberto Undiano,Match Report,,Villarreal,2019,3.0,1.0,13.0,0.0,0,0
+30,2019-01-26,20:45,La Liga,Matchweek 21,Sat,Away,L,0,3,Valencia,0.7,1.5,55.0,37685,Mario Gaspar,4-2-3-1,4-4-2,Carlos del Cerro,Match Report,,Villarreal,2019,14.0,5.0,21.0,1.0,0,0
+31,2019-02-03,12:00,La Liga,Matchweek 22,Sun,Home,D,2,2,Espanyol,2.8,1.6,42.0,15476,Sergio Asenjo,3-4-3,4-3-3,Guillermo Cuadra,Match Report,,Villarreal,2019,13.0,4.0,12.8,0.0,1,1
+32,2019-02-08,21:00,La Liga,Matchweek 23,Fri,Away,D,0,0,Valladolid,1.2,0.6,51.0,16842,Sergio Asenjo,3-1-4-2,4-4-2,Alejandro Hernández,Match Report,,Villarreal,2019,7.0,3.0,14.0,0.0,0,0
+34,2019-02-17,18:30,La Liga,Matchweek 24,Sun,Home,W,3,0,Sevilla,1.6,2.6,43.0,17402,Mario Gaspar,3-5-2,3-1-4-2,José González,Match Report,,Villarreal,2019,12.0,6.0,17.5,0.0,0,0
+36,2019-02-24,16:15,La Liga,Matchweek 25,Sun,Away,L,0,2,Atlético Madrid,1.2,1.2,49.0,59114,Mario Gaspar,3-5-2,4-4-2,Alberto Undiano,Match Report,,Villarreal,2019,14.0,3.0,15.0,0.0,0,0
+37,2019-03-02,16:15,La Liga,Matchweek 26,Sat,Home,L,1,2,Alavés,1.2,1.4,59.0,15488,Mario Gaspar,3-5-2,4-4-2,José Luis Munuera,Match Report,,Villarreal,2019,8.0,1.0,20.3,0.0,1,1
+39,2019-03-10,18:30,La Liga,Matchweek 27,Sun,Away,W,2,0,Levante,1.0,1.1,48.0,20149,Mario Gaspar,3-5-2,3-1-4-2,José Sánchez,Match Report,,Villarreal,2019,13.0,5.0,17.0,0.0,0,0
+41,2019-03-17,18:30,La Liga,Matchweek 28,Sun,Home,W,3,1,Rayo Vallecano,2.5,0.2,54.0,17117,Jaume Costa,3-4-3,3-4-3,José González,Match Report,,Villarreal,2019,12.0,4.0,14.8,0.0,0,0
+42,2019-03-30,18:30,La Liga,Matchweek 29,Sat,Away,L,2,3,Celta Vigo,2.5,1.8,37.0,22315,Mario Gaspar,3-4-3,4-4-2,Jesús Gil,Match Report,,Villarreal,2019,14.0,5.0,16.7,0.0,0,0
+43,2019-04-02,21:30,La Liga,Matchweek 30,Tue,Home,D,4,4,Barcelona,2.2,2.7,32.0,19515,Mario Gaspar,3-4-3,4-3-3,Alejandro Hernández,Match Report,,Villarreal,2019,16.0,9.0,16.9,1.0,0,0
+44,2019-04-07,20:45,La Liga,Matchweek 31,Sun,Away,L,1,2,Betis,1.5,1.8,44.0,28475,Mario Gaspar,3-4-3,3-1-4-2,Javier Estrada,Match Report,,Villarreal,2019,9.0,3.0,16.0,1.0,0,1
+46,2019-04-14,18:30,La Liga,Matchweek 32,Sun,Away,W,1,0,Girona,1.4,1.3,42.0,11535,Mario Gaspar,4-2-3-1,4-2-3-1,Adrián Cordero,Match Report,,Villarreal,2019,17.0,6.0,18.4,0.0,0,0
+48,2019-04-21,18:30,La Liga,Matchweek 33,Sun,Home,W,2,1,Leganés,1.0,1.2,66.0,14753,Mario Gaspar,4-4-2,3-1-4-2,Eduardo Prieto,Match Report,,Villarreal,2019,11.0,5.0,16.3,0.0,0,0
+49,2019-04-25,20:30,La Liga,Matchweek 34,Thu,Away,W,1,0,Real Sociedad,0.7,0.8,36.0,20060,Mario Gaspar,4-4-1-1,4-2-3-1,José Luis Munuera,Match Report,,Villarreal,2019,8.0,3.0,15.7,0.0,0,0
+50,2019-04-28,18:30,La Liga,Matchweek 35,Sun,Home,D,1,1,Huesca,1.0,1.4,47.0,17901,Mario Gaspar,4-2-3-1,4-2-3-1,José Sánchez,Match Report,,Villarreal,2019,18.0,5.0,18.6,1.0,0,0
+51,2019-05-05,16:15,La Liga,Matchweek 36,Sun,Away,L,2,3,Real Madrid,0.7,2.7,40.0,46294,Mario Gaspar,4-2-3-1,4-3-3,Jesús Gil,Match Report,,Villarreal,2019,15.0,7.0,20.6,0.0,0,0
+52,2019-05-12,18:30,La Liga,Matchweek 37,Sun,Home,W,1,0,Eibar,1.5,0.3,42.0,17901,Mario Gaspar,4-4-2,4-2-3-1,Pablo González,Match Report,,Villarreal,2019,11.0,3.0,15.2,0.0,0,0
+53,2019-05-18,16:15,La Liga,Matchweek 38,Sat,Away,D,2,2,Getafe,1.0,2.3,59.0,13579,Jaume Costa,4-5-1,4-4-2,Javier Estrada,Match Report,,Villarreal,2019,8.0,4.0,13.3,0.0,0,0
+0,2018-08-17,22:15,La Liga,Matchweek 1,Fri,Away,W,3,0,Betis,2.5,0.9,24.0,46225,José Luis Morales,4-4-2,3-1-4-2,Ignacio Iglesias,Match Report,,Levante,2019,6.0,4.0,12.5,0.0,0,0
+1,2018-08-27,20:15,La Liga,Matchweek 2,Mon,Home,L,1,2,Celta Vigo,1.9,2.5,55.0,21122,José Luis Morales,4-2-3-1,3-4-3,Alejandro Hernández,Match Report,,Levante,2019,14.0,5.0,22.4,0.0,1,1
+2,2018-09-02,12:00,La Liga,Matchweek 3,Sun,Home,D,2,2,Valencia,1.6,4.1,46.0,24073,José Luis Morales,4-4-2,4-4-2,Javier Estrada,Match Report,,Levante,2019,13.0,4.0,20.0,1.0,0,0
+3,2018-09-16,16:15,La Liga,Matchweek 4,Sun,Away,L,0,1,Espanyol,0.8,1.6,44.0,18627,Pedro López Muñoz,4-4-2,4-3-3,Alberto Undiano,Match Report,,Levante,2019,16.0,4.0,19.5,2.0,0,0
+4,2018-09-23,12:00,La Liga,Matchweek 5,Sun,Home,L,2,6,Sevilla,2.3,3.2,49.0,21520,Pedro López Muñoz,4-4-2,3-5-2,Guillermo Cuadra,Match Report,,Levante,2019,18.0,10.0,17.8,3.0,0,1
+5,2018-09-27,20:00,La Liga,Matchweek 6,Thu,Away,L,1,2,Valladolid,0.8,1.0,36.0,16440,Pedro López Muñoz,4-4-2,4-4-2,David Medié,Match Report,,Levante,2019,9.0,4.0,13.9,0.0,0,0
+6,2018-09-30,18:30,La Liga,Matchweek 7,Sun,Home,W,2,1,Alavés,1.6,0.9,48.0,20239,José Luis Morales,3-5-2,4-4-2,Mario Melero,Match Report,,Levante,2019,14.0,3.0,19.0,2.0,0,0
+7,2018-10-06,16:15,La Liga,Matchweek 8,Sat,Away,W,1,0,Getafe,1.0,1.1,46.0,9557,José Luis Morales,3-5-2,4-4-2,José Luis Munuera,Match Report,,Levante,2019,12.0,3.0,22.0,2.0,0,0
+8,2018-10-20,13:00,La Liga,Matchweek 9,Sat,Away,W,2,1,Real Madrid,2.0,2.9,30.0,63423,José Luis Morales,3-1-4-2,4-3-3,Guillermo Cuadra,Match Report,,Levante,2019,5.0,1.0,21.2,0.0,1,1
+9,2018-10-27,18:30,La Liga,Matchweek 10,Sat,Home,W,2,0,Leganés,1.3,1.4,42.0,19754,José Luis Morales,3-5-2,5-3-2,Ricardo de Burgos,Match Report,,Levante,2019,9.0,4.0,20.0,1.0,0,0
+11,2018-11-04,16:15,La Liga,Matchweek 11,Sun,Away,D,1,1,Villarreal,0.5,1.2,42.0,16499,José Luis Morales,3-1-4-2,4-4-2,Carlos del Cerro,Match Report,,Levante,2019,13.0,2.0,24.0,2.0,0,0
+12,2018-11-09,21:00,La Liga,Matchweek 12,Fri,Home,L,1,3,Real Sociedad,1.3,1.2,47.0,19890,José Luis Morales,3-5-2,3-4-3,David Medié,Match Report,,Levante,2019,17.0,2.0,21.1,1.0,0,0
+13,2018-11-24,18:30,La Liga,Matchweek 13,Sat,Away,D,2,2,Huesca,1.0,2.8,50.0,6459,Coke,3-4-1-2,4-2-3-1,Javier Estrada,Match Report,,Levante,2019,5.0,3.0,15.6,0.0,0,0
+14,2018-12-03,21:00,La Liga,Matchweek 14,Mon,Home,W,3,0,Athletic Club,1.9,1.1,47.0,19928,José Luis Morales,3-5-2,3-4-1-2,Santiago Jaime,Match Report,,Levante,2019,17.0,7.0,19.9,0.0,0,0
+16,2018-12-09,12:00,La Liga,Matchweek 15,Sun,Away,D,4,4,Eibar,2.2,4.2,41.0,5328,José Luis Morales,3-5-2,4-4-2,Alberola Rojas,Match Report,,Levante,2019,14.0,4.0,19.1,1.0,0,0
+17,2018-12-16,20:45,La Liga,Matchweek 16,Sun,Home,L,0,5,Barcelona,1.0,3.7,43.0,23736,José Luis Morales,3-5-2,3-5-2,José González,Match Report,,Levante,2019,20.0,6.0,21.1,2.0,0,0
+18,2018-12-23,18:30,La Liga,Matchweek 17,Sun,Away,L,1,2,Rayo Vallecano,1.0,2.5,60.0,11206,José Luis Morales,4-4-2,3-4-3,Ignacio Iglesias,Match Report,,Levante,2019,12.0,7.0,19.2,1.0,0,0
+19,2019-01-04,19:00,La Liga,Matchweek 18,Fri,Home,D,2,2,Girona,1.6,1.4,56.0,19415,José Luis Morales,3-5-2,3-5-2,Alberto Undiano,Match Report,,Levante,2019,19.0,8.0,19.1,1.0,0,0
+21,2019-01-13,12:00,La Liga,Matchweek 19,Sun,Away,L,0,1,Atlético Madrid,0.7,2.5,42.0,57093,José Luis Morales,3-5-2,4-4-2,Eduardo Prieto,Match Report,,Levante,2019,7.0,2.0,19.3,0.0,0,0
+23,2019-01-20,18:30,La Liga,Matchweek 20,Sun,Home,W,2,0,Valladolid,1.5,1.5,49.0,19107,José Luis Morales,3-1-4-2,3-4-1-2,Santiago Jaime,Match Report,,Levante,2019,13.0,4.0,15.6,0.0,0,0
+24,2019-01-26,13:00,La Liga,Matchweek 21,Sat,Away,L,0,5,Sevilla,0.9,4.6,46.0,34220,José Luis Morales,3-5-2,3-5-2,Alberola Rojas,Match Report,,Levante,2019,6.0,0.0,11.5,0.0,0,0
+25,2019-02-02,13:00,La Liga,Matchweek 22,Sat,Home,D,0,0,Getafe,0.6,0.4,56.0,18437,José Luis Morales,3-4-1-2,4-4-2,Adrián Cordero,Match Report,,Levante,2019,8.0,4.0,16.2,0.0,0,0
+26,2019-02-11,21:00,La Liga,Matchweek 23,Mon,Away,L,0,2,Alavés,0.3,1.7,52.0,13691,José Luis Morales,4-4-2,4-3-3,Alberto Undiano,Match Report,,Levante,2019,8.0,0.0,22.8,0.0,0,0
+27,2019-02-16,13:00,La Liga,Matchweek 24,Sat,Away,W,4,1,Celta Vigo,2.8,1.6,42.0,15479,José Luis Morales,3-5-2,4-2-3-1,Santiago Jaime,Match Report,,Levante,2019,14.0,8.0,17.6,1.0,0,0
+28,2019-02-24,20:45,La Liga,Matchweek 25,Sun,Home,L,1,2,Real Madrid,1.2,2.7,40.0,23018,José Luis Morales,3-5-2,4-3-3,Ignacio Iglesias,Match Report,,Levante,2019,11.0,2.0,13.2,0.0,0,0
+29,2019-03-04,21:00,La Liga,Matchweek 26,Mon,Away,L,0,1,Leganés,1.5,1.9,61.0,9758,José Luis Morales,3-4-1-2,3-5-2,Jesús Gil,Match Report,,Levante,2019,15.0,4.0,18.1,1.0,0,0
+30,2019-03-10,18:30,La Liga,Matchweek 27,Sun,Home,L,0,2,Villarreal,1.1,1.0,52.0,20149,José Luis Morales,3-1-4-2,3-5-2,José Sánchez,Match Report,,Levante,2019,11.0,3.0,19.7,2.0,0,0
+31,2019-03-15,21:00,La Liga,Matchweek 28,Fri,Away,D,1,1,Real Sociedad,1.3,2.9,42.0,20605,José Luis Morales,5-3-2,4-3-3,Adrián Cordero,Match Report,,Levante,2019,8.0,3.0,15.0,0.0,0,0
+32,2019-03-31,12:00,La Liga,Matchweek 29,Sun,Home,D,2,2,Eibar,1.0,2.3,41.0,16179,José Luis Morales,3-1-4-2,4-4-2,Eduardo Prieto,Match Report,,Levante,2019,7.0,2.0,16.0,0.0,0,0
+33,2019-04-03,19:30,La Liga,Matchweek 30,Wed,Away,L,2,3,Athletic Club,1.5,1.8,60.0,36450,José Luis Morales,4-3-3,4-2-3-1,José Luis Munuera,Match Report,,Levante,2019,10.0,5.0,22.4,1.0,1,1
+34,2019-04-07,18:30,La Liga,Matchweek 31,Sun,Home,D,2,2,Huesca,2.4,1.3,55.0,19824,José Luis Morales,3-5-2,4-3-3,Carlos del Cerro,Match Report,,Levante,2019,13.0,7.0,20.6,1.0,1,1
+35,2019-04-14,20:45,La Liga,Matchweek 32,Sun,Away,L,1,3,Valencia,0.3,2.4,47.0,42120,José Luis Morales,3-1-4-2,4-4-2,Alberto Undiano,Match Report,,Levante,2019,6.0,3.0,21.2,0.0,0,0
+36,2019-04-21,12:00,La Liga,Matchweek 33,Sun,Home,D,2,2,Espanyol,1.8,2.1,51.0,16876,José Luis Morales,3-5-2,4-4-2,Jesús Gil,Match Report,,Levante,2019,19.0,5.0,16.5,0.0,0,0
+37,2019-04-24,21:30,La Liga,Matchweek 34,Wed,Home,W,4,0,Betis,1.4,0.4,32.0,20394,José Luis Morales,4-3-3,3-5-2,Santiago Jaime,Match Report,,Levante,2019,5.0,3.0,28.1,2.0,1,1
+38,2019-04-27,20:45,La Liga,Matchweek 35,Sat,Away,L,0,1,Barcelona,1.0,2.1,38.0,91917,Coke,4-1-4-1,4-3-3,Ricardo de Burgos,Match Report,,Levante,2019,7.0,2.0,17.7,2.0,0,0
+39,2019-05-04,13:00,La Liga,Matchweek 36,Sat,Home,W,4,1,Rayo Vallecano,2.8,1.7,35.0,19868,José Luis Morales,4-3-3,4-2-3-1,Javier Estrada,Match Report,,Levante,2019,10.0,6.0,14.1,0.0,0,1
+40,2019-05-12,18:30,La Liga,Matchweek 37,Sun,Away,W,2,1,Girona,0.7,1.9,41.0,13342,José Luis Morales,4-3-3,4-2-3-1,Carlos del Cerro,Match Report,,Levante,2019,7.0,3.0,21.3,1.0,0,0
+41,2019-05-18,13:00,La Liga,Matchweek 38,Sat,Home,D,2,2,Atlético Madrid,2.7,1.9,47.0,20575,Pedro López Muñoz,3-5-2,4-4-2,Ignacio Iglesias,Match Report,,Levante,2019,17.0,7.0,16.5,2.0,0,0
+0,2018-08-17,20:15,La Liga,Matchweek 1,Fri,Away,D,0,0,Girona,0.0,0.7,33.0,10368,Javi Moyano,4-2-3-1,4-3-3,Guillermo Cuadra,Match Report,,Valladolid,2019,2.0,1.0,30.8,0.0,0,0
+1,2018-08-25,22:15,La Liga,Matchweek 2,Sat,Home,L,0,1,Barcelona,0.4,1.0,36.0,22651,Javi Moyano,4-3-1-2,4-3-3,Ricardo de Burgos,Match Report,,Valladolid,2019,7.0,4.0,21.3,0.0,0,0
+2,2018-08-31,20:00,La Liga,Matchweek 3,Fri,Away,D,0,0,Getafe,0.9,1.2,46.0,9817,Javi Moyano,4-2-3-1,4-4-2,Adrián Cordero,Match Report,,Valladolid,2019,7.0,4.0,21.0,0.0,0,0
+3,2018-09-16,18:30,La Liga,Matchweek 4,Sun,Home,L,0,1,Alavés,1.1,0.8,58.0,18873,Javi Moyano,4-2-3-1,4-4-2,José Luis Munuera,Match Report,,Valladolid,2019,15.0,5.0,23.5,4.0,0,0
+4,2018-09-22,16:15,La Liga,Matchweek 5,Sat,Away,D,3,3,Celta Vigo,2.1,1.9,53.0,16552,Javi Moyano,4-1-4-1,4-4-2,Eduardo Prieto,Match Report,,Valladolid,2019,14.0,4.0,18.9,0.0,0,0
+5,2018-09-27,20:00,La Liga,Matchweek 6,Thu,Home,W,2,1,Levante,1.0,0.8,64.0,16440,Javi Moyano,4-4-2,4-4-2,David Medié,Match Report,,Valladolid,2019,20.0,6.0,21.3,0.0,0,0
+6,2018-09-30,16:15,La Liga,Matchweek 7,Sun,Away,W,1,0,Villarreal,0.8,2.8,38.0,15602,Javi Moyano,4-4-2,4-4-2,Ignacio Iglesias,Match Report,,Valladolid,2019,9.0,3.0,18.3,0.0,0,0
+7,2018-10-07,12:00,La Liga,Matchweek 8,Sun,Home,W,1,0,Huesca,0.8,0.6,43.0,17300,Javi Moyano,4-4-2,4-1-4-1,Antonio Matéu Lahoz,Match Report,,Valladolid,2019,9.0,3.0,22.1,2.0,0,0
+8,2018-10-21,20:45,La Liga,Matchweek 9,Sun,Away,W,1,0,Betis,0.4,0.9,38.0,42581,Javi Moyano,4-4-2,3-4-3,Alberola Rojas,Match Report,,Valladolid,2019,6.0,2.0,23.6,1.0,0,0
+9,2018-10-26,21:00,La Liga,Matchweek 10,Fri,Home,D,1,1,Espanyol,1.1,0.5,55.0,18231,Javi Moyano,4-4-2,4-3-3,Adrián Cordero,Match Report,,Valladolid,2019,15.0,2.0,20.0,1.0,0,0
+11,2018-11-03,16:15,La Liga,Matchweek 11,Sat,Away,L,0,2,Real Madrid,0.9,2.2,42.0,68050,Javi Moyano,4-4-2,4-3-3,Jesús Gil,Match Report,,Valladolid,2019,12.0,2.0,18.9,1.0,0,0
+12,2018-11-10,13:00,La Liga,Matchweek 12,Sat,Home,D,0,0,Eibar,0.5,1.1,51.0,16038,Javi Moyano,4-2-3-1,4-2-3-1,Guillermo Cuadra,Match Report,,Valladolid,2019,9.0,1.0,22.2,1.0,0,0
+13,2018-11-25,16:15,La Liga,Matchweek 13,Sun,Away,L,0,1,Sevilla,0.7,1.3,51.0,34064,Borja Fernández,4-3-3,3-4-1-2,Carlos del Cerro,Match Report,,Valladolid,2019,13.0,5.0,20.0,0.0,0,0
+14,2018-12-01,16:15,La Liga,Matchweek 14,Sat,Home,L,2,4,Leganés,1.7,1.7,67.0,16783,Míchel,4-2-3-1,5-3-2,David Medié,Match Report,,Valladolid,2019,21.0,6.0,19.1,1.0,0,0
+16,2018-12-09,18:30,La Liga,Matchweek 15,Sun,Away,W,2,1,Real Sociedad,1.0,2.4,32.0,23260,Míchel,4-4-2,4-2-3-1,Ignacio Iglesias,Match Report,,Valladolid,2019,10.0,6.0,19.4,0.0,0,0
+17,2018-12-15,16:15,La Liga,Matchweek 16,Sat,Home,L,2,3,Atlético Madrid,0.8,1.9,56.0,22585,Míchel,4-4-1-1,4-4-2,Alberto Undiano,Match Report,,Valladolid,2019,8.0,2.0,16.2,0.0,0,0
+18,2018-12-22,20:45,La Liga,Matchweek 17,Sat,Away,D,1,1,Athletic Club,0.6,1.1,57.0,42633,Javi Moyano,4-4-2,4-2-3-1,José Sánchez,Match Report,,Valladolid,2019,5.0,2.0,16.9,0.0,0,0
+19,2019-01-05,13:00,La Liga,Matchweek 18,Sat,Home,L,0,1,Rayo Vallecano,1.8,1.0,59.0,17261,Javi Moyano,4-4-2,5-4-1,Adrián Cordero,Match Report,,Valladolid,2019,11.0,4.0,22.2,3.0,0,1
+21,2019-01-12,16:15,La Liga,Matchweek 19,Sat,Away,D,1,1,Valencia,0.2,3.5,37.0,36912,Javi Moyano,4-4-2,4-4-2,Ignacio Iglesias,Match Report,,Valladolid,2019,6.0,1.0,27.9,1.0,0,0
+23,2019-01-20,18:30,La Liga,Matchweek 20,Sun,Away,L,0,2,Levante,1.5,1.5,51.0,19107,Javi Moyano,3-4-1-2,3-1-4-2,Santiago Jaime,Match Report,,Valladolid,2019,12.0,3.0,16.4,0.0,0,0
+24,2019-01-27,12:00,La Liga,Matchweek 21,Sun,Home,W,2,1,Celta Vigo,1.6,1.0,45.0,18416,Míchel,4-4-2,4-2-3-1,José Sánchez,Match Report,,Valladolid,2019,19.0,7.0,16.0,0.0,0,0
+25,2019-02-01,21:00,La Liga,Matchweek 22,Fri,Away,L,0,4,Huesca,0.5,1.9,57.0,6052,Borja Fernández,4-4-2,5-3-2,José Luis Munuera,Match Report,,Valladolid,2019,9.0,4.0,20.3,2.0,0,0
+26,2019-02-08,21:00,La Liga,Matchweek 23,Fri,Home,D,0,0,Villarreal,0.6,1.2,49.0,16842,Javi Moyano,4-4-2,3-1-4-2,Alejandro Hernández,Match Report,,Valladolid,2019,8.0,2.0,18.1,0.0,0,0
+27,2019-02-16,20:45,La Liga,Matchweek 24,Sat,Away,L,0,1,Barcelona,0.4,3.7,39.0,67435,Míchel,3-4-1-2,4-3-3,Juan Martínez,Match Report,,Valladolid,2019,10.0,0.0,21.5,0.0,0,0
+28,2019-02-24,18:30,La Liga,Matchweek 25,Sun,Home,L,0,2,Betis,0.6,0.8,49.0,20125,Míchel,4-4-2,3-4-3,Pablo González,Match Report,,Valladolid,2019,10.0,2.0,18.5,2.0,0,0
+29,2019-03-02,13:00,La Liga,Matchweek 26,Sat,Away,L,1,3,Espanyol,1.5,2.6,46.0,20467,Borja Fernández,3-4-1-2,4-3-3,Adrián Cordero,Match Report,,Valladolid,2019,13.0,2.0,19.0,0.0,0,1
+30,2019-03-10,20:45,La Liga,Matchweek 27,Sun,Home,L,1,4,Real Madrid,2.2,2.8,39.0,21914,Míchel,4-4-1-1,4-3-3,Jesús Gil,Match Report,,Valladolid,2019,9.0,2.0,16.7,1.0,0,1
+31,2019-03-17,12:00,La Liga,Matchweek 28,Sun,Away,W,2,1,Eibar,2.4,2.1,38.0,4508,Javi Moyano,4-4-1-1,4-2-2-2,David Medié,Match Report,,Valladolid,2019,7.0,2.0,16.1,0.0,1,1
+32,2019-03-31,18:30,La Liga,Matchweek 29,Sun,Home,D,1,1,Real Sociedad,2.5,0.9,41.0,18775,Javi Moyano,4-4-2,4-3-3,Alberola Rojas,Match Report,,Valladolid,2019,11.0,3.0,13.3,0.0,0,0
+33,2019-04-04,20:30,La Liga,Matchweek 30,Thu,Away,L,0,1,Leganés,0.8,1.7,44.0,10185,Míchel,3-4-3,3-5-2,Guillermo Cuadra,Match Report,,Valladolid,2019,8.0,1.0,20.8,0.0,0,0
+34,2019-04-07,16:15,La Liga,Matchweek 31,Sun,Home,L,0,2,Sevilla,1.4,2.1,39.0,17989,Javi Moyano,4-2-3-1,4-4-1-1,José Sánchez,Match Report,,Valladolid,2019,10.0,5.0,16.2,0.0,0,0
+35,2019-04-14,12:00,La Liga,Matchweek 32,Sun,Home,D,2,2,Getafe,1.5,1.6,59.0,16909,Javi Moyano,4-4-2,4-4-2,José Luis Munuera,Match Report,,Valladolid,2019,7.0,3.0,18.3,0.0,1,1
+36,2019-04-19,21:00,La Liga,Matchweek 33,Fri,Away,D,2,2,Alavés,2.0,1.3,54.0,13568,Borja Fernández,4-4-2,4-4-2,Javier Estrada,Match Report,,Valladolid,2019,11.0,6.0,18.0,0.0,1,1
+37,2019-04-23,20:30,La Liga,Matchweek 34,Tue,Home,W,1,0,Girona,0.9,0.6,51.0,19106,Javi Moyano,4-4-2,3-4-3,Juan Martínez,Match Report,,Valladolid,2019,13.0,4.0,22.3,0.0,0,0
+38,2019-04-27,16:15,La Liga,Matchweek 35,Sat,Away,L,0,1,Atlético Madrid,0.7,0.7,42.0,53123,Javi Moyano,4-4-2,4-4-2,Mario Melero,Match Report,,Valladolid,2019,13.0,4.0,16.9,0.0,0,0
+39,2019-05-05,18:30,La Liga,Matchweek 36,Sun,Home,W,1,0,Athletic Club,0.8,1.6,41.0,21151,Javi Moyano,4-4-2,4-2-3-1,Antonio Matéu Lahoz,Match Report,,Valladolid,2019,10.0,3.0,20.2,1.0,0,0
+40,2019-05-12,18:30,La Liga,Matchweek 37,Sun,Away,W,2,1,Rayo Vallecano,1.4,1.9,31.0,10040,Javi Moyano,4-4-2,4-2-3-1,José Sánchez,Match Report,,Valladolid,2019,8.0,5.0,25.2,1.0,1,1
+41,2019-05-18,16:15,La Liga,Matchweek 38,Sat,Home,L,0,2,Valencia,0.8,1.5,49.0,23455,Borja Fernández,4-2-3-1,4-4-2,Ricardo de Burgos,Match Report,,Valladolid,2019,19.0,4.0,19.2,2.0,0,0
+0,2018-08-18,18:15,La Liga,Matchweek 1,Sat,Home,D,1,1,Espanyol,0.6,0.6,48.0,16215,Hugo Mallo,4-2-3-1,4-3-3,Santiago Jaime,Match Report,,Celta-Vigo,2019,12.0,2.0,18.8,1.0,0,0
+1,2018-08-27,20:15,La Liga,Matchweek 2,Mon,Away,W,2,1,Levante,2.5,1.9,45.0,21122,Hugo Mallo,3-4-3,4-2-3-1,Alejandro Hernández,Match Report,,Celta-Vigo,2019,21.0,8.0,18.3,1.0,0,0
+2,2018-09-01,18:30,La Liga,Matchweek 3,Sat,Home,W,2,0,Atlético Madrid,0.5,0.4,50.0,19013,Hugo Mallo,3-4-3,4-4-2,Antonio Matéu Lahoz,Match Report,,Celta-Vigo,2019,10.0,4.0,16.6,0.0,0,0
+3,2018-09-17,21:00,La Liga,Matchweek 4,Mon,Away,L,2,3,Girona,1.0,1.7,67.0,9849,Hugo Mallo,3-4-3,3-4-3,Alberola Rojas,Match Report,,Celta-Vigo,2019,20.0,7.0,21.9,2.0,0,0
+4,2018-09-22,16:15,La Liga,Matchweek 5,Sat,Home,D,3,3,Valladolid,1.9,2.1,47.0,16552,Iago Aspas,4-4-2,4-1-4-1,Eduardo Prieto,Match Report,,Celta-Vigo,2019,12.0,5.0,14.6,0.0,0,0
+5,2018-09-26,22:00,La Liga,Matchweek 6,Wed,Away,D,1,1,Valencia,0.4,1.1,63.0,35945,Hugo Mallo,5-3-2,4-4-2,Ricardo de Burgos,Match Report,,Celta-Vigo,2019,9.0,3.0,21.9,2.0,0,0
+6,2018-10-01,21:00,La Liga,Matchweek 7,Mon,Home,D,1,1,Getafe,0.5,1.2,52.0,14330,Hugo Mallo,4-4-2,4-4-2,Guillermo Cuadra,Match Report,,Celta-Vigo,2019,8.0,2.0,16.1,0.0,0,0
+7,2018-10-07,18:30,La Liga,Matchweek 8,Sun,Away,L,1,2,Sevilla,0.7,1.8,48.0,38068,Hugo Mallo,3-4-3,3-5-1-1,Pablo González,Match Report,,Celta-Vigo,2019,12.0,5.0,18.0,0.0,0,0
+8,2018-10-19,21:00,La Liga,Matchweek 9,Fri,Home,L,0,1,Alavés,0.9,0.9,61.0,15627,Hugo Mallo,4-4-2,4-3-3,Carlos del Cerro,Match Report,,Celta-Vigo,2019,19.0,9.0,20.7,1.0,0,0
+9,2018-10-27,18:30,La Liga,Matchweek 10,Sat,Home,W,4,0,Eibar,0.8,1.7,40.0,15509,Hugo Mallo,4-2-3-1,4-4-2,José González,Match Report,,Celta-Vigo,2019,10.0,6.0,18.7,0.0,0,0
+11,2018-11-04,20:45,La Liga,Matchweek 11,Sun,Away,D,3,3,Betis,2.1,1.7,43.0,42130,Hugo Mallo,4-4-2,3-4-3,Javier Estrada,Match Report,,Celta-Vigo,2019,15.0,8.0,16.8,2.0,0,0
+12,2018-11-11,20:45,La Liga,Matchweek 12,Sun,Home,L,2,4,Real Madrid,0.9,2.5,52.0,21184,Hugo Mallo,4-4-2,4-3-3,Alberto Undiano,Match Report,,Celta-Vigo,2019,16.0,4.0,18.2,0.0,0,0
+13,2018-11-26,21:00,La Liga,Matchweek 13,Mon,Away,L,1,2,Real Sociedad,0.5,1.9,51.0,17744,Iago Aspas,4-2-3-1,4-4-2,Mario Melero,Match Report,,Celta-Vigo,2019,6.0,2.0,21.4,0.0,0,0
+14,2018-12-01,13:00,La Liga,Matchweek 14,Sat,Home,W,2,0,Huesca,2.3,1.2,58.0,13463,Hugo Mallo,4-4-2,4-2-3-1,Adrián Cordero,Match Report,,Celta-Vigo,2019,12.0,5.0,14.3,0.0,0,0
+16,2018-12-08,18:30,La Liga,Matchweek 15,Sat,Away,W,3,2,Villarreal,2.0,1.6,47.0,15720,Hugo Mallo,4-4-2,4-1-2-1-2,Jesús Gil,Match Report,,Celta-Vigo,2019,14.0,7.0,13.8,0.0,0,0
+17,2018-12-14,21:00,La Liga,Matchweek 16,Fri,Home,D,0,0,Leganés,1.2,0.7,80.0,15134,Hugo Mallo,4-4-2,5-3-2,José Luis Munuera,Match Report,,Celta-Vigo,2019,15.0,2.0,19.1,1.0,0,0
+18,2018-12-22,18:30,La Liga,Matchweek 17,Sat,Away,L,0,2,Barcelona,0.6,1.4,48.0,78686,Hugo Mallo,4-4-2,4-3-3,Eduardo Prieto,Match Report,,Celta-Vigo,2019,11.0,1.0,17.8,0.0,0,0
+19,2019-01-07,21:00,La Liga,Matchweek 18,Mon,Home,L,1,2,Athletic Club,1.5,1.8,65.0,13266,Hugo Mallo,4-2-3-1,4-2-3-1,Juan Martínez,Match Report,,Celta-Vigo,2019,17.0,3.0,16.5,2.0,0,0
+20,2019-01-11,21:00,La Liga,Matchweek 19,Fri,Away,L,2,4,Rayo Vallecano,1.3,2.0,60.0,11465,Hugo Mallo,4-1-4-1,3-5-2,Alberola Rojas,Match Report,,Celta-Vigo,2019,12.0,3.0,20.0,1.0,1,1
+21,2019-01-19,20:45,La Liga,Matchweek 20,Sat,Home,L,1,2,Valencia,0.8,1.2,56.0,15668,Hugo Mallo,4-2-3-1,4-4-2,José González,Match Report,,Celta-Vigo,2019,12.0,4.0,23.1,1.0,0,0
+22,2019-01-27,12:00,La Liga,Matchweek 21,Sun,Away,L,1,2,Valladolid,1.0,1.6,55.0,18416,Hugo Mallo,4-2-3-1,4-4-2,José Sánchez,Match Report,,Celta-Vigo,2019,9.0,3.0,19.1,1.0,0,0
+23,2019-02-02,20:45,La Liga,Matchweek 22,Sat,Home,W,1,0,Sevilla,1.0,0.9,44.0,17503,Hugo Mallo,4-1-4-1,3-1-4-2,Ricardo de Burgos,Match Report,,Celta-Vigo,2019,10.0,4.0,22.5,0.0,0,0
+24,2019-02-09,13:00,La Liga,Matchweek 23,Sat,Away,L,1,3,Getafe,0.9,2.7,51.0,9918,Hugo Mallo,3-4-3,4-4-2,Pablo González,Match Report,,Celta-Vigo,2019,13.0,3.0,12.6,1.0,0,0
+25,2019-02-16,13:00,La Liga,Matchweek 24,Sat,Home,L,1,4,Levante,1.6,2.8,58.0,15479,Hugo Mallo,4-2-3-1,3-5-2,Santiago Jaime,Match Report,,Celta-Vigo,2019,13.0,6.0,23.4,0.0,1,1
+26,2019-02-23,18:30,La Liga,Matchweek 25,Sat,Away,D,0,0,Alavés,0.5,1.4,52.0,18882,Hugo Mallo,3-4-3,4-3-3,Carlos del Cerro,Match Report,,Celta-Vigo,2019,8.0,2.0,17.6,0.0,0,0
+27,2019-03-03,12:00,La Liga,Matchweek 26,Sun,Away,L,0,1,Eibar,0.5,2.5,38.0,4682,Hugo Mallo,5-4-1,4-4-2,Guillermo Cuadra,Match Report,,Celta-Vigo,2019,3.0,1.0,16.4,0.0,0,0
+28,2019-03-10,12:00,La Liga,Matchweek 27,Sun,Home,L,0,1,Betis,0.4,1.2,38.0,18005,Hugo Mallo,4-4-1-1,3-1-4-2,Javier Estrada,Match Report,,Celta-Vigo,2019,7.0,1.0,17.1,0.0,0,0
+29,2019-03-16,16:15,La Liga,Matchweek 28,Sat,Away,L,0,2,Real Madrid,0.4,2.5,46.0,65054,Rubén Blanco,4-2-3-1,4-2-3-1,Juan Martínez,Match Report,,Celta-Vigo,2019,6.0,1.0,20.0,0.0,0,0
+30,2019-03-30,18:30,La Liga,Matchweek 29,Sat,Home,W,3,2,Villarreal,1.8,2.5,63.0,22315,Hugo Mallo,4-4-2,3-4-3,Jesús Gil,Match Report,,Celta-Vigo,2019,14.0,5.0,19.5,1.0,1,1
+31,2019-04-03,20:30,La Liga,Matchweek 30,Wed,Away,D,3,3,Huesca,2.0,3.3,47.0,6552,Hugo Mallo,4-4-2,5-3-2,Adrián Cordero,Match Report,,Celta-Vigo,2019,11.0,5.0,15.4,2.0,0,0
+32,2019-04-07,18:30,La Liga,Matchweek 31,Sun,Home,W,3,1,Real Sociedad,3.0,1.4,48.0,20519,Hugo Mallo,4-1-3-2,4-4-2,Mario Melero,Match Report,,Celta-Vigo,2019,10.0,3.0,14.2,0.0,1,1
+33,2019-04-13,18:30,La Liga,Matchweek 32,Sat,Away,L,0,2,Atlético Madrid,0.5,1.5,44.0,55269,Hugo Mallo,4-2-3-1,4-4-2,Ricardo de Burgos,Match Report,,Celta-Vigo,2019,10.0,3.0,17.9,0.0,0,0
+34,2019-04-20,13:00,La Liga,Matchweek 33,Sat,Home,W,2,1,Girona,1.8,0.4,62.0,20546,Hugo Mallo,4-4-2,4-2-3-1,Carlos del Cerro,Match Report,,Celta-Vigo,2019,13.0,8.0,15.6,0.0,0,0
+35,2019-04-24,20:30,La Liga,Matchweek 34,Wed,Away,D,1,1,Espanyol,2.7,2.2,52.0,15680,Hugo Mallo,4-4-2,4-4-2,Alberto Undiano,Match Report,,Celta-Vigo,2019,18.0,6.0,13.7,1.0,0,0
+36,2019-04-27,18:30,La Liga,Matchweek 35,Sat,Away,D,0,0,Leganés,0.3,0.5,52.0,10324,Hugo Mallo,4-4-2,3-1-4-2,Juan Martínez,Match Report,,Celta-Vigo,2019,8.0,1.0,23.9,0.0,0,0
+37,2019-05-04,20:45,La Liga,Matchweek 36,Sat,Home,W,2,0,Barcelona,1.9,0.5,35.0,22519,Hugo Mallo,4-4-2,4-3-3,José Sánchez,Match Report,,Celta-Vigo,2019,13.0,5.0,16.0,1.0,1,1
+38,2019-05-12,18:30,La Liga,Matchweek 37,Sun,Away,L,1,3,Athletic Club,1.1,2.1,48.0,42494,Hugo Mallo,4-4-2,4-2-3-1,Javier Estrada,Match Report,,Celta-Vigo,2019,3.0,1.0,16.1,0.0,1,1
+39,2019-05-18,20:45,La Liga,Matchweek 38,Sat,Home,D,2,2,Rayo Vallecano,2.1,1.4,46.0,21607,Hugo Mallo,4-4-2,4-2-3-1,Antonio Matéu Lahoz,Match Report,,Celta-Vigo,2019,13.0,4.0,17.1,1.0,1,1
+0,2018-08-17,20:15,La Liga,Matchweek 1,Fri,Home,D,0,0,Valladolid,0.7,0.0,67.0,10368,Álex Granell,4-3-3,4-2-3-1,Guillermo Cuadra,Match Report,,Girona,2019,13.0,1.0,20.9,0.0,0,0
+1,2018-08-26,22:15,La Liga,Matchweek 2,Sun,Home,L,1,4,Real Madrid,0.4,3.9,34.0,13889,Álex Granell,4-3-3,4-2-3-1,Juan Martínez,Match Report,,Girona,2019,10.0,5.0,20.3,0.0,0,0
+2,2018-08-31,22:00,La Liga,Matchweek 3,Fri,Away,W,1,0,Villarreal,1.0,1.1,35.0,15740,Álex Granell,3-4-3,4-1-2-1-2,Eduardo Prieto,Match Report,,Girona,2019,14.0,6.0,21.3,1.0,0,0
+3,2018-09-17,21:00,La Liga,Matchweek 4,Mon,Home,W,3,2,Celta Vigo,1.7,1.0,33.0,9849,Álex Granell,3-4-3,3-4-3,Alberola Rojas,Match Report,,Girona,2019,11.0,6.0,16.3,1.0,0,0
+4,2018-09-23,20:45,La Liga,Matchweek 5,Sun,Away,D,2,2,Barcelona,1.5,1.4,33.0,76055,Álex Granell,5-3-2,4-3-3,Jesús Gil,Match Report,,Girona,2019,7.0,5.0,15.6,1.0,0,0
+5,2018-09-27,22:00,La Liga,Matchweek 6,Thu,Home,L,0,1,Betis,0.8,1.6,36.0,11358,Álex Granell,3-4-3,3-4-3,José González,Match Report,,Girona,2019,8.0,2.0,25.0,1.0,0,0
+6,2018-09-30,12:00,La Liga,Matchweek 7,Sun,Away,D,1,1,Huesca,1.7,1.5,48.0,6779,Aday,4-4-2,4-2-3-1,Adrián Cordero,Match Report,,Girona,2019,12.0,2.0,24.0,1.0,1,1
+7,2018-10-06,13:00,La Liga,Matchweek 8,Sat,Home,L,2,3,Eibar,1.2,1.7,52.0,10569,Álex Granell,3-5-2,4-4-2,Eduardo Prieto,Match Report,,Girona,2019,10.0,3.0,20.0,1.0,0,0
+8,2018-10-22,21:00,La Liga,Matchweek 9,Mon,Away,D,0,0,Real Sociedad,0.9,0.6,46.0,20997,Aday,3-4-3,4-4-2,Pablo González,Match Report,,Girona,2019,12.0,2.0,21.3,1.0,0,0
+9,2018-10-27,13:00,La Liga,Matchweek 10,Sat,Home,W,2,1,Rayo Vallecano,2.4,1.6,44.0,6618,Aday,3-4-3,4-3-3,José Luis Munuera,Match Report,,Girona,2019,13.0,5.0,20.0,0.0,1,1
+11,2018-11-03,18:30,La Liga,Matchweek 11,Sat,Away,W,1,0,Valencia,0.3,2.3,46.0,38745,Pere Pons,3-4-3,4-4-2,Alberola Rojas,Match Report,,Girona,2019,5.0,3.0,20.1,2.0,0,0
+12,2018-11-10,20:45,La Liga,Matchweek 12,Sat,Home,D,0,0,Leganés,0.4,1.1,59.0,9874,Cristhian Stuani,3-4-3,3-4-3,Adrián Cordero,Match Report,,Girona,2019,5.0,0.0,18.1,0.0,0,0
+13,2018-11-25,18:30,La Liga,Matchweek 13,Sun,Away,W,3,1,Espanyol,2.2,2.4,39.0,22716,Cristhian Stuani,3-4-3,4-3-3,Alejandro Hernández,Match Report,,Girona,2019,16.0,10.0,17.7,1.0,0,0
+14,2018-12-02,16:15,La Liga,Matchweek 14,Sun,Home,D,1,1,Atlético Madrid,1.5,1.6,44.0,12104,Álex Granell,3-4-3,4-4-2,Ricardo de Burgos,Match Report,,Girona,2019,12.0,2.0,20.4,2.0,1,1
+16,2018-12-10,21:00,La Liga,Matchweek 15,Mon,Away,L,0,1,Athletic Club,0.2,2.1,48.0,34060,Álex Granell,3-4-3,4-2-3-1,Eduardo Prieto,Match Report,,Girona,2019,3.0,1.0,17.1,0.0,0,0
+17,2018-12-16,12:00,La Liga,Matchweek 16,Sun,Away,L,0,2,Sevilla,1.0,2.1,50.0,33542,Cristhian Stuani,3-1-4-2,3-1-4-2,Guillermo Cuadra,Match Report,,Girona,2019,7.0,2.0,18.4,0.0,0,0
+18,2018-12-21,19:30,La Liga,Matchweek 17,Fri,Home,D,1,1,Getafe,1.4,0.6,66.0,8450,Álex Granell,3-4-3,4-4-2,Alberola Rojas,Match Report,,Girona,2019,12.0,4.0,14.2,0.0,0,0
+19,2019-01-04,19:00,La Liga,Matchweek 18,Fri,Away,D,2,2,Levante,1.4,1.6,44.0,19415,Álex Granell,3-5-2,3-5-2,Alberto Undiano,Match Report,,Girona,2019,9.0,2.0,13.6,2.0,0,0
+21,2019-01-12,18:30,La Liga,Matchweek 19,Sat,Home,D,1,1,Alavés,0.6,1.1,56.0,10303,Álex Granell,3-4-3,4-4-2,José Sánchez,Match Report,,Girona,2019,9.0,4.0,15.2,0.0,0,0
+23,2019-01-20,12:00,La Liga,Matchweek 20,Sun,Away,L,2,3,Betis,0.8,1.4,41.0,47218,Pedro Alcalá,3-4-3,3-5-2,Adrián Cordero,Match Report,,Girona,2019,8.0,5.0,19.6,0.0,0,0
+25,2019-01-27,16:15,La Liga,Matchweek 21,Sun,Home,L,0,2,Barcelona,1.3,2.2,36.0,14021,Álex Granell,3-5-2,4-3-3,Pablo González,Match Report,,Girona,2019,13.0,4.0,16.7,0.0,0,0
+27,2019-02-03,18:30,La Liga,Matchweek 22,Sun,Away,L,0,3,Eibar,0.2,1.7,44.0,4419,Álex Granell,3-5-2,4-4-2,José González,Match Report,,Girona,2019,6.0,2.0,21.7,0.0,0,0
+28,2019-02-09,20:45,La Liga,Matchweek 23,Sat,Home,L,0,2,Huesca,1.4,0.6,66.0,10662,Cristhian Stuani,3-4-3,3-1-4-2,Adrián Cordero,Match Report,,Girona,2019,13.0,7.0,14.5,0.0,0,0
+29,2019-02-17,12:00,La Liga,Matchweek 24,Sun,Away,W,2,1,Real Madrid,2.6,1.8,43.0,68099,Álex Granell,4-1-4-1,4-3-3,Guillermo Cuadra,Match Report,,Girona,2019,13.0,5.0,17.6,1.0,1,1
+30,2019-02-25,21:00,La Liga,Matchweek 25,Mon,Home,D,0,0,Real Sociedad,1.0,0.5,46.0,10170,Álex Granell,4-3-2-1,4-2-3-1,Eduardo Prieto,Match Report,,Girona,2019,10.0,3.0,19.3,1.0,0,0
+31,2019-03-01,21:00,La Liga,Matchweek 26,Fri,Away,W,2,0,Rayo Vallecano,1.3,0.8,45.0,12087,Álex Granell,4-3-2-1,4-2-3-1,Santiago Jaime,Match Report,,Girona,2019,12.0,4.0,18.4,2.0,0,0
+32,2019-03-10,16:15,La Liga,Matchweek 27,Sun,Home,L,2,3,Valencia,2.3,1.2,59.0,11502,Álex Granell,4-3-2-1,4-4-2,Carlos del Cerro,Match Report,,Girona,2019,16.0,6.0,17.6,1.0,1,1
+33,2019-03-16,20:45,La Liga,Matchweek 28,Sat,Away,W,2,0,Leganés,1.5,0.6,46.0,9873,Álex Granell,4-2-3-1,3-5-2,José Luis Munuera,Match Report,,Girona,2019,8.0,4.0,18.7,1.0,0,0
+34,2019-03-29,21:00,La Liga,Matchweek 29,Fri,Home,L,1,2,Athletic Club,0.4,1.0,49.0,10652,Álex Granell,4-1-4-1,4-2-3-1,José Sánchez,Match Report,,Girona,2019,6.0,2.0,22.2,0.0,0,0
+35,2019-04-02,19:30,La Liga,Matchweek 30,Tue,Away,L,0,2,Atlético Madrid,0.8,2.5,51.0,40863,Pedro Alcalá,4-1-4-1,3-1-4-2,Ignacio Iglesias,Match Report,,Girona,2019,12.0,4.0,19.0,0.0,0,0
+36,2019-04-06,13:00,La Liga,Matchweek 31,Sat,Home,L,1,2,Espanyol,1.5,0.4,56.0,11463,Álex Granell,4-2-3-1,4-4-2,Eduardo Prieto,Match Report,,Girona,2019,13.0,4.0,19.4,0.0,1,1
+37,2019-04-14,18:30,La Liga,Matchweek 32,Sun,Home,L,0,1,Villarreal,1.3,1.4,58.0,11535,Cristhian Stuani,4-2-3-1,4-2-3-1,Adrián Cordero,Match Report,,Girona,2019,14.0,5.0,12.8,0.0,0,0
+38,2019-04-20,13:00,La Liga,Matchweek 33,Sat,Away,L,1,2,Celta Vigo,0.4,1.8,38.0,20546,Cristhian Stuani,4-2-3-1,4-4-2,Carlos del Cerro,Match Report,,Girona,2019,9.0,1.0,21.6,0.0,0,0
+39,2019-04-23,20:30,La Liga,Matchweek 34,Tue,Away,L,0,1,Valladolid,0.6,0.9,49.0,19106,Álex Granell,3-4-3,4-4-2,Juan Martínez,Match Report,,Girona,2019,5.0,0.0,11.5,0.0,0,0
+40,2019-04-28,14:00,La Liga,Matchweek 35,Sun,Home,W,1,0,Sevilla,1.0,0.6,43.0,11281,Álex Granell,4-3-3,4-2-3-1,José González,Match Report,,Girona,2019,15.0,4.0,18.5,0.0,0,0
+41,2019-05-05,12:00,La Liga,Matchweek 36,Sun,Away,L,0,2,Getafe,0.7,2.0,58.0,10615,Álex Granell,4-3-3,4-1-3-2,Alejandro Hernández,Match Report,,Girona,2019,4.0,2.0,12.4,0.0,0,0
+42,2019-05-12,18:30,La Liga,Matchweek 37,Sun,Home,L,1,2,Levante,1.9,0.7,59.0,13342,Álex Granell,4-2-3-1,4-3-3,Carlos del Cerro,Match Report,,Girona,2019,14.0,6.0,14.2,0.0,0,0
+43,2019-05-18,20:45,La Liga,Matchweek 38,Sat,Away,L,1,2,Alavés,1.0,1.3,56.0,11549,Álex Granell,4-3-1-2,4-1-4-1,Mario Melero,Match Report,,Girona,2019,13.0,4.0,20.1,1.0,0,0
+0,2018-08-19,18:15,La Liga,Matchweek 1,Sun,Away,W,2,1,Eibar,1.7,1.3,32.0,4234,Gonzalo Melero,4-4-2,4-4-2,Eduardo Prieto,Match Report,,Huesca,2019,8.0,6.0,25.6,1.0,0,0
+1,2018-08-27,22:00,La Liga,Matchweek 2,Mon,Away,D,2,2,Athletic Club,0.3,0.6,41.0,36818,Gonzalo Melero,4-4-2,4-1-4-1,Alberola Rojas,Match Report,,Huesca,2019,9.0,4.0,24.4,0.0,0,0
+2,2018-09-02,18:30,La Liga,Matchweek 3,Sun,Away,L,2,8,Barcelona,1.7,5.3,32.0,72892,Gonzalo Melero,4-4-2,4-3-3,Mario Melero,Match Report,,Huesca,2019,7.0,3.0,16.1,0.0,0,0
+3,2018-09-14,21:00,La Liga,Matchweek 4,Fri,Home,L,0,1,Rayo Vallecano,1.7,1.2,55.0,6498,Gonzalo Melero,4-4-2,4-2-3-1,David Medié,Match Report,,Huesca,2019,14.0,4.0,17.1,0.0,0,0
+4,2018-09-21,21:00,La Liga,Matchweek 5,Fri,Home,L,0,1,Real Sociedad,0.6,0.2,48.0,6948,Gonzalo Melero,4-2-3-1,4-3-3,Ignacio Iglesias,Match Report,,Huesca,2019,13.0,3.0,20.5,1.0,0,0
+5,2018-09-25,22:00,La Liga,Matchweek 6,Tue,Away,L,0,3,Atlético Madrid,0.9,0.9,42.0,47023,Gonzalo Melero,4-4-2,4-4-2,Pablo González,Match Report,,Huesca,2019,8.0,1.0,18.1,0.0,0,0
+6,2018-09-30,12:00,La Liga,Matchweek 7,Sun,Home,D,1,1,Girona,1.5,1.7,52.0,6779,Gonzalo Melero,4-2-3-1,4-4-2,Adrián Cordero,Match Report,,Huesca,2019,12.0,5.0,19.7,0.0,1,1
+7,2018-10-07,12:00,La Liga,Matchweek 8,Sun,Away,L,0,1,Valladolid,0.6,0.8,57.0,17300,Lluís Sastre,4-1-4-1,4-4-2,Antonio Matéu Lahoz,Match Report,,Huesca,2019,11.0,1.0,19.6,0.0,0,0
+8,2018-10-21,18:30,La Liga,Matchweek 9,Sun,Home,L,0,2,Espanyol,0.4,1.7,53.0,6943,Jorge Pulido,4-4-2,4-3-3,Eduardo Prieto,Match Report,,Huesca,2019,10.0,2.0,20.4,0.0,0,0
+9,2018-10-28,20:45,La Liga,Matchweek 10,Sun,Away,L,1,2,Sevilla,0.8,1.7,38.0,33022,Xabier Etxeita,3-4-3,3-4-1-2,David Medié,Match Report,,Huesca,2019,11.0,2.0,19.5,0.0,0,0
+10,2018-11-04,18:30,La Liga,Matchweek 11,Sun,Home,D,1,1,Getafe,1.3,0.5,53.0,6420,Xabier Etxeita,5-4-1,4-4-2,Juan Martínez,Match Report,,Huesca,2019,18.0,7.0,14.3,0.0,0,0
+11,2018-11-11,12:00,La Liga,Matchweek 12,Sun,Away,L,1,2,Alavés,0.9,1.3,50.0,18437,Jorge Miramón,5-4-1,4-4-2,José Luis Munuera,Match Report,,Huesca,2019,9.0,2.0,15.4,0.0,0,0
+12,2018-11-24,18:30,La Liga,Matchweek 13,Sat,Home,D,2,2,Levante,2.8,1.0,50.0,6459,Xabier Etxeita,4-2-3-1,3-4-1-2,Javier Estrada,Match Report,,Huesca,2019,32.0,12.0,18.8,0.0,0,0
+14,2018-12-01,13:00,La Liga,Matchweek 14,Sat,Away,L,0,2,Celta Vigo,1.2,2.3,42.0,13463,Xabier Etxeita,4-2-3-1,4-4-2,Adrián Cordero,Match Report,,Huesca,2019,8.0,3.0,15.5,0.0,0,0
+16,2018-12-09,16:15,La Liga,Matchweek 15,Sun,Home,L,0,1,Real Madrid,1.2,0.4,45.0,7341,Xabier Etxeita,4-2-3-1,4-1-4-1,Mario Melero,Match Report,,Huesca,2019,11.0,3.0,16.4,0.0,0,0
+17,2018-12-16,18:30,La Liga,Matchweek 16,Sun,Home,D,2,2,Villarreal,4.2,1.7,55.0,6455,Gonzalo Melero,4-1-4-1,4-4-2,David Medié,Match Report,,Huesca,2019,27.0,10.0,18.6,1.0,1,2
+18,2018-12-23,12:00,La Liga,Matchweek 17,Sun,Away,L,1,2,Valencia,2.3,3.2,51.0,36547,Gonzalo Melero,4-1-4-1,4-4-2,Jesús Gil,Match Report,,Huesca,2019,10.0,3.0,19.8,1.0,1,1
+19,2019-01-05,20:45,La Liga,Matchweek 18,Sat,Home,W,2,1,Betis,1.5,1.1,34.0,6135,Gonzalo Melero,4-1-4-1,3-5-2,Ricardo de Burgos,Match Report,,Huesca,2019,11.0,6.0,16.5,0.0,0,0
+20,2019-01-12,13:00,La Liga,Matchweek 19,Sat,Away,L,0,1,Leganés,0.5,2.0,50.0,10341,Gonzalo Melero,4-3-3,5-3-2,Mario Melero,Match Report,,Huesca,2019,9.0,2.0,21.4,0.0,0,0
+21,2019-01-19,18:30,La Liga,Matchweek 20,Sat,Home,L,0,3,Atlético Madrid,1.3,2.5,51.0,7106,Xabier Etxeita,4-1-4-1,4-4-2,Guillermo Cuadra,Match Report,,Huesca,2019,14.0,3.0,15.0,1.0,0,0
+22,2019-01-27,18:30,La Liga,Matchweek 21,Sun,Away,D,0,0,Real Sociedad,0.4,0.4,32.0,21252,Xabier Etxeita,5-3-2,4-2-3-1,Eduardo Prieto,Match Report,,Huesca,2019,8.0,1.0,21.3,0.0,0,0
+23,2019-02-01,21:00,La Liga,Matchweek 22,Fri,Home,W,4,0,Valladolid,1.9,0.5,43.0,6052,Xabier Etxeita,5-3-2,4-4-2,José Luis Munuera,Match Report,,Huesca,2019,11.0,7.0,16.7,1.0,0,0
+24,2019-02-09,20:45,La Liga,Matchweek 23,Sat,Away,W,2,0,Girona,0.6,1.4,34.0,10662,Xabier Etxeita,3-1-4-2,3-4-3,Adrián Cordero,Match Report,,Huesca,2019,6.0,6.0,21.7,0.0,0,0
+25,2019-02-18,21:00,La Liga,Matchweek 24,Mon,Home,L,0,1,Athletic Club,1.2,1.4,50.0,6729,Xabier Etxeita,3-5-2,4-2-3-1,José Sánchez,Match Report,,Huesca,2019,12.0,2.0,14.2,1.0,0,0
+26,2019-02-22,21:00,La Liga,Matchweek 25,Fri,Away,D,1,1,Espanyol,0.8,0.8,33.0,20078,Xabier Etxeita,3-5-2,4-1-4-1,Alejandro Hernández,Match Report,,Huesca,2019,12.0,4.0,20.2,2.0,0,0
+27,2019-03-02,18:30,La Liga,Matchweek 26,Sat,Home,W,2,1,Sevilla,1.0,2.3,29.0,6818,Xabier Etxeita,3-4-3,3-4-3,Ricardo de Burgos,Match Report,,Huesca,2019,7.0,3.0,13.3,0.0,0,0
+28,2019-03-09,20:45,La Liga,Matchweek 27,Sat,Away,L,1,2,Getafe,0.9,1.4,43.0,10882,Xabier Etxeita,3-1-4-2,4-4-2,Eduardo Prieto,Match Report,,Huesca,2019,7.0,1.0,15.7,0.0,0,0
+29,2019-03-16,13:00,La Liga,Matchweek 28,Sat,Home,L,1,3,Alavés,1.5,2.3,54.0,6811,Jorge Pulido,5-3-2,4-4-2,Alberto Undiano,Match Report,,Huesca,2019,6.0,0.0,18.7,0.0,1,1
+30,2019-03-31,20:45,La Liga,Matchweek 29,Sun,Away,L,2,3,Real Madrid,1.7,4.1,30.0,49269,Xabier Etxeita,5-3-2,4-3-3,Javier Estrada,Match Report,,Huesca,2019,15.0,3.0,16.5,2.0,0,0
+31,2019-04-03,20:30,La Liga,Matchweek 30,Wed,Home,D,3,3,Celta Vigo,3.3,2.0,53.0,6552,Xabier Etxeita,5-3-2,4-4-2,Adrián Cordero,Match Report,,Huesca,2019,22.0,6.0,13.2,1.0,0,0
+32,2019-04-07,18:30,La Liga,Matchweek 31,Sun,Away,D,2,2,Levante,1.3,2.4,45.0,19824,Jorge Pulido,4-3-3,3-5-2,Carlos del Cerro,Match Report,,Huesca,2019,17.0,4.0,14.1,1.0,0,0
+33,2019-04-13,16:15,La Liga,Matchweek 32,Sat,Home,D,0,0,Barcelona,0.2,1.1,27.0,7332,Xabier Etxeita,4-1-4-1,3-1-4-2,Guillermo Cuadra,Match Report,,Huesca,2019,6.0,1.0,20.7,0.0,0,0
+34,2019-04-20,18:30,La Liga,Matchweek 33,Sat,Away,D,0,0,Rayo Vallecano,1.1,1.2,45.0,10542,Gonzalo Melero,4-2-3-1,4-1-4-1,José González,Match Report,,Huesca,2019,10.0,3.0,20.4,0.0,0,0
+35,2019-04-23,19:30,La Liga,Matchweek 34,Tue,Home,W,2,0,Eibar,1.0,0.8,48.0,6157,Xabier Etxeita,4-4-2,4-4-2,David Medié,Match Report,,Huesca,2019,12.0,3.0,17.4,0.0,0,0
+36,2019-04-28,18:30,La Liga,Matchweek 35,Sun,Away,D,1,1,Villarreal,1.4,1.0,53.0,17901,Jorge Pulido,4-2-3-1,4-2-3-1,José Sánchez,Match Report,,Huesca,2019,14.0,3.0,12.1,0.0,0,0
+37,2019-05-05,20:45,La Liga,Matchweek 36,Sun,Home,L,2,6,Valencia,3.1,2.4,52.0,6378,Xabier Etxeita,4-3-3,4-4-2,Carlos del Cerro,Match Report,,Huesca,2019,23.0,3.0,18.9,2.0,1,1
+38,2019-05-12,18:30,La Liga,Matchweek 37,Sun,Away,L,1,2,Betis,1.3,2.2,38.0,28078,Gonzalo Melero,4-2-3-1,4-2-3-1,Adrián Cordero,Match Report,,Huesca,2019,8.0,1.0,25.6,2.0,1,1
+39,2019-05-18,20:45,La Liga,Matchweek 38,Sat,Home,W,2,1,Leganés,0.9,0.9,51.0,5575,Gonzalo Melero,4-3-3,3-1-4-2,Alberola Rojas,Match Report,,Huesca,2019,15.0,6.0,21.9,2.0,0,0
+0,2018-08-19,20:15,La Liga,Matchweek 1,Sun,Home,L,1,4,Sevilla,2.1,2.8,49.0,11626,Alberto García,4-1-4-1,3-4-3,Antonio Matéu Lahoz,Match Report,,Rayo-Vallecano,2019,12.0,1.0,18.7,1.0,1,1
+1,2018-08-25,20:15,La Liga,Matchweek 2,Sat,Away,L,0,1,Atlético Madrid,1.5,0.9,53.0,52693,Alberto García,4-1-4-1,4-4-2,José González,Match Report,,Rayo-Vallecano,2019,13.0,3.0,16.4,1.0,0,0
+2,2018-09-14,21:00,La Liga,Matchweek 4,Fri,Away,W,1,0,Huesca,1.2,1.7,45.0,6498,Alberto García,4-2-3-1,4-4-2,David Medié,Match Report,,Rayo-Vallecano,2019,14.0,2.0,21.7,1.0,0,0
+3,2018-09-22,13:00,La Liga,Matchweek 5,Sat,Home,L,1,5,Alavés,1.5,1.3,52.0,12011,Alberto García,4-1-4-1,4-4-2,Adrián Cordero,Match Report,,Rayo-Vallecano,2019,13.0,4.0,19.5,0.0,0,0
+4,2018-09-25,21:00,La Liga,Matchweek 6,Tue,Away,D,2,2,Real Sociedad,2.1,1.6,43.0,21510,Alberto García,4-1-4-1,4-2-3-1,Juan Martínez,Match Report,,Rayo-Vallecano,2019,9.0,4.0,19.1,0.0,1,1
+5,2018-09-28,21:00,La Liga,Matchweek 7,Fri,Home,D,2,2,Espanyol,1.3,1.5,52.0,12100,Alberto García,4-1-4-1,4-1-4-1,Alberola Rojas,Match Report,,Rayo-Vallecano,2019,10.0,3.0,23.4,1.0,1,1
+6,2018-10-06,20:45,La Liga,Matchweek 8,Sat,Away,L,0,1,Leganés,0.4,0.9,64.0,11539,Alberto García,4-3-3,4-4-1-1,David Medié,Match Report,,Rayo-Vallecano,2019,6.0,2.0,25.8,1.0,0,0
+7,2018-10-21,12:00,La Liga,Matchweek 9,Sun,Home,L,1,2,Getafe,0.4,0.5,64.0,12040,Alberto García,4-1-4-1,4-4-2,Mario Melero,Match Report,,Rayo-Vallecano,2019,10.0,3.0,24.5,1.0,0,0
+8,2018-10-24,19:00,La Liga,Matchweek 3,Wed,Home,D,1,1,Athletic Club,1.3,1.3,35.0,11850,Alberto García,4-1-4-1,4-3-3,Guillermo Cuadra,Match Report,,Rayo-Vallecano,2019,11.0,3.0,17.1,0.0,0,0
+9,2018-10-27,13:00,La Liga,Matchweek 10,Sat,Away,L,1,2,Girona,1.6,2.4,56.0,6618,Alberto García,4-3-3,3-4-3,José Luis Munuera,Match Report,,Rayo-Vallecano,2019,14.0,5.0,18.6,1.0,0,0
+11,2018-11-03,20:45,La Liga,Matchweek 11,Sat,Home,L,2,3,Barcelona,1.6,1.9,31.0,13785,Alberto García,4-1-4-1,4-3-3,Alejandro Hernández,Match Report,,Rayo-Vallecano,2019,11.0,5.0,16.1,1.0,0,0
+12,2018-11-11,18:30,La Liga,Matchweek 12,Sun,Home,D,2,2,Villarreal,2.3,0.9,58.0,11840,Adri Embarba,4-1-4-1,4-4-2,José González,Match Report,,Rayo-Vallecano,2019,15.0,7.0,17.1,0.0,0,0
+13,2018-11-24,16:15,La Liga,Matchweek 13,Sat,Away,L,0,3,Valencia,0.8,1.9,50.0,37814,Adri Embarba,4-1-4-1,4-4-2,Pablo González,Match Report,,Rayo-Vallecano,2019,13.0,3.0,18.4,1.0,0,0
+14,2018-11-30,21:00,La Liga,Matchweek 14,Fri,Home,W,1,0,Eibar,1.2,1.0,36.0,11257,Adri Embarba,4-1-4-1,4-2-3-1,Alberto Undiano,Match Report,,Rayo-Vallecano,2019,5.0,2.0,9.1,0.0,0,0
+16,2018-12-09,20:45,La Liga,Matchweek 15,Sun,Away,L,0,2,Betis,1.2,1.7,39.0,40218,Adri Embarba,4-1-2-1-2◆,3-5-2,Juan Martínez,Match Report,,Rayo-Vallecano,2019,14.0,5.0,17.1,1.0,0,0
+17,2018-12-15,18:30,La Liga,Matchweek 16,Sat,Away,L,0,1,Real Madrid,0.7,1.2,31.0,55229,Adri Embarba,4-1-4-1,4-3-3,Ricardo de Burgos,Match Report,,Rayo-Vallecano,2019,11.0,3.0,19.1,1.0,0,0
+18,2018-12-23,18:30,La Liga,Matchweek 17,Sun,Home,W,2,1,Levante,2.5,1.0,40.0,11206,Adri Embarba,3-4-3,4-4-2,Ignacio Iglesias,Match Report,,Rayo-Vallecano,2019,18.0,8.0,19.1,1.0,0,0
+19,2019-01-05,13:00,La Liga,Matchweek 18,Sat,Away,W,1,0,Valladolid,1.0,1.8,41.0,17261,Adri Embarba,5-4-1,4-4-2,Adrián Cordero,Match Report,,Rayo-Vallecano,2019,9.0,5.0,24.7,0.0,0,0
+20,2019-01-11,21:00,La Liga,Matchweek 19,Fri,Home,W,4,2,Celta Vigo,2.0,1.3,40.0,11465,Adri Embarba,3-5-2,4-1-4-1,Alberola Rojas,Match Report,,Rayo-Vallecano,2019,11.0,8.0,17.3,1.0,0,0
+21,2019-01-20,18:30,La Liga,Matchweek 20,Sun,Home,D,2,2,Real Sociedad,0.9,1.6,36.0,12562,Adri Embarba,3-5-2,4-1-4-1,David Medié,Match Report,,Rayo-Vallecano,2019,11.0,4.0,22.8,1.0,0,0
+22,2019-01-28,21:00,La Liga,Matchweek 21,Mon,Away,W,1,0,Alavés,1.0,1.0,48.0,13982,Adri Embarba,3-1-4-2,4-4-2,Mario Melero,Match Report,,Rayo-Vallecano,2019,14.0,3.0,16.7,1.0,0,0
+23,2019-02-04,21:00,La Liga,Matchweek 22,Mon,Home,L,1,2,Leganés,1.7,1.3,61.0,11435,Adri Embarba,3-4-3,3-5-2,Juan Martínez,Match Report,,Rayo-Vallecano,2019,15.0,6.0,18.8,0.0,0,0
+24,2019-02-09,18:30,La Liga,Matchweek 23,Sat,Away,L,1,2,Espanyol,0.6,2.0,39.0,22104,Adri Embarba,3-4-3,4-3-3,Eduardo Prieto,Match Report,,Rayo-Vallecano,2019,9.0,3.0,12.4,0.0,0,0
+25,2019-02-16,16:15,La Liga,Matchweek 24,Sat,Home,L,0,1,Atlético Madrid,1.0,0.2,49.0,13880,Adri Embarba,3-4-3,4-4-2,Jesús Gil,Match Report,,Rayo-Vallecano,2019,12.0,6.0,22.1,0.0,0,0
+26,2019-02-23,13:00,La Liga,Matchweek 25,Sat,Away,L,1,2,Getafe,0.8,1.3,57.0,11207,Adri Embarba,3-4-3,4-4-2,Alberola Rojas,Match Report,,Rayo-Vallecano,2019,7.0,2.0,22.1,0.0,0,0
+27,2019-03-01,21:00,La Liga,Matchweek 26,Fri,Home,L,0,2,Girona,0.8,1.3,55.0,12087,Adri Embarba,4-2-3-1,4-3-2-1,Santiago Jaime,Match Report,,Rayo-Vallecano,2019,9.0,3.0,17.1,1.0,0,0
+28,2019-03-09,18:30,La Liga,Matchweek 27,Sat,Away,L,1,3,Barcelona,0.4,2.4,32.0,74158,Jordi Amat,5-4-1,4-3-3,Mario Melero,Match Report,,Rayo-Vallecano,2019,8.0,1.0,23.4,0.0,0,0
+29,2019-03-17,18:30,La Liga,Matchweek 28,Sun,Away,L,1,3,Villarreal,0.2,2.5,46.0,17117,Jordi Amat,3-4-3,3-4-3,José González,Match Report,,Rayo-Vallecano,2019,7.0,3.0,26.1,0.0,0,0
+30,2019-03-31,14:00,La Liga,Matchweek 29,Sun,Home,D,1,1,Betis,2.2,0.6,46.0,12310,Jordi Amat,4-3-3,3-4-1-2,Antonio Matéu Lahoz,Match Report,,Rayo-Vallecano,2019,20.0,5.0,18.4,0.0,0,0
+31,2019-04-03,20:30,La Liga,Matchweek 30,Wed,Away,L,1,2,Eibar,0.9,1.6,54.0,3940,Jordi Amat,4-2-3-1,4-4-2,Alberto Undiano,Match Report,,Rayo-Vallecano,2019,14.0,3.0,20.7,1.0,0,0
+32,2019-04-06,18:30,La Liga,Matchweek 31,Sat,Home,W,2,0,Valencia,1.5,2.3,52.0,11320,Alberto García,4-1-4-1,4-4-2,Alberola Rojas,Match Report,,Rayo-Vallecano,2019,15.0,5.0,18.7,1.0,0,0
+33,2019-04-14,14:00,La Liga,Matchweek 32,Sun,Away,L,2,3,Athletic Club,1.0,2.7,53.0,38732,Alberto García,4-2-3-1,4-2-3-1,Juan Martínez,Match Report,,Rayo-Vallecano,2019,8.0,4.0,22.4,0.0,0,0
+34,2019-04-20,18:30,La Liga,Matchweek 33,Sat,Home,D,0,0,Huesca,1.2,1.1,55.0,10542,Alberto García,4-1-4-1,4-2-3-1,José González,Match Report,,Rayo-Vallecano,2019,16.0,3.0,18.2,1.0,0,0
+35,2019-04-25,19:30,La Liga,Matchweek 34,Thu,Away,L,0,5,Sevilla,0.9,3.8,50.0,31636,Alberto García,3-4-3,4-1-4-1,Guillermo Cuadra,Match Report,,Rayo-Vallecano,2019,12.0,3.0,17.7,0.0,0,0
+36,2019-04-28,20:45,La Liga,Matchweek 35,Sun,Home,W,1,0,Real Madrid,1.8,0.5,50.0,13273,Alberto García,4-2-3-1,4-2-2-2,Pablo González,Match Report,,Rayo-Vallecano,2019,11.0,3.0,23.9,0.0,1,1
+37,2019-05-04,13:00,La Liga,Matchweek 36,Sat,Away,L,1,4,Levante,1.7,2.8,65.0,19868,Alberto García,4-2-3-1,4-3-3,Javier Estrada,Match Report,,Rayo-Vallecano,2019,20.0,3.0,18.4,2.0,0,0
+38,2019-05-12,18:30,La Liga,Matchweek 37,Sun,Home,L,1,2,Valladolid,1.9,1.4,69.0,10040,Tito,4-2-3-1,4-4-2,José Sánchez,Match Report,,Rayo-Vallecano,2019,16.0,5.0,19.2,1.0,0,0
+39,2019-05-18,20:45,La Liga,Matchweek 38,Sat,Away,D,2,2,Celta Vigo,1.4,2.1,54.0,21607,Adri Embarba,4-2-3-1,4-4-2,Antonio Matéu Lahoz,Match Report,,Rayo-Vallecano,2019,10.0,3.0,19.1,0.0,1,1

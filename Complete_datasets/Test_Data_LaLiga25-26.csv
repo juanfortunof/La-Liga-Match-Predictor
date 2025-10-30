@@ -1,0 +1,761 @@
+date,comp,round,day,venue,result,opponent,season,team
+2025-08-19,La Liga,Matchweek 1,Tue,Home,,Osasuna,2026,Real Madrid
+2025-08-24,La Liga,Matchweek 2,Sun,Away,,Oviedo,2026,Real Madrid
+2025-08-30,La Liga,Matchweek 3,Sat,Home,,Mallorca,2026,Real Madrid
+2025-09-13,La Liga,Matchweek 4,Sat,Away,,Real Sociedad,2026,Real Madrid
+2025-09-20,La Liga,Matchweek 5,Sat,Home,,Espanyol,2026,Real Madrid
+2025-09-23,La Liga,Matchweek 6,Tue,Away,,Levante,2026,Real Madrid
+2025-09-27,La Liga,Matchweek 7,Sat,Away,,Atletico Madrid,2026,Real Madrid
+2025-10-04,La Liga,Matchweek 8,Sat,Home,,Villarreal,2026,Real Madrid
+2025-10-19,La Liga,Matchweek 9,Sun,Away,,Getafe,2026,Real Madrid
+2025-10-26,La Liga,Matchweek 10,Sun,Home,,Barcelona,2026,Real Madrid
+2025-11-01,La Liga,Matchweek 11,Sat,Home,,Valencia,2026,Real Madrid
+2025-11-09,La Liga,Matchweek 12,Sun,Away,,Rayo Vallecano,2026,Real Madrid
+2025-11-23,La Liga,Matchweek 13,Sun,Away,,Elche,2026,Real Madrid
+2025-11-30,La Liga,Matchweek 14,Sun,Away,,Girona,2026,Real Madrid
+2025-12-07,La Liga,Matchweek 15,Sun,Home,,Celta Vigo,2026,Real Madrid
+2025-12-14,La Liga,Matchweek 16,Sun,Away,,Alaves,2026,Real Madrid
+2025-12-21,La Liga,Matchweek 17,Sun,Home,,Sevilla,2026,Real Madrid
+2026-01-04,La Liga,Matchweek 18,Sun,Home,,Real Betis,2026,Real Madrid
+2026-01-11,La Liga,Matchweek 19,Sun,Away,,Athletic Club,2026,Real Madrid
+2026-01-18,La Liga,Matchweek 20,Sun,Home,,Levante,2026,Real Madrid
+2026-01-25,La Liga,Matchweek 21,Sun,Away,,Villarreal,2026,Real Madrid
+2026-02-01,La Liga,Matchweek 22,Sun,Home,,Rayo Vallecano,2026,Real Madrid
+2026-02-08,La Liga,Matchweek 23,Sun,Away,,Valencia,2026,Real Madrid
+2026-02-15,La Liga,Matchweek 24,Sun,Home,,Real Sociedad,2026,Real Madrid
+2026-02-22,La Liga,Matchweek 25,Sun,Away,,Osasuna,2026,Real Madrid
+2026-03-01,La Liga,Matchweek 26,Sun,Home,,Getafe,2026,Real Madrid
+2026-03-08,La Liga,Matchweek 27,Sun,Away,,Celta Vigo,2026,Real Madrid
+2026-03-15,La Liga,Matchweek 28,Sun,Home,,Elche,2026,Real Madrid
+2026-03-22,La Liga,Matchweek 29,Sun,Home,,Atletico Madrid,2026,Real Madrid
+2026-04-05,La Liga,Matchweek 30,Sun,Away,,Mallorca,2026,Real Madrid
+2026-04-12,La Liga,Matchweek 31,Sun,Home,,Girona,2026,Real Madrid
+2026-04-19,La Liga,Matchweek 32,Sun,Away,,Real Betis,2026,Real Madrid
+2026-04-22,La Liga,Matchweek 33,Wed,Home,,Alaves,2026,Real Madrid
+2026-05-03,La Liga,Matchweek 34,Sun,Away,,Espanyol,2026,Real Madrid
+2026-05-10,La Liga,Matchweek 35,Sun,Away,,Barcelona,2026,Real Madrid
+2026-05-13,La Liga,Matchweek 36,Wed,Home,,Oviedo,2026,Real Madrid
+2026-05-17,La Liga,Matchweek 37,Sun,Away,,Sevilla,2026,Real Madrid
+2026-05-24,La Liga,Matchweek 38,Sun,Home,,Athletic Club,2026,Real Madrid
+2025-08-16,La Liga,Matchweek 1,Sat,Away,,Mallorca,2026,Barcelona
+2025-08-23,La Liga,Matchweek 2,Sat,Away,,Levante,2026,Barcelona
+2025-08-31,La Liga,Matchweek 3,Sun,Away,,Rayo Vallecano,2026,Barcelona
+2025-09-14,La Liga,Matchweek 4,Sun,Home,,Valencia,2026,Barcelona
+2025-09-21,La Liga,Matchweek 5,Sun,Home,,Getafe,2026,Barcelona
+2025-09-25,La Liga,Matchweek 6,Thu,Away,,Oviedo,2026,Barcelona
+2025-09-28,La Liga,Matchweek 7,Sun,Home,,Real Sociedad,2026,Barcelona
+2025-10-05,La Liga,Matchweek 8,Sun,Away,,Sevilla,2026,Barcelona
+2025-10-18,La Liga,Matchweek 9,Sat,Home,,Girona,2026,Barcelona
+2025-10-26,La Liga,Matchweek 10,Sun,Away,,Real Madrid,2026,Barcelona
+2025-11-02,La Liga,Matchweek 11,Sun,Home,,Elche,2026,Barcelona
+2025-11-09,La Liga,Matchweek 12,Sun,Away,,Celta Vigo,2026,Barcelona
+2025-11-23,La Liga,Matchweek 13,Sun,Home,,Athletic Club,2026,Barcelona
+2025-11-30,La Liga,Matchweek 14,Sun,Home,,Alaves,2026,Barcelona
+2025-12-07,La Liga,Matchweek 15,Sun,Away,,Real Betis,2026,Barcelona
+2025-12-14,La Liga,Matchweek 16,Sun,Home,,Osasuna,2026,Barcelona
+2025-12-21,La Liga,Matchweek 17,Sun,Away,,Villarreal,2026,Barcelona
+2026-01-04,La Liga,Matchweek 18,Sun,Away,,Espanyol,2026,Barcelona
+2026-01-11,La Liga,Matchweek 19,Sun,Home,,Atletico Madrid,2026,Barcelona
+2026-01-18,La Liga,Matchweek 20,Sun,Away,,Real Sociedad,2026,Barcelona
+2026-01-25,La Liga,Matchweek 21,Sun,Home,,Oviedo,2026,Barcelona
+2026-02-01,La Liga,Matchweek 22,Sun,Away,,Elche,2026,Barcelona
+2026-02-08,La Liga,Matchweek 23,Sun,Home,,Mallorca,2026,Barcelona
+2026-02-15,La Liga,Matchweek 24,Sun,Away,,Girona,2026,Barcelona
+2026-02-22,La Liga,Matchweek 25,Sun,Home,,Levante,2026,Barcelona
+2026-03-01,La Liga,Matchweek 26,Sun,Home,,Villarreal,2026,Barcelona
+2026-03-08,La Liga,Matchweek 27,Sun,Away,,Athletic Club,2026,Barcelona
+2026-03-15,La Liga,Matchweek 28,Sun,Home,,Sevilla,2026,Barcelona
+2026-03-22,La Liga,Matchweek 29,Sun,Home,,Rayo Vallecano,2026,Barcelona
+2026-04-05,La Liga,Matchweek 30,Sun,Away,,Atletico Madrid,2026,Barcelona
+2026-04-12,La Liga,Matchweek 31,Sun,Home,,Espanyol,2026,Barcelona
+2026-04-19,La Liga,Matchweek 32,Sun,Away,,Getafe,2026,Barcelona
+2026-04-22,La Liga,Matchweek 33,Wed,Home,,Celta Vigo,2026,Barcelona
+2026-05-03,La Liga,Matchweek 34,Sun,Away,,Osasuna,2026,Barcelona
+2026-05-10,La Liga,Matchweek 35,Sun,Home,,Real Madrid,2026,Barcelona
+2026-05-13,La Liga,Matchweek 36,Wed,Away,,Alaves,2026,Barcelona
+2026-05-17,La Liga,Matchweek 37,Sun,Home,,Real Betis,2026,Barcelona
+2026-05-24,La Liga,Matchweek 38,Sun,Away,,Valencia,2026,Barcelona
+2025-08-15,La Liga,Matchweek 1,Fri,Home,,Oviedo,2026,Villarreal
+2025-08-24,La Liga,Matchweek 2,Sun,Home,,Girona,2026,Villarreal
+2025-08-31,La Liga,Matchweek 3,Sun,Away,,Celta Vigo,2026,Villarreal
+2025-09-13,La Liga,Matchweek 4,Sat,Away,,Atletico Madrid,2026,Villarreal
+2025-09-20,La Liga,Matchweek 5,Sat,Home,,Osasuna,2026,Villarreal
+2025-09-23,La Liga,Matchweek 6,Tue,Away,,Sevilla,2026,Villarreal
+2025-09-27,La Liga,Matchweek 7,Sat,Home,,Athletic Club,2026,Villarreal
+2025-10-04,La Liga,Matchweek 8,Sat,Away,,Real Madrid,2026,Villarreal
+2025-10-18,La Liga,Matchweek 9,Sat,Home,,Real Betis,2026,Villarreal
+2025-10-25,La Liga,Matchweek 10,Sat,Away,,Valencia,2026,Villarreal
+2025-11-01,La Liga,Matchweek 11,Sat,Home,,Rayo Vallecano,2026,Villarreal
+2025-11-09,La Liga,Matchweek 12,Sun,Away,,Espanyol,2026,Villarreal
+2025-11-23,La Liga,Matchweek 13,Sun,Home,,Mallorca,2026,Villarreal
+2025-11-30,La Liga,Matchweek 14,Sun,Away,,Real Sociedad,2026,Villarreal
+2025-12-07,La Liga,Matchweek 15,Sun,Home,,Getafe,2026,Villarreal
+2025-12-14,La Liga,Matchweek 16,Sun,Away,,Levante,2026,Villarreal
+2025-12-21,La Liga,Matchweek 17,Sun,Home,,Barcelona,2026,Villarreal
+2026-01-04,La Liga,Matchweek 18,Sun,Away,,Elche,2026,Villarreal
+2026-01-11,La Liga,Matchweek 19,Sun,Home,,Alaves,2026,Villarreal
+2026-01-18,La Liga,Matchweek 20,Sun,Away,,Real Betis,2026,Villarreal
+2026-01-25,La Liga,Matchweek 21,Sun,Home,,Real Madrid,2026,Villarreal
+2026-02-01,La Liga,Matchweek 22,Sun,Away,,Osasuna,2026,Villarreal
+2026-02-08,La Liga,Matchweek 23,Sun,Home,,Espanyol,2026,Villarreal
+2026-02-15,La Liga,Matchweek 24,Sun,Away,,Getafe,2026,Villarreal
+2026-02-22,La Liga,Matchweek 25,Sun,Home,,Valencia,2026,Villarreal
+2026-03-01,La Liga,Matchweek 26,Sun,Away,,Barcelona,2026,Villarreal
+2026-03-08,La Liga,Matchweek 27,Sun,Home,,Elche,2026,Villarreal
+2026-03-15,La Liga,Matchweek 28,Sun,Away,,Alaves,2026,Villarreal
+2026-03-22,La Liga,Matchweek 29,Sun,Home,,Real Sociedad,2026,Villarreal
+2026-04-05,La Liga,Matchweek 30,Sun,Away,,Girona,2026,Villarreal
+2026-04-12,La Liga,Matchweek 31,Sun,Away,,Athletic Club,2026,Villarreal
+2026-04-19,La Liga,Matchweek 32,Sun,Home,,Celta Vigo,2026,Villarreal
+2026-04-22,La Liga,Matchweek 33,Wed,Away,,Oviedo,2026,Villarreal
+2026-05-03,La Liga,Matchweek 34,Sun,Home,,Levante,2026,Villarreal
+2026-05-10,La Liga,Matchweek 35,Sun,Away,,Mallorca,2026,Villarreal
+2026-05-13,La Liga,Matchweek 36,Wed,Home,,Sevilla,2026,Villarreal
+2026-05-17,La Liga,Matchweek 37,Sun,Away,,Rayo Vallecano,2026,Villarreal
+2026-05-24,La Liga,Matchweek 38,Sun,Home,,Atletico Madrid,2026,Villarreal
+2025-08-18,La Liga,Matchweek 1,Mon,Away,,Elche,2026,Real Betis
+2025-08-22,La Liga,Matchweek 2,Fri,Home,,Alaves,2026,Real Betis
+2025-08-27,La Liga,Matchweek 6,Wed,Away,,Celta Vigo,2026,Real Betis
+2025-08-31,La Liga,Matchweek 3,Sun,Home,,Athletic Club,2026,Real Betis
+2025-09-14,La Liga,Matchweek 4,Sun,Away,,Levante,2026,Real Betis
+2025-09-19,La Liga,Matchweek 5,Fri,Home,,Real Sociedad,2026,Real Betis
+2025-09-28,La Liga,Matchweek 7,Sun,Home,,Osasuna,2026,Real Betis
+2025-10-05,La Liga,Matchweek 8,Sun,Away,,Espanyol,2026,Real Betis
+2025-10-18,La Liga,Matchweek 9,Sat,Away,,Villarreal,2026,Real Betis
+2025-10-27,La Liga,Matchweek 10,Mon,Home,,Atletico Madrid,2026,Real Betis
+2025-11-02,La Liga,Matchweek 11,Sun,Home,,Mallorca,2026,Real Betis
+2025-11-09,La Liga,Matchweek 12,Sun,Away,,Valencia,2026,Real Betis
+2025-11-23,La Liga,Matchweek 13,Sun,Home,,Girona,2026,Real Betis
+2025-11-30,La Liga,Matchweek 14,Sun,Away,,Sevilla,2026,Real Betis
+2025-12-07,La Liga,Matchweek 15,Sun,Home,,Barcelona,2026,Real Betis
+2025-12-14,La Liga,Matchweek 16,Sun,Away,,Rayo Vallecano,2026,Real Betis
+2025-12-21,La Liga,Matchweek 17,Sun,Home,,Getafe,2026,Real Betis
+2026-01-04,La Liga,Matchweek 18,Sun,Away,,Real Madrid,2026,Real Betis
+2026-01-11,La Liga,Matchweek 19,Sun,Away,,Oviedo,2026,Real Betis
+2026-01-18,La Liga,Matchweek 20,Sun,Home,,Villarreal,2026,Real Betis
+2026-01-25,La Liga,Matchweek 21,Sun,Away,,Alaves,2026,Real Betis
+2026-02-01,La Liga,Matchweek 22,Sun,Home,,Valencia,2026,Real Betis
+2026-02-08,La Liga,Matchweek 23,Sun,Away,,Atletico Madrid,2026,Real Betis
+2026-02-15,La Liga,Matchweek 24,Sun,Away,,Mallorca,2026,Real Betis
+2026-02-22,La Liga,Matchweek 25,Sun,Home,,Rayo Vallecano,2026,Real Betis
+2026-03-01,La Liga,Matchweek 26,Sun,Home,,Sevilla,2026,Real Betis
+2026-03-08,La Liga,Matchweek 27,Sun,Away,,Getafe,2026,Real Betis
+2026-03-15,La Liga,Matchweek 28,Sun,Home,,Celta Vigo,2026,Real Betis
+2026-03-22,La Liga,Matchweek 29,Sun,Away,,Athletic Club,2026,Real Betis
+2026-04-05,La Liga,Matchweek 30,Sun,Home,,Espanyol,2026,Real Betis
+2026-04-12,La Liga,Matchweek 31,Sun,Away,,Osasuna,2026,Real Betis
+2026-04-19,La Liga,Matchweek 32,Sun,Home,,Real Madrid,2026,Real Betis
+2026-04-22,La Liga,Matchweek 33,Wed,Away,,Girona,2026,Real Betis
+2026-05-03,La Liga,Matchweek 34,Sun,Home,,Oviedo,2026,Real Betis
+2026-05-10,La Liga,Matchweek 35,Sun,Away,,Real Sociedad,2026,Real Betis
+2026-05-13,La Liga,Matchweek 36,Wed,Home,,Elche,2026,Real Betis
+2026-05-17,La Liga,Matchweek 37,Sun,Away,,Barcelona,2026,Real Betis
+2026-05-24,La Liga,Matchweek 38,Sun,Home,,Levante,2026,Real Betis
+2025-08-17,La Liga,Matchweek 1,Sun,Away,,Espanyol,2026,Atletico Madrid
+2025-08-23,La Liga,Matchweek 2,Sat,Home,,Elche,2026,Atletico Madrid
+2025-08-30,La Liga,Matchweek 3,Sat,Away,,Alaves,2026,Atletico Madrid
+2025-09-13,La Liga,Matchweek 4,Sat,Home,,Villarreal,2026,Atletico Madrid
+2025-09-21,La Liga,Matchweek 5,Sun,Away,,Mallorca,2026,Atletico Madrid
+2025-09-24,La Liga,Matchweek 6,Wed,Home,,Rayo Vallecano,2026,Atletico Madrid
+2025-09-27,La Liga,Matchweek 7,Sat,Home,,Real Madrid,2026,Atletico Madrid
+2025-10-05,La Liga,Matchweek 8,Sun,Away,,Celta Vigo,2026,Atletico Madrid
+2025-10-18,La Liga,Matchweek 9,Sat,Home,,Osasuna,2026,Atletico Madrid
+2025-10-27,La Liga,Matchweek 10,Mon,Away,,Real Betis,2026,Atletico Madrid
+2025-11-01,La Liga,Matchweek 11,Sat,Home,,Sevilla,2026,Atletico Madrid
+2025-11-09,La Liga,Matchweek 12,Sun,Home,,Levante,2026,Atletico Madrid
+2025-11-23,La Liga,Matchweek 13,Sun,Away,,Getafe,2026,Atletico Madrid
+2025-11-30,La Liga,Matchweek 14,Sun,Home,,Oviedo,2026,Atletico Madrid
+2025-12-07,La Liga,Matchweek 15,Sun,Away,,Athletic Club,2026,Atletico Madrid
+2025-12-14,La Liga,Matchweek 16,Sun,Home,,Valencia,2026,Atletico Madrid
+2025-12-21,La Liga,Matchweek 17,Sun,Away,,Girona,2026,Atletico Madrid
+2026-01-04,La Liga,Matchweek 18,Sun,Away,,Real Sociedad,2026,Atletico Madrid
+2026-01-11,La Liga,Matchweek 19,Sun,Away,,Barcelona,2026,Atletico Madrid
+2026-01-18,La Liga,Matchweek 20,Sun,Home,,Alaves,2026,Atletico Madrid
+2026-01-25,La Liga,Matchweek 21,Sun,Home,,Mallorca,2026,Atletico Madrid
+2026-02-01,La Liga,Matchweek 22,Sun,Away,,Levante,2026,Atletico Madrid
+2026-02-08,La Liga,Matchweek 23,Sun,Home,,Real Betis,2026,Atletico Madrid
+2026-02-15,La Liga,Matchweek 24,Sun,Away,,Rayo Vallecano,2026,Atletico Madrid
+2026-02-22,La Liga,Matchweek 25,Sun,Home,,Espanyol,2026,Atletico Madrid
+2026-03-01,La Liga,Matchweek 26,Sun,Away,,Oviedo,2026,Atletico Madrid
+2026-03-08,La Liga,Matchweek 27,Sun,Home,,Real Sociedad,2026,Atletico Madrid
+2026-03-15,La Liga,Matchweek 28,Sun,Home,,Getafe,2026,Atletico Madrid
+2026-03-22,La Liga,Matchweek 29,Sun,Away,,Real Madrid,2026,Atletico Madrid
+2026-04-05,La Liga,Matchweek 30,Sun,Home,,Barcelona,2026,Atletico Madrid
+2026-04-12,La Liga,Matchweek 31,Sun,Away,,Sevilla,2026,Atletico Madrid
+2026-04-19,La Liga,Matchweek 32,Sun,Home,,Athletic Club,2026,Atletico Madrid
+2026-04-22,La Liga,Matchweek 33,Wed,Away,,Elche,2026,Atletico Madrid
+2026-05-03,La Liga,Matchweek 34,Sun,Away,,Valencia,2026,Atletico Madrid
+2026-05-10,La Liga,Matchweek 35,Sun,Home,,Celta Vigo,2026,Atletico Madrid
+2026-05-13,La Liga,Matchweek 36,Wed,Away,,Osasuna,2026,Atletico Madrid
+2026-05-17,La Liga,Matchweek 37,Sun,Home,,Girona,2026,Atletico Madrid
+2026-05-24,La Liga,Matchweek 38,Sun,Away,,Villarreal,2026,Atletico Madrid
+2025-08-17,La Liga,Matchweek 1,Sun,Away,,Athletic Club,2026,Sevilla
+2025-08-25,La Liga,Matchweek 2,Mon,Home,,Getafe,2026,Sevilla
+2025-08-30,La Liga,Matchweek 3,Sat,Away,,Girona,2026,Sevilla
+2025-09-12,La Liga,Matchweek 4,Fri,Home,,Elche,2026,Sevilla
+2025-09-20,La Liga,Matchweek 5,Sat,Away,,Alaves,2026,Sevilla
+2025-09-23,La Liga,Matchweek 6,Tue,Home,,Villarreal,2026,Sevilla
+2025-09-28,La Liga,Matchweek 7,Sun,Away,,Rayo Vallecano,2026,Sevilla
+2025-10-05,La Liga,Matchweek 8,Sun,Home,,Barcelona,2026,Sevilla
+2025-10-18,La Liga,Matchweek 9,Sat,Home,,Mallorca,2026,Sevilla
+2025-10-24,La Liga,Matchweek 10,Fri,Away,,Real Sociedad,2026,Sevilla
+2025-11-01,La Liga,Matchweek 11,Sat,Away,,Atletico Madrid,2026,Sevilla
+2025-11-09,La Liga,Matchweek 12,Sun,Home,,Osasuna,2026,Sevilla
+2025-11-23,La Liga,Matchweek 13,Sun,Away,,Espanyol,2026,Sevilla
+2025-11-30,La Liga,Matchweek 14,Sun,Home,,Real Betis,2026,Sevilla
+2025-12-07,La Liga,Matchweek 15,Sun,Away,,Valencia,2026,Sevilla
+2025-12-14,La Liga,Matchweek 16,Sun,Home,,Oviedo,2026,Sevilla
+2025-12-21,La Liga,Matchweek 17,Sun,Away,,Real Madrid,2026,Sevilla
+2026-01-04,La Liga,Matchweek 18,Sun,Home,,Levante,2026,Sevilla
+2026-01-11,La Liga,Matchweek 19,Sun,Home,,Celta Vigo,2026,Sevilla
+2026-01-18,La Liga,Matchweek 20,Sun,Away,,Elche,2026,Sevilla
+2026-01-25,La Liga,Matchweek 21,Sun,Home,,Athletic Club,2026,Sevilla
+2026-02-01,La Liga,Matchweek 22,Sun,Away,,Mallorca,2026,Sevilla
+2026-02-08,La Liga,Matchweek 23,Sun,Home,,Girona,2026,Sevilla
+2026-02-15,La Liga,Matchweek 24,Sun,Home,,Alaves,2026,Sevilla
+2026-02-22,La Liga,Matchweek 25,Sun,Away,,Getafe,2026,Sevilla
+2026-03-01,La Liga,Matchweek 26,Sun,Away,,Real Betis,2026,Sevilla
+2026-03-08,La Liga,Matchweek 27,Sun,Home,,Rayo Vallecano,2026,Sevilla
+2026-03-15,La Liga,Matchweek 28,Sun,Away,,Barcelona,2026,Sevilla
+2026-03-22,La Liga,Matchweek 29,Sun,Home,,Valencia,2026,Sevilla
+2026-04-05,La Liga,Matchweek 30,Sun,Away,,Oviedo,2026,Sevilla
+2026-04-12,La Liga,Matchweek 31,Sun,Home,,Atletico Madrid,2026,Sevilla
+2026-04-19,La Liga,Matchweek 32,Sun,Away,,Osasuna,2026,Sevilla
+2026-04-22,La Liga,Matchweek 33,Wed,Away,,Levante,2026,Sevilla
+2026-05-03,La Liga,Matchweek 34,Sun,Home,,Real Sociedad,2026,Sevilla
+2026-05-10,La Liga,Matchweek 35,Sun,Home,,Espanyol,2026,Sevilla
+2026-05-13,La Liga,Matchweek 36,Wed,Away,,Villarreal,2026,Sevilla
+2026-05-17,La Liga,Matchweek 37,Sun,Home,,Real Madrid,2026,Sevilla
+2026-05-24,La Liga,Matchweek 38,Sun,Away,,Celta Vigo,2026,Sevilla
+2025-08-18,La Liga,Matchweek 1,Mon,Home,,Real Betis,2026,Elche
+2025-08-23,La Liga,Matchweek 2,Sat,Away,,Atletico Madrid,2026,Elche
+2025-08-29,La Liga,Matchweek 3,Fri,Home,,Levante,2026,Elche
+2025-09-12,La Liga,Matchweek 4,Fri,Away,,Sevilla,2026,Elche
+2025-09-21,La Liga,Matchweek 5,Sun,Home,,Oviedo,2026,Elche
+2025-09-25,La Liga,Matchweek 6,Thu,Away,,Osasuna,2026,Elche
+2025-09-28,La Liga,Matchweek 7,Sun,Home,,Celta Vigo,2026,Elche
+2025-10-05,La Liga,Matchweek 8,Sun,Away,,Alaves,2026,Elche
+2025-10-19,La Liga,Matchweek 9,Sun,Home,,Athletic Club,2026,Elche
+2025-10-25,La Liga,Matchweek 10,Sat,Away,,Espanyol,2026,Elche
+2025-11-02,La Liga,Matchweek 11,Sun,Away,,Barcelona,2026,Elche
+2025-11-09,La Liga,Matchweek 12,Sun,Home,,Real Sociedad,2026,Elche
+2025-11-23,La Liga,Matchweek 13,Sun,Home,,Real Madrid,2026,Elche
+2025-11-30,La Liga,Matchweek 14,Sun,Away,,Getafe,2026,Elche
+2025-12-07,La Liga,Matchweek 15,Sun,Home,,Girona,2026,Elche
+2025-12-14,La Liga,Matchweek 16,Sun,Away,,Mallorca,2026,Elche
+2025-12-21,La Liga,Matchweek 17,Sun,Home,,Rayo Vallecano,2026,Elche
+2026-01-04,La Liga,Matchweek 18,Sun,Home,,Villarreal,2026,Elche
+2026-01-11,La Liga,Matchweek 19,Sun,Away,,Valencia,2026,Elche
+2026-01-18,La Liga,Matchweek 20,Sun,Home,,Sevilla,2026,Elche
+2026-01-25,La Liga,Matchweek 21,Sun,Away,,Levante,2026,Elche
+2026-02-01,La Liga,Matchweek 22,Sun,Home,,Barcelona,2026,Elche
+2026-02-08,La Liga,Matchweek 23,Sun,Away,,Real Sociedad,2026,Elche
+2026-02-15,La Liga,Matchweek 24,Sun,Home,,Osasuna,2026,Elche
+2026-02-22,La Liga,Matchweek 25,Sun,Away,,Athletic Club,2026,Elche
+2026-03-01,La Liga,Matchweek 26,Sun,Home,,Espanyol,2026,Elche
+2026-03-08,La Liga,Matchweek 27,Sun,Away,,Villarreal,2026,Elche
+2026-03-15,La Liga,Matchweek 28,Sun,Away,,Real Madrid,2026,Elche
+2026-03-22,La Liga,Matchweek 29,Sun,Home,,Mallorca,2026,Elche
+2026-04-05,La Liga,Matchweek 30,Sun,Away,,Rayo Vallecano,2026,Elche
+2026-04-12,La Liga,Matchweek 31,Sun,Home,,Valencia,2026,Elche
+2026-04-19,La Liga,Matchweek 32,Sun,Away,,Oviedo,2026,Elche
+2026-04-22,La Liga,Matchweek 33,Wed,Home,,Atletico Madrid,2026,Elche
+2026-05-03,La Liga,Matchweek 34,Sun,Away,,Celta Vigo,2026,Elche
+2026-05-10,La Liga,Matchweek 35,Sun,Home,,Alaves,2026,Elche
+2026-05-13,La Liga,Matchweek 36,Wed,Away,,Real Betis,2026,Elche
+2026-05-17,La Liga,Matchweek 37,Sun,Home,,Getafe,2026,Elche
+2026-05-24,La Liga,Matchweek 38,Sun,Away,,Girona,2026,Elche
+2025-08-17,La Liga,Matchweek 1,Sun,Home,,Sevilla,2026,Athletic Club
+2025-08-25,La Liga,Matchweek 2,Mon,Home,,Rayo Vallecano,2026,Athletic Club
+2025-08-31,La Liga,Matchweek 3,Sun,Away,,Real Betis,2026,Athletic Club
+2025-09-13,La Liga,Matchweek 4,Sat,Home,,Alaves,2026,Athletic Club
+2025-09-20,La Liga,Matchweek 5,Sat,Away,,Valencia,2026,Athletic Club
+2025-09-23,La Liga,Matchweek 6,Tue,Home,,Girona,2026,Athletic Club
+2025-09-27,La Liga,Matchweek 7,Sat,Away,,Villarreal,2026,Athletic Club
+2025-10-04,La Liga,Matchweek 8,Sat,Home,,Mallorca,2026,Athletic Club
+2025-10-19,La Liga,Matchweek 9,Sun,Away,,Elche,2026,Athletic Club
+2025-10-25,La Liga,Matchweek 10,Sat,Home,,Getafe,2026,Athletic Club
+2025-11-01,La Liga,Matchweek 11,Sat,Away,,Real Sociedad,2026,Athletic Club
+2025-11-09,La Liga,Matchweek 12,Sun,Home,,Oviedo,2026,Athletic Club
+2025-11-23,La Liga,Matchweek 13,Sun,Away,,Barcelona,2026,Athletic Club
+2025-11-30,La Liga,Matchweek 14,Sun,Away,,Levante,2026,Athletic Club
+2025-12-07,La Liga,Matchweek 15,Sun,Home,,Atletico Madrid,2026,Athletic Club
+2025-12-14,La Liga,Matchweek 16,Sun,Away,,Celta Vigo,2026,Athletic Club
+2025-12-21,La Liga,Matchweek 17,Sun,Home,,Espanyol,2026,Athletic Club
+2026-01-04,La Liga,Matchweek 18,Sun,Away,,Osasuna,2026,Athletic Club
+2026-01-11,La Liga,Matchweek 19,Sun,Home,,Real Madrid,2026,Athletic Club
+2026-01-18,La Liga,Matchweek 20,Sun,Away,,Mallorca,2026,Athletic Club
+2026-01-25,La Liga,Matchweek 21,Sun,Away,,Sevilla,2026,Athletic Club
+2026-02-01,La Liga,Matchweek 22,Sun,Home,,Real Sociedad,2026,Athletic Club
+2026-02-08,La Liga,Matchweek 23,Sun,Home,,Levante,2026,Athletic Club
+2026-02-15,La Liga,Matchweek 24,Sun,Away,,Oviedo,2026,Athletic Club
+2026-02-22,La Liga,Matchweek 25,Sun,Home,,Elche,2026,Athletic Club
+2026-03-01,La Liga,Matchweek 26,Sun,Away,,Rayo Vallecano,2026,Athletic Club
+2026-03-08,La Liga,Matchweek 27,Sun,Home,,Barcelona,2026,Athletic Club
+2026-03-15,La Liga,Matchweek 28,Sun,Away,,Girona,2026,Athletic Club
+2026-03-22,La Liga,Matchweek 29,Sun,Home,,Real Betis,2026,Athletic Club
+2026-04-05,La Liga,Matchweek 30,Sun,Away,,Getafe,2026,Athletic Club
+2026-04-12,La Liga,Matchweek 31,Sun,Home,,Villarreal,2026,Athletic Club
+2026-04-19,La Liga,Matchweek 32,Sun,Away,,Atletico Madrid,2026,Athletic Club
+2026-04-22,La Liga,Matchweek 33,Wed,Home,,Osasuna,2026,Athletic Club
+2026-05-03,La Liga,Matchweek 34,Sun,Away,,Alaves,2026,Athletic Club
+2026-05-10,La Liga,Matchweek 35,Sun,Home,,Valencia,2026,Athletic Club
+2026-05-13,La Liga,Matchweek 36,Wed,Away,,Espanyol,2026,Athletic Club
+2026-05-17,La Liga,Matchweek 37,Sun,Home,,Celta Vigo,2026,Athletic Club
+2026-05-24,La Liga,Matchweek 38,Sun,Away,,Real Madrid,2026,Athletic Club
+2025-08-17,La Liga,Matchweek 1,Sun,Home,,Atletico Madrid,2026,Espanyol
+2025-08-24,La Liga,Matchweek 2,Sun,Away,,Real Sociedad,2026,Espanyol
+2025-08-31,La Liga,Matchweek 3,Sun,Home,,Osasuna,2026,Espanyol
+2025-09-15,La Liga,Matchweek 4,Mon,Home,,Mallorca,2026,Espanyol
+2025-09-20,La Liga,Matchweek 5,Sat,Away,,Real Madrid,2026,Espanyol
+2025-09-23,La Liga,Matchweek 6,Tue,Home,,Valencia,2026,Espanyol
+2025-09-26,La Liga,Matchweek 7,Fri,Away,,Girona,2026,Espanyol
+2025-10-05,La Liga,Matchweek 8,Sun,Home,,Real Betis,2026,Espanyol
+2025-10-17,La Liga,Matchweek 9,Fri,Away,,Oviedo,2026,Espanyol
+2025-10-25,La Liga,Matchweek 10,Sat,Home,,Elche,2026,Espanyol
+2025-11-02,La Liga,Matchweek 11,Sun,Away,,Alaves,2026,Espanyol
+2025-11-09,La Liga,Matchweek 12,Sun,Home,,Villarreal,2026,Espanyol
+2025-11-23,La Liga,Matchweek 13,Sun,Home,,Sevilla,2026,Espanyol
+2025-11-30,La Liga,Matchweek 14,Sun,Away,,Celta Vigo,2026,Espanyol
+2025-12-07,La Liga,Matchweek 15,Sun,Home,,Rayo Vallecano,2026,Espanyol
+2025-12-14,La Liga,Matchweek 16,Sun,Away,,Getafe,2026,Espanyol
+2025-12-21,La Liga,Matchweek 17,Sun,Away,,Athletic Club,2026,Espanyol
+2026-01-04,La Liga,Matchweek 18,Sun,Home,,Barcelona,2026,Espanyol
+2026-01-11,La Liga,Matchweek 19,Sun,Away,,Levante,2026,Espanyol
+2026-01-18,La Liga,Matchweek 20,Sun,Home,,Girona,2026,Espanyol
+2026-01-25,La Liga,Matchweek 21,Sun,Away,,Valencia,2026,Espanyol
+2026-02-01,La Liga,Matchweek 22,Sun,Home,,Alaves,2026,Espanyol
+2026-02-08,La Liga,Matchweek 23,Sun,Away,,Villarreal,2026,Espanyol
+2026-02-15,La Liga,Matchweek 24,Sun,Home,,Celta Vigo,2026,Espanyol
+2026-02-22,La Liga,Matchweek 25,Sun,Away,,Atletico Madrid,2026,Espanyol
+2026-03-01,La Liga,Matchweek 26,Sun,Away,,Elche,2026,Espanyol
+2026-03-08,La Liga,Matchweek 27,Sun,Home,,Oviedo,2026,Espanyol
+2026-03-15,La Liga,Matchweek 28,Sun,Away,,Mallorca,2026,Espanyol
+2026-03-22,La Liga,Matchweek 29,Sun,Home,,Getafe,2026,Espanyol
+2026-04-05,La Liga,Matchweek 30,Sun,Away,,Real Betis,2026,Espanyol
+2026-04-12,La Liga,Matchweek 31,Sun,Away,,Barcelona,2026,Espanyol
+2026-04-19,La Liga,Matchweek 32,Sun,Home,,Levante,2026,Espanyol
+2026-04-22,La Liga,Matchweek 33,Wed,Away,,Rayo Vallecano,2026,Espanyol
+2026-05-03,La Liga,Matchweek 34,Sun,Home,,Real Madrid,2026,Espanyol
+2026-05-10,La Liga,Matchweek 35,Sun,Away,,Sevilla,2026,Espanyol
+2026-05-13,La Liga,Matchweek 36,Wed,Home,,Athletic Club,2026,Espanyol
+2026-05-17,La Liga,Matchweek 37,Sun,Away,,Osasuna,2026,Espanyol
+2026-05-24,La Liga,Matchweek 38,Sun,Home,,Real Sociedad,2026,Espanyol
+2025-08-16,La Liga,Matchweek 1,Sat,Home,,Levante,2026,Alaves
+2025-08-22,La Liga,Matchweek 2,Fri,Away,,Real Betis,2026,Alaves
+2025-08-30,La Liga,Matchweek 3,Sat,Home,,Atletico Madrid,2026,Alaves
+2025-09-13,La Liga,Matchweek 4,Sat,Away,,Athletic Club,2026,Alaves
+2025-09-20,La Liga,Matchweek 5,Sat,Home,,Sevilla,2026,Alaves
+2025-09-24,La Liga,Matchweek 6,Wed,Away,,Getafe,2026,Alaves
+2025-09-27,La Liga,Matchweek 7,Sat,Away,,Mallorca,2026,Alaves
+2025-10-05,La Liga,Matchweek 8,Sun,Home,,Elche,2026,Alaves
+2025-10-20,La Liga,Matchweek 9,Mon,Home,,Valencia,2026,Alaves
+2025-10-26,La Liga,Matchweek 10,Sun,Away,,Rayo Vallecano,2026,Alaves
+2025-11-02,La Liga,Matchweek 11,Sun,Home,,Espanyol,2026,Alaves
+2025-11-09,La Liga,Matchweek 12,Sun,Away,,Girona,2026,Alaves
+2025-11-23,La Liga,Matchweek 13,Sun,Home,,Celta Vigo,2026,Alaves
+2025-11-30,La Liga,Matchweek 14,Sun,Away,,Barcelona,2026,Alaves
+2025-12-07,La Liga,Matchweek 15,Sun,Home,,Real Sociedad,2026,Alaves
+2025-12-14,La Liga,Matchweek 16,Sun,Home,,Real Madrid,2026,Alaves
+2025-12-21,La Liga,Matchweek 17,Sun,Away,,Osasuna,2026,Alaves
+2026-01-04,La Liga,Matchweek 18,Sun,Home,,Oviedo,2026,Alaves
+2026-01-11,La Liga,Matchweek 19,Sun,Away,,Villarreal,2026,Alaves
+2026-01-18,La Liga,Matchweek 20,Sun,Away,,Atletico Madrid,2026,Alaves
+2026-01-25,La Liga,Matchweek 21,Sun,Home,,Real Betis,2026,Alaves
+2026-02-01,La Liga,Matchweek 22,Sun,Away,,Espanyol,2026,Alaves
+2026-02-08,La Liga,Matchweek 23,Sun,Home,,Getafe,2026,Alaves
+2026-02-15,La Liga,Matchweek 24,Sun,Away,,Sevilla,2026,Alaves
+2026-02-22,La Liga,Matchweek 25,Sun,Home,,Girona,2026,Alaves
+2026-03-01,La Liga,Matchweek 26,Sun,Away,,Levante,2026,Alaves
+2026-03-08,La Liga,Matchweek 27,Sun,Away,,Valencia,2026,Alaves
+2026-03-15,La Liga,Matchweek 28,Sun,Home,,Villarreal,2026,Alaves
+2026-03-22,La Liga,Matchweek 29,Sun,Away,,Celta Vigo,2026,Alaves
+2026-04-05,La Liga,Matchweek 30,Sun,Home,,Osasuna,2026,Alaves
+2026-04-12,La Liga,Matchweek 31,Sun,Away,,Real Sociedad,2026,Alaves
+2026-04-19,La Liga,Matchweek 32,Sun,Home,,Mallorca,2026,Alaves
+2026-04-22,La Liga,Matchweek 33,Wed,Away,,Real Madrid,2026,Alaves
+2026-05-03,La Liga,Matchweek 34,Sun,Home,,Athletic Club,2026,Alaves
+2026-05-10,La Liga,Matchweek 35,Sun,Away,,Elche,2026,Alaves
+2026-05-13,La Liga,Matchweek 36,Wed,Home,,Barcelona,2026,Alaves
+2026-05-17,La Liga,Matchweek 37,Sun,Away,,Oviedo,2026,Alaves
+2026-05-24,La Liga,Matchweek 38,Sun,Home,,Rayo Vallecano,2026,Alaves
+2025-08-17,La Liga,Matchweek 1,Sun,Away,,Celta Vigo,2026,Getafe
+2025-08-25,La Liga,Matchweek 2,Mon,Away,,Sevilla,2026,Getafe
+2025-08-29,La Liga,Matchweek 3,Fri,Away,,Valencia,2026,Getafe
+2025-09-13,La Liga,Matchweek 4,Sat,Home,,Oviedo,2026,Getafe
+2025-09-21,La Liga,Matchweek 5,Sun,Away,,Barcelona,2026,Getafe
+2025-09-24,La Liga,Matchweek 6,Wed,Home,,Alaves,2026,Getafe
+2025-09-27,La Liga,Matchweek 7,Sat,Home,,Levante,2026,Getafe
+2025-10-03,La Liga,Matchweek 8,Fri,Away,,Osasuna,2026,Getafe
+2025-10-19,La Liga,Matchweek 9,Sun,Home,,Real Madrid,2026,Getafe
+2025-10-25,La Liga,Matchweek 10,Sat,Away,,Athletic Club,2026,Getafe
+2025-10-31,La Liga,Matchweek 11,Fri,Home,,Girona,2026,Getafe
+2025-11-09,La Liga,Matchweek 12,Sun,Away,,Mallorca,2026,Getafe
+2025-11-23,La Liga,Matchweek 13,Sun,Home,,Atletico Madrid,2026,Getafe
+2025-11-30,La Liga,Matchweek 14,Sun,Home,,Elche,2026,Getafe
+2025-12-07,La Liga,Matchweek 15,Sun,Away,,Villarreal,2026,Getafe
+2025-12-14,La Liga,Matchweek 16,Sun,Home,,Espanyol,2026,Getafe
+2025-12-21,La Liga,Matchweek 17,Sun,Away,,Real Betis,2026,Getafe
+2026-01-04,La Liga,Matchweek 18,Sun,Away,,Rayo Vallecano,2026,Getafe
+2026-01-11,La Liga,Matchweek 19,Sun,Home,,Real Sociedad,2026,Getafe
+2026-01-18,La Liga,Matchweek 20,Sun,Home,,Valencia,2026,Getafe
+2026-01-25,La Liga,Matchweek 21,Sun,Away,,Girona,2026,Getafe
+2026-02-01,La Liga,Matchweek 22,Sun,Home,,Celta Vigo,2026,Getafe
+2026-02-08,La Liga,Matchweek 23,Sun,Away,,Alaves,2026,Getafe
+2026-02-15,La Liga,Matchweek 24,Sun,Home,,Villarreal,2026,Getafe
+2026-02-22,La Liga,Matchweek 25,Sun,Home,,Sevilla,2026,Getafe
+2026-03-01,La Liga,Matchweek 26,Sun,Away,,Real Madrid,2026,Getafe
+2026-03-08,La Liga,Matchweek 27,Sun,Home,,Real Betis,2026,Getafe
+2026-03-15,La Liga,Matchweek 28,Sun,Away,,Atletico Madrid,2026,Getafe
+2026-03-22,La Liga,Matchweek 29,Sun,Away,,Espanyol,2026,Getafe
+2026-04-05,La Liga,Matchweek 30,Sun,Home,,Athletic Club,2026,Getafe
+2026-04-12,La Liga,Matchweek 31,Sun,Away,,Levante,2026,Getafe
+2026-04-19,La Liga,Matchweek 32,Sun,Home,,Barcelona,2026,Getafe
+2026-04-22,La Liga,Matchweek 33,Wed,Away,,Real Sociedad,2026,Getafe
+2026-05-03,La Liga,Matchweek 34,Sun,Home,,Rayo Vallecano,2026,Getafe
+2026-05-10,La Liga,Matchweek 35,Sun,Away,,Oviedo,2026,Getafe
+2026-05-13,La Liga,Matchweek 36,Wed,Home,,Mallorca,2026,Getafe
+2026-05-17,La Liga,Matchweek 37,Sun,Away,,Elche,2026,Getafe
+2026-05-24,La Liga,Matchweek 38,Sun,Home,,Osasuna,2026,Getafe
+2025-08-19,La Liga,Matchweek 1,Tue,Away,,Real Madrid,2026,Osasuna
+2025-08-24,La Liga,Matchweek 2,Sun,Home,,Valencia,2026,Osasuna
+2025-08-31,La Liga,Matchweek 3,Sun,Away,,Espanyol,2026,Osasuna
+2025-09-14,La Liga,Matchweek 4,Sun,Home,,Rayo Vallecano,2026,Osasuna
+2025-09-20,La Liga,Matchweek 5,Sat,Away,,Villarreal,2026,Osasuna
+2025-09-25,La Liga,Matchweek 6,Thu,Home,,Elche,2026,Osasuna
+2025-09-28,La Liga,Matchweek 7,Sun,Away,,Real Betis,2026,Osasuna
+2025-10-03,La Liga,Matchweek 8,Fri,Home,,Getafe,2026,Osasuna
+2025-10-18,La Liga,Matchweek 9,Sat,Away,,Atletico Madrid,2026,Osasuna
+2025-10-26,La Liga,Matchweek 10,Sun,Home,,Celta Vigo,2026,Osasuna
+2025-11-03,La Liga,Matchweek 11,Mon,Away,,Oviedo,2026,Osasuna
+2025-11-09,La Liga,Matchweek 12,Sun,Away,,Sevilla,2026,Osasuna
+2025-11-23,La Liga,Matchweek 13,Sun,Home,,Real Sociedad,2026,Osasuna
+2025-11-30,La Liga,Matchweek 14,Sun,Away,,Mallorca,2026,Osasuna
+2025-12-07,La Liga,Matchweek 15,Sun,Home,,Levante,2026,Osasuna
+2025-12-14,La Liga,Matchweek 16,Sun,Away,,Barcelona,2026,Osasuna
+2025-12-21,La Liga,Matchweek 17,Sun,Home,,Alaves,2026,Osasuna
+2026-01-04,La Liga,Matchweek 18,Sun,Home,,Athletic Club,2026,Osasuna
+2026-01-11,La Liga,Matchweek 19,Sun,Away,,Girona,2026,Osasuna
+2026-01-18,La Liga,Matchweek 20,Sun,Home,,Oviedo,2026,Osasuna
+2026-01-25,La Liga,Matchweek 21,Sun,Away,,Rayo Vallecano,2026,Osasuna
+2026-02-01,La Liga,Matchweek 22,Sun,Home,,Villarreal,2026,Osasuna
+2026-02-08,La Liga,Matchweek 23,Sun,Away,,Celta Vigo,2026,Osasuna
+2026-02-15,La Liga,Matchweek 24,Sun,Away,,Elche,2026,Osasuna
+2026-02-22,La Liga,Matchweek 25,Sun,Home,,Real Madrid,2026,Osasuna
+2026-03-01,La Liga,Matchweek 26,Sun,Away,,Valencia,2026,Osasuna
+2026-03-08,La Liga,Matchweek 27,Sun,Home,,Mallorca,2026,Osasuna
+2026-03-15,La Liga,Matchweek 28,Sun,Away,,Real Sociedad,2026,Osasuna
+2026-03-22,La Liga,Matchweek 29,Sun,Home,,Girona,2026,Osasuna
+2026-04-05,La Liga,Matchweek 30,Sun,Away,,Alaves,2026,Osasuna
+2026-04-12,La Liga,Matchweek 31,Sun,Home,,Real Betis,2026,Osasuna
+2026-04-19,La Liga,Matchweek 32,Sun,Home,,Sevilla,2026,Osasuna
+2026-04-22,La Liga,Matchweek 33,Wed,Away,,Athletic Club,2026,Osasuna
+2026-05-03,La Liga,Matchweek 34,Sun,Home,,Barcelona,2026,Osasuna
+2026-05-10,La Liga,Matchweek 35,Sun,Away,,Levante,2026,Osasuna
+2026-05-13,La Liga,Matchweek 36,Wed,Home,,Atletico Madrid,2026,Osasuna
+2026-05-17,La Liga,Matchweek 37,Sun,Home,,Espanyol,2026,Osasuna
+2026-05-24,La Liga,Matchweek 38,Sun,Away,,Getafe,2026,Osasuna
+2025-08-16,La Liga,Matchweek 1,Sat,Away,,Alaves,2026,Levante
+2025-08-23,La Liga,Matchweek 2,Sat,Home,,Barcelona,2026,Levante
+2025-08-29,La Liga,Matchweek 3,Fri,Away,,Elche,2026,Levante
+2025-09-14,La Liga,Matchweek 4,Sun,Home,,Real Betis,2026,Levante
+2025-09-20,La Liga,Matchweek 5,Sat,Away,,Girona,2026,Levante
+2025-09-23,La Liga,Matchweek 6,Tue,Home,,Real Madrid,2026,Levante
+2025-09-27,La Liga,Matchweek 7,Sat,Away,,Getafe,2026,Levante
+2025-10-04,La Liga,Matchweek 8,Sat,Away,,Oviedo,2026,Levante
+2025-10-19,La Liga,Matchweek 9,Sun,Home,,Rayo Vallecano,2026,Levante
+2025-10-26,La Liga,Matchweek 10,Sun,Away,,Mallorca,2026,Levante
+2025-11-02,La Liga,Matchweek 11,Sun,Home,,Celta Vigo,2026,Levante
+2025-11-09,La Liga,Matchweek 12,Sun,Away,,Atletico Madrid,2026,Levante
+2025-11-23,La Liga,Matchweek 13,Sun,Away,,Valencia,2026,Levante
+2025-11-30,La Liga,Matchweek 14,Sun,Home,,Athletic Club,2026,Levante
+2025-12-07,La Liga,Matchweek 15,Sun,Away,,Osasuna,2026,Levante
+2025-12-14,La Liga,Matchweek 16,Sun,Home,,Villarreal,2026,Levante
+2025-12-21,La Liga,Matchweek 17,Sun,Home,,Real Sociedad,2026,Levante
+2026-01-04,La Liga,Matchweek 18,Sun,Away,,Sevilla,2026,Levante
+2026-01-11,La Liga,Matchweek 19,Sun,Home,,Espanyol,2026,Levante
+2026-01-18,La Liga,Matchweek 20,Sun,Away,,Real Madrid,2026,Levante
+2026-01-25,La Liga,Matchweek 21,Sun,Home,,Elche,2026,Levante
+2026-02-01,La Liga,Matchweek 22,Sun,Home,,Atletico Madrid,2026,Levante
+2026-02-08,La Liga,Matchweek 23,Sun,Away,,Athletic Club,2026,Levante
+2026-02-15,La Liga,Matchweek 24,Sun,Home,,Valencia,2026,Levante
+2026-02-22,La Liga,Matchweek 25,Sun,Away,,Barcelona,2026,Levante
+2026-03-01,La Liga,Matchweek 26,Sun,Home,,Alaves,2026,Levante
+2026-03-08,La Liga,Matchweek 27,Sun,Home,,Girona,2026,Levante
+2026-03-15,La Liga,Matchweek 28,Sun,Away,,Rayo Vallecano,2026,Levante
+2026-03-22,La Liga,Matchweek 29,Sun,Home,,Oviedo,2026,Levante
+2026-04-05,La Liga,Matchweek 30,Sun,Away,,Real Sociedad,2026,Levante
+2026-04-12,La Liga,Matchweek 31,Sun,Home,,Getafe,2026,Levante
+2026-04-19,La Liga,Matchweek 32,Sun,Away,,Espanyol,2026,Levante
+2026-04-22,La Liga,Matchweek 33,Wed,Home,,Sevilla,2026,Levante
+2026-05-03,La Liga,Matchweek 34,Sun,Away,,Villarreal,2026,Levante
+2026-05-10,La Liga,Matchweek 35,Sun,Home,,Osasuna,2026,Levante
+2026-05-13,La Liga,Matchweek 36,Wed,Away,,Celta Vigo,2026,Levante
+2026-05-17,La Liga,Matchweek 37,Sun,Home,,Mallorca,2026,Levante
+2026-05-24,La Liga,Matchweek 38,Sun,Away,,Real Betis,2026,Levante
+2025-08-15,La Liga,Matchweek 1,Fri,Away,,Girona,2026,Rayo Vallecano
+2025-08-25,La Liga,Matchweek 2,Mon,Away,,Athletic Club,2026,Rayo Vallecano
+2025-08-31,La Liga,Matchweek 3,Sun,Home,,Barcelona,2026,Rayo Vallecano
+2025-09-14,La Liga,Matchweek 4,Sun,Away,,Osasuna,2026,Rayo Vallecano
+2025-09-21,La Liga,Matchweek 5,Sun,Home,,Celta Vigo,2026,Rayo Vallecano
+2025-09-24,La Liga,Matchweek 6,Wed,Away,,Atletico Madrid,2026,Rayo Vallecano
+2025-09-28,La Liga,Matchweek 7,Sun,Home,,Sevilla,2026,Rayo Vallecano
+2025-10-05,La Liga,Matchweek 8,Sun,Away,,Real Sociedad,2026,Rayo Vallecano
+2025-10-19,La Liga,Matchweek 9,Sun,Away,,Levante,2026,Rayo Vallecano
+2025-10-26,La Liga,Matchweek 10,Sun,Home,,Alaves,2026,Rayo Vallecano
+2025-11-01,La Liga,Matchweek 11,Sat,Away,,Villarreal,2026,Rayo Vallecano
+2025-11-09,La Liga,Matchweek 12,Sun,Home,,Real Madrid,2026,Rayo Vallecano
+2025-11-23,La Liga,Matchweek 13,Sun,Away,,Oviedo,2026,Rayo Vallecano
+2025-11-30,La Liga,Matchweek 14,Sun,Home,,Valencia,2026,Rayo Vallecano
+2025-12-07,La Liga,Matchweek 15,Sun,Away,,Espanyol,2026,Rayo Vallecano
+2025-12-14,La Liga,Matchweek 16,Sun,Home,,Real Betis,2026,Rayo Vallecano
+2025-12-21,La Liga,Matchweek 17,Sun,Away,,Elche,2026,Rayo Vallecano
+2026-01-04,La Liga,Matchweek 18,Sun,Home,,Getafe,2026,Rayo Vallecano
+2026-01-11,La Liga,Matchweek 19,Sun,Home,,Mallorca,2026,Rayo Vallecano
+2026-01-18,La Liga,Matchweek 20,Sun,Away,,Celta Vigo,2026,Rayo Vallecano
+2026-01-25,La Liga,Matchweek 21,Sun,Home,,Osasuna,2026,Rayo Vallecano
+2026-02-01,La Liga,Matchweek 22,Sun,Away,,Real Madrid,2026,Rayo Vallecano
+2026-02-08,La Liga,Matchweek 23,Sun,Home,,Oviedo,2026,Rayo Vallecano
+2026-02-15,La Liga,Matchweek 24,Sun,Home,,Atletico Madrid,2026,Rayo Vallecano
+2026-02-22,La Liga,Matchweek 25,Sun,Away,,Real Betis,2026,Rayo Vallecano
+2026-03-01,La Liga,Matchweek 26,Sun,Home,,Athletic Club,2026,Rayo Vallecano
+2026-03-08,La Liga,Matchweek 27,Sun,Away,,Sevilla,2026,Rayo Vallecano
+2026-03-15,La Liga,Matchweek 28,Sun,Home,,Levante,2026,Rayo Vallecano
+2026-03-22,La Liga,Matchweek 29,Sun,Away,,Barcelona,2026,Rayo Vallecano
+2026-04-05,La Liga,Matchweek 30,Sun,Home,,Elche,2026,Rayo Vallecano
+2026-04-12,La Liga,Matchweek 31,Sun,Away,,Mallorca,2026,Rayo Vallecano
+2026-04-19,La Liga,Matchweek 32,Sun,Home,,Real Sociedad,2026,Rayo Vallecano
+2026-04-22,La Liga,Matchweek 33,Wed,Home,,Espanyol,2026,Rayo Vallecano
+2026-05-03,La Liga,Matchweek 34,Sun,Away,,Getafe,2026,Rayo Vallecano
+2026-05-10,La Liga,Matchweek 35,Sun,Home,,Girona,2026,Rayo Vallecano
+2026-05-13,La Liga,Matchweek 36,Wed,Away,,Valencia,2026,Rayo Vallecano
+2026-05-17,La Liga,Matchweek 37,Sun,Home,,Villarreal,2026,Rayo Vallecano
+2026-05-24,La Liga,Matchweek 38,Sun,Away,,Alaves,2026,Rayo Vallecano
+2025-08-16,La Liga,Matchweek 1,Sat,Home,,Real Sociedad,2026,Valencia
+2025-08-24,La Liga,Matchweek 2,Sun,Away,,Osasuna,2026,Valencia
+2025-08-29,La Liga,Matchweek 3,Fri,Home,,Getafe,2026,Valencia
+2025-09-14,La Liga,Matchweek 4,Sun,Away,,Barcelona,2026,Valencia
+2025-09-20,La Liga,Matchweek 5,Sat,Home,,Athletic Club,2026,Valencia
+2025-09-23,La Liga,Matchweek 6,Tue,Away,,Espanyol,2026,Valencia
+2025-09-30,La Liga,Matchweek 7,Tue,Home,,Oviedo,2026,Valencia
+2025-10-04,La Liga,Matchweek 8,Sat,Away,,Girona,2026,Valencia
+2025-10-20,La Liga,Matchweek 9,Mon,Away,,Alaves,2026,Valencia
+2025-10-25,La Liga,Matchweek 10,Sat,Home,,Villarreal,2026,Valencia
+2025-11-01,La Liga,Matchweek 11,Sat,Away,,Real Madrid,2026,Valencia
+2025-11-09,La Liga,Matchweek 12,Sun,Home,,Real Betis,2026,Valencia
+2025-11-23,La Liga,Matchweek 13,Sun,Home,,Levante,2026,Valencia
+2025-11-30,La Liga,Matchweek 14,Sun,Away,,Rayo Vallecano,2026,Valencia
+2025-12-07,La Liga,Matchweek 15,Sun,Home,,Sevilla,2026,Valencia
+2025-12-14,La Liga,Matchweek 16,Sun,Away,,Atletico Madrid,2026,Valencia
+2025-12-21,La Liga,Matchweek 17,Sun,Home,,Mallorca,2026,Valencia
+2026-01-04,La Liga,Matchweek 18,Sun,Away,,Celta Vigo,2026,Valencia
+2026-01-11,La Liga,Matchweek 19,Sun,Home,,Elche,2026,Valencia
+2026-01-18,La Liga,Matchweek 20,Sun,Away,,Getafe,2026,Valencia
+2026-01-25,La Liga,Matchweek 21,Sun,Home,,Espanyol,2026,Valencia
+2026-02-01,La Liga,Matchweek 22,Sun,Away,,Real Betis,2026,Valencia
+2026-02-08,La Liga,Matchweek 23,Sun,Home,,Real Madrid,2026,Valencia
+2026-02-15,La Liga,Matchweek 24,Sun,Away,,Levante,2026,Valencia
+2026-02-22,La Liga,Matchweek 25,Sun,Away,,Villarreal,2026,Valencia
+2026-03-01,La Liga,Matchweek 26,Sun,Home,,Osasuna,2026,Valencia
+2026-03-08,La Liga,Matchweek 27,Sun,Home,,Alaves,2026,Valencia
+2026-03-15,La Liga,Matchweek 28,Sun,Away,,Oviedo,2026,Valencia
+2026-03-22,La Liga,Matchweek 29,Sun,Away,,Sevilla,2026,Valencia
+2026-04-05,La Liga,Matchweek 30,Sun,Home,,Celta Vigo,2026,Valencia
+2026-04-12,La Liga,Matchweek 31,Sun,Away,,Elche,2026,Valencia
+2026-04-19,La Liga,Matchweek 32,Sun,Home,,Girona,2026,Valencia
+2026-04-22,La Liga,Matchweek 33,Wed,Away,,Mallorca,2026,Valencia
+2026-05-03,La Liga,Matchweek 34,Sun,Home,,Atletico Madrid,2026,Valencia
+2026-05-10,La Liga,Matchweek 35,Sun,Away,,Athletic Club,2026,Valencia
+2026-05-13,La Liga,Matchweek 36,Wed,Home,,Rayo Vallecano,2026,Valencia
+2026-05-17,La Liga,Matchweek 37,Sun,Away,,Real Sociedad,2026,Valencia
+2026-05-24,La Liga,Matchweek 38,Sun,Home,,Barcelona,2026,Valencia
+2025-08-17,La Liga,Matchweek 1,Sun,Home,,Getafe,2026,Celta Vigo
+2025-08-23,La Liga,Matchweek 2,Sat,Away,,Mallorca,2026,Celta Vigo
+2025-08-27,La Liga,Matchweek 6,Wed,Home,,Real Betis,2026,Celta Vigo
+2025-08-31,La Liga,Matchweek 3,Sun,Home,,Villarreal,2026,Celta Vigo
+2025-09-14,La Liga,Matchweek 4,Sun,Home,,Girona,2026,Celta Vigo
+2025-09-21,La Liga,Matchweek 5,Sun,Away,,Rayo Vallecano,2026,Celta Vigo
+2025-09-28,La Liga,Matchweek 7,Sun,Away,,Elche,2026,Celta Vigo
+2025-10-05,La Liga,Matchweek 8,Sun,Home,,Atletico Madrid,2026,Celta Vigo
+2025-10-19,La Liga,Matchweek 9,Sun,Home,,Real Sociedad,2026,Celta Vigo
+2025-10-26,La Liga,Matchweek 10,Sun,Away,,Osasuna,2026,Celta Vigo
+2025-11-02,La Liga,Matchweek 11,Sun,Away,,Levante,2026,Celta Vigo
+2025-11-09,La Liga,Matchweek 12,Sun,Home,,Barcelona,2026,Celta Vigo
+2025-11-23,La Liga,Matchweek 13,Sun,Away,,Alaves,2026,Celta Vigo
+2025-11-30,La Liga,Matchweek 14,Sun,Home,,Espanyol,2026,Celta Vigo
+2025-12-07,La Liga,Matchweek 15,Sun,Away,,Real Madrid,2026,Celta Vigo
+2025-12-14,La Liga,Matchweek 16,Sun,Home,,Athletic Club,2026,Celta Vigo
+2025-12-21,La Liga,Matchweek 17,Sun,Away,,Oviedo,2026,Celta Vigo
+2026-01-04,La Liga,Matchweek 18,Sun,Home,,Valencia,2026,Celta Vigo
+2026-01-11,La Liga,Matchweek 19,Sun,Away,,Sevilla,2026,Celta Vigo
+2026-01-18,La Liga,Matchweek 20,Sun,Home,,Rayo Vallecano,2026,Celta Vigo
+2026-01-25,La Liga,Matchweek 21,Sun,Away,,Real Sociedad,2026,Celta Vigo
+2026-02-01,La Liga,Matchweek 22,Sun,Away,,Getafe,2026,Celta Vigo
+2026-02-08,La Liga,Matchweek 23,Sun,Home,,Osasuna,2026,Celta Vigo
+2026-02-15,La Liga,Matchweek 24,Sun,Away,,Espanyol,2026,Celta Vigo
+2026-02-22,La Liga,Matchweek 25,Sun,Home,,Mallorca,2026,Celta Vigo
+2026-03-01,La Liga,Matchweek 26,Sun,Away,,Girona,2026,Celta Vigo
+2026-03-08,La Liga,Matchweek 27,Sun,Home,,Real Madrid,2026,Celta Vigo
+2026-03-15,La Liga,Matchweek 28,Sun,Away,,Real Betis,2026,Celta Vigo
+2026-03-22,La Liga,Matchweek 29,Sun,Home,,Alaves,2026,Celta Vigo
+2026-04-05,La Liga,Matchweek 30,Sun,Away,,Valencia,2026,Celta Vigo
+2026-04-12,La Liga,Matchweek 31,Sun,Home,,Oviedo,2026,Celta Vigo
+2026-04-19,La Liga,Matchweek 32,Sun,Away,,Villarreal,2026,Celta Vigo
+2026-04-22,La Liga,Matchweek 33,Wed,Away,,Barcelona,2026,Celta Vigo
+2026-05-03,La Liga,Matchweek 34,Sun,Home,,Elche,2026,Celta Vigo
+2026-05-10,La Liga,Matchweek 35,Sun,Away,,Atletico Madrid,2026,Celta Vigo
+2026-05-13,La Liga,Matchweek 36,Wed,Home,,Levante,2026,Celta Vigo
+2026-05-17,La Liga,Matchweek 37,Sun,Away,,Athletic Club,2026,Celta Vigo
+2026-05-24,La Liga,Matchweek 38,Sun,Home,,Sevilla,2026,Celta Vigo
+2025-08-15,La Liga,Matchweek 1,Fri,Away,,Villarreal,2026,Oviedo
+2025-08-24,La Liga,Matchweek 2,Sun,Home,,Real Madrid,2026,Oviedo
+2025-08-30,La Liga,Matchweek 3,Sat,Home,,Real Sociedad,2026,Oviedo
+2025-09-13,La Liga,Matchweek 4,Sat,Away,,Getafe,2026,Oviedo
+2025-09-21,La Liga,Matchweek 5,Sun,Away,,Elche,2026,Oviedo
+2025-09-25,La Liga,Matchweek 6,Thu,Home,,Barcelona,2026,Oviedo
+2025-09-30,La Liga,Matchweek 7,Tue,Away,,Valencia,2026,Oviedo
+2025-10-04,La Liga,Matchweek 8,Sat,Home,,Levante,2026,Oviedo
+2025-10-17,La Liga,Matchweek 9,Fri,Home,,Espanyol,2026,Oviedo
+2025-10-25,La Liga,Matchweek 10,Sat,Away,,Girona,2026,Oviedo
+2025-11-03,La Liga,Matchweek 11,Mon,Home,,Osasuna,2026,Oviedo
+2025-11-09,La Liga,Matchweek 12,Sun,Away,,Athletic Club,2026,Oviedo
+2025-11-23,La Liga,Matchweek 13,Sun,Home,,Rayo Vallecano,2026,Oviedo
+2025-11-30,La Liga,Matchweek 14,Sun,Away,,Atletico Madrid,2026,Oviedo
+2025-12-07,La Liga,Matchweek 15,Sun,Home,,Mallorca,2026,Oviedo
+2025-12-14,La Liga,Matchweek 16,Sun,Away,,Sevilla,2026,Oviedo
+2025-12-21,La Liga,Matchweek 17,Sun,Home,,Celta Vigo,2026,Oviedo
+2026-01-04,La Liga,Matchweek 18,Sun,Away,,Alaves,2026,Oviedo
+2026-01-11,La Liga,Matchweek 19,Sun,Home,,Real Betis,2026,Oviedo
+2026-01-18,La Liga,Matchweek 20,Sun,Away,,Osasuna,2026,Oviedo
+2026-01-25,La Liga,Matchweek 21,Sun,Away,,Barcelona,2026,Oviedo
+2026-02-01,La Liga,Matchweek 22,Sun,Home,,Girona,2026,Oviedo
+2026-02-08,La Liga,Matchweek 23,Sun,Away,,Rayo Vallecano,2026,Oviedo
+2026-02-15,La Liga,Matchweek 24,Sun,Home,,Athletic Club,2026,Oviedo
+2026-02-22,La Liga,Matchweek 25,Sun,Away,,Real Sociedad,2026,Oviedo
+2026-03-01,La Liga,Matchweek 26,Sun,Home,,Atletico Madrid,2026,Oviedo
+2026-03-08,La Liga,Matchweek 27,Sun,Away,,Espanyol,2026,Oviedo
+2026-03-15,La Liga,Matchweek 28,Sun,Home,,Valencia,2026,Oviedo
+2026-03-22,La Liga,Matchweek 29,Sun,Away,,Levante,2026,Oviedo
+2026-04-05,La Liga,Matchweek 30,Sun,Home,,Sevilla,2026,Oviedo
+2026-04-12,La Liga,Matchweek 31,Sun,Away,,Celta Vigo,2026,Oviedo
+2026-04-19,La Liga,Matchweek 32,Sun,Home,,Elche,2026,Oviedo
+2026-04-22,La Liga,Matchweek 33,Wed,Home,,Villarreal,2026,Oviedo
+2026-05-03,La Liga,Matchweek 34,Sun,Away,,Real Betis,2026,Oviedo
+2026-05-10,La Liga,Matchweek 35,Sun,Home,,Getafe,2026,Oviedo
+2026-05-13,La Liga,Matchweek 36,Wed,Away,,Real Madrid,2026,Oviedo
+2026-05-17,La Liga,Matchweek 37,Sun,Home,,Alaves,2026,Oviedo
+2026-05-24,La Liga,Matchweek 38,Sun,Away,,Mallorca,2026,Oviedo
+2025-08-15,La Liga,Matchweek 1,Fri,Home,,Rayo Vallecano,2026,Girona
+2025-08-24,La Liga,Matchweek 2,Sun,Away,,Villarreal,2026,Girona
+2025-08-30,La Liga,Matchweek 3,Sat,Home,,Sevilla,2026,Girona
+2025-09-14,La Liga,Matchweek 4,Sun,Away,,Celta Vigo,2026,Girona
+2025-09-20,La Liga,Matchweek 5,Sat,Home,,Levante,2026,Girona
+2025-09-23,La Liga,Matchweek 6,Tue,Away,,Athletic Club,2026,Girona
+2025-09-26,La Liga,Matchweek 7,Fri,Home,,Espanyol,2026,Girona
+2025-10-04,La Liga,Matchweek 8,Sat,Home,,Valencia,2026,Girona
+2025-10-18,La Liga,Matchweek 9,Sat,Away,,Barcelona,2026,Girona
+2025-10-25,La Liga,Matchweek 10,Sat,Home,,Oviedo,2026,Girona
+2025-10-31,La Liga,Matchweek 11,Fri,Away,,Getafe,2026,Girona
+2025-11-09,La Liga,Matchweek 12,Sun,Home,,Alaves,2026,Girona
+2025-11-23,La Liga,Matchweek 13,Sun,Away,,Real Betis,2026,Girona
+2025-11-30,La Liga,Matchweek 14,Sun,Home,,Real Madrid,2026,Girona
+2025-12-07,La Liga,Matchweek 15,Sun,Away,,Elche,2026,Girona
+2025-12-14,La Liga,Matchweek 16,Sun,Away,,Real Sociedad,2026,Girona
+2025-12-21,La Liga,Matchweek 17,Sun,Home,,Atletico Madrid,2026,Girona
+2026-01-04,La Liga,Matchweek 18,Sun,Away,,Mallorca,2026,Girona
+2026-01-11,La Liga,Matchweek 19,Sun,Home,,Osasuna,2026,Girona
+2026-01-18,La Liga,Matchweek 20,Sun,Away,,Espanyol,2026,Girona
+2026-01-25,La Liga,Matchweek 21,Sun,Home,,Getafe,2026,Girona
+2026-02-01,La Liga,Matchweek 22,Sun,Away,,Oviedo,2026,Girona
+2026-02-08,La Liga,Matchweek 23,Sun,Away,,Sevilla,2026,Girona
+2026-02-15,La Liga,Matchweek 24,Sun,Home,,Barcelona,2026,Girona
+2026-02-22,La Liga,Matchweek 25,Sun,Away,,Alaves,2026,Girona
+2026-03-01,La Liga,Matchweek 26,Sun,Home,,Celta Vigo,2026,Girona
+2026-03-08,La Liga,Matchweek 27,Sun,Away,,Levante,2026,Girona
+2026-03-15,La Liga,Matchweek 28,Sun,Home,,Athletic Club,2026,Girona
+2026-03-22,La Liga,Matchweek 29,Sun,Away,,Osasuna,2026,Girona
+2026-04-05,La Liga,Matchweek 30,Sun,Home,,Villarreal,2026,Girona
+2026-04-12,La Liga,Matchweek 31,Sun,Away,,Real Madrid,2026,Girona
+2026-04-19,La Liga,Matchweek 32,Sun,Away,,Valencia,2026,Girona
+2026-04-22,La Liga,Matchweek 33,Wed,Home,,Real Betis,2026,Girona
+2026-05-03,La Liga,Matchweek 34,Sun,Home,,Mallorca,2026,Girona
+2026-05-10,La Liga,Matchweek 35,Sun,Away,,Rayo Vallecano,2026,Girona
+2026-05-13,La Liga,Matchweek 36,Wed,Home,,Real Sociedad,2026,Girona
+2026-05-17,La Liga,Matchweek 37,Sun,Away,,Atletico Madrid,2026,Girona
+2026-05-24,La Liga,Matchweek 38,Sun,Home,,Elche,2026,Girona
+2025-08-16,La Liga,Matchweek 1,Sat,Away,,Valencia,2026,Real Sociedad
+2025-08-24,La Liga,Matchweek 2,Sun,Home,,Espanyol,2026,Real Sociedad
+2025-08-30,La Liga,Matchweek 3,Sat,Away,,Oviedo,2026,Real Sociedad
+2025-09-13,La Liga,Matchweek 4,Sat,Home,,Real Madrid,2026,Real Sociedad
+2025-09-19,La Liga,Matchweek 5,Fri,Away,,Real Betis,2026,Real Sociedad
+2025-09-24,La Liga,Matchweek 6,Wed,Home,,Mallorca,2026,Real Sociedad
+2025-09-28,La Liga,Matchweek 7,Sun,Away,,Barcelona,2026,Real Sociedad
+2025-10-05,La Liga,Matchweek 8,Sun,Home,,Rayo Vallecano,2026,Real Sociedad
+2025-10-19,La Liga,Matchweek 9,Sun,Away,,Celta Vigo,2026,Real Sociedad
+2025-10-24,La Liga,Matchweek 10,Fri,Home,,Sevilla,2026,Real Sociedad
+2025-11-01,La Liga,Matchweek 11,Sat,Home,,Athletic Club,2026,Real Sociedad
+2025-11-09,La Liga,Matchweek 12,Sun,Away,,Elche,2026,Real Sociedad
+2025-11-23,La Liga,Matchweek 13,Sun,Away,,Osasuna,2026,Real Sociedad
+2025-11-30,La Liga,Matchweek 14,Sun,Home,,Villarreal,2026,Real Sociedad
+2025-12-07,La Liga,Matchweek 15,Sun,Away,,Alaves,2026,Real Sociedad
+2025-12-14,La Liga,Matchweek 16,Sun,Home,,Girona,2026,Real Sociedad
+2025-12-21,La Liga,Matchweek 17,Sun,Away,,Levante,2026,Real Sociedad
+2026-01-04,La Liga,Matchweek 18,Sun,Home,,Atletico Madrid,2026,Real Sociedad
+2026-01-11,La Liga,Matchweek 19,Sun,Away,,Getafe,2026,Real Sociedad
+2026-01-18,La Liga,Matchweek 20,Sun,Home,,Barcelona,2026,Real Sociedad
+2026-01-25,La Liga,Matchweek 21,Sun,Home,,Celta Vigo,2026,Real Sociedad
+2026-02-01,La Liga,Matchweek 22,Sun,Away,,Athletic Club,2026,Real Sociedad
+2026-02-08,La Liga,Matchweek 23,Sun,Home,,Elche,2026,Real Sociedad
+2026-02-15,La Liga,Matchweek 24,Sun,Away,,Real Madrid,2026,Real Sociedad
+2026-02-22,La Liga,Matchweek 25,Sun,Home,,Oviedo,2026,Real Sociedad
+2026-03-01,La Liga,Matchweek 26,Sun,Away,,Mallorca,2026,Real Sociedad
+2026-03-08,La Liga,Matchweek 27,Sun,Away,,Atletico Madrid,2026,Real Sociedad
+2026-03-15,La Liga,Matchweek 28,Sun,Home,,Osasuna,2026,Real Sociedad
+2026-03-22,La Liga,Matchweek 29,Sun,Away,,Villarreal,2026,Real Sociedad
+2026-04-05,La Liga,Matchweek 30,Sun,Home,,Levante,2026,Real Sociedad
+2026-04-12,La Liga,Matchweek 31,Sun,Home,,Alaves,2026,Real Sociedad
+2026-04-19,La Liga,Matchweek 32,Sun,Away,,Rayo Vallecano,2026,Real Sociedad
+2026-04-22,La Liga,Matchweek 33,Wed,Home,,Getafe,2026,Real Sociedad
+2026-05-03,La Liga,Matchweek 34,Sun,Away,,Sevilla,2026,Real Sociedad
+2026-05-10,La Liga,Matchweek 35,Sun,Home,,Real Betis,2026,Real Sociedad
+2026-05-13,La Liga,Matchweek 36,Wed,Away,,Girona,2026,Real Sociedad
+2026-05-17,La Liga,Matchweek 37,Sun,Home,,Valencia,2026,Real Sociedad
+2026-05-24,La Liga,Matchweek 38,Sun,Away,,Espanyol,2026,Real Sociedad
+2025-08-16,La Liga,Matchweek 1,Sat,Home,,Barcelona,2026,Mallorca
+2025-08-23,La Liga,Matchweek 2,Sat,Home,,Celta Vigo,2026,Mallorca
+2025-08-30,La Liga,Matchweek 3,Sat,Away,,Real Madrid,2026,Mallorca
+2025-09-15,La Liga,Matchweek 4,Mon,Away,,Espanyol,2026,Mallorca
+2025-09-21,La Liga,Matchweek 5,Sun,Home,,Atletico Madrid,2026,Mallorca
+2025-09-24,La Liga,Matchweek 6,Wed,Away,,Real Sociedad,2026,Mallorca
+2025-09-27,La Liga,Matchweek 7,Sat,Home,,Alaves,2026,Mallorca
+2025-10-04,La Liga,Matchweek 8,Sat,Away,,Athletic Club,2026,Mallorca
+2025-10-18,La Liga,Matchweek 9,Sat,Away,,Sevilla,2026,Mallorca
+2025-10-26,La Liga,Matchweek 10,Sun,Home,,Levante,2026,Mallorca
+2025-11-02,La Liga,Matchweek 11,Sun,Away,,Real Betis,2026,Mallorca
+2025-11-09,La Liga,Matchweek 12,Sun,Home,,Getafe,2026,Mallorca
+2025-11-23,La Liga,Matchweek 13,Sun,Away,,Villarreal,2026,Mallorca
+2025-11-30,La Liga,Matchweek 14,Sun,Home,,Osasuna,2026,Mallorca
+2025-12-07,La Liga,Matchweek 15,Sun,Away,,Oviedo,2026,Mallorca
+2025-12-14,La Liga,Matchweek 16,Sun,Home,,Elche,2026,Mallorca
+2025-12-21,La Liga,Matchweek 17,Sun,Away,,Valencia,2026,Mallorca
+2026-01-04,La Liga,Matchweek 18,Sun,Home,,Girona,2026,Mallorca
+2026-01-11,La Liga,Matchweek 19,Sun,Away,,Rayo Vallecano,2026,Mallorca
+2026-01-18,La Liga,Matchweek 20,Sun,Home,,Athletic Club,2026,Mallorca
+2026-01-25,La Liga,Matchweek 21,Sun,Away,,Atletico Madrid,2026,Mallorca
+2026-02-01,La Liga,Matchweek 22,Sun,Home,,Sevilla,2026,Mallorca
+2026-02-08,La Liga,Matchweek 23,Sun,Away,,Barcelona,2026,Mallorca
+2026-02-15,La Liga,Matchweek 24,Sun,Home,,Real Betis,2026,Mallorca
+2026-02-22,La Liga,Matchweek 25,Sun,Away,,Celta Vigo,2026,Mallorca
+2026-03-01,La Liga,Matchweek 26,Sun,Home,,Real Sociedad,2026,Mallorca
+2026-03-08,La Liga,Matchweek 27,Sun,Away,,Osasuna,2026,Mallorca
+2026-03-15,La Liga,Matchweek 28,Sun,Home,,Espanyol,2026,Mallorca
+2026-03-22,La Liga,Matchweek 29,Sun,Away,,Elche,2026,Mallorca
+2026-04-05,La Liga,Matchweek 30,Sun,Home,,Real Madrid,2026,Mallorca
+2026-04-12,La Liga,Matchweek 31,Sun,Home,,Rayo Vallecano,2026,Mallorca
+2026-04-19,La Liga,Matchweek 32,Sun,Away,,Alaves,2026,Mallorca
+2026-04-22,La Liga,Matchweek 33,Wed,Home,,Valencia,2026,Mallorca
+2026-05-03,La Liga,Matchweek 34,Sun,Away,,Girona,2026,Mallorca
+2026-05-10,La Liga,Matchweek 35,Sun,Home,,Villarreal,2026,Mallorca
+2026-05-13,La Liga,Matchweek 36,Wed,Away,,Getafe,2026,Mallorca
+2026-05-17,La Liga,Matchweek 37,Sun,Away,,Levante,2026,Mallorca
+2026-05-24,La Liga,Matchweek 38,Sun,Home,,Oviedo,2026,Mallorca

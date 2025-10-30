@@ -1,0 +1,761 @@
+,date,time,comp,round,day,venue,result,gf,ga,opponent,xg,xga,poss,attendance,captain,formation,opp formation,referee,match report,notes,sh,sot,dist,fk,pk,pkatt,season,team
+3180,2020-09-27,16:00,La Liga,Matchweek 3,Sun,Home,W,6.0,1.0,Granada,3.3,1.6,55.0,,Koke,4-4-2,4-2-3-1,Javier Estrada,Match Report,,16.0,9.0,15.2,0.0,0,1,2021,Atletico Madrid
+3181,2020-09-30,19:00,La Liga,Matchweek 4,Wed,Away,D,0.0,0.0,Huesca,1.6,0.9,63.0,,Jan Oblak,4-4-2,4-3-3,Adrián Cordero,Match Report,,16.0,2.0,19.0,1.0,0,0,2021,Atletico Madrid
+3182,2020-10-03,16:00,La Liga,Matchweek 5,Sat,Home,D,0.0,0.0,Villarreal,0.6,0.3,54.0,,Koke,4-4-2,4-1-4-1,Alejandro Hernández,Match Report,,13.0,0.0,23.3,0.0,0,0,2021,Atletico Madrid
+3183,2020-10-17,16:00,La Liga,Matchweek 6,Sat,Away,W,2.0,0.0,Celta Vigo,1.4,1.9,49.0,,Koke,4-4-2,5-3-2,Juan Martínez,Match Report,,9.0,4.0,15.5,0.0,0,0,2021,Atletico Madrid
+3184,2020-10-24,21:00,La Liga,Matchweek 7,Sat,Home,W,2.0,0.0,Betis,1.4,1.1,40.0,,Koke,4-4-2,4-2-3-1,Antonio Matéu Lahoz,Match Report,,13.0,6.0,19.4,1.0,0,0,2021,Atletico Madrid
+3185,2020-10-31,18:30,La Liga,Matchweek 8,Sat,Away,W,3.0,1.0,Osasuna,2.8,1.1,55.0,,Koke,4-4-2,4-4-2,Javier Estrada,Match Report,,9.0,5.0,18.7,1.0,1,2,2021,Atletico Madrid
+3186,2020-11-07,21:00,La Liga,Matchweek 9,Sat,Home,W,4.0,0.0,Cádiz,2.1,0.4,67.0,,Koke,3-4-3,4-4-2,Adrián Cordero,Match Report,,17.0,7.0,16.9,0.0,0,0,2021,Atletico Madrid
+3187,2020-11-21,21:00,La Liga,Matchweek 10,Sat,Home,W,1.0,0.0,Barcelona,0.5,0.9,46.0,,Koke,5-3-2,4-2-3-1,José Luis Munuera,Match Report,,9.0,2.0,21.7,0.0,0,0,2021,Atletico Madrid
+3188,2020-11-28,16:15,La Liga,Matchweek 11,Sat,Away,W,1.0,0.0,Valencia,0.9,0.2,66.0,,Koke,3-4-3,4-4-2,Ricardo de Burgos,Match Report,,14.0,5.0,18.9,0.0,0,0,2021,Atletico Madrid
+3189,2020-12-05,18:30,La Liga,Matchweek 12,Sat,Home,W,2.0,0.0,Valladolid,1.2,0.7,54.0,,Jan Oblak,3-4-1-2,4-4-2,Pablo González,Match Report,,14.0,4.0,18.7,0.0,0,0,2021,Atletico Madrid
+3190,2020-12-12,21:00,La Liga,Matchweek 13,Sat,Away,L,0.0,2.0,Real Madrid,0.7,0.9,44.0,,Koke,3-5-2,4-3-3,Antonio Matéu Lahoz,Match Report,,5.0,1.0,16.0,0.0,0,0,2021,Atletico Madrid
+3191,2020-12-19,14:00,La Liga,Matchweek 14,Sat,Home,W,3.0,1.0,Elche,2.2,0.6,48.0,,Koke,4-4-2,4-1-4-1,Javier Estrada,Match Report,,11.0,5.0,20.9,0.0,1,1,2021,Atletico Madrid
+3192,2020-12-22,19:45,La Liga,Matchweek 15,Tue,Away,W,2.0,0.0,Real Sociedad,0.5,0.3,40.0,,Koke,3-4-3,4-2-3-1,Guillermo Cuadra,Match Report,,8.0,3.0,14.6,0.0,0,0,2021,Atletico Madrid
+3193,2020-12-30,19:15,La Liga,Matchweek 16,Wed,Home,W,1.0,0.0,Getafe,1.1,0.8,51.0,,Koke,3-5-2,4-4-2,Antonio Matéu Lahoz,Match Report,,10.0,3.0,16.3,1.0,0,0,2021,Atletico Madrid
+3194,2021-01-03,16:15,La Liga,Matchweek 17,Sun,Away,W,2.0,1.0,Alavés,2.2,0.3,58.0,,Koke,3-5-2,4-5-1,Juan Martínez,Match Report,,8.0,4.0,14.3,1.0,0,0,2021,Atletico Madrid
+3195,2021-01-12,21:30,La Liga,Matchweek 1,Tue,Home,W,2.0,0.0,Sevilla,0.4,1.8,34.0,,Koke,3-5-2,4-3-3,Javier Estrada,Match Report,,5.0,4.0,17.5,0.0,0,0,2021,Atletico Madrid
+3196,2021-01-21,21:30,La Liga,Matchweek 19,Thu,Away,W,2.0,1.0,Eibar,1.2,1.5,64.0,,Jan Oblak,3-1-4-2,4-2-3-1,Mario Melero,Match Report,,8.0,3.0,18.8,1.0,1,1,2021,Atletico Madrid
+3197,2021-01-24,21:00,La Liga,Matchweek 20,Sun,Home,W,3.0,1.0,Valencia,1.8,0.3,49.0,,Koke,3-1-4-2,4-4-2,Ricardo de Burgos,Match Report,,14.0,5.0,14.8,1.0,0,0,2021,Atletico Madrid
+3198,2021-01-31,16:15,La Liga,Matchweek 21,Sun,Away,W,4.0,2.0,Cádiz,1.9,1.2,52.0,,Koke,3-1-4-2,4-4-2,Jesús Gil,Match Report,,8.0,3.0,21.3,1.0,1,1,2021,Atletico Madrid
+3199,2021-02-08,21:00,La Liga,Matchweek 22,Mon,Home,D,2.0,2.0,Celta Vigo,1.2,1.5,46.0,,Koke,3-1-4-2,4-1-3-2,Guillermo Cuadra,Match Report,,9.0,2.0,18.6,0.0,0,0,2021,Atletico Madrid
+3200,2021-02-13,14:00,La Liga,Matchweek 23,Sat,Away,W,2.0,1.0,Granada,0.7,0.7,60.0,,Koke,3-1-4-2,5-4-1,Antonio Matéu Lahoz,Match Report,,10.0,4.0,13.6,0.0,0,0,2021,Atletico Madrid
+3201,2021-02-17,19:00,La Liga,Matchweek 2,Wed,Away,D,1.0,1.0,Levante,1.1,0.6,64.0,,Koke,3-1-4-2,4-4-2,José Luis Munuera,Match Report,,14.0,6.0,17.3,0.0,0,0,2021,Atletico Madrid
+3202,2021-02-20,16:15,La Liga,Matchweek 24,Sat,Home,L,0.0,2.0,Levante,2.1,0.8,56.0,,Koke,3-4-3,3-4-3,Mario Melero,Match Report,,28.0,10.0,17.2,2.0,0,0,2021,Atletico Madrid
+3203,2021-02-28,21:00,La Liga,Matchweek 25,Sun,Away,W,2.0,0.0,Villarreal,0.6,1.8,37.0,,Koke,3-1-4-2,4-3-3,Ricardo de Burgos,Match Report,,6.0,5.0,17.6,0.0,0,0,2021,Atletico Madrid
+3204,2021-03-07,16:15,La Liga,Matchweek 26,Sun,Home,D,1.0,1.0,Real Madrid,1.4,1.6,39.0,,Koke,4-1-4-1,4-3-3,Alejandro Hernández,Match Report,,11.0,5.0,17.9,1.0,0,0,2021,Atletico Madrid
+3205,2021-03-10,19:00,La Liga,Matchweek 18,Wed,Home,W,2.0,1.0,Athletic Club,1.5,0.6,46.0,,Koke,4-3-3,4-4-2,Jesús Gil,Match Report,,10.0,4.0,20.8,0.0,1,1,2021,Atletico Madrid
+3206,2021-03-13,21:00,La Liga,Matchweek 27,Sat,Away,D,0.0,0.0,Getafe,1.6,0.7,73.0,,Koke,4-1-4-1,4-4-2,José Sánchez,Match Report,,15.0,7.0,15.3,0.0,0,0,2021,Atletico Madrid
+3207,2021-03-21,18:30,La Liga,Matchweek 28,Sun,Home,W,1.0,0.0,Alavés,0.5,1.2,62.0,,Koke,3-1-4-2,4-1-4-1,Juan Martínez,Match Report,,8.0,4.0,21.6,0.0,0,0,2021,Atletico Madrid
+3208,2021-04-04,21:00,La Liga,Matchweek 29,Sun,Away,L,0.0,1.0,Sevilla,0.8,2.0,43.0,,Koke,3-4-3,4-3-3,Jesús Gil,Match Report,,9.0,4.0,20.5,0.0,0,0,2021,Atletico Madrid
+3209,2021-04-11,21:00,La Liga,Matchweek 30,Sun,Away,D,1.0,1.0,Betis,1.3,0.8,47.0,,Koke,3-1-4-2,4-2-3-1,Guillermo Cuadra,Match Report,,10.0,4.0,16.6,0.0,0,0,2021,Atletico Madrid
+3210,2021-04-18,16:15,La Liga,Matchweek 33,Sun,Home,W,5.0,0.0,Eibar,1.9,0.0,61.0,,Koke,4-4-2,4-1-4-1,César Soto,Match Report,,10.0,7.0,12.8,0.0,0,0,2021,Atletico Madrid
+3211,2021-04-22,19:00,La Liga,Matchweek 31,Thu,Home,W,2.0,0.0,Huesca,2.2,1.5,53.0,,Koke,3-4-3,3-5-2,José Luis Munuera,Match Report,,17.0,12.0,15.8,0.0,0,0,2021,Atletico Madrid
+3212,2021-04-25,21:00,La Liga,Matchweek 32,Sun,Away,L,1.0,2.0,Athletic Club,0.8,1.2,62.0,,Koke,4-3-3,4-4-2,Pablo González,Match Report,,14.0,3.0,20.8,0.0,0,0,2021,Atletico Madrid
+3213,2021-05-01,16:15,La Liga,Matchweek 34,Sat,Away,W,1.0,0.0,Elche,0.9,1.2,50.0,,Jan Oblak,3-4-3,4-4-2,Mario Melero,Match Report,,11.0,4.0,17.1,0.0,0,0,2021,Atletico Madrid
+3214,2021-05-08,16:15,La Liga,Matchweek 35,Sat,Away,D,0.0,0.0,Barcelona,0.8,0.9,41.0,,Koke,3-4-3,3-1-4-2,Antonio Matéu Lahoz,Match Report,,11.0,6.0,14.4,1.0,0,0,2021,Atletico Madrid
+3215,2021-05-12,22:00,La Liga,Matchweek 36,Wed,Home,W,2.0,1.0,Real Sociedad,1.4,1.7,35.0,,Koke,4-3-3,4-2-3-1,Guillermo Cuadra,Match Report,,12.0,4.0,16.7,1.0,0,0,2021,Atletico Madrid
+3216,2021-05-16,18:30,La Liga,Matchweek 37,Sun,Home,W,2.0,1.0,Osasuna,2.6,0.3,73.0,,Koke,4-3-3,5-4-1,Juan Martínez,Match Report,,26.0,9.0,18.6,0.0,0,0,2021,Atletico Madrid
+3217,2021-05-22,18:00,La Liga,Matchweek 38,Sat,Away,W,2.0,1.0,Valladolid,1.4,1.1,52.0,,Koke,4-3-3,4-4-2,José Sánchez,Match Report,,14.0,3.0,13.6,0.0,0,0,2021,Atletico Madrid
+3218,2020-09-20,21:00,La Liga,Matchweek 2,Sun,Away,D,0.0,0.0,Real Sociedad,0.9,0.6,68.0,,Sergio Ramos,4-2-3-1,4-4-2,Juan Martínez,Match Report,,16.0,4.0,20.1,0.0,0,0,2021,Real Madrid
+3219,2020-09-26,21:00,La Liga,Matchweek 3,Sat,Away,W,3.0,2.0,Betis,3.8,1.2,55.0,,Sergio Ramos,4-3-1-2,4-2-3-1,Ricardo de Burgos,Match Report,,10.0,3.0,12.0,1.0,1,1,2021,Real Madrid
+3220,2020-09-30,21:30,La Liga,Matchweek 4,Wed,Home,W,1.0,0.0,Valladolid,2.3,0.6,62.0,,Sergio Ramos,4-3-1-2,4-2-3-1,César Soto,Match Report,,15.0,5.0,14.8,0.0,0,0,2021,Real Madrid
+3221,2020-10-04,16:00,La Liga,Matchweek 5,Sun,Away,W,2.0,0.0,Levante,2.2,0.5,55.0,,Sergio Ramos,4-3-3,4-4-2,José Luis Munuera,Match Report,,13.0,3.0,15.7,0.0,0,0,2021,Real Madrid
+3222,2020-10-17,18:30,La Liga,Matchweek 6,Sat,Home,L,0.0,1.0,Cádiz,1.0,1.6,75.0,,Sergio Ramos,4-3-3,4-4-2,Santiago Jaime,Match Report,,14.0,2.0,19.5,0.0,0,0,2021,Real Madrid
+3223,2020-10-24,16:00,La Liga,Matchweek 7,Sat,Away,W,3.0,1.0,Barcelona,3.0,1.8,47.0,,Sergio Ramos,4-3-3,4-4-2,Juan Martínez,Match Report,,14.0,8.0,15.5,0.0,1,1,2021,Real Madrid
+3224,2020-10-31,14:00,La Liga,Matchweek 8,Sat,Home,W,4.0,1.0,Huesca,2.3,1.0,60.0,,Sergio Ramos,4-3-3,4-4-2,Pablo González,Match Report,,13.0,6.0,16.9,0.0,0,0,2021,Real Madrid
+3225,2020-11-08,21:00,La Liga,Matchweek 9,Sun,Away,L,1.0,4.0,Valencia,1.3,2.5,65.0,,Sergio Ramos,4-2-3-1,4-4-2,Jesús Gil,Match Report,,16.0,6.0,16.6,0.0,0,0,2021,Real Madrid
+3226,2020-11-21,16:15,La Liga,Matchweek 10,Sat,Away,D,1.0,1.0,Villarreal,0.6,1.7,53.0,,Raphaël Varane,4-2-3-1,4-4-2,Alejandro Hernández,Match Report,,6.0,1.0,20.3,0.0,0,0,2021,Real Madrid
+3227,2020-11-28,21:00,La Liga,Matchweek 11,Sat,Home,L,1.0,2.0,Alavés,1.7,2.2,67.0,,Marcelo,4-3-3,4-4-2,Adrián Cordero,Match Report,,20.0,8.0,17.0,0.0,0,0,2021,Real Madrid
+3228,2020-12-05,16:15,La Liga,Matchweek 12,Sat,Away,W,1.0,0.0,Sevilla,1.5,0.7,37.0,,Karim Benzema,4-3-3,4-3-3,José Sánchez,Match Report,,10.0,2.0,15.7,0.0,0,0,2021,Real Madrid
+3229,2020-12-12,21:00,La Liga,Matchweek 13,Sat,Home,W,2.0,0.0,Atlético Madrid,0.9,0.7,56.0,,Sergio Ramos,4-3-3,3-5-2,Antonio Matéu Lahoz,Match Report,,11.0,3.0,20.2,1.0,0,0,2021,Real Madrid
+3230,2020-12-15,22:00,La Liga,Matchweek 19,Tue,Home,W,3.0,1.0,Athletic Club,2.2,0.8,68.0,,Sergio Ramos,4-2-3-1,4-2-3-1,Jesús Gil,Match Report,,18.0,5.0,17.0,0.0,0,0,2021,Real Madrid
+3231,2020-12-20,21:00,La Liga,Matchweek 14,Sun,Away,W,3.0,1.0,Eibar,2.2,0.7,66.0,,Sergio Ramos,4-3-3,4-4-2,José Luis Munuera,Match Report,,11.0,4.0,17.6,2.0,0,0,2021,Real Madrid
+3232,2020-12-23,19:45,La Liga,Matchweek 15,Wed,Home,W,2.0,0.0,Granada,1.8,0.8,66.0,,Sergio Ramos,4-3-3,4-1-4-1,Juan Martínez,Match Report,,23.0,6.0,17.9,0.0,0,0,2021,Real Madrid
+3233,2020-12-30,21:30,La Liga,Matchweek 16,Wed,Away,D,1.0,1.0,Elche,1.4,1.0,67.0,,Sergio Ramos,4-3-3,4-1-4-1,Jorge Figueroa,Match Report,,14.0,6.0,17.3,0.0,0,0,2021,Real Madrid
+3234,2021-01-02,21:00,La Liga,Matchweek 17,Sat,Home,W,2.0,0.0,Celta Vigo,1.0,0.7,41.0,,Karim Benzema,4-3-3,4-1-3-2,Ricardo de Burgos,Match Report,,9.0,2.0,18.8,0.0,0,0,2021,Real Madrid
+3235,2021-01-09,21:00,La Liga,Matchweek 18,Sat,Away,D,0.0,0.0,Osasuna,0.4,0.6,69.0,,Sergio Ramos,4-3-3,4-1-4-1,César Soto,Match Report,,9.0,1.0,16.4,0.0,0,0,2021,Real Madrid
+3236,2021-01-23,21:00,La Liga,Matchweek 20,Sat,Away,W,4.0,1.0,Alavés,1.4,0.7,60.0,,Karim Benzema,4-3-3,4-4-2,Alejandro Hernández,Match Report,,10.0,6.0,15.7,0.0,0,0,2021,Real Madrid
+3237,2021-01-30,16:15,La Liga,Matchweek 21,Sat,Home,L,1.0,2.0,Levante,1.3,1.8,47.0,,Karim Benzema,4-3-3,4-4-2,David Medié,Match Report,,8.0,2.0,20.9,0.0,0,0,2021,Real Madrid
+3238,2021-02-06,16:15,La Liga,Matchweek 22,Sat,Away,W,2.0,1.0,Huesca,3.4,1.0,65.0,,Karim Benzema,4-3-3,3-5-2,Javier Estrada,Match Report,,18.0,7.0,13.0,2.0,0,0,2021,Real Madrid
+3239,2021-02-09,21:00,La Liga,Matchweek 1,Tue,Home,W,2.0,0.0,Getafe,1.6,0.1,67.0,,Marcelo,3-4-3,4-4-2,Alberola Rojas,Match Report,,14.0,4.0,15.3,1.0,0,0,2021,Real Madrid
+3240,2021-02-14,16:15,La Liga,Matchweek 23,Sun,Home,W,2.0,0.0,Valencia,0.8,0.1,61.0,,Karim Benzema,4-3-3,4-4-2,José Sánchez,Match Report,,16.0,7.0,21.8,0.0,0,0,2021,Real Madrid
+3241,2021-02-20,21:00,La Liga,Matchweek 24,Sat,Away,W,1.0,0.0,Valladolid,0.8,1.0,64.0,,Raphaël Varane,4-3-3,4-2-3-1,Guillermo Cuadra,Match Report,,10.0,2.0,18.6,0.0,0,0,2021,Real Madrid
+3242,2021-03-01,21:00,La Liga,Matchweek 25,Mon,Home,D,1.0,1.0,Real Sociedad,2.2,0.8,59.0,,Raphaël Varane,4-3-3,4-2-3-1,Jesús Gil,Match Report,,20.0,2.0,16.7,0.0,0,0,2021,Real Madrid
+3243,2021-03-07,16:15,La Liga,Matchweek 26,Sun,Away,D,1.0,1.0,Atlético Madrid,1.6,1.4,61.0,,Karim Benzema,4-3-3,4-1-4-1,Alejandro Hernández,Match Report,,18.0,8.0,19.9,2.0,0,0,2021,Real Madrid
+3244,2021-03-13,16:15,La Liga,Matchweek 27,Sat,Home,W,2.0,1.0,Elche,1.6,0.5,65.0,,Sergio Ramos,3-1-4-2,4-4-2,Jorge Figueroa,Match Report,,17.0,4.0,17.0,0.0,0,0,2021,Real Madrid
+3245,2021-03-20,16:15,La Liga,Matchweek 28,Sat,Away,W,3.0,1.0,Celta Vigo,2.5,0.6,49.0,,Karim Benzema,4-1-2-1-2◆,4-1-3-2,Mario Melero,Match Report,,16.0,4.0,16.0,1.0,0,0,2021,Real Madrid
+3246,2021-04-03,16:15,La Liga,Matchweek 29,Sat,Home,W,2.0,0.0,Eibar,1.8,0.4,63.0,,Marcelo,3-4-3,4-1-4-1,Isidro Díaz de Mera,Match Report,,21.0,8.0,19.0,1.0,0,0,2021,Real Madrid
+3247,2021-04-10,21:00,La Liga,Matchweek 30,Sat,Home,W,2.0,1.0,Barcelona,1.5,1.3,31.0,,Karim Benzema,4-1-4-1,3-4-3,Jesús Gil,Match Report,,14.0,3.0,18.0,2.0,0,0,2021,Real Madrid
+3248,2021-04-18,21:00,La Liga,Matchweek 33,Sun,Away,D,0.0,0.0,Getafe,0.5,1.8,58.0,,Marcelo,4-2-3-1,4-4-2,José Sánchez,Match Report,,10.0,1.0,18.9,0.0,0,0,2021,Real Madrid
+3249,2021-04-21,22:00,La Liga,Matchweek 31,Wed,Away,W,3.0,0.0,Cádiz,3.2,1.0,61.0,,Marcelo,3-4-3,4-4-2,Antonio Matéu Lahoz,Match Report,,13.0,3.0,17.2,2.0,1,1,2021,Real Madrid
+3250,2021-04-24,21:00,La Liga,Matchweek 32,Sat,Home,D,0.0,0.0,Betis,1.0,0.9,57.0,,Karim Benzema,4-3-3,4-2-3-1,Javier Estrada,Match Report,,17.0,5.0,17.5,1.0,0,0,2021,Real Madrid
+3251,2021-05-01,21:00,La Liga,Matchweek 34,Sat,Home,W,2.0,0.0,Osasuna,1.7,0.1,65.0,,Marcelo,4-2-3-1,4-1-4-1,Guillermo Cuadra,Match Report,,22.0,6.0,20.3,0.0,0,0,2021,Real Madrid
+3252,2021-05-09,21:00,La Liga,Matchweek 35,Sun,Home,D,2.0,2.0,Sevilla,0.9,1.2,58.0,,Marcelo,4-3-3,4-3-3,Juan Martínez,Match Report,,17.0,7.0,22.2,0.0,0,0,2021,Real Madrid
+3253,2021-05-13,22:00,La Liga,Matchweek 36,Thu,Away,W,4.0,1.0,Granada,1.3,1.9,64.0,,Karim Benzema,4-3-3,4-2-3-1,Jesús Gil,Match Report,,16.0,7.0,14.2,0.0,0,0,2021,Real Madrid
+3254,2021-05-16,18:30,La Liga,Matchweek 37,Sun,Away,W,1.0,0.0,Athletic Club,1.0,0.7,64.0,,Karim Benzema,4-3-3,4-4-2,Antonio Matéu Lahoz,Match Report,,11.0,2.0,25.4,1.0,0,0,2021,Real Madrid
+3255,2021-05-22,18:00,La Liga,Matchweek 38,Sat,Home,W,2.0,1.0,Villarreal,1.2,0.6,56.0,,Karim Benzema,4-3-3,4-4-2,José Luis Munuera,Match Report,,14.0,4.0,17.6,0.0,0,0,2021,Real Madrid
+3256,2020-09-27,21:00,La Liga,Matchweek 3,Sun,Home,W,4.0,0.0,Villarreal,2.6,0.2,57.0,,Lionel Messi,4-2-3-1,4-4-2,Guillermo Cuadra,Match Report,,16.0,8.0,15.5,1.0,1,1,2021,Barcelona
+3257,2020-10-01,21:30,La Liga,Matchweek 4,Thu,Away,W,3.0,0.0,Celta Vigo,0.7,0.5,56.0,,Lionel Messi,4-2-3-1,5-3-2,Carlos del Cerro,Match Report,,7.0,4.0,17.2,1.0,0,0,2021,Barcelona
+3258,2020-10-04,21:00,La Liga,Matchweek 5,Sun,Home,D,1.0,1.0,Sevilla,1.0,1.5,55.0,,Lionel Messi,4-2-3-1,4-3-3,Jesús Gil,Match Report,,12.0,5.0,20.6,1.0,0,0,2021,Barcelona
+3259,2020-10-17,21:00,La Liga,Matchweek 6,Sat,Away,L,0.0,1.0,Getafe,0.7,1.6,72.0,,Lionel Messi,4-2-3-1,4-4-2,César Soto,Match Report,,7.0,1.0,17.6,1.0,0,0,2021,Barcelona
+3260,2020-10-24,16:00,La Liga,Matchweek 7,Sat,Home,L,1.0,3.0,Real Madrid,1.8,3.0,53.0,,Lionel Messi,4-4-2,4-3-3,Juan Martínez,Match Report,,10.0,4.0,17.3,1.0,0,0,2021,Barcelona
+3261,2020-10-31,21:00,La Liga,Matchweek 8,Sat,Away,D,1.0,1.0,Alavés,1.9,1.2,79.0,,Lionel Messi,4-2-3-1,4-1-4-1,Alejandro Hernández,Match Report,,25.0,8.0,18.0,3.0,0,0,2021,Barcelona
+3262,2020-11-07,16:15,La Liga,Matchweek 9,Sat,Home,W,5.0,2.0,Betis,3.4,1.1,59.0,,Sergio Busquets,4-4-2,4-2-3-1,Guillermo Cuadra,Match Report,,16.0,7.0,15.5,0.0,1,2,2021,Barcelona
+3263,2020-11-21,21:00,La Liga,Matchweek 10,Sat,Away,L,0.0,1.0,Atlético Madrid,0.9,0.5,54.0,,Lionel Messi,4-2-3-1,5-3-2,José Luis Munuera,Match Report,,13.0,4.0,18.9,1.0,0,0,2021,Barcelona
+3264,2020-11-29,14:00,La Liga,Matchweek 11,Sun,Home,W,4.0,0.0,Osasuna,3.7,1.5,71.0,,Lionel Messi,4-3-3,4-4-2,Antonio Matéu Lahoz,Match Report,,20.0,10.0,16.6,3.0,0,0,2021,Barcelona
+3265,2020-12-05,21:00,La Liga,Matchweek 12,Sat,Away,L,1.0,2.0,Cádiz,1.5,2.5,82.0,,Lionel Messi,4-2-3-1,4-1-4-1,César Soto,Match Report,,21.0,8.0,20.6,4.0,0,0,2021,Barcelona
+3266,2020-12-13,21:00,La Liga,Matchweek 13,Sun,Home,W,1.0,0.0,Levante,2.1,1.0,63.0,,Lionel Messi,4-2-3-1,4-4-2,Ricardo de Burgos,Match Report,,24.0,13.0,18.7,3.0,0,0,2021,Barcelona
+3267,2020-12-16,21:00,La Liga,Matchweek 19,Wed,Home,W,2.0,1.0,Real Sociedad,2.5,1.8,53.0,,Lionel Messi,4-2-3-1,4-3-3,José Sánchez,Match Report,,14.0,4.0,13.0,0.0,0,0,2021,Barcelona
+3268,2020-12-19,16:15,La Liga,Matchweek 14,Sat,Home,D,2.0,2.0,Valencia,2.3,1.6,72.0,,Lionel Messi,4-1-4-1,4-4-2,Alejandro Hernández,Match Report,,24.0,8.0,20.2,1.0,0,1,2021,Barcelona
+3269,2020-12-22,22:00,La Liga,Matchweek 15,Tue,Away,W,3.0,0.0,Valladolid,3.0,0.8,61.0,,Lionel Messi,3-4-3,4-4-2,Mario Melero,Match Report,,21.0,10.0,15.0,0.0,0,0,2021,Barcelona
+3270,2020-12-29,19:15,La Liga,Matchweek 16,Tue,Home,D,1.0,1.0,Eibar,2.2,0.6,72.0,,Marc-André ter Stegen,3-4-3,4-2-3-1,Alberola Rojas,Match Report,,15.0,5.0,17.4,0.0,0,1,2021,Barcelona
+3271,2021-01-03,21:00,La Liga,Matchweek 17,Sun,Away,W,1.0,0.0,Huesca,3.0,0.8,69.0,,Lionel Messi,4-3-3,4-3-3,Guillermo Cuadra,Match Report,,20.0,6.0,16.5,2.0,0,0,2021,Barcelona
+3272,2021-01-06,21:00,La Liga,Matchweek 2,Wed,Away,W,3.0,2.0,Athletic Club,1.6,0.6,57.0,,Lionel Messi,4-3-3,4-4-2,Carlos del Cerro,Match Report,,13.0,9.0,17.7,0.0,0,0,2021,Barcelona
+3273,2021-01-09,18:30,La Liga,Matchweek 18,Sat,Away,W,4.0,0.0,Granada,0.9,0.5,72.0,,Lionel Messi,4-3-3,4-2-3-1,Ricardo de Burgos,Match Report,,13.0,4.0,17.5,2.0,0,0,2021,Barcelona
+3274,2021-01-24,16:15,La Liga,Matchweek 20,Sun,Away,W,2.0,0.0,Elche,2.6,0.5,65.0,,Sergio Busquets,4-3-3,4-1-4-1,Valentín Pizarro,Match Report,,15.0,8.0,16.9,0.0,0,0,2021,Barcelona
+3275,2021-01-31,21:00,La Liga,Matchweek 21,Sun,Home,W,2.0,1.0,Athletic Club,1.9,0.3,58.0,,Lionel Messi,4-2-3-1,4-4-2,Antonio Matéu Lahoz,Match Report,,12.0,6.0,15.1,1.0,0,0,2021,Barcelona
+3276,2021-02-07,21:00,La Liga,Matchweek 22,Sun,Away,W,3.0,2.0,Betis,1.3,1.8,63.0,,Sergio Busquets,4-3-3,4-2-3-1,Carlos del Cerro,Match Report,,12.0,4.0,13.3,1.0,0,0,2021,Barcelona
+3277,2021-02-13,21:00,La Liga,Matchweek 23,Sat,Home,W,5.0,1.0,Alavés,2.4,0.7,73.0,,Lionel Messi,4-3-3,4-4-2,Jorge Figueroa,Match Report,,17.0,9.0,16.1,1.0,0,0,2021,Barcelona
+3278,2021-02-21,14:00,La Liga,Matchweek 24,Sun,Home,D,1.0,1.0,Cádiz,2.2,1.4,81.0,,Lionel Messi,4-3-3,4-1-4-1,Juan Martínez,Match Report,,19.0,3.0,19.4,0.0,1,1,2021,Barcelona
+3279,2021-02-24,19:00,La Liga,Matchweek 1,Wed,Home,W,3.0,0.0,Elche,2.7,0.3,65.0,,Lionel Messi,4-3-3,3-4-3,Isidro Díaz de Mera,Match Report,,9.0,5.0,12.1,0.0,0,0,2021,Barcelona
+3280,2021-02-27,16:15,La Liga,Matchweek 25,Sat,Away,W,2.0,0.0,Sevilla,1.6,0.2,55.0,,Lionel Messi,3-1-4-2,4-2-3-1,Alejandro Hernández,Match Report,,9.0,5.0,15.8,1.0,0,0,2021,Barcelona
+3281,2021-03-06,21:00,La Liga,Matchweek 26,Sat,Away,W,2.0,0.0,Osasuna,0.8,0.8,63.0,,Lionel Messi,3-1-4-2,4-4-2,Guillermo Cuadra,Match Report,,13.0,6.0,18.1,0.0,0,0,2021,Barcelona
+3282,2021-03-15,21:00,La Liga,Matchweek 27,Mon,Home,W,4.0,1.0,Huesca,1.1,2.2,69.0,,Lionel Messi,3-4-3,5-3-2,Adrián Cordero,Match Report,,12.0,5.0,19.7,1.0,0,0,2021,Barcelona
+3283,2021-03-21,21:00,La Liga,Matchweek 28,Sun,Away,W,6.0,1.0,Real Sociedad,2.8,0.9,69.0,,Lionel Messi,3-4-3,3-4-3,José Luis Munuera,Match Report,,14.0,10.0,15.7,1.0,0,0,2021,Barcelona
+3284,2021-04-05,21:00,La Liga,Matchweek 29,Mon,Home,W,1.0,0.0,Valladolid,1.6,0.4,68.0,,Lionel Messi,3-4-3,3-5-2,Santiago Jaime,Match Report,,25.0,10.0,20.8,3.0,0,0,2021,Barcelona
+3285,2021-04-10,21:00,La Liga,Matchweek 30,Sat,Away,L,1.0,2.0,Real Madrid,1.3,1.5,69.0,,Lionel Messi,3-4-3,4-1-4-1,Jesús Gil,Match Report,,18.0,4.0,16.6,3.0,0,0,2021,Barcelona
+3286,2021-04-22,22:00,La Liga,Matchweek 31,Thu,Home,W,5.0,2.0,Getafe,1.7,1.5,80.0,,Lionel Messi,3-5-2,4-3-3,Jorge Figueroa,Match Report,,8.0,5.0,15.1,0.0,1,1,2021,Barcelona
+3287,2021-04-25,16:15,La Liga,Matchweek 32,Sun,Away,W,2.0,1.0,Villarreal,2.8,0.9,56.0,,Lionel Messi,3-1-4-2,4-4-2,Carlos del Cerro,Match Report,,15.0,5.0,13.3,1.0,0,0,2021,Barcelona
+3288,2021-04-29,19:00,La Liga,Matchweek 33,Thu,Home,L,1.0,2.0,Granada,1.4,0.7,81.0,,Lionel Messi,3-1-4-2,3-4-3,Pablo González,Match Report,,16.0,4.0,17.1,1.0,0,0,2021,Barcelona
+3289,2021-05-02,21:00,La Liga,Matchweek 34,Sun,Away,W,3.0,2.0,Valencia,3.0,1.2,68.0,,Lionel Messi,3-1-4-2,5-3-2,José Sánchez,Match Report,,13.0,5.0,14.7,2.0,0,1,2021,Barcelona
+3290,2021-05-08,16:15,La Liga,Matchweek 35,Sat,Home,D,0.0,0.0,Atlético Madrid,0.9,0.8,59.0,,Lionel Messi,3-1-4-2,3-4-3,Antonio Matéu Lahoz,Match Report,,12.0,7.0,15.9,2.0,0,0,2021,Barcelona
+3291,2021-05-11,22:00,La Liga,Matchweek 36,Tue,Away,D,3.0,3.0,Levante,2.7,1.1,60.0,,Lionel Messi,3-1-4-2,4-4-2,José Luis Munuera,Match Report,,17.0,5.0,14.7,1.0,0,0,2021,Barcelona
+3292,2021-05-16,18:30,La Liga,Matchweek 37,Sun,Home,L,1.0,2.0,Celta Vigo,2.5,0.7,64.0,,Lionel Messi,3-1-4-2,4-4-2,Ricardo de Burgos,Match Report,,21.0,4.0,16.8,0.0,0,0,2021,Barcelona
+3293,2021-05-22,18:00,La Liga,Matchweek 38,Sat,Away,W,1.0,0.0,Eibar,0.3,1.7,67.0,,Sergio Busquets,3-4-3,4-4-2,Santiago Jaime,Match Report,,7.0,3.0,23.0,0.0,0,0,2021,Barcelona
+3294,2020-09-27,18:30,La Liga,Matchweek 3,Sun,Away,W,3.0,1.0,Cádiz,2.4,1.1,75.0,,Jesús Navas,4-3-3,4-2-3-1,David Medié,Match Report,,14.0,5.0,13.3,0.0,0,0,2021,Sevilla
+3295,2020-10-01,19:00,La Liga,Matchweek 4,Thu,Home,W,1.0,0.0,Levante,1.1,0.2,64.0,,Jesús Navas,4-3-3,4-4-2,Javier Estrada,Match Report,,16.0,2.0,19.4,0.0,0,0,2021,Sevilla
+3296,2020-10-04,21:00,La Liga,Matchweek 5,Sun,Away,D,1.0,1.0,Barcelona,1.5,1.0,45.0,,Jesús Navas,4-3-3,4-2-3-1,Jesús Gil,Match Report,,13.0,1.0,13.7,0.0,0,0,2021,Sevilla
+3297,2020-10-17,13:00,La Liga,Matchweek 6,Sat,Away,L,0.0,1.0,Granada,0.6,1.3,48.0,,Jesús Navas,4-3-3,4-1-4-1,Pablo González,Match Report,,8.0,3.0,18.7,0.0,0,0,2021,Sevilla
+3298,2020-10-24,18:30,La Liga,Matchweek 7,Sat,Home,L,0.0,1.0,Eibar,1.7,0.2,72.0,,Jesús Navas,4-3-3,4-4-2,Alejandro Hernández,Match Report,,21.0,3.0,17.9,1.0,0,0,2021,Sevilla
+3299,2020-10-31,16:15,La Liga,Matchweek 8,Sat,Away,L,1.0,2.0,Athletic Club,1.1,1.2,53.0,,Jesús Navas,4-3-3,4-2-3-1,Carlos del Cerro,Match Report,,7.0,2.0,11.6,0.0,0,0,2021,Sevilla
+3300,2020-11-07,18:30,La Liga,Matchweek 9,Sat,Home,W,1.0,0.0,Osasuna,1.1,0.7,66.0,,Jesús Navas,4-3-3,4-4-2,Juan Martínez,Match Report,,8.0,0.0,22.7,0.0,1,1,2021,Sevilla
+3301,2020-11-21,18:30,La Liga,Matchweek 10,Sat,Home,W,4.0,2.0,Celta Vigo,2.6,2.1,57.0,,Jesús Navas,4-3-3,4-1-2-1-2,César Soto,Match Report,,15.0,10.0,14.2,1.0,0,0,2021,Sevilla
+3302,2020-11-28,18:30,La Liga,Matchweek 11,Sat,Away,W,1.0,0.0,Huesca,1.8,0.2,67.0,,Jesús Navas,4-3-3,4-4-2,Guillermo Cuadra,Match Report,,16.0,4.0,15.9,0.0,0,0,2021,Sevilla
+3303,2020-12-05,16:15,La Liga,Matchweek 12,Sat,Home,L,0.0,1.0,Real Madrid,0.7,1.5,63.0,,Jesús Navas,4-3-3,4-3-3,José Sánchez,Match Report,,12.0,2.0,17.4,1.0,0,0,2021,Sevilla
+3304,2020-12-12,16:15,La Liga,Matchweek 13,Sat,Away,W,1.0,0.0,Getafe,0.5,0.5,74.0,,Ivan Rakitić,4-3-3,4-1-4-1,Juan Martínez,Match Report,,8.0,0.0,18.2,1.0,0,0,2021,Sevilla
+3305,2020-12-19,21:00,La Liga,Matchweek 14,Sat,Home,D,1.0,1.0,Valladolid,1.7,1.0,59.0,,Jesús Navas,4-3-3,4-4-2,Jesús Gil,Match Report,,13.0,2.0,21.3,2.0,1,1,2021,Sevilla
+3306,2020-12-22,17:30,La Liga,Matchweek 15,Tue,Away,W,1.0,0.0,Valencia,1.8,0.6,70.0,,Jesús Navas,4-3-3,3-4-3,Valentín Pizarro,Match Report,,19.0,3.0,16.3,0.0,0,0,2021,Sevilla
+3307,2020-12-29,17:00,La Liga,Matchweek 16,Tue,Home,W,2.0,0.0,Villarreal,2.2,0.6,43.0,,Jesús Navas,4-3-3,4-4-2,César Soto,Match Report,,9.0,2.0,15.1,0.0,1,1,2021,Sevilla
+3308,2021-01-02,16:15,La Liga,Matchweek 17,Sat,Away,D,1.0,1.0,Betis,0.2,2.1,55.0,,Jesús Navas,4-3-3,4-2-3-1,Carlos del Cerro,Match Report,,6.0,2.0,23.0,1.0,0,0,2021,Sevilla
+3309,2021-01-09,14:00,La Liga,Matchweek 18,Sat,Home,W,3.0,2.0,Real Sociedad,2.6,0.8,60.0,,Jesús Navas,4-3-3,4-3-3,Alberola Rojas,Match Report,,12.0,7.0,13.9,1.0,0,0,2021,Sevilla
+3310,2021-01-12,21:30,La Liga,Matchweek 1,Tue,Away,L,0.0,2.0,Atlético Madrid,1.8,0.4,66.0,,Jesús Navas,4-3-3,3-5-2,Javier Estrada,Match Report,,13.0,2.0,14.6,0.0,0,0,2021,Sevilla
+3311,2021-01-19,21:30,La Liga,Matchweek 19,Tue,Away,W,2.0,1.0,Alavés,1.2,1.6,62.0,,Jesús Navas,4-3-3,4-4-2,Isidro Díaz de Mera,Match Report,,7.0,3.0,23.5,1.0,0,0,2021,Sevilla
+3312,2021-01-23,16:15,La Liga,Matchweek 20,Sat,Home,W,3.0,0.0,Cádiz,2.3,0.7,79.0,,Jesús Navas,4-3-3,4-4-2,Guillermo Cuadra,Match Report,,15.0,7.0,15.9,1.0,0,0,2021,Sevilla
+3313,2021-01-30,14:00,La Liga,Matchweek 21,Sat,Away,W,2.0,0.0,Eibar,1.5,0.9,51.0,,Jesús Navas,4-3-3,4-4-2,José Sánchez,Match Report,,6.0,3.0,20.1,0.0,1,1,2021,Sevilla
+3314,2021-02-06,21:00,La Liga,Matchweek 22,Sat,Home,W,3.0,0.0,Getafe,2.2,0.2,75.0,,Sergio Escudero,4-3-3,4-1-4-1,Juan Martínez,Match Report,,18.0,5.0,16.3,0.0,0,0,2021,Sevilla
+3315,2021-02-13,16:15,La Liga,Matchweek 23,Sat,Home,W,1.0,0.0,Huesca,1.5,1.3,65.0,,Ivan Rakitić,4-3-3,3-5-2,David Medié,Match Report,,14.0,4.0,18.9,1.0,0,0,2021,Sevilla
+3316,2021-02-22,21:00,La Liga,Matchweek 24,Mon,Away,W,2.0,0.0,Osasuna,0.7,0.5,59.0,,Jesús Navas,4-3-3,4-3-3,Alberola Rojas,Match Report,,10.0,5.0,14.1,0.0,0,0,2021,Sevilla
+3317,2021-02-27,16:15,La Liga,Matchweek 25,Sat,Home,L,0.0,2.0,Barcelona,0.2,1.6,45.0,,Jesús Navas,4-2-3-1,3-1-4-2,Alejandro Hernández,Match Report,,4.0,2.0,20.1,0.0,0,0,2021,Sevilla
+3318,2021-03-06,16:15,La Liga,Matchweek 26,Sat,Away,L,1.0,2.0,Elche,1.2,0.9,63.0,,Jesús Navas,4-3-3,4-4-2,Valentín Pizarro,Match Report,,11.0,3.0,18.6,2.0,0,0,2021,Sevilla
+3319,2021-03-14,21:00,La Liga,Matchweek 27,Sun,Home,W,1.0,0.0,Betis,0.6,0.7,53.0,,Jesús Navas,4-3-3,4-4-1-1,Antonio Matéu Lahoz,Match Report,,9.0,3.0,18.2,1.0,0,0,2021,Sevilla
+3320,2021-03-17,19:00,La Liga,Matchweek 2,Wed,Home,W,2.0,0.0,Elche,1.5,0.7,66.0,,Jesús Navas,4-3-3,4-4-2,Alberola Rojas,Match Report,,13.0,8.0,17.2,0.0,0,0,2021,Sevilla
+3321,2021-03-20,21:00,La Liga,Matchweek 28,Sat,Away,D,1.0,1.0,Valladolid,1.0,0.9,69.0,,Jesús Navas,4-3-3,4-4-2,Javier Estrada,Match Report,,11.0,4.0,18.2,1.0,0,0,2021,Sevilla
+3322,2021-04-04,21:00,La Liga,Matchweek 29,Sun,Home,W,1.0,0.0,Atlético Madrid,2.0,0.8,57.0,,Jesús Navas,4-3-3,3-4-3,Jesús Gil,Match Report,,17.0,4.0,20.7,0.0,0,1,2021,Sevilla
+3323,2021-04-12,21:00,La Liga,Matchweek 30,Mon,Away,W,4.0,3.0,Celta Vigo,1.6,2.6,58.0,,Jesús Navas,4-3-3,4-1-3-2,Alejandro Hernández,Match Report,,13.0,6.0,20.3,0.0,0,0,2021,Sevilla
+3324,2021-04-18,14:00,La Liga,Matchweek 33,Sun,Away,W,2.0,1.0,Real Sociedad,3.4,0.3,52.0,,Jesús Navas,4-3-3,4-1-4-1,Santiago Jaime,Match Report,,15.0,6.0,11.4,0.0,0,0,2021,Sevilla
+3325,2021-04-21,19:00,La Liga,Matchweek 31,Wed,Away,W,1.0,0.0,Levante,2.0,0.3,57.0,,Jesús Navas,4-3-3,4-4-1-1,Valentín Pizarro,Match Report,,10.0,3.0,12.4,0.0,0,0,2021,Sevilla
+3326,2021-04-25,18:30,La Liga,Matchweek 32,Sun,Home,W,2.0,1.0,Granada,1.3,0.9,64.0,,Jesús Navas,4-3-3,3-4-3,Ricardo de Burgos,Match Report,,9.0,3.0,19.6,0.0,1,1,2021,Sevilla
+3327,2021-05-03,21:00,La Liga,Matchweek 34,Mon,Home,L,0.0,1.0,Athletic Club,1.1,0.7,73.0,,Jesús Navas,4-3-3,4-4-2,Jesús Gil,Match Report,,18.0,3.0,16.3,0.0,0,0,2021,Sevilla
+3328,2021-05-09,21:00,La Liga,Matchweek 35,Sun,Away,D,2.0,2.0,Real Madrid,1.2,0.9,42.0,,Jesús Navas,4-3-3,4-3-3,Juan Martínez,Match Report,,6.0,2.0,19.6,0.0,1,1,2021,Sevilla
+3329,2021-05-12,19:00,La Liga,Matchweek 36,Wed,Home,W,1.0,0.0,Valencia,0.9,0.4,61.0,,Jesús Navas,4-3-3,5-4-1,Javier Estrada,Match Report,,10.0,4.0,20.0,0.0,0,0,2021,Sevilla
+3330,2021-05-16,18:30,La Liga,Matchweek 37,Sun,Away,L,0.0,4.0,Villarreal,1.6,1.2,57.0,4800.0,Jesús Navas,4-2-3-1,4-4-2,Guillermo Cuadra,Match Report,,17.0,5.0,16.6,0.0,0,0,2021,Sevilla
+3331,2021-05-23,21:00,La Liga,Matchweek 38,Sun,Home,W,1.0,0.0,Alavés,0.4,1.1,68.0,,Sergio Escudero,4-3-3,4-3-3,Isidro Díaz de Mera,Match Report,,11.0,2.0,21.8,0.0,0,0,2021,Sevilla
+3332,2020-09-13,16:00,La Liga,Matchweek 1,Sun,Away,D,1.0,1.0,Valladolid,0.3,0.8,60.0,,Aritz Elustondo,4-1-4-1,4-2-3-1,Mario Melero,Match Report,,8.0,2.0,24.3,1.0,0,0,2021,Real Sociedad
+3333,2020-09-20,21:00,La Liga,Matchweek 2,Sun,Home,D,0.0,0.0,Real Madrid,0.6,0.9,32.0,,Mikel Oyarzabal,4-4-2,4-2-3-1,Juan Martínez,Match Report,,6.0,1.0,13.6,0.0,0,0,2021,Real Sociedad
+3334,2020-09-26,18:30,La Liga,Matchweek 3,Sat,Away,W,3.0,0.0,Elche,3.1,1.0,60.0,,Mikel Oyarzabal,4-1-4-1,5-4-1,Isidro Díaz de Mera,Match Report,,26.0,6.0,15.2,0.0,1,1,2021,Real Sociedad
+3335,2020-09-29,19:00,La Liga,Matchweek 4,Tue,Home,L,0.0,1.0,Valencia,0.5,0.9,65.0,,Aritz Elustondo,4-1-4-1,4-4-2,Jorge Figueroa,Match Report,,11.0,3.0,19.0,3.0,0,0,2021,Real Sociedad
+3336,2020-10-03,18:30,La Liga,Matchweek 5,Sat,Home,W,3.0,0.0,Getafe,2.2,0.3,54.0,,Mikel Oyarzabal,4-1-4-1,4-4-2,Antonio Matéu Lahoz,Match Report,,10.0,5.0,16.1,0.0,1,1,2021,Real Sociedad
+3337,2020-10-18,21:00,La Liga,Matchweek 6,Sun,Away,W,3.0,0.0,Betis,1.7,0.4,45.0,,Mikel Oyarzabal,4-1-4-1,4-2-3-1,Javier Estrada,Match Report,,7.0,4.0,14.2,0.0,1,1,2021,Real Sociedad
+3338,2020-10-25,21:00,La Liga,Matchweek 7,Sun,Home,W,4.0,1.0,Huesca,2.5,0.5,51.0,,Mikel Oyarzabal,4-1-4-1,4-4-2,Isidro Díaz de Mera,Match Report,,12.0,5.0,15.0,0.0,1,1,2021,Real Sociedad
+3339,2020-11-01,16:00,La Liga,Matchweek 8,Sun,Away,W,4.0,1.0,Celta Vigo,2.0,1.6,54.0,,Mikel Oyarzabal,4-4-1-1,4-4-2,Adrián Cordero,Match Report,,9.0,7.0,13.2,0.0,0,0,2021,Real Sociedad
+3340,2020-11-08,16:15,La Liga,Matchweek 9,Sun,Home,W,2.0,0.0,Granada,3.4,0.8,72.0,,Mikel Oyarzabal,4-1-4-1,4-2-3-1,Carlos del Cerro,Match Report,,20.0,7.0,17.6,0.0,1,2,2021,Real Sociedad
+3341,2020-11-22,16:15,La Liga,Matchweek 10,Sun,Away,W,1.0,0.0,Cádiz,1.2,0.1,67.0,,Mikel Oyarzabal,4-2-3-1,4-4-2,Javier Estrada,Match Report,,14.0,3.0,17.6,0.0,0,0,2021,Real Sociedad
+3342,2020-11-29,21:00,La Liga,Matchweek 11,Sun,Home,D,1.0,1.0,Villarreal,1.7,1.2,55.0,,Mikel Oyarzabal,4-2-3-1,4-4-2,Jesús Gil,Match Report,,7.0,3.0,12.4,0.0,1,1,2021,Real Sociedad
+3343,2020-12-06,21:00,La Liga,Matchweek 12,Sun,Away,D,0.0,0.0,Alavés,1.4,0.3,68.0,,Mikel Merino,4-2-3-1,4-4-2,José Luis Munuera,Match Report,,13.0,4.0,19.2,0.0,0,0,2021,Real Sociedad
+3344,2020-12-13,14:00,La Liga,Matchweek 13,Sun,Home,D,1.0,1.0,Eibar,1.2,1.7,49.0,,Joseba Zaldúa,4-2-3-1,4-4-2,Isidro Díaz de Mera,Match Report,,8.0,2.0,18.3,0.0,0,0,2021,Real Sociedad
+3345,2020-12-16,21:00,La Liga,Matchweek 19,Wed,Away,L,1.0,2.0,Barcelona,1.8,2.5,47.0,,Mikel Merino,4-3-3,4-2-3-1,José Sánchez,Match Report,,12.0,5.0,16.0,0.0,0,0,2021,Real Sociedad
+3346,2020-12-19,18:30,La Liga,Matchweek 14,Sat,Away,L,1.0,2.0,Levante,1.8,1.8,55.0,,Mikel Merino,4-4-2,4-4-2,César Soto,Match Report,,15.0,5.0,16.5,2.0,0,0,2021,Real Sociedad
+3347,2020-12-22,19:45,La Liga,Matchweek 15,Tue,Home,L,0.0,2.0,Atlético Madrid,0.3,0.5,60.0,,Mikel Merino,4-2-3-1,3-4-3,Guillermo Cuadra,Match Report,,6.0,1.0,22.1,1.0,0,0,2021,Real Sociedad
+3348,2020-12-31,14:00,La Liga,Matchweek 16,Thu,Away,W,1.0,0.0,Athletic Club,1.6,0.2,40.0,,Mikel Oyarzabal,4-2-3-1,4-2-3-1,José Sánchez,Match Report,,13.0,3.0,17.8,3.0,0,0,2021,Real Sociedad
+3349,2021-01-03,18:30,La Liga,Matchweek 17,Sun,Home,D,1.0,1.0,Osasuna,0.8,0.8,62.0,,Mikel Oyarzabal,4-3-3,4-1-4-1,Valentín Pizarro,Match Report,,8.0,2.0,20.1,0.0,0,0,2021,Real Sociedad
+3350,2021-01-09,14:00,La Liga,Matchweek 18,Sat,Away,L,2.0,3.0,Sevilla,0.8,2.6,40.0,,Mikel Oyarzabal,4-3-3,4-3-3,Alberola Rojas,Match Report,,10.0,3.0,14.6,0.0,0,0,2021,Real Sociedad
+3351,2021-01-23,18:30,La Liga,Matchweek 20,Sat,Home,D,2.0,2.0,Betis,2.2,0.6,54.0,,Mikel Oyarzabal,4-3-3,4-4-1-1,César Soto,Match Report,,12.0,5.0,15.9,1.0,0,0,2021,Real Sociedad
+3352,2021-01-30,21:00,La Liga,Matchweek 21,Sat,Away,D,1.0,1.0,Villarreal,1.3,0.2,65.0,,Asier Illarramendi,4-3-3,4-3-3,Isidro Díaz de Mera,Match Report,,12.0,3.0,17.1,0.0,0,0,2021,Real Sociedad
+3353,2021-02-07,14:00,La Liga,Matchweek 22,Sun,Home,W,4.0,1.0,Cádiz,4.6,0.5,74.0,,Asier Illarramendi,4-3-3,4-4-2,Valentín Pizarro,Match Report,,16.0,5.0,16.2,1.0,1,1,2021,Real Sociedad
+3354,2021-02-14,14:00,La Liga,Matchweek 23,Sun,Away,W,1.0,0.0,Getafe,1.0,0.4,56.0,,Asier Illarramendi,4-1-4-1,4-4-2,Pablo González,Match Report,,3.0,2.0,7.0,0.0,0,0,2021,Real Sociedad
+3355,2021-02-21,16:15,La Liga,Matchweek 24,Sun,Home,W,4.0,0.0,Alavés,2.4,0.8,64.0,,Asier Illarramendi,4-3-3,4-4-2,José Luis Munuera,Match Report,,8.0,4.0,9.6,0.0,0,0,2021,Real Sociedad
+3356,2021-03-01,21:00,La Liga,Matchweek 25,Mon,Away,D,1.0,1.0,Real Madrid,0.8,2.2,41.0,,Mikel Oyarzabal,4-2-3-1,4-3-3,Jesús Gil,Match Report,,6.0,2.0,14.2,1.0,0,0,2021,Real Sociedad
+3357,2021-03-07,18:30,La Liga,Matchweek 26,Sun,Home,W,1.0,0.0,Levante,4.7,0.2,54.0,,Mikel Oyarzabal,4-3-3,5-3-2,César Soto,Match Report,,24.0,7.0,13.1,0.0,0,1,2021,Real Sociedad
+3358,2021-03-14,16:15,La Liga,Matchweek 27,Sun,Away,L,0.0,1.0,Granada,0.4,0.4,67.0,,Asier Illarramendi,4-3-3,4-2-3-1,Pablo González,Match Report,,7.0,1.0,22.2,1.0,0,0,2021,Real Sociedad
+3359,2021-03-21,21:00,La Liga,Matchweek 28,Sun,Home,L,1.0,6.0,Barcelona,0.9,2.8,31.0,,Mikel Oyarzabal,3-4-3,3-4-3,José Luis Munuera,Match Report,,10.0,5.0,19.7,0.0,0,0,2021,Real Sociedad
+3360,2021-04-07,21:00,La Liga,Matchweek 29,Wed,Home,D,1.0,1.0,Athletic Club,0.9,0.7,51.0,,Mikel Oyarzabal,4-4-2,4-4-2,José Sánchez,Match Report,,12.0,2.0,17.2,0.0,0,0,2021,Real Sociedad
+3361,2021-04-11,16:15,La Liga,Matchweek 30,Sun,Away,D,2.0,2.0,Valencia,1.0,2.3,59.0,,Mikel Oyarzabal,4-4-2,4-4-2,Valentín Pizarro,Match Report,,16.0,5.0,17.8,3.0,0,0,2021,Real Sociedad
+3362,2021-04-18,14:00,La Liga,Matchweek 33,Sun,Home,L,1.0,2.0,Sevilla,0.3,3.4,48.0,,Mikel Oyarzabal,4-1-4-1,4-3-3,Santiago Jaime,Match Report,,5.0,2.0,19.7,0.0,0,0,2021,Real Sociedad
+3363,2021-04-22,21:00,La Liga,Matchweek 31,Thu,Home,W,2.0,1.0,Celta Vigo,2.2,0.6,41.0,,Aritz Elustondo,4-4-1-1,4-1-3-2,Jesús Gil,Match Report,,5.0,1.0,18.3,0.0,1,2,2021,Real Sociedad
+3364,2021-04-26,21:00,La Liga,Matchweek 32,Mon,Away,W,1.0,0.0,Eibar,0.7,1.2,47.0,,Mikel Oyarzabal,4-4-2,4-2-3-1,Jorge Figueroa,Match Report,,5.0,2.0,15.1,0.0,0,0,2021,Real Sociedad
+3365,2021-05-01,18:30,La Liga,Matchweek 34,Sat,Away,L,0.0,1.0,Huesca,0.3,0.6,53.0,,Mikel Oyarzabal,4-3-3,3-5-2,Antonio Matéu Lahoz,Match Report,,7.0,3.0,21.1,2.0,0,0,2021,Real Sociedad
+3366,2021-05-07,21:00,La Liga,Matchweek 35,Fri,Home,W,2.0,0.0,Elche,2.4,0.2,72.0,,Mikel Oyarzabal,4-2-3-1,4-4-2,Adrián Cordero,Match Report,,16.0,3.0,14.5,0.0,0,0,2021,Real Sociedad
+3367,2021-05-12,22:00,La Liga,Matchweek 36,Wed,Away,L,1.0,2.0,Atlético Madrid,1.7,1.4,65.0,,Mikel Oyarzabal,4-2-3-1,4-3-3,Guillermo Cuadra,Match Report,,14.0,7.0,13.4,0.0,0,0,2021,Real Sociedad
+3368,2021-05-16,18:30,La Liga,Matchweek 37,Sun,Home,W,4.0,1.0,Valladolid,1.8,1.6,54.0,,Asier Illarramendi,4-2-3-1,4-4-2,Carlos del Cerro,Match Report,,13.0,8.0,18.8,0.0,1,1,2021,Real Sociedad
+3369,2021-05-22,18:00,La Liga,Matchweek 38,Sat,Away,W,1.0,0.0,Osasuna,2.0,0.4,56.0,,Mikel Oyarzabal,4-2-3-1,4-5-1,Jorge Figueroa,Match Report,,11.0,1.0,14.9,1.0,0,0,2021,Real Sociedad
+3370,2020-09-13,14:00,La Liga,Matchweek 1,Sun,Away,W,1.0,0.0,Alavés,0.4,1.2,57.0,,Joaquín,4-2-3-1,3-1-4-2,Pablo González,Match Report,,11.0,4.0,20.9,1.0,0,0,2021,Real Betis
+3371,2020-09-20,18:30,La Liga,Matchweek 2,Sun,Home,W,2.0,0.0,Valladolid,1.6,0.4,56.0,,Joaquín,4-2-3-1,4-2-3-1,Santiago Jaime,Match Report,,15.0,5.0,21.3,0.0,1,1,2021,Real Betis
+3372,2020-09-26,21:00,La Liga,Matchweek 3,Sat,Home,L,2.0,3.0,Real Madrid,1.2,3.8,45.0,,Joaquín,4-2-3-1,4-3-1-2,Ricardo de Burgos,Match Report,,15.0,5.0,18.1,1.0,0,0,2021,Real Betis
+3373,2020-09-29,21:30,La Liga,Matchweek 4,Tue,Away,L,0.0,3.0,Getafe,0.4,0.8,69.0,,Aïssa Mandi,4-2-3-1,4-4-2,Juan Martínez,Match Report,,10.0,2.0,21.8,1.0,0,0,2021,Real Betis
+3374,2020-10-03,21:00,La Liga,Matchweek 5,Sat,Away,W,2.0,0.0,Valencia,2.0,0.5,53.0,,Joaquín,4-2-3-1,4-4-2,Guillermo Cuadra,Match Report,,17.0,8.0,17.2,1.0,0,0,2021,Real Betis
+3375,2020-10-18,21:00,La Liga,Matchweek 6,Sun,Home,L,0.0,3.0,Real Sociedad,0.4,1.7,55.0,,Joaquín,4-2-3-1,4-1-4-1,Javier Estrada,Match Report,,7.0,1.0,16.2,0.0,0,0,2021,Real Betis
+3376,2020-10-24,21:00,La Liga,Matchweek 7,Sat,Away,L,0.0,2.0,Atlético Madrid,1.1,1.4,60.0,,Aïssa Mandi,4-2-3-1,4-4-2,Antonio Matéu Lahoz,Match Report,,12.0,3.0,22.8,0.0,0,0,2021,Real Betis
+3377,2020-11-01,14:00,La Liga,Matchweek 8,Sun,Home,W,3.0,1.0,Elche,3.2,0.7,59.0,,Joaquín,4-3-3,5-3-2,David Medié,Match Report,,16.0,9.0,16.6,0.0,0,1,2021,Real Betis
+3378,2020-11-07,16:15,La Liga,Matchweek 9,Sat,Away,L,2.0,5.0,Barcelona,1.1,3.4,41.0,,Joaquín,4-2-3-1,4-4-2,Guillermo Cuadra,Match Report,,12.0,6.0,16.1,0.0,0,0,2021,Real Betis
+3379,2020-11-23,21:00,La Liga,Matchweek 10,Mon,Away,L,0.0,4.0,Athletic Club,0.4,2.5,59.0,,Joaquín,4-1-4-1,4-2-3-1,Alberola Rojas,Match Report,,7.0,1.0,17.5,0.0,0,0,2021,Real Betis
+3380,2020-11-30,21:00,La Liga,Matchweek 11,Mon,Home,L,0.0,2.0,Eibar,0.7,2.9,63.0,,Joaquín,4-2-3-1,4-2-3-1,Juan Martínez,Match Report,,7.0,3.0,19.2,1.0,0,0,2021,Real Betis
+3381,2020-12-06,16:15,La Liga,Matchweek 12,Sun,Away,W,2.0,0.0,Osasuna,1.4,0.4,52.0,,Andrés Guardado,4-4-2,4-4-2,Alejandro Hernández,Match Report,,12.0,5.0,17.3,0.0,0,0,2021,Real Betis
+3382,2020-12-13,16:15,La Liga,Matchweek 13,Sun,Home,D,1.0,1.0,Villarreal,0.6,1.2,46.0,,Andrés Guardado,4-2-3-1,4-4-2,Valentín Pizarro,Match Report,,11.0,5.0,22.7,2.0,0,0,2021,Real Betis
+3383,2020-12-20,16:15,La Liga,Matchweek 14,Sun,Away,L,0.0,2.0,Granada,0.8,1.4,69.0,,Marc Bartra,4-2-3-1,4-3-3,José Sánchez,Match Report,,14.0,1.0,20.3,1.0,0,0,2021,Real Betis
+3384,2020-12-23,22:00,La Liga,Matchweek 15,Wed,Home,W,1.0,0.0,Cádiz,0.4,0.3,71.0,,Joaquín,4-2-3-1,4-4-2,Antonio Matéu Lahoz,Match Report,,6.0,1.0,18.5,0.0,0,0,2021,Real Betis
+3385,2020-12-29,21:30,La Liga,Matchweek 16,Tue,Away,L,3.0,4.0,Levante,2.8,1.7,62.0,,Andrés Guardado,4-2-3-1,4-4-2,Javier Estrada,Match Report,,18.0,6.0,15.4,0.0,1,1,2021,Real Betis
+3386,2021-01-02,16:15,La Liga,Matchweek 17,Sat,Home,D,1.0,1.0,Sevilla,2.1,0.2,45.0,,Sergio Canales,4-2-3-1,4-3-3,Carlos del Cerro,Match Report,,14.0,1.0,25.0,0.0,1,2,2021,Real Betis
+3387,2021-01-11,21:00,La Liga,Matchweek 18,Mon,Away,W,2.0,0.0,Huesca,2.4,1.3,51.0,,Aïssa Mandi,4-2-3-1,4-4-2,Adrián Cordero,Match Report,,15.0,5.0,18.3,2.0,0,0,2021,Real Betis
+3388,2021-01-20,21:00,La Liga,Matchweek 19,Wed,Home,W,2.0,1.0,Celta Vigo,0.8,1.1,43.0,,Aïssa Mandi,4-2-3-1,4-1-3-2,Juan Martínez,Match Report,,12.0,4.0,20.4,0.0,0,0,2021,Real Betis
+3389,2021-01-23,18:30,La Liga,Matchweek 20,Sat,Away,D,2.0,2.0,Real Sociedad,0.6,2.2,46.0,,Aïssa Mandi,4-4-1-1,4-3-3,César Soto,Match Report,,7.0,4.0,19.1,1.0,0,0,2021,Real Betis
+3390,2021-02-01,21:00,La Liga,Matchweek 21,Mon,Home,W,1.0,0.0,Osasuna,1.5,1.4,65.0,,Joaquín,4-2-3-1,4-1-4-1,Alberola Rojas,Match Report,,8.0,3.0,18.4,0.0,0,0,2021,Real Betis
+3391,2021-02-07,21:00,La Liga,Matchweek 22,Sun,Home,L,2.0,3.0,Barcelona,1.8,1.3,37.0,,Andrés Guardado,4-2-3-1,4-3-3,Carlos del Cerro,Match Report,,8.0,5.0,11.8,0.0,0,0,2021,Real Betis
+3392,2021-02-14,21:00,La Liga,Matchweek 23,Sun,Away,W,2.0,1.0,Villarreal,1.0,1.3,44.0,,Andrés Guardado,4-2-3-1,4-3-3,Jesús Gil,Match Report,,15.0,4.0,18.5,1.0,0,0,2021,Real Betis
+3393,2021-02-19,21:00,La Liga,Matchweek 24,Fri,Home,W,1.0,0.0,Getafe,2.6,0.4,63.0,,Andrés Guardado,4-2-3-1,4-4-2,Javier Estrada,Match Report,,10.0,3.0,20.4,0.0,1,2,2021,Real Betis
+3394,2021-02-28,16:15,La Liga,Matchweek 25,Sun,Away,W,1.0,0.0,Cádiz,0.4,0.2,64.0,,Andrés Guardado,4-2-3-1,4-4-2,Antonio Matéu Lahoz,Match Report,,9.0,4.0,25.1,0.0,0,0,2021,Real Betis
+3395,2021-03-08,21:00,La Liga,Matchweek 26,Mon,Home,W,3.0,2.0,Alavés,2.0,0.8,76.0,,Andrés Guardado,4-2-3-1,4-4-2,Alberola Rojas,Match Report,,22.0,6.0,20.3,0.0,1,1,2021,Real Betis
+3396,2021-03-14,21:00,La Liga,Matchweek 27,Sun,Away,L,0.0,1.0,Sevilla,0.7,0.6,47.0,,Andrés Guardado,4-4-1-1,4-3-3,Antonio Matéu Lahoz,Match Report,,13.0,2.0,16.2,1.0,0,0,2021,Real Betis
+3397,2021-03-19,21:00,La Liga,Matchweek 28,Fri,Home,W,2.0,0.0,Levante,2.2,0.6,56.0,,Andrés Guardado,4-2-3-1,4-4-2,Jesús Gil,Match Report,,16.0,6.0,15.4,0.0,0,0,2021,Real Betis
+3398,2021-04-04,16:15,La Liga,Matchweek 29,Sun,Away,D,1.0,1.0,Elche,1.9,1.0,54.0,,Aïssa Mandi,4-2-3-1,4-4-2,Adrián Cordero,Match Report,,12.0,2.0,19.5,1.0,1,1,2021,Real Betis
+3399,2021-04-11,21:00,La Liga,Matchweek 30,Sun,Home,D,1.0,1.0,Atlético Madrid,0.8,1.3,53.0,,Joaquín,4-2-3-1,3-1-4-2,Guillermo Cuadra,Match Report,,8.0,4.0,16.4,0.0,0,0,2021,Real Betis
+3400,2021-04-18,18:30,La Liga,Matchweek 33,Sun,Home,D,2.0,2.0,Valencia,0.7,1.6,56.0,,Joaquín,4-2-3-1,4-4-2,Alberola Rojas,Match Report,,9.0,5.0,17.0,0.0,0,0,2021,Real Betis
+3401,2021-04-21,20:00,La Liga,Matchweek 31,Wed,Home,D,0.0,0.0,Athletic Club,0.2,0.8,41.0,,Aïssa Mandi,4-2-3-1,4-4-2,David Medié,Match Report,,6.0,2.0,18.1,0.0,0,0,2021,Real Betis
+3402,2021-04-24,21:00,La Liga,Matchweek 32,Sat,Away,D,0.0,0.0,Real Madrid,0.9,1.0,43.0,,Joaquín,4-2-3-1,4-3-3,Javier Estrada,Match Report,,6.0,2.0,19.3,0.0,0,0,2021,Real Betis
+3403,2021-05-02,14:00,La Liga,Matchweek 34,Sun,Away,D,1.0,1.0,Valladolid,2.2,1.2,55.0,,Aïssa Mandi,4-2-3-1,4-1-4-1,Valentín Pizarro,Match Report,,11.0,4.0,16.9,0.0,0,0,2021,Real Betis
+3404,2021-05-10,21:00,La Liga,Matchweek 35,Mon,Home,W,2.0,1.0,Granada,1.7,1.5,61.0,,Joaquín,4-1-4-1,4-2-3-1,César Soto,Match Report,,14.0,5.0,19.3,0.0,0,0,2021,Real Betis
+3405,2021-05-13,20:00,La Liga,Matchweek 36,Thu,Away,D,1.0,1.0,Eibar,0.8,1.2,36.0,,Andrés Guardado,4-2-3-1,4-4-2,Isidro Díaz de Mera,Match Report,,9.0,4.0,20.1,0.0,0,0,2021,Real Betis
+3406,2021-05-16,18:30,La Liga,Matchweek 37,Sun,Home,W,1.0,0.0,Huesca,1.1,0.3,47.0,,Joaquín,4-2-3-1,3-1-4-2,Pablo González,Match Report,,9.0,1.0,20.5,0.0,1,1,2021,Real Betis
+3407,2021-05-22,18:00,La Liga,Matchweek 38,Sat,Away,W,3.0,2.0,Celta Vigo,2.3,1.3,36.0,1738.0,Andrés Guardado,4-2-3-1,4-1-3-2,Jesús Gil,Match Report,,10.0,4.0,19.4,2.0,1,1,2021,Real Betis
+3408,2020-09-13,18:30,La Liga,Matchweek 1,Sun,Home,D,1.0,1.0,Huesca,2.5,0.6,65.0,,Raúl Albiol,4-4-1-1,4-2-3-1,Javier Estrada,Match Report,,14.0,3.0,14.8,0.0,1,1,2021,Villarreal
+3409,2020-09-19,16:00,La Liga,Matchweek 2,Sat,Home,W,2.0,1.0,Eibar,2.7,1.5,58.0,,Mario Gaspar,4-4-2,4-3-3,Jorge Figueroa,Match Report,,14.0,7.0,12.4,0.0,0,0,2021,Villarreal
+3410,2020-09-27,21:00,La Liga,Matchweek 3,Sun,Away,L,0.0,4.0,Barcelona,0.2,2.6,43.0,,Mario Gaspar,4-4-2,4-2-3-1,Guillermo Cuadra,Match Report,,5.0,1.0,14.5,0.0,0,0,2021,Villarreal
+3411,2020-09-30,19:00,La Liga,Matchweek 4,Wed,Home,W,3.0,1.0,Alavés,2.3,1.1,59.0,,Mario Gaspar,4-1-4-1,4-4-2,David Medié,Match Report,,9.0,4.0,18.0,1.0,1,1,2021,Villarreal
+3412,2020-10-03,16:00,La Liga,Matchweek 5,Sat,Away,D,0.0,0.0,Atlético Madrid,0.3,0.6,46.0,,Mario Gaspar,4-1-4-1,4-4-2,Alejandro Hernández,Match Report,,6.0,2.0,21.2,0.0,0,0,2021,Villarreal
+3413,2020-10-18,16:00,La Liga,Matchweek 6,Sun,Home,W,2.0,1.0,Valencia,1.5,0.6,62.0,,Mario Gaspar,4-1-4-1,4-4-2,Carlos del Cerro,Match Report,,15.0,5.0,21.8,1.0,1,1,2021,Villarreal
+3414,2020-10-25,16:00,La Liga,Matchweek 7,Sun,Away,D,0.0,0.0,Cádiz,0.8,0.2,75.0,,Mario Gaspar,4-3-3,4-4-2,Ricardo de Burgos,Match Report,,7.0,2.0,19.6,1.0,0,0,2021,Villarreal
+3415,2020-11-02,21:00,La Liga,Matchweek 8,Mon,Home,W,2.0,0.0,Valladolid,1.8,0.7,59.0,,Mario Gaspar,4-4-2,4-2-3-1,Alberola Rojas,Match Report,,11.0,5.0,17.5,1.0,0,0,2021,Villarreal
+3416,2020-11-08,14:00,La Liga,Matchweek 9,Sun,Away,W,3.0,1.0,Getafe,2.3,0.7,54.0,,Mario Gaspar,4-3-3,4-4-2,José Luis Munuera,Match Report,,9.0,5.0,12.4,0.0,0,0,2021,Villarreal
+3417,2020-11-21,16:15,La Liga,Matchweek 10,Sat,Home,D,1.0,1.0,Real Madrid,1.7,0.6,47.0,,Mario Gaspar,4-4-2,4-2-3-1,Alejandro Hernández,Match Report,,12.0,0.0,17.2,0.0,1,1,2021,Villarreal
+3418,2020-11-29,21:00,La Liga,Matchweek 11,Sun,Away,D,1.0,1.0,Real Sociedad,1.2,1.7,45.0,,Mario Gaspar,4-4-2,4-2-3-1,Jesús Gil,Match Report,,9.0,1.0,22.7,0.0,1,1,2021,Villarreal
+3419,2020-12-06,18:30,La Liga,Matchweek 12,Sun,Home,D,0.0,0.0,Elche,0.6,0.1,57.0,,Mario Gaspar,4-1-4-1,4-1-4-1,Santiago Jaime,Match Report,,12.0,3.0,19.2,1.0,0,0,2021,Villarreal
+3420,2020-12-13,16:15,La Liga,Matchweek 13,Sun,Away,D,1.0,1.0,Betis,1.2,0.6,54.0,,Mario Gaspar,4-4-2,4-2-3-1,Valentín Pizarro,Match Report,,7.0,2.0,12.2,0.0,0,0,2021,Villarreal
+3421,2020-12-19,18:30,La Liga,Matchweek 14,Sat,Away,W,3.0,1.0,Osasuna,2.3,1.0,67.0,,Mario Gaspar,4-3-3,4-4-2,Jorge Figueroa,Match Report,,13.0,6.0,15.7,2.0,0,0,2021,Villarreal
+3422,2020-12-22,22:00,La Liga,Matchweek 15,Tue,Home,D,1.0,1.0,Athletic Club,1.4,0.8,65.0,,Mario Gaspar,4-3-3,4-2-3-1,David Medié,Match Report,,17.0,6.0,15.1,0.0,0,0,2021,Villarreal
+3423,2020-12-29,17:00,La Liga,Matchweek 16,Tue,Away,L,0.0,2.0,Sevilla,0.6,2.2,57.0,,Raúl Albiol,4-4-2,4-3-3,César Soto,Match Report,,6.0,2.0,15.3,0.0,0,0,2021,Villarreal
+3424,2021-01-02,14:00,La Liga,Matchweek 17,Sat,Home,W,2.0,1.0,Levante,1.6,0.5,50.0,,Raúl Albiol,4-3-3,3-1-4-2,Pablo González,Match Report,,12.0,7.0,14.5,0.0,0,0,2021,Villarreal
+3425,2021-01-08,21:00,La Liga,Matchweek 18,Fri,Away,W,4.0,0.0,Celta Vigo,2.7,0.4,43.0,,Raúl Albiol,4-3-3,4-1-3-2,Javier Estrada,Match Report,,15.0,6.0,17.4,1.0,0,0,2021,Villarreal
+3426,2021-01-20,21:30,La Liga,Matchweek 19,Wed,Home,D,2.0,2.0,Granada,2.4,0.2,68.0,,Raúl Albiol,4-3-3,4-1-4-1,Valentín Pizarro,Match Report,,6.0,1.0,18.4,1.0,1,2,2021,Villarreal
+3427,2021-01-23,14:00,La Liga,Matchweek 20,Sat,Away,D,0.0,0.0,Huesca,0.5,0.2,56.0,,Raúl Albiol,3-4-3,3-4-3,Alberola Rojas,Match Report,,8.0,2.0,21.8,1.0,0,0,2021,Villarreal
+3428,2021-01-30,21:00,La Liga,Matchweek 21,Sat,Home,D,1.0,1.0,Real Sociedad,0.2,1.3,35.0,,Raúl Albiol,4-3-3,4-3-3,Isidro Díaz de Mera,Match Report,,4.0,2.0,17.4,0.0,0,0,2021,Villarreal
+3429,2021-02-06,18:30,La Liga,Matchweek 22,Sat,Away,D,2.0,2.0,Elche,1.4,1.3,55.0,,Raúl Albiol,4-3-3,4-4-2,Mario Melero,Match Report,,9.0,4.0,14.1,0.0,0,0,2021,Villarreal
+3430,2021-02-14,21:00,La Liga,Matchweek 23,Sun,Home,L,1.0,2.0,Betis,1.3,1.0,56.0,,Raúl Albiol,4-3-3,4-2-3-1,Jesús Gil,Match Report,,8.0,4.0,20.3,1.0,1,1,2021,Villarreal
+3431,2021-02-21,21:00,La Liga,Matchweek 24,Sun,Away,D,1.0,1.0,Athletic Club,0.1,2.6,52.0,,Raúl Albiol,4-4-2,4-4-2,Carlos del Cerro,Match Report,,3.0,2.0,33.5,0.0,0,0,2021,Villarreal
+3432,2021-02-28,21:00,La Liga,Matchweek 25,Sun,Home,L,0.0,2.0,Atlético Madrid,1.8,0.6,63.0,,Raúl Albiol,4-3-3,3-1-4-2,Ricardo de Burgos,Match Report,,19.0,6.0,19.7,0.0,0,0,2021,Villarreal
+3433,2021-03-05,21:00,La Liga,Matchweek 26,Fri,Away,L,1.0,2.0,Valencia,1.9,1.9,47.0,,Raúl Albiol,4-4-2,4-4-2,Javier Estrada,Match Report,,9.0,4.0,15.6,0.0,1,1,2021,Villarreal
+3434,2021-03-14,18:30,La Liga,Matchweek 27,Sun,Away,W,3.0,1.0,Eibar,2.8,1.4,41.0,,Manu Trigueros,4-4-2,4-2-3-1,David Medié,Match Report,,13.0,8.0,14.7,0.0,0,0,2021,Villarreal
+3435,2021-03-21,16:15,La Liga,Matchweek 28,Sun,Home,W,2.0,1.0,Cádiz,2.2,0.9,57.0,,Mario Gaspar,4-4-2,4-4-2,César Soto,Match Report,,12.0,3.0,14.1,0.0,1,1,2021,Villarreal
+3436,2021-04-03,14:00,La Liga,Matchweek 29,Sat,Away,W,3.0,0.0,Granada,3.2,1.4,55.0,,Mario Gaspar,4-2-2-2,4-2-3-1,Guillermo Cuadra,Match Report,,13.0,3.0,16.7,0.0,2,2,2021,Villarreal
+3437,2021-04-11,14:00,La Liga,Matchweek 30,Sun,Home,L,1.0,2.0,Osasuna,1.6,1.3,68.0,,Mario Gaspar,3-5-2,4-4-2,José Luis Munuera,Match Report,,15.0,6.0,16.8,1.0,0,0,2021,Villarreal
+3438,2021-04-18,21:00,La Liga,Matchweek 33,Sun,Away,W,5.0,1.0,Levante,1.5,1.0,56.0,,Mario Gaspar,4-4-2,4-4-2,Ricardo de Burgos,Match Report,,14.0,7.0,16.0,0.0,0,0,2021,Villarreal
+3439,2021-04-21,21:00,La Liga,Matchweek 31,Wed,Away,L,1.0,2.0,Alavés,1.5,1.7,67.0,,Mario Gaspar,4-4-2,4-4-2,Adrián Cordero,Match Report,,10.0,4.0,13.8,0.0,0,0,2021,Villarreal
+3440,2021-04-25,16:15,La Liga,Matchweek 32,Sun,Home,L,1.0,2.0,Barcelona,0.9,2.8,44.0,,Raúl Albiol,4-4-2,3-1-4-2,Carlos del Cerro,Match Report,,10.0,4.0,14.9,0.0,0,0,2021,Villarreal
+3441,2021-05-02,16:15,La Liga,Matchweek 34,Sun,Home,W,1.0,0.0,Getafe,0.2,0.6,65.0,,Mario Gaspar,4-2-3-1,4-4-2,Javier Estrada,Match Report,,4.0,3.0,19.8,0.0,0,0,2021,Villarreal
+3442,2021-05-09,18:30,La Liga,Matchweek 35,Sun,Home,L,2.0,4.0,Celta Vigo,3.0,2.0,60.0,,Raúl Albiol,4-3-3,4-4-2,David Medié,Match Report,,15.0,6.0,14.1,0.0,1,1,2021,Villarreal
+3443,2021-05-13,19:00,La Liga,Matchweek 36,Thu,Away,W,2.0,0.0,Valladolid,0.6,1.0,61.0,,Raúl Albiol,4-4-2,4-1-4-1,Ricardo de Burgos,Match Report,,9.0,3.0,18.5,0.0,0,0,2021,Villarreal
+3444,2021-05-16,18:30,La Liga,Matchweek 37,Sun,Home,W,4.0,0.0,Sevilla,1.2,1.6,43.0,4800.0,Raúl Albiol,4-4-2,4-2-3-1,Guillermo Cuadra,Match Report,,12.0,5.0,20.6,1.0,0,0,2021,Villarreal
+3445,2021-05-22,18:00,La Liga,Matchweek 38,Sat,Away,L,1.0,2.0,Real Madrid,0.6,1.2,44.0,,Mario Gaspar,4-4-2,4-3-3,José Luis Munuera,Match Report,,6.0,2.0,20.0,0.0,0,0,2021,Villarreal
+3446,2020-09-12,16:00,La Liga,Matchweek 1,Sat,Away,D,0.0,0.0,Eibar,0.6,0.4,50.0,,Hugo Mallo,4-3-3,4-4-2,Valentín Pizarro,Match Report,,6.0,3.0,13.7,0.0,0,0,2021,Celta Vigo
+3447,2020-09-19,21:00,La Liga,Matchweek 2,Sat,Home,W,2.0,1.0,Valencia,2.0,0.5,51.0,,Hugo Mallo,4-4-2,4-4-2,Jesús Gil,Match Report,,23.0,6.0,20.4,2.0,0,0,2021,Celta Vigo
+3448,2020-09-27,18:30,La Liga,Matchweek 3,Sun,Away,D,1.0,1.0,Valladolid,1.3,1.5,46.0,,Hugo Mallo,4-2-3-1,4-4-2,José Sánchez,Match Report,,5.0,1.0,16.1,1.0,0,0,2021,Celta Vigo
+3449,2020-10-01,21:30,La Liga,Matchweek 4,Thu,Home,L,0.0,3.0,Barcelona,0.5,0.7,44.0,,Hugo Mallo,5-3-2,4-2-3-1,Carlos del Cerro,Match Report,,10.0,3.0,17.4,2.0,0,0,2021,Celta Vigo
+3450,2020-10-04,12:00,La Liga,Matchweek 5,Sun,Away,L,0.0,2.0,Osasuna,0.5,1.2,60.0,,Hugo Mallo,4-4-1-1,4-4-2,Ricardo de Burgos,Match Report,,9.0,3.0,21.1,0.0,0,0,2021,Celta Vigo
+3451,2020-10-17,16:00,La Liga,Matchweek 6,Sat,Home,L,0.0,2.0,Atlético Madrid,1.9,1.4,51.0,,Iago Aspas,5-3-2,4-4-2,Juan Martínez,Match Report,,15.0,5.0,13.6,0.0,0,0,2021,Celta Vigo
+3452,2020-10-26,21:00,La Liga,Matchweek 7,Mon,Away,D,1.0,1.0,Levante,0.8,1.2,42.0,,Iago Aspas,5-3-2,4-4-2,Mario Melero,Match Report,,11.0,3.0,18.3,0.0,0,0,2021,Celta Vigo
+3453,2020-11-01,16:00,La Liga,Matchweek 8,Sun,Home,L,1.0,4.0,Real Sociedad,1.6,2.0,46.0,,Iago Aspas,4-4-2,4-4-1-1,Adrián Cordero,Match Report,,8.0,1.0,16.2,0.0,1,1,2021,Celta Vigo
+3454,2020-11-06,21:00,La Liga,Matchweek 9,Fri,Away,D,1.0,1.0,Elche,2.1,1.5,49.0,,Iago Aspas,4-1-4-1,5-4-1,Ricardo de Burgos,Match Report,,14.0,6.0,19.7,2.0,0,0,2021,Celta Vigo
+3455,2020-11-21,18:30,La Liga,Matchweek 10,Sat,Away,L,2.0,4.0,Sevilla,2.1,2.6,43.0,,Hugo Mallo,4-1-2-1-2◆,4-3-3,César Soto,Match Report,,10.0,7.0,13.1,0.0,0,0,2021,Celta Vigo
+3456,2020-11-29,18:30,La Liga,Matchweek 11,Sun,Home,W,3.0,1.0,Granada,4.2,1.6,67.0,,Hugo Mallo,4-1-3-2,3-4-3,Isidro Díaz de Mera,Match Report,,17.0,7.0,14.6,0.0,0,0,2021,Celta Vigo
+3457,2020-12-04,21:00,La Liga,Matchweek 12,Fri,Away,W,2.0,0.0,Athletic Club,1.2,0.5,49.0,,Hugo Mallo,4-1-3-2,4-2-3-1,Jorge Figueroa,Match Report,,6.0,4.0,13.1,0.0,0,0,2021,Celta Vigo
+3458,2020-12-14,21:00,La Liga,Matchweek 13,Mon,Home,W,4.0,0.0,Cádiz,1.5,0.6,61.0,,Hugo Mallo,4-1-3-2,4-4-2,Guillermo Cuadra,Match Report,,6.0,3.0,15.6,0.0,1,1,2021,Celta Vigo
+3459,2020-12-20,14:00,La Liga,Matchweek 14,Sun,Home,W,2.0,0.0,Alavés,1.6,0.7,54.0,,Hugo Mallo,4-1-3-2,4-4-2,Alberola Rojas,Match Report,,11.0,3.0,14.2,0.0,0,0,2021,Celta Vigo
+3460,2020-12-23,17:30,La Liga,Matchweek 15,Wed,Away,D,1.0,1.0,Getafe,0.8,0.3,61.0,,Hugo Mallo,4-1-3-2,4-1-4-1,Pablo González,Match Report,,1.0,0.0,28.3,0.0,1,1,2021,Celta Vigo
+3461,2020-12-30,19:15,La Liga,Matchweek 16,Wed,Home,W,2.0,1.0,Huesca,2.3,1.3,56.0,,Hugo Mallo,4-4-2,4-3-3,José Luis Munuera,Match Report,,15.0,6.0,14.6,0.0,0,0,2021,Celta Vigo
+3462,2021-01-02,21:00,La Liga,Matchweek 17,Sat,Away,L,0.0,2.0,Real Madrid,0.7,1.0,59.0,,Hugo Mallo,4-1-3-2,4-3-3,Ricardo de Burgos,Match Report,,6.0,0.0,14.1,0.0,0,0,2021,Celta Vigo
+3463,2021-01-08,21:00,La Liga,Matchweek 18,Fri,Home,L,0.0,4.0,Villarreal,0.4,2.7,57.0,,Hugo Mallo,4-1-3-2,4-3-3,Javier Estrada,Match Report,,8.0,3.0,18.2,1.0,0,0,2021,Celta Vigo
+3464,2021-01-20,21:00,La Liga,Matchweek 19,Wed,Away,L,1.0,2.0,Betis,1.1,0.8,57.0,,Hugo Mallo,4-1-3-2,4-2-3-1,Juan Martínez,Match Report,,10.0,3.0,13.0,0.0,0,0,2021,Celta Vigo
+3465,2021-01-24,18:30,La Liga,Matchweek 20,Sun,Home,D,1.0,1.0,Eibar,1.6,0.9,56.0,,Hugo Mallo,4-1-4-1,4-1-4-1,Pablo González,Match Report,,8.0,4.0,11.7,0.0,0,0,2021,Celta Vigo
+3466,2021-01-31,18:30,La Liga,Matchweek 21,Sun,Away,D,0.0,0.0,Granada,0.6,0.3,64.0,,Hugo Mallo,4-1-3-2,4-2-3-1,Carlos del Cerro,Match Report,,7.0,1.0,18.4,0.0,0,0,2021,Celta Vigo
+3467,2021-02-08,21:00,La Liga,Matchweek 22,Mon,Away,D,2.0,2.0,Atlético Madrid,1.5,1.2,54.0,,Hugo Mallo,4-1-3-2,3-1-4-2,Guillermo Cuadra,Match Report,,7.0,2.0,17.2,0.0,0,0,2021,Celta Vigo
+3468,2021-02-12,21:00,La Liga,Matchweek 23,Fri,Home,W,3.0,1.0,Elche,2.1,1.1,50.0,,Hugo Mallo,4-1-3-2,4-4-2,Ricardo de Burgos,Match Report,,9.0,6.0,12.2,0.0,0,0,2021,Celta Vigo
+3469,2021-02-20,18:30,La Liga,Matchweek 24,Sat,Away,L,0.0,2.0,Valencia,0.7,1.2,43.0,,Hugo Mallo,4-1-3-2,4-4-2,Valentín Pizarro,Match Report,,5.0,2.0,17.6,0.0,0,0,2021,Celta Vigo
+3470,2021-02-28,14:00,La Liga,Matchweek 25,Sun,Home,D,1.0,1.0,Valladolid,0.9,0.7,65.0,,Hugo Mallo,4-1-3-2,4-4-2,David Medié,Match Report,,11.0,2.0,17.0,1.0,0,0,2021,Celta Vigo
+3471,2021-03-07,14:00,La Liga,Matchweek 26,Sun,Away,W,4.0,3.0,Huesca,0.9,2.2,49.0,,Hugo Mallo,4-1-2-1-2◆,3-4-1-2,José Luis Munuera,Match Report,,10.0,7.0,18.2,1.0,0,0,2021,Celta Vigo
+3472,2021-03-14,14:00,La Liga,Matchweek 27,Sun,Home,D,0.0,0.0,Athletic Club,1.2,0.7,65.0,,Iago Aspas,4-1-3-2,4-4-2,Santiago Jaime,Match Report,,12.0,3.0,22.8,1.0,0,0,2021,Celta Vigo
+3473,2021-03-20,16:15,La Liga,Matchweek 28,Sat,Home,L,1.0,3.0,Real Madrid,0.6,2.5,51.0,,Hugo Mallo,4-1-3-2,4-1-2-1-2,Mario Melero,Match Report,,8.0,3.0,15.3,1.0,0,0,2021,Celta Vigo
+3474,2021-04-04,14:00,La Liga,Matchweek 29,Sun,Away,W,3.0,1.0,Alavés,2.0,2.0,46.0,,Hugo Mallo,4-1-3-2,4-4-2,Antonio Matéu Lahoz,Match Report,,8.0,6.0,14.3,0.0,0,0,2021,Celta Vigo
+3475,2021-04-12,21:00,La Liga,Matchweek 30,Mon,Home,L,3.0,4.0,Sevilla,2.6,1.6,42.0,,Hugo Mallo,4-1-3-2,4-3-3,Alejandro Hernández,Match Report,,11.0,4.0,17.3,0.0,1,1,2021,Celta Vigo
+3476,2021-04-18,18:30,La Liga,Matchweek 33,Sun,Away,D,0.0,0.0,Cádiz,0.5,0.4,76.0,,Hugo Mallo,4-1-3-2,4-4-2,Pablo González,Match Report,,11.0,4.0,20.9,0.0,0,0,2021,Celta Vigo
+3477,2021-04-22,21:00,La Liga,Matchweek 31,Thu,Away,L,1.0,2.0,Real Sociedad,0.6,2.2,59.0,,Hugo Mallo,4-1-3-2,4-4-1-1,Jesús Gil,Match Report,,10.0,3.0,16.1,0.0,0,0,2021,Celta Vigo
+3478,2021-04-25,18:30,La Liga,Matchweek 32,Sun,Home,W,2.0,1.0,Osasuna,0.7,1.4,49.0,,Hugo Mallo,4-1-3-2,4-3-3,César Soto,Match Report,,7.0,2.0,15.1,0.0,0,0,2021,Celta Vigo
+3479,2021-04-30,21:00,La Liga,Matchweek 34,Fri,Home,W,2.0,0.0,Levante,2.3,1.2,54.0,,Iago Aspas,4-1-2-1-2◆,3-5-2,Santiago Jaime,Match Report,,8.0,5.0,12.8,0.0,0,0,2021,Celta Vigo
+3480,2021-05-09,18:30,La Liga,Matchweek 35,Sun,Away,W,4.0,2.0,Villarreal,2.0,3.0,40.0,,Hugo Mallo,4-4-2,4-3-3,David Medié,Match Report,,9.0,4.0,25.8,0.0,2,2,2021,Celta Vigo
+3481,2021-05-12,20:00,La Liga,Matchweek 36,Wed,Home,W,1.0,0.0,Getafe,0.4,1.3,60.0,,Iago Aspas,4-1-3-2,4-4-2,Mario Melero,Match Report,,4.0,1.0,21.7,0.0,0,0,2021,Celta Vigo
+3482,2021-05-16,18:30,La Liga,Matchweek 37,Sun,Away,W,2.0,1.0,Barcelona,0.7,2.5,36.0,,Iago Aspas,4-4-2,3-1-4-2,Ricardo de Burgos,Match Report,,4.0,4.0,16.0,0.0,0,0,2021,Celta Vigo
+3483,2021-05-22,18:00,La Liga,Matchweek 38,Sat,Home,L,2.0,3.0,Betis,1.3,2.3,64.0,1738.0,Iago Aspas,4-1-3-2,4-2-3-1,Jesús Gil,Match Report,,10.0,3.0,21.9,1.0,1,1,2021,Celta Vigo
+3484,2020-09-12,18:30,La Liga,Matchweek 1,Sat,Home,W,2.0,0.0,Athletic Club,0.4,0.5,40.0,,Germán Sánchez,4-2-3-1,4-2-3-1,Antonio Matéu Lahoz,Match Report,,4.0,2.0,17.9,0.0,0,0,2021,Granada
+3485,2020-09-20,18:30,La Liga,Matchweek 2,Sun,Home,W,2.0,1.0,Alavés,2.2,0.7,56.0,,Roberto Soldado,4-2-3-1,3-5-2,Carlos del Cerro,Match Report,,10.0,3.0,12.6,1.0,0,0,2021,Granada
+3486,2020-09-27,16:00,La Liga,Matchweek 3,Sun,Away,L,1.0,6.0,Atlético Madrid,1.6,3.3,45.0,,Víctor Díaz,4-2-3-1,4-4-2,Javier Estrada,Match Report,,11.0,6.0,18.9,2.0,0,0,2021,Granada
+3487,2020-10-04,18:30,La Liga,Matchweek 5,Sun,Away,D,1.0,1.0,Cádiz,0.6,1.0,58.0,,Germán Sánchez,4-2-3-1,4-4-2,Alberola Rojas,Match Report,,13.0,5.0,20.0,0.0,0,0,2021,Granada
+3488,2020-10-17,13:00,La Liga,Matchweek 6,Sat,Home,W,1.0,0.0,Sevilla,1.3,0.6,52.0,,Germán Sánchez,4-1-4-1,4-3-3,Pablo González,Match Report,,13.0,3.0,19.5,0.0,0,0,2021,Granada
+3489,2020-10-25,18:30,La Liga,Matchweek 7,Sun,Away,W,1.0,0.0,Getafe,1.1,0.9,35.0,,Germán Sánchez,4-1-4-1,4-4-2,Jesús Gil,Match Report,,4.0,1.0,30.6,1.0,1,1,2021,Granada
+3490,2020-11-01,18:30,La Liga,Matchweek 8,Sun,Home,D,1.0,1.0,Levante,0.2,0.9,30.0,,Germán Sánchez,4-2-3-1,4-4-2,Santiago Jaime,Match Report,,5.0,2.0,22.5,0.0,0,0,2021,Granada
+3491,2020-11-08,16:15,La Liga,Matchweek 9,Sun,Away,L,0.0,2.0,Real Sociedad,0.8,3.4,28.0,,Roberto Soldado,4-2-3-1,4-1-4-1,Carlos del Cerro,Match Report,,1.0,0.0,46.2,1.0,0,1,2021,Granada
+3492,2020-11-22,18:30,La Liga,Matchweek 10,Sun,Home,L,1.0,3.0,Valladolid,1.5,1.3,60.0,,Germán Sánchez,4-2-3-1,4-4-2,David Medié,Match Report,,16.0,6.0,22.3,0.0,0,0,2021,Granada
+3493,2020-11-29,18:30,La Liga,Matchweek 11,Sun,Away,L,1.0,3.0,Celta Vigo,1.6,4.2,33.0,,Germán Sánchez,3-4-3,4-1-3-2,Isidro Díaz de Mera,Match Report,,9.0,2.0,18.4,1.0,0,0,2021,Granada
+3494,2020-12-06,14:00,La Liga,Matchweek 12,Sun,Home,D,3.0,3.0,Huesca,1.5,1.5,48.0,,Germán Sánchez,4-2-3-1,4-1-4-1,Alberola Rojas,Match Report,,15.0,6.0,16.6,1.0,0,0,2021,Granada
+3495,2020-12-13,18:30,La Liga,Matchweek 13,Sun,Away,W,1.0,0.0,Elche,1.6,0.6,33.0,,Roberto Soldado,4-1-4-1,4-1-4-1,Pablo González,Match Report,,13.0,5.0,14.8,1.0,0,0,2021,Granada
+3496,2020-12-20,16:15,La Liga,Matchweek 14,Sun,Home,W,2.0,0.0,Betis,1.4,0.8,31.0,,Germán Sánchez,4-3-3,4-2-3-1,José Sánchez,Match Report,,7.0,2.0,22.9,0.0,1,1,2021,Granada
+3497,2020-12-23,19:45,La Liga,Matchweek 15,Wed,Away,L,0.0,2.0,Real Madrid,0.8,1.8,34.0,,Roberto Soldado,4-1-4-1,4-3-3,Juan Martínez,Match Report,,10.0,1.0,16.6,0.0,0,0,2021,Granada
+3498,2020-12-30,17:00,La Liga,Matchweek 16,Wed,Home,W,2.0,1.0,Valencia,2.2,1.5,53.0,,Germán Sánchez,4-2-3-1,4-4-2,Adrián Cordero,Match Report,,24.0,5.0,20.1,2.0,0,0,2021,Granada
+3499,2021-01-03,18:30,La Liga,Matchweek 17,Sun,Away,L,0.0,2.0,Eibar,0.9,1.9,44.0,,Germán Sánchez,4-4-2,4-4-2,Antonio Matéu Lahoz,Match Report,,6.0,3.0,15.5,1.0,0,0,2021,Granada
+3500,2021-01-09,18:30,La Liga,Matchweek 18,Sat,Home,L,0.0,4.0,Barcelona,0.5,0.9,28.0,,Germán Sánchez,4-2-3-1,4-3-3,Ricardo de Burgos,Match Report,,8.0,4.0,19.8,0.0,0,0,2021,Granada
+3501,2021-01-12,19:00,La Liga,Matchweek 4,Tue,Home,W,2.0,0.0,Osasuna,0.8,0.7,41.0,,Germán Sánchez,4-2-3-1,4-4-1-1,Pablo González,Match Report,,10.0,3.0,20.5,0.0,0,0,2021,Granada
+3502,2021-01-20,21:30,La Liga,Matchweek 19,Wed,Away,D,2.0,2.0,Villarreal,0.2,2.4,32.0,,Germán Sánchez,4-1-4-1,4-3-3,Valentín Pizarro,Match Report,,3.0,2.0,15.2,0.0,0,0,2021,Granada
+3503,2021-01-24,14:00,La Liga,Matchweek 20,Sun,Away,L,1.0,3.0,Osasuna,0.7,1.7,52.0,,Germán Sánchez,4-2-3-1,4-3-3,Javier Estrada,Match Report,,12.0,1.0,19.3,2.0,0,0,2021,Granada
+3504,2021-01-31,18:30,La Liga,Matchweek 21,Sun,Home,D,0.0,0.0,Celta Vigo,0.3,0.6,36.0,,Ángel Montoro,4-2-3-1,4-1-3-2,Carlos del Cerro,Match Report,,10.0,5.0,23.4,1.0,0,0,2021,Granada
+3505,2021-02-06,14:00,La Liga,Matchweek 22,Sat,Away,D,2.0,2.0,Levante,1.2,1.4,40.0,,Ángel Montoro,3-4-3,4-4-2,Adrián Cordero,Match Report,,11.0,5.0,21.5,1.0,0,0,2021,Granada
+3506,2021-02-13,14:00,La Liga,Matchweek 23,Sat,Home,L,1.0,2.0,Atlético Madrid,0.7,0.7,40.0,,Germán Sánchez,5-4-1,3-1-4-2,Antonio Matéu Lahoz,Match Report,,6.0,1.0,14.8,0.0,0,0,2021,Granada
+3507,2021-02-21,18:30,La Liga,Matchweek 24,Sun,Away,L,2.0,3.0,Huesca,1.0,2.3,41.0,,Víctor Díaz,4-2-3-1,3-4-3,César Soto,Match Report,,8.0,5.0,19.8,2.0,0,0,2021,Granada
+3508,2021-02-28,18:30,La Liga,Matchweek 25,Sun,Home,W,2.0,1.0,Elche,1.1,1.2,43.0,,Víctor Díaz,4-2-3-1,4-4-2,Santiago Jaime,Match Report,,13.0,4.0,18.1,0.0,0,0,2021,Granada
+3509,2021-03-07,21:00,La Liga,Matchweek 26,Sun,Away,L,1.0,2.0,Athletic Club,2.0,1.3,51.0,,Germán Sánchez,4-2-3-1,4-4-2,Juan Martínez,Match Report,,13.0,3.0,16.1,0.0,0,0,2021,Granada
+3510,2021-03-14,16:15,La Liga,Matchweek 27,Sun,Home,W,1.0,0.0,Real Sociedad,0.4,0.4,33.0,,Germán Sánchez,4-2-3-1,4-3-3,Pablo González,Match Report,,7.0,2.0,22.8,0.0,0,0,2021,Granada
+3511,2021-03-21,16:15,La Liga,Matchweek 28,Sun,Away,L,1.0,2.0,Valencia,1.2,1.9,51.0,,Víctor Díaz,4-2-3-1,4-4-2,Alberola Rojas,Match Report,,15.0,3.0,21.5,1.0,0,0,2021,Granada
+3512,2021-04-03,14:00,La Liga,Matchweek 29,Sat,Home,L,0.0,3.0,Villarreal,1.4,3.2,45.0,,Víctor Díaz,4-2-3-1,4-2-2-2,Guillermo Cuadra,Match Report,,5.0,2.0,20.6,0.0,0,1,2021,Granada
+3513,2021-04-11,18:30,La Liga,Matchweek 30,Sun,Away,W,2.0,1.0,Valladolid,1.5,1.2,46.0,,Germán Sánchez,4-2-3-1,4-4-2,Carlos del Cerro,Match Report,,12.0,6.0,18.0,1.0,0,0,2021,Granada
+3514,2021-04-22,21:00,La Liga,Matchweek 31,Thu,Home,W,4.0,1.0,Eibar,1.4,1.7,36.0,,Germán Sánchez,4-4-2,4-3-3,Santiago Jaime,Match Report,,8.0,4.0,20.1,0.0,0,0,2021,Granada
+3515,2021-04-25,18:30,La Liga,Matchweek 32,Sun,Away,L,1.0,2.0,Sevilla,0.9,1.3,36.0,,Víctor Díaz,3-4-3,4-3-3,Ricardo de Burgos,Match Report,,3.0,1.0,17.3,0.0,1,1,2021,Granada
+3516,2021-04-29,19:00,La Liga,Matchweek 33,Thu,Away,W,2.0,1.0,Barcelona,0.7,1.4,19.0,,Víctor Díaz,3-4-3,3-1-4-2,Pablo González,Match Report,,5.0,2.0,17.3,0.0,0,0,2021,Granada
+3517,2021-05-02,18:30,La Liga,Matchweek 34,Sun,Home,L,0.0,1.0,Cádiz,0.9,1.2,64.0,,Germán Sánchez,4-3-3,4-4-2,Isidro Díaz de Mera,Match Report,,9.0,2.0,17.1,0.0,0,0,2021,Granada
+3518,2021-05-10,21:00,La Liga,Matchweek 35,Mon,Away,L,1.0,2.0,Betis,1.5,1.7,39.0,,Germán Sánchez,4-2-3-1,4-1-4-1,César Soto,Match Report,,11.0,5.0,18.6,2.0,0,0,2021,Granada
+3519,2021-05-13,22:00,La Liga,Matchweek 36,Thu,Home,L,1.0,4.0,Real Madrid,1.9,1.3,36.0,,Germán Sánchez,4-2-3-1,4-3-3,Jesús Gil,Match Report,,10.0,5.0,16.1,0.0,0,0,2021,Granada
+3520,2021-05-16,18:30,La Liga,Matchweek 37,Sun,Away,L,2.0,4.0,Alavés,0.8,2.4,47.0,,Jorge Molina,4-2-3-1,4-4-2,José Sánchez,Match Report,,5.0,2.0,18.1,0.0,0,0,2021,Granada
+3521,2021-05-23,18:30,La Liga,Matchweek 38,Sun,Home,D,0.0,0.0,Getafe,0.4,0.6,39.0,,Germán Sánchez,5-4-1,4-4-1-1,David Medié,Match Report,,9.0,2.0,19.8,0.0,0,0,2021,Granada
+3522,2020-09-12,18:30,La Liga,Matchweek 1,Sat,Away,L,0.0,2.0,Granada,0.5,0.4,60.0,,Iker Muniain,4-2-3-1,4-2-3-1,Antonio Matéu Lahoz,Match Report,,9.0,2.0,16.9,0.0,0,0,2021,Athletic Club
+3523,2020-09-27,14:00,La Liga,Matchweek 3,Sun,Away,W,2.0,1.0,Eibar,0.6,0.6,51.0,,Iker Muniain,4-2-3-1,4-3-3,Adrián Cordero,Match Report,,9.0,5.0,18.7,0.0,0,0,2021,Athletic Club
+3524,2020-10-01,19:00,La Liga,Matchweek 4,Thu,Home,L,0.0,1.0,Cádiz,0.6,0.2,72.0,,Iker Muniain,4-2-3-1,4-4-1-1,Pablo González,Match Report,,13.0,4.0,21.5,0.0,0,0,2021,Athletic Club
+3525,2020-10-04,14:00,La Liga,Matchweek 5,Sun,Away,L,0.0,1.0,Alavés,0.6,0.6,59.0,,Raúl García,4-2-3-1,3-5-2,José Sánchez,Match Report,,8.0,0.0,18.4,0.0,0,0,2021,Athletic Club
+3526,2020-10-18,14:00,La Liga,Matchweek 6,Sun,Home,W,2.0,0.0,Levante,2.3,0.3,52.0,,Iker Muniain,4-2-3-1,4-4-2,Alberola Rojas,Match Report,,14.0,4.0,13.2,0.0,0,0,2021,Athletic Club
+3527,2020-10-24,18:30,La Liga,Matchweek 7,Sat,Away,L,0.0,1.0,Osasuna,0.7,1.2,61.0,,Iker Muniain,4-2-3-1,4-4-2,Guillermo Cuadra,Match Report,,13.0,5.0,18.7,1.0,0,0,2021,Athletic Club
+3528,2020-10-31,16:15,La Liga,Matchweek 8,Sat,Home,W,2.0,1.0,Sevilla,1.2,1.1,47.0,,Raúl García,4-2-3-1,4-3-3,Carlos del Cerro,Match Report,,16.0,5.0,16.7,1.0,0,0,2021,Athletic Club
+3529,2020-11-08,18:30,La Liga,Matchweek 9,Sun,Away,L,1.0,2.0,Valladolid,1.7,2.1,70.0,,Iker Muniain,4-2-3-1,4-4-2,César Soto,Match Report,,16.0,1.0,16.2,1.0,1,1,2021,Athletic Club
+3530,2020-11-23,21:00,La Liga,Matchweek 10,Mon,Home,W,4.0,0.0,Betis,2.5,0.4,41.0,,Iker Muniain,4-2-3-1,4-1-4-1,Alberola Rojas,Match Report,,14.0,9.0,12.1,0.0,0,0,2021,Athletic Club
+3531,2020-11-29,16:15,La Liga,Matchweek 11,Sun,Away,D,1.0,1.0,Getafe,0.3,0.5,49.0,,Iker Muniain,4-2-3-1,4-4-2,Mario Melero,Match Report,,5.0,2.0,23.2,1.0,0,0,2021,Athletic Club
+3532,2020-12-04,21:00,La Liga,Matchweek 12,Fri,Home,L,0.0,2.0,Celta Vigo,0.5,1.2,51.0,,Iker Muniain,4-2-3-1,4-1-3-2,Jorge Figueroa,Match Report,,10.0,0.0,20.2,1.0,0,0,2021,Athletic Club
+3533,2020-12-12,14:00,La Liga,Matchweek 13,Sat,Away,D,2.0,2.0,Valencia,1.9,1.5,59.0,,Iker Muniain,4-2-3-1,4-4-2,Carlos del Cerro,Match Report,,12.0,4.0,19.9,0.0,1,1,2021,Athletic Club
+3534,2020-12-15,22:00,La Liga,Matchweek 19,Tue,Away,L,1.0,3.0,Real Madrid,0.8,2.2,32.0,,Óscar de Marcos,4-2-3-1,4-2-3-1,Jesús Gil,Match Report,,10.0,4.0,17.7,0.0,0,0,2021,Athletic Club
+3535,2020-12-18,21:00,La Liga,Matchweek 14,Fri,Home,W,2.0,0.0,Huesca,1.4,0.2,54.0,,Iker Muniain,4-2-3-1,4-3-3,Valentín Pizarro,Match Report,,9.0,2.0,20.0,0.0,1,1,2021,Athletic Club
+3536,2020-12-22,22:00,La Liga,Matchweek 15,Tue,Away,D,1.0,1.0,Villarreal,0.8,1.4,35.0,,Iker Muniain,4-2-3-1,4-3-3,David Medié,Match Report,,9.0,3.0,17.7,0.0,0,0,2021,Athletic Club
+3537,2020-12-31,14:00,La Liga,Matchweek 16,Thu,Home,L,0.0,1.0,Real Sociedad,0.2,1.6,60.0,,Iker Muniain,4-2-3-1,4-2-3-1,José Sánchez,Match Report,,4.0,0.0,19.3,1.0,0,0,2021,Athletic Club
+3538,2021-01-03,14:00,La Liga,Matchweek 17,Sun,Home,W,1.0,0.0,Elche,1.4,0.2,49.0,,Iker Muniain,4-2-3-1,4-1-4-1,Mario Melero,Match Report,,13.0,2.0,18.9,1.0,0,0,2021,Athletic Club
+3539,2021-01-06,21:00,La Liga,Matchweek 2,Wed,Home,L,2.0,3.0,Barcelona,0.6,1.6,43.0,,Iker Muniain,4-4-2,4-3-3,Carlos del Cerro,Match Report,,8.0,3.0,14.6,0.0,0,0,2021,Athletic Club
+3540,2021-01-25,21:00,La Liga,Matchweek 20,Mon,Home,W,5.0,1.0,Getafe,2.0,1.3,51.0,,Iker Muniain,4-4-2,4-4-1-1,Adrián Cordero,Match Report,,11.0,8.0,13.5,1.0,0,0,2021,Athletic Club
+3541,2021-01-31,21:00,La Liga,Matchweek 21,Sun,Away,L,1.0,2.0,Barcelona,0.3,1.9,42.0,,Iker Muniain,4-4-2,4-2-3-1,Antonio Matéu Lahoz,Match Report,,7.0,2.0,22.3,0.0,0,0,2021,Athletic Club
+3542,2021-02-07,16:15,La Liga,Matchweek 22,Sun,Home,D,1.0,1.0,Valencia,1.2,0.9,50.0,,Mikel Balenziaga,4-4-2,4-4-2,José Luis Munuera,Match Report,,11.0,2.0,13.7,0.0,0,0,2021,Athletic Club
+3543,2021-02-15,21:00,La Liga,Matchweek 23,Mon,Away,W,4.0,0.0,Cádiz,2.2,0.5,57.0,,Iker Muniain,4-4-2,4-4-2,Alejandro Hernández,Match Report,,13.0,7.0,12.9,1.0,0,0,2021,Athletic Club
+3544,2021-02-21,21:00,La Liga,Matchweek 24,Sun,Home,D,1.0,1.0,Villarreal,2.6,0.1,48.0,,Iker Muniain,4-4-2,4-4-2,Carlos del Cerro,Match Report,,18.0,8.0,17.9,1.0,0,0,2021,Athletic Club
+3545,2021-02-26,21:00,La Liga,Matchweek 25,Fri,Away,D,1.0,1.0,Levante,1.9,1.2,55.0,,Iker Muniain,4-4-2,3-4-3,Isidro Díaz de Mera,Match Report,,10.0,4.0,16.5,0.0,1,1,2021,Athletic Club
+3546,2021-03-07,21:00,La Liga,Matchweek 26,Sun,Home,W,2.0,1.0,Granada,1.3,2.0,49.0,,Mikel Balenziaga,4-4-2,4-2-3-1,Juan Martínez,Match Report,,6.0,4.0,18.0,0.0,0,1,2021,Athletic Club
+3547,2021-03-10,19:00,La Liga,Matchweek 18,Wed,Away,L,1.0,2.0,Atlético Madrid,0.6,1.5,54.0,,Iker Muniain,4-4-2,4-3-3,Jesús Gil,Match Report,,4.0,2.0,13.3,0.0,0,0,2021,Athletic Club
+3548,2021-03-14,14:00,La Liga,Matchweek 27,Sun,Away,D,0.0,0.0,Celta Vigo,0.7,1.2,35.0,,Mikel Balenziaga,4-4-2,4-1-3-2,Santiago Jaime,Match Report,,6.0,1.0,19.6,0.0,0,0,2021,Athletic Club
+3549,2021-03-20,14:00,La Liga,Matchweek 28,Sat,Home,D,1.0,1.0,Eibar,1.6,0.6,56.0,,Iker Muniain,4-4-2,4-2-3-1,Valentín Pizarro,Match Report,,18.0,4.0,16.5,2.0,0,0,2021,Athletic Club
+3550,2021-04-07,21:00,La Liga,Matchweek 29,Wed,Away,D,1.0,1.0,Real Sociedad,0.7,0.9,49.0,,Iker Muniain,4-4-2,4-4-2,José Sánchez,Match Report,,11.0,2.0,18.3,1.0,0,0,2021,Athletic Club
+3551,2021-04-10,16:15,La Liga,Matchweek 30,Sat,Home,D,0.0,0.0,Alavés,1.8,0.5,45.0,,Mikel Balenziaga,4-4-2,4-4-2,Mario Melero,Match Report,,11.0,4.0,16.6,0.0,0,0,2021,Athletic Club
+3552,2021-04-21,20:00,La Liga,Matchweek 31,Wed,Away,D,0.0,0.0,Betis,0.8,0.2,59.0,,Óscar de Marcos,4-4-2,4-2-3-1,David Medié,Match Report,,16.0,4.0,19.2,0.0,0,0,2021,Athletic Club
+3553,2021-04-25,21:00,La Liga,Matchweek 32,Sun,Home,W,2.0,1.0,Atlético Madrid,1.2,0.8,38.0,,Mikel Balenziaga,4-4-2,4-3-3,Pablo González,Match Report,,11.0,3.0,16.0,0.0,0,0,2021,Athletic Club
+3554,2021-04-28,19:00,La Liga,Matchweek 33,Wed,Home,D,2.0,2.0,Valladolid,1.5,0.8,51.0,,Óscar de Marcos,4-4-2,4-4-2,Adrián Cordero,Match Report,,13.0,7.0,16.3,0.0,0,0,2021,Athletic Club
+3555,2021-05-03,21:00,La Liga,Matchweek 34,Mon,Away,W,1.0,0.0,Sevilla,0.7,1.1,27.0,,Óscar de Marcos,4-4-2,4-3-3,Jesús Gil,Match Report,,8.0,2.0,21.0,1.0,0,0,2021,Athletic Club
+3556,2021-05-08,21:00,La Liga,Matchweek 35,Sat,Home,D,2.0,2.0,Osasuna,1.6,1.3,45.0,,Óscar de Marcos,4-4-2,4-1-4-1,Valentín Pizarro,Match Report,,13.0,3.0,16.9,0.0,0,0,2021,Athletic Club
+3557,2021-05-12,20:00,La Liga,Matchweek 36,Wed,Away,L,0.0,1.0,Huesca,0.2,1.0,49.0,,Óscar de Marcos,4-4-2,3-5-2,Jorge Figueroa,Match Report,,4.0,3.0,22.2,0.0,0,0,2021,Athletic Club
+3558,2021-05-16,18:30,La Liga,Matchweek 37,Sun,Home,L,0.0,1.0,Real Madrid,0.7,1.0,36.0,,Óscar de Marcos,4-4-2,4-3-3,Antonio Matéu Lahoz,Match Report,,8.0,1.0,21.3,1.0,0,0,2021,Athletic Club
+3559,2021-05-22,18:00,La Liga,Matchweek 38,Sat,Away,L,0.0,2.0,Elche,0.5,1.0,55.0,3518.0,Mikel Balenziaga,4-4-2,5-3-2,Carlos del Cerro,Match Report,,8.0,2.0,19.0,0.0,0,0,2021,Athletic Club
+3560,2020-09-12,21:00,La Liga,Matchweek 1,Sat,Away,W,2.0,0.0,Cádiz,0.8,0.7,48.0,,Oier Sanjurjo,4-4-2,4-2-3-1,Isidro Díaz de Mera,Match Report,,6.0,4.0,19.4,1.0,0,0,2021,Osasuna
+3561,2020-09-19,18:30,La Liga,Matchweek 2,Sat,Away,L,0.0,1.0,Getafe,0.5,0.6,45.0,,Oier Sanjurjo,4-4-2,4-4-2,Alejandro Hernández,Match Report,,10.0,3.0,31.7,0.0,0,0,2021,Osasuna
+3562,2020-09-27,12:00,La Liga,Matchweek 3,Sun,Home,L,1.0,3.0,Levante,0.7,3.1,41.0,,Oier Sanjurjo,4-4-2,4-4-2,Mario Melero,Match Report,,8.0,3.0,19.6,0.0,0,0,2021,Osasuna
+3563,2020-10-04,12:00,La Liga,Matchweek 5,Sun,Home,W,2.0,0.0,Celta Vigo,1.2,0.5,40.0,,Oier Sanjurjo,4-4-2,4-4-1-1,Ricardo de Burgos,Match Report,,13.0,4.0,18.8,0.0,0,0,2021,Osasuna
+3564,2020-10-18,12:00,La Liga,Matchweek 6,Sun,Away,D,0.0,0.0,Eibar,1.0,0.3,48.0,,Oier Sanjurjo,4-4-2,4-4-2,David Medié,Match Report,,8.0,2.0,15.1,0.0,0,0,2021,Osasuna
+3565,2020-10-24,18:30,La Liga,Matchweek 7,Sat,Home,W,1.0,0.0,Athletic Club,1.2,0.7,39.0,,Oier Sanjurjo,4-4-2,4-2-3-1,Guillermo Cuadra,Match Report,,6.0,1.0,27.1,1.0,1,1,2021,Osasuna
+3566,2020-10-31,18:30,La Liga,Matchweek 8,Sat,Home,L,1.0,3.0,Atlético Madrid,1.1,2.8,45.0,,Oier Sanjurjo,4-4-2,4-4-2,Javier Estrada,Match Report,,8.0,3.0,16.1,0.0,0,0,2021,Osasuna
+3567,2020-11-07,18:30,La Liga,Matchweek 9,Sat,Away,L,0.0,1.0,Sevilla,0.7,1.1,34.0,,David García,4-4-2,4-3-3,Juan Martínez,Match Report,,10.0,2.0,20.9,1.0,0,0,2021,Osasuna
+3568,2020-11-20,21:00,La Liga,Matchweek 10,Fri,Home,D,1.0,1.0,Huesca,1.0,0.7,55.0,,Oier Sanjurjo,4-4-2,4-4-2,Valentín Pizarro,Match Report,,18.0,7.0,18.1,0.0,0,0,2021,Osasuna
+3569,2020-11-29,14:00,La Liga,Matchweek 11,Sun,Away,L,0.0,4.0,Barcelona,1.5,3.7,29.0,,Oier Sanjurjo,4-4-2,4-3-3,Antonio Matéu Lahoz,Match Report,,10.0,5.0,22.1,0.0,0,0,2021,Osasuna
+3570,2020-12-06,16:15,La Liga,Matchweek 12,Sun,Home,L,0.0,2.0,Betis,0.4,1.4,48.0,,Roberto Torres,4-4-2,4-4-2,Alejandro Hernández,Match Report,,10.0,0.0,20.9,0.0,0,0,2021,Osasuna
+3571,2020-12-11,21:00,La Liga,Matchweek 13,Fri,Away,L,2.0,3.0,Valladolid,1.9,2.0,52.0,,Oier Sanjurjo,4-4-2,4-4-2,Adrián Cordero,Match Report,,13.0,6.0,14.5,0.0,0,0,2021,Osasuna
+3572,2020-12-19,18:30,La Liga,Matchweek 14,Sat,Home,L,1.0,3.0,Villarreal,1.0,2.3,33.0,,Oier Sanjurjo,4-4-2,4-3-3,Jorge Figueroa,Match Report,,5.0,0.0,26.4,0.0,1,1,2021,Osasuna
+3573,2020-12-22,17:30,La Liga,Matchweek 15,Tue,Away,D,2.0,2.0,Elche,1.6,1.2,35.0,,Roberto Torres,4-4-2,4-1-4-1,Ricardo de Burgos,Match Report,,15.0,6.0,15.8,0.0,0,0,2021,Osasuna
+3574,2020-12-31,16:15,La Liga,Matchweek 16,Thu,Home,D,1.0,1.0,Alavés,0.4,1.6,33.0,,Oier Sanjurjo,4-4-2,4-4-2,Santiago Jaime,Match Report,,8.0,3.0,23.4,1.0,0,0,2021,Osasuna
+3575,2021-01-03,18:30,La Liga,Matchweek 17,Sun,Away,D,1.0,1.0,Real Sociedad,0.8,0.8,38.0,,David García,4-1-4-1,4-3-3,Valentín Pizarro,Match Report,,6.0,2.0,14.6,0.0,0,0,2021,Osasuna
+3576,2021-01-09,21:00,La Liga,Matchweek 18,Sat,Home,D,0.0,0.0,Real Madrid,0.6,0.4,31.0,,Oier Sanjurjo,4-1-4-1,4-3-3,César Soto,Match Report,,8.0,2.0,16.8,0.0,0,0,2021,Osasuna
+3577,2021-01-12,19:00,La Liga,Matchweek 4,Tue,Away,L,0.0,2.0,Granada,0.7,0.8,59.0,,Oier Sanjurjo,4-4-1-1,4-2-3-1,Pablo González,Match Report,,15.0,3.0,22.1,0.0,0,0,2021,Osasuna
+3578,2021-01-21,19:00,La Liga,Matchweek 19,Thu,Away,D,1.0,1.0,Valencia,1.6,0.5,36.0,,Roberto Torres,4-1-4-1,4-2-3-1,Alejandro Hernández,Match Report,,14.0,5.0,15.0,0.0,0,0,2021,Osasuna
+3579,2021-01-24,14:00,La Liga,Matchweek 20,Sun,Home,W,3.0,1.0,Granada,1.7,0.7,48.0,,Oier Sanjurjo,4-3-3,4-2-3-1,Javier Estrada,Match Report,,7.0,4.0,12.2,0.0,0,0,2021,Osasuna
+3580,2021-02-01,21:00,La Liga,Matchweek 21,Mon,Away,L,0.0,1.0,Betis,1.4,1.5,35.0,,Oier Sanjurjo,4-1-4-1,4-2-3-1,Alberola Rojas,Match Report,,15.0,5.0,19.4,0.0,0,0,2021,Osasuna
+3581,2021-02-07,18:30,La Liga,Matchweek 22,Sun,Home,W,2.0,1.0,Eibar,1.7,1.2,54.0,,Oier Sanjurjo,4-4-2,4-4-2,Jorge Figueroa,Match Report,,12.0,4.0,15.7,0.0,0,0,2021,Osasuna
+3582,2021-02-14,18:30,La Liga,Matchweek 23,Sun,Away,W,1.0,0.0,Levante,0.7,1.5,37.0,,Roberto Torres,4-2-3-1,3-1-4-2,Santiago Jaime,Match Report,,7.0,2.0,15.0,0.0,0,0,2021,Osasuna
+3583,2021-02-22,21:00,La Liga,Matchweek 24,Mon,Home,L,0.0,2.0,Sevilla,0.5,0.7,41.0,,Oier Sanjurjo,4-3-3,4-3-3,Alberola Rojas,Match Report,,6.0,0.0,15.8,0.0,0,0,2021,Osasuna
+3584,2021-02-27,18:30,La Liga,Matchweek 25,Sat,Away,W,1.0,0.0,Alavés,1.5,0.4,47.0,,Oier Sanjurjo,4-4-2,4-4-2,José Sánchez,Match Report,,6.0,2.0,14.6,0.0,0,0,2021,Osasuna
+3585,2021-03-06,21:00,La Liga,Matchweek 26,Sat,Home,L,0.0,2.0,Barcelona,0.8,0.8,37.0,,Roberto Torres,4-4-2,3-1-4-2,Guillermo Cuadra,Match Report,,10.0,3.0,19.1,0.0,0,0,2021,Osasuna
+3586,2021-03-13,18:30,La Liga,Matchweek 27,Sat,Home,D,0.0,0.0,Valladolid,0.6,1.0,53.0,,David García,4-4-2,4-4-2,Ricardo de Burgos,Match Report,,14.0,2.0,20.2,0.0,0,0,2021,Osasuna
+3587,2021-03-20,18:30,La Liga,Matchweek 28,Sat,Away,D,0.0,0.0,Huesca,0.6,0.8,44.0,,David García,4-3-3,3-5-2,Carlos del Cerro,Match Report,,7.0,2.0,19.8,0.0,0,0,2021,Osasuna
+3588,2021-04-03,18:30,La Liga,Matchweek 29,Sat,Home,D,0.0,0.0,Getafe,0.2,0.3,58.0,,Oier Sanjurjo,4-4-2,4-2-3-1,Pablo González,Match Report,,4.0,1.0,16.1,0.0,0,0,2021,Osasuna
+3589,2021-04-11,14:00,La Liga,Matchweek 30,Sun,Away,W,2.0,1.0,Villarreal,1.3,1.6,32.0,,David García,4-4-2,3-5-2,José Luis Munuera,Match Report,,12.0,4.0,17.3,1.0,0,0,2021,Osasuna
+3590,2021-04-18,14:00,La Liga,Matchweek 33,Sun,Home,W,2.0,0.0,Elche,0.5,0.7,48.0,,David García,4-1-4-1,4-4-2,Jorge Figueroa,Match Report,,9.0,3.0,17.1,0.0,0,0,2021,Osasuna
+3591,2021-04-21,19:00,La Liga,Matchweek 31,Wed,Home,W,3.0,1.0,Valencia,2.9,1.1,45.0,,Oier Sanjurjo,4-3-3,4-4-2,Mario Melero,Match Report,,16.0,7.0,18.4,1.0,1,2,2021,Osasuna
+3592,2021-04-25,18:30,La Liga,Matchweek 32,Sun,Away,L,1.0,2.0,Celta Vigo,1.4,0.7,51.0,,Oier Sanjurjo,4-3-3,4-1-3-2,César Soto,Match Report,,11.0,2.0,17.4,0.0,1,1,2021,Osasuna
+3593,2021-05-01,21:00,La Liga,Matchweek 34,Sat,Away,L,0.0,2.0,Real Madrid,0.1,1.7,35.0,,Roberto Torres,4-1-4-1,4-2-3-1,Guillermo Cuadra,Match Report,,3.0,2.0,29.4,0.0,0,0,2021,Osasuna
+3594,2021-05-08,21:00,La Liga,Matchweek 35,Sat,Away,D,2.0,2.0,Athletic Club,1.3,1.6,55.0,,Roberto Torres,4-1-4-1,4-4-2,Valentín Pizarro,Match Report,,13.0,4.0,19.3,1.0,0,0,2021,Osasuna
+3595,2021-05-11,19:00,La Liga,Matchweek 36,Tue,Home,W,3.0,2.0,Cádiz,2.1,1.7,63.0,,Oier Sanjurjo,4-4-1-1,4-4-2,Santiago Jaime,Match Report,,13.0,3.0,17.6,0.0,1,1,2021,Osasuna
+3596,2021-05-16,18:30,La Liga,Matchweek 37,Sun,Away,L,1.0,2.0,Atlético Madrid,0.3,2.6,27.0,,Unai García,5-4-1,4-3-3,Juan Martínez,Match Report,,5.0,2.0,23.1,0.0,0,0,2021,Osasuna
+3597,2021-05-22,18:00,La Liga,Matchweek 38,Sat,Home,L,0.0,1.0,Real Sociedad,0.4,2.0,44.0,,Oier Sanjurjo,4-5-1,4-2-3-1,Jorge Figueroa,Match Report,,7.0,1.0,17.5,0.0,0,0,2021,Osasuna
+3598,2020-09-12,21:00,La Liga,Matchweek 1,Sat,Home,L,0.0,2.0,Osasuna,0.7,0.8,52.0,,José Mari,4-2-3-1,4-4-2,Isidro Díaz de Mera,Match Report,,12.0,3.0,18.2,1.0,0,0,2021,Cadiz
+3599,2020-09-20,16:00,La Liga,Matchweek 2,Sun,Away,W,2.0,0.0,Huesca,1.2,0.3,30.0,,Alberto Cifuentes,4-2-3-1,4-2-3-1,César Soto,Match Report,,6.0,4.0,18.6,0.0,0,0,2021,Cadiz
+3600,2020-09-27,18:30,La Liga,Matchweek 3,Sun,Home,L,1.0,3.0,Sevilla,1.1,2.4,25.0,,Alberto Cifuentes,4-2-3-1,4-3-3,David Medié,Match Report,,12.0,5.0,20.6,0.0,0,0,2021,Cadiz
+3601,2020-10-01,19:00,La Liga,Matchweek 4,Thu,Away,W,1.0,0.0,Athletic Club,0.2,0.6,28.0,,Álex Fernández,4-4-1-1,4-2-3-1,Pablo González,Match Report,,3.0,1.0,15.5,0.0,0,0,2021,Cadiz
+3602,2020-10-04,18:30,La Liga,Matchweek 5,Sun,Home,D,1.0,1.0,Granada,1.0,0.6,42.0,,José Mari,4-4-2,4-2-3-1,Alberola Rojas,Match Report,,14.0,4.0,19.8,2.0,0,0,2021,Cadiz
+3603,2020-10-17,18:30,La Liga,Matchweek 6,Sat,Away,W,1.0,0.0,Real Madrid,1.6,1.0,25.0,,José Mari,4-4-2,4-3-3,Santiago Jaime,Match Report,,14.0,4.0,14.9,0.0,0,0,2021,Cadiz
+3604,2020-10-25,16:00,La Liga,Matchweek 7,Sun,Home,D,0.0,0.0,Villarreal,0.2,0.8,25.0,,José Mari,4-4-2,4-3-3,Ricardo de Burgos,Match Report,,5.0,0.0,18.6,0.0,0,0,2021,Cadiz
+3605,2020-10-30,21:00,La Liga,Matchweek 8,Fri,Away,W,2.0,0.0,Eibar,1.0,0.5,28.0,,José Mari,4-4-2,4-2-3-1,Antonio Matéu Lahoz,Match Report,,6.0,4.0,16.9,0.0,0,0,2021,Cadiz
+3606,2020-11-07,21:00,La Liga,Matchweek 9,Sat,Away,L,0.0,4.0,Atlético Madrid,0.4,2.1,33.0,,Salvi,4-4-2,3-4-3,Adrián Cordero,Match Report,,10.0,3.0,23.9,0.0,0,0,2021,Cadiz
+3607,2020-11-22,16:15,La Liga,Matchweek 10,Sun,Home,L,0.0,1.0,Real Sociedad,0.1,1.2,33.0,,Jon Ander Garrido,4-4-2,4-2-3-1,Javier Estrada,Match Report,,2.0,0.0,26.2,1.0,0,0,2021,Cadiz
+3608,2020-11-28,14:00,La Liga,Matchweek 11,Sat,Away,D,1.0,1.0,Elche,0.5,0.1,53.0,,Salvi,4-4-2,4-2-3-1,Carlos del Cerro,Match Report,,6.0,2.0,18.1,0.0,0,0,2021,Cadiz
+3609,2020-12-05,21:00,La Liga,Matchweek 12,Sat,Home,W,2.0,1.0,Barcelona,2.5,1.5,18.0,,Álex Fernández,4-1-4-1,4-2-3-1,César Soto,Match Report,,7.0,3.0,15.8,1.0,0,0,2021,Cadiz
+3610,2020-12-14,21:00,La Liga,Matchweek 13,Mon,Away,L,0.0,4.0,Celta Vigo,0.6,1.5,39.0,,Marcos Mauro López Gutiérrez,4-4-2,4-1-3-2,Guillermo Cuadra,Match Report,,12.0,2.0,18.5,2.0,0,0,2021,Cadiz
+3611,2020-12-20,18:30,La Liga,Matchweek 14,Sun,Home,L,0.0,2.0,Getafe,0.4,1.0,61.0,,Salvi,4-4-2,4-4-2,Santiago Jaime,Match Report,,8.0,1.0,23.2,2.0,0,0,2021,Cadiz
+3612,2020-12-23,22:00,La Liga,Matchweek 15,Wed,Away,L,0.0,1.0,Betis,0.3,0.4,29.0,,Salvi,4-4-2,4-2-3-1,Antonio Matéu Lahoz,Match Report,,6.0,3.0,12.0,0.0,0,0,2021,Cadiz
+3613,2020-12-29,21:30,La Liga,Matchweek 16,Tue,Home,D,0.0,0.0,Valladolid,0.7,0.5,36.0,,Marcos Mauro López Gutiérrez,4-4-2,4-4-2,Alejandro Hernández,Match Report,,8.0,3.0,16.0,1.0,0,0,2021,Cadiz
+3614,2021-01-04,21:00,La Liga,Matchweek 17,Mon,Away,D,1.0,1.0,Valencia,0.8,0.8,29.0,,Álex Fernández,4-4-2,4-4-2,David Medié,Match Report,,9.0,2.0,12.0,0.0,0,0,2021,Cadiz
+3615,2021-01-10,16:15,La Liga,Matchweek 18,Sun,Home,W,3.0,1.0,Alavés,2.6,0.9,40.0,,Álex Fernández,4-4-2,4-4-2,José Sánchez,Match Report,,10.0,7.0,11.6,0.0,0,0,2021,Cadiz
+3616,2021-01-19,19:00,La Liga,Matchweek 19,Tue,Home,D,2.0,2.0,Levante,0.8,1.9,31.0,,Jon Ander Garrido,4-4-2,4-4-2,Carlos del Cerro,Match Report,,8.0,2.0,18.4,0.0,0,0,2021,Cadiz
+3617,2021-01-23,16:15,La Liga,Matchweek 20,Sat,Away,L,0.0,3.0,Sevilla,0.7,2.3,21.0,,Salvi,4-4-2,4-3-3,Guillermo Cuadra,Match Report,,9.0,3.0,14.1,0.0,0,0,2021,Cadiz
+3618,2021-01-31,16:15,La Liga,Matchweek 21,Sun,Home,L,2.0,4.0,Atlético Madrid,1.2,1.9,48.0,,Salvi,4-4-2,3-1-4-2,Jesús Gil,Match Report,,11.0,6.0,16.4,1.0,0,0,2021,Cadiz
+3619,2021-02-07,14:00,La Liga,Matchweek 22,Sun,Away,L,1.0,4.0,Real Sociedad,0.5,4.6,26.0,,Salvi,4-4-2,4-3-3,Valentín Pizarro,Match Report,,2.0,1.0,12.4,0.0,0,0,2021,Cadiz
+3620,2021-02-15,21:00,La Liga,Matchweek 23,Mon,Home,L,0.0,4.0,Athletic Club,0.5,2.2,43.0,,Jon Ander Garrido,4-4-2,4-4-2,Alejandro Hernández,Match Report,,11.0,2.0,19.6,0.0,0,0,2021,Cadiz
+3621,2021-02-21,14:00,La Liga,Matchweek 24,Sun,Away,D,1.0,1.0,Barcelona,1.4,2.2,19.0,,Jon Ander Garrido,4-1-4-1,4-3-3,Juan Martínez,Match Report,,2.0,0.0,19.4,0.0,1,1,2021,Cadiz
+3622,2021-02-28,16:15,La Liga,Matchweek 25,Sun,Home,L,0.0,1.0,Betis,0.2,0.4,36.0,,Jon Ander Garrido,4-4-2,4-2-3-1,Antonio Matéu Lahoz,Match Report,,5.0,3.0,21.4,0.0,0,0,2021,Cadiz
+3623,2021-03-06,18:30,La Liga,Matchweek 26,Sat,Home,W,1.0,0.0,Eibar,1.6,1.7,33.0,,José Mari,4-4-2,4-4-2,Carlos del Cerro,Match Report,,6.0,2.0,13.4,0.0,0,0,2021,Cadiz
+3624,2021-03-13,14:00,La Liga,Matchweek 27,Sat,Away,D,1.0,1.0,Alavés,1.5,1.5,49.0,,José Mari,4-1-4-1,4-4-2,Isidro Díaz de Mera,Match Report,,8.0,0.0,16.6,0.0,1,1,2021,Cadiz
+3625,2021-03-21,16:15,La Liga,Matchweek 28,Sun,Away,L,1.0,2.0,Villarreal,0.9,2.2,43.0,,José Mari,4-4-2,4-4-2,César Soto,Match Report,,9.0,3.0,17.0,0.0,0,0,2021,Cadiz
+3626,2021-04-04,18:30,La Liga,Matchweek 29,Sun,Home,W,2.0,1.0,Valencia,0.6,1.2,34.0,,José Mari,4-4-1-1,4-4-2,David Medié,Match Report,,6.0,2.0,16.8,0.0,0,0,2021,Cadiz
+3627,2021-04-10,14:00,La Liga,Matchweek 30,Sat,Away,W,1.0,0.0,Getafe,0.7,2.1,43.0,,José Mari,4-4-2,4-2-3-1,Ricardo de Burgos,Match Report,,8.0,3.0,18.1,0.0,0,0,2021,Cadiz
+3628,2021-04-18,18:30,La Liga,Matchweek 33,Sun,Home,D,0.0,0.0,Celta Vigo,0.4,0.5,24.0,,José Mari,4-4-2,4-1-3-2,Pablo González,Match Report,,5.0,2.0,19.8,0.0,0,0,2021,Cadiz
+3629,2021-04-21,22:00,La Liga,Matchweek 31,Wed,Home,L,0.0,3.0,Real Madrid,1.0,3.2,39.0,,José Mari,4-4-2,3-4-3,Antonio Matéu Lahoz,Match Report,,13.0,3.0,16.5,1.0,0,0,2021,Cadiz
+3630,2021-04-24,16:15,La Liga,Matchweek 32,Sat,Away,D,1.0,1.0,Valladolid,1.1,2.9,40.0,,Jon Ander Garrido,4-4-2,4-4-2,Alberola Rojas,Match Report,,6.0,2.0,17.0,1.0,0,0,2021,Cadiz
+3631,2021-05-02,18:30,La Liga,Matchweek 34,Sun,Away,W,1.0,0.0,Granada,1.2,0.9,36.0,,José Mari,4-4-2,4-3-3,Isidro Díaz de Mera,Match Report,,8.0,4.0,19.0,1.0,0,0,2021,Cadiz
+3632,2021-05-08,18:30,La Liga,Matchweek 35,Sat,Home,W,2.0,1.0,Huesca,0.9,0.7,34.0,,José Mari,4-4-2,3-5-2,Alejandro Hernández,Match Report,,11.0,1.0,18.3,0.0,0,0,2021,Cadiz
+3633,2021-05-11,19:00,La Liga,Matchweek 36,Tue,Away,L,2.0,3.0,Osasuna,1.7,2.1,37.0,,Jon Ander Garrido,4-4-2,4-4-1-1,Santiago Jaime,Match Report,,9.0,3.0,15.4,0.0,1,1,2021,Cadiz
+3634,2021-05-16,18:30,La Liga,Matchweek 37,Sun,Home,L,1.0,3.0,Elche,1.1,2.4,32.0,,José Mari,4-4-2,3-4-1-2,César Soto,Match Report,,6.0,2.0,18.4,0.0,1,1,2021,Cadiz
+3635,2021-05-21,21:00,La Liga,Matchweek 38,Fri,Away,D,2.0,2.0,Levante,0.5,1.5,30.0,,Augusto Fernández,4-3-3,4-4-2,Javier Estrada,Match Report,,6.0,2.0,26.5,0.0,0,0,2021,Cadiz
+3636,2020-09-13,21:00,La Liga,Matchweek 1,Sun,Home,W,4.0,2.0,Levante,1.9,2.0,44.0,,José Luis Gayà,4-4-2,4-4-2,José Sánchez,Match Report,,14.0,8.0,20.5,1.0,0,0,2021,Valencia
+3637,2020-09-19,21:00,La Liga,Matchweek 2,Sat,Away,L,1.0,2.0,Celta Vigo,0.5,2.0,49.0,,José Luis Gayà,4-4-2,4-4-2,Jesús Gil,Match Report,,9.0,3.0,19.1,2.0,0,0,2021,Valencia
+3638,2020-09-26,16:00,La Liga,Matchweek 3,Sat,Home,D,1.0,1.0,Huesca,0.6,0.9,48.0,,José Luis Gayà,4-4-2,4-2-3-1,José Luis Munuera,Match Report,,5.0,2.0,20.5,1.0,0,0,2021,Valencia
+3639,2020-09-29,19:00,La Liga,Matchweek 4,Tue,Away,W,1.0,0.0,Real Sociedad,0.9,0.5,35.0,,José Luis Gayà,4-4-2,4-1-4-1,Jorge Figueroa,Match Report,,9.0,5.0,25.5,2.0,0,0,2021,Valencia
+3640,2020-10-03,21:00,La Liga,Matchweek 5,Sat,Home,L,0.0,2.0,Betis,0.5,2.0,47.0,,José Luis Gayà,4-4-2,4-2-3-1,Guillermo Cuadra,Match Report,,5.0,2.0,23.4,0.0,0,0,2021,Valencia
+3641,2020-10-18,16:00,La Liga,Matchweek 6,Sun,Away,L,1.0,2.0,Villarreal,0.6,1.5,38.0,,José Luis Gayà,4-4-2,4-1-4-1,Carlos del Cerro,Match Report,,11.0,3.0,21.6,2.0,0,0,2021,Valencia
+3642,2020-10-23,21:00,La Liga,Matchweek 7,Fri,Away,L,1.0,2.0,Elche,1.6,0.1,53.0,,José Luis Gayà,4-4-2,3-4-3,César Soto,Match Report,,14.0,3.0,20.4,2.0,0,0,2021,Valencia
+3643,2020-11-01,21:00,La Liga,Matchweek 8,Sun,Home,D,2.0,2.0,Getafe,1.4,2.4,38.0,,José Luis Gayà,4-4-2,4-4-2,Jorge Figueroa,Match Report,,8.0,4.0,25.4,0.0,1,1,2021,Valencia
+3644,2020-11-08,21:00,La Liga,Matchweek 9,Sun,Home,W,4.0,1.0,Real Madrid,2.5,1.3,35.0,,José Luis Gayà,4-4-2,4-2-3-1,Jesús Gil,Match Report,,4.0,1.0,29.5,0.0,3,3,2021,Valencia
+3645,2020-11-22,21:00,La Liga,Matchweek 10,Sun,Away,D,2.0,2.0,Alavés,1.9,1.7,66.0,,José Luis Gayà,4-4-2,3-5-2,Santiago Jaime,Match Report,,13.0,5.0,16.0,1.0,0,0,2021,Valencia
+3646,2020-11-28,16:15,La Liga,Matchweek 11,Sat,Home,L,0.0,1.0,Atlético Madrid,0.2,0.9,34.0,,Jaume Doménech,4-4-2,3-4-3,Ricardo de Burgos,Match Report,,5.0,2.0,26.1,1.0,0,0,2021,Valencia
+3647,2020-12-07,21:00,La Liga,Matchweek 12,Mon,Away,D,0.0,0.0,Eibar,0.5,1.3,37.0,,Jaume Doménech,4-4-2,4-4-2,Javier Estrada,Match Report,,6.0,4.0,21.3,1.0,0,0,2021,Valencia
+3648,2020-12-12,14:00,La Liga,Matchweek 13,Sat,Home,D,2.0,2.0,Athletic Club,1.5,1.9,41.0,,Jaume Doménech,4-4-2,4-2-3-1,Carlos del Cerro,Match Report,,10.0,1.0,19.3,1.0,1,1,2021,Valencia
+3649,2020-12-19,16:15,La Liga,Matchweek 14,Sat,Away,D,2.0,2.0,Barcelona,1.6,2.3,28.0,,José Luis Gayà,4-4-2,4-1-4-1,Alejandro Hernández,Match Report,,11.0,4.0,16.7,0.0,0,0,2021,Valencia
+3650,2020-12-22,17:30,La Liga,Matchweek 15,Tue,Home,L,0.0,1.0,Sevilla,0.6,1.8,30.0,,José Luis Gayà,3-4-3,4-3-3,Valentín Pizarro,Match Report,,10.0,4.0,19.1,1.0,0,0,2021,Valencia
+3651,2020-12-30,17:00,La Liga,Matchweek 16,Wed,Away,L,1.0,2.0,Granada,1.5,2.2,47.0,,José Luis Gayà,4-4-2,4-2-3-1,Adrián Cordero,Match Report,,16.0,6.0,18.3,1.0,0,0,2021,Valencia
+3652,2021-01-04,21:00,La Liga,Matchweek 17,Mon,Home,D,1.0,1.0,Cádiz,0.8,0.8,71.0,,José Luis Gayà,4-4-2,4-4-2,David Medié,Match Report,,11.0,4.0,20.2,1.0,0,0,2021,Valencia
+3653,2021-01-10,21:00,La Liga,Matchweek 18,Sun,Away,W,1.0,0.0,Valladolid,1.2,0.7,58.0,,José Luis Gayà,4-4-2,4-3-3,Guillermo Cuadra,Match Report,,17.0,6.0,18.2,1.0,0,0,2021,Valencia
+3654,2021-01-21,19:00,La Liga,Matchweek 19,Thu,Home,D,1.0,1.0,Osasuna,0.5,1.6,64.0,,José Luis Gayà,4-2-3-1,4-1-4-1,Alejandro Hernández,Match Report,,10.0,3.0,18.9,0.0,0,0,2021,Valencia
+3655,2021-01-24,21:00,La Liga,Matchweek 20,Sun,Away,L,1.0,3.0,Atlético Madrid,0.3,1.8,51.0,,José Luis Gayà,4-4-2,3-1-4-2,Ricardo de Burgos,Match Report,,8.0,4.0,20.2,0.0,0,0,2021,Valencia
+3656,2021-01-30,18:30,La Liga,Matchweek 21,Sat,Home,W,1.0,0.0,Elche,2.8,0.4,45.0,,José Luis Gayà,4-4-2,3-4-3,Pablo González,Match Report,,13.0,2.0,20.7,1.0,0,1,2021,Valencia
+3657,2021-02-07,16:15,La Liga,Matchweek 22,Sun,Away,D,1.0,1.0,Athletic Club,0.9,1.2,50.0,,José Luis Gayà,4-4-2,4-4-2,José Luis Munuera,Match Report,,15.0,2.0,16.9,1.0,0,0,2021,Valencia
+3658,2021-02-14,16:15,La Liga,Matchweek 23,Sun,Away,L,0.0,2.0,Real Madrid,0.1,0.8,39.0,,José Luis Gayà,4-4-2,4-3-3,José Sánchez,Match Report,,4.0,1.0,24.6,0.0,0,0,2021,Valencia
+3659,2021-02-20,18:30,La Liga,Matchweek 24,Sat,Home,W,2.0,0.0,Celta Vigo,1.2,0.7,57.0,,José Luis Gayà,4-4-2,4-1-3-2,Valentín Pizarro,Match Report,,10.0,3.0,20.1,1.0,0,0,2021,Valencia
+3660,2021-02-27,21:00,La Liga,Matchweek 25,Sat,Away,L,0.0,3.0,Getafe,0.3,0.9,57.0,,José Luis Gayà,4-4-2,4-4-2,Jorge Figueroa,Match Report,,6.0,0.0,23.5,0.0,0,0,2021,Valencia
+3661,2021-03-05,21:00,La Liga,Matchweek 26,Fri,Home,W,2.0,1.0,Villarreal,1.9,1.9,53.0,,José Luis Gayà,4-4-2,4-4-2,Javier Estrada,Match Report,,24.0,3.0,19.6,1.0,1,1,2021,Valencia
+3662,2021-03-12,21:00,La Liga,Matchweek 27,Fri,Away,L,0.0,1.0,Levante,0.7,0.8,56.0,,Gabriel Paulista,3-4-3,4-4-2,Guillermo Cuadra,Match Report,,11.0,2.0,21.1,1.0,0,0,2021,Valencia
+3663,2021-03-21,16:15,La Liga,Matchweek 28,Sun,Home,W,2.0,1.0,Granada,1.9,1.2,49.0,,José Luis Gayà,4-4-2,4-2-3-1,Alberola Rojas,Match Report,,18.0,8.0,19.6,1.0,0,0,2021,Valencia
+3664,2021-04-04,18:30,La Liga,Matchweek 29,Sun,Away,L,1.0,2.0,Cádiz,1.2,0.6,66.0,,José Luis Gayà,4-4-2,4-4-1-1,David Medié,Match Report,,11.0,6.0,19.5,1.0,0,0,2021,Valencia
+3665,2021-04-11,16:15,La Liga,Matchweek 30,Sun,Home,D,2.0,2.0,Real Sociedad,2.3,1.0,41.0,,José Luis Gayà,4-4-2,4-4-2,Valentín Pizarro,Match Report,,7.0,1.0,24.4,1.0,1,2,2021,Valencia
+3666,2021-04-18,18:30,La Liga,Matchweek 33,Sun,Away,D,2.0,2.0,Betis,1.6,0.7,44.0,,José Luis Gayà,4-4-2,4-2-3-1,Alberola Rojas,Match Report,,8.0,2.0,19.2,1.0,1,1,2021,Valencia
+3667,2021-04-21,19:00,La Liga,Matchweek 31,Wed,Away,L,1.0,3.0,Osasuna,1.1,2.9,55.0,,José Luis Gayà,4-4-2,4-3-3,Mario Melero,Match Report,,10.0,5.0,22.8,2.0,0,0,2021,Valencia
+3668,2021-04-24,18:30,La Liga,Matchweek 32,Sat,Home,D,1.0,1.0,Alavés,1.0,1.0,54.0,,José Luis Gayà,4-4-2,4-4-2,Guillermo Cuadra,Match Report,,9.0,2.0,19.6,1.0,0,0,2021,Valencia
+3669,2021-05-02,21:00,La Liga,Matchweek 34,Sun,Home,L,2.0,3.0,Barcelona,1.2,3.0,32.0,,José Luis Gayà,5-3-2,3-1-4-2,José Sánchez,Match Report,,9.0,4.0,17.1,0.0,0,0,2021,Valencia
+3670,2021-05-09,16:15,La Liga,Matchweek 35,Sun,Home,W,3.0,0.0,Valladolid,1.3,1.0,41.0,,José Luis Gayà,3-4-3,4-3-3,Jesús Gil,Match Report,,6.0,3.0,14.8,0.0,0,0,2021,Valencia
+3671,2021-05-12,19:00,La Liga,Matchweek 36,Wed,Away,L,0.0,1.0,Sevilla,0.4,0.9,39.0,,Carlos Soler,5-4-1,4-3-3,Javier Estrada,Match Report,,6.0,2.0,25.1,2.0,0,0,2021,Valencia
+3672,2021-05-16,18:30,La Liga,Matchweek 37,Sun,Home,W,4.0,1.0,Eibar,1.3,2.3,43.0,2689.0,José Luis Gayà,5-4-1,4-4-2,Valentín Pizarro,Match Report,,9.0,5.0,19.9,0.0,0,0,2021,Valencia
+3673,2021-05-22,18:00,La Liga,Matchweek 38,Sat,Away,D,0.0,0.0,Huesca,0.5,1.3,46.0,,Carlos Soler,3-4-3,3-5-2,Guillermo Cuadra,Match Report,,11.0,4.0,19.9,0.0,0,0,2021,Valencia
+3674,2020-09-13,21:00,La Liga,Matchweek 1,Sun,Away,L,2.0,4.0,Valencia,2.0,1.9,56.0,,José Luis Morales,4-4-2,4-4-2,José Sánchez,Match Report,,19.0,8.0,16.4,0.0,0,0,2021,Levante
+3675,2020-09-27,12:00,La Liga,Matchweek 3,Sun,Away,W,3.0,1.0,Osasuna,3.1,0.7,59.0,,José Luis Morales,4-4-2,4-4-2,Mario Melero,Match Report,,10.0,4.0,14.8,0.0,0,1,2021,Levante
+3676,2020-10-01,19:00,La Liga,Matchweek 4,Thu,Away,L,0.0,1.0,Sevilla,0.2,1.1,36.0,,José Luis Morales,4-4-2,4-3-3,Javier Estrada,Match Report,,3.0,1.0,19.1,0.0,0,0,2021,Levante
+3677,2020-10-04,16:00,La Liga,Matchweek 5,Sun,Home,L,0.0,2.0,Real Madrid,0.5,2.2,45.0,,José Luis Morales,4-4-2,4-3-3,José Luis Munuera,Match Report,,11.0,4.0,19.3,0.0,0,0,2021,Levante
+3678,2020-10-18,14:00,La Liga,Matchweek 6,Sun,Away,L,0.0,2.0,Athletic Club,0.3,2.3,48.0,,José Luis Morales,4-4-2,4-2-3-1,Alberola Rojas,Match Report,,6.0,1.0,20.6,0.0,0,0,2021,Levante
+3679,2020-10-26,21:00,La Liga,Matchweek 7,Mon,Home,D,1.0,1.0,Celta Vigo,1.2,0.8,58.0,,José Luis Morales,4-4-2,5-3-2,Mario Melero,Match Report,,9.0,2.0,24.5,1.0,1,1,2021,Levante
+3680,2020-11-01,18:30,La Liga,Matchweek 8,Sun,Away,D,1.0,1.0,Granada,0.9,0.2,70.0,,José Luis Morales,4-4-2,4-2-3-1,Santiago Jaime,Match Report,,19.0,4.0,19.3,1.0,0,0,2021,Levante
+3681,2020-11-08,18:30,La Liga,Matchweek 9,Sun,Home,D,1.0,1.0,Alavés,2.1,0.8,71.0,,José Luis Morales,4-4-2,4-4-2,Isidro Díaz de Mera,Match Report,,17.0,5.0,17.6,1.0,0,0,2021,Levante
+3682,2020-11-21,14:00,La Liga,Matchweek 10,Sat,Home,D,1.0,1.0,Elche,0.7,0.6,44.0,,José Luis Morales,4-4-2,4-1-4-1,Jorge Figueroa,Match Report,,13.0,5.0,22.7,0.0,0,0,2021,Levante
+3683,2020-11-27,21:00,La Liga,Matchweek 11,Fri,Away,D,1.0,1.0,Valladolid,1.1,1.6,64.0,,José Luis Morales,4-4-2,4-4-2,Valentín Pizarro,Match Report,,9.0,2.0,24.4,0.0,1,1,2021,Levante
+3684,2020-12-05,14:00,La Liga,Matchweek 12,Sat,Home,W,3.0,0.0,Getafe,2.2,0.5,68.0,,Coke,4-4-2,4-4-2,David Medié,Match Report,,12.0,8.0,12.9,0.0,0,0,2021,Levante
+3685,2020-12-13,21:00,La Liga,Matchweek 13,Sun,Away,L,0.0,1.0,Barcelona,1.0,2.1,37.0,,Coke,4-4-2,4-2-3-1,Ricardo de Burgos,Match Report,,6.0,3.0,20.5,0.0,0,0,2021,Levante
+3686,2020-12-19,18:30,La Liga,Matchweek 14,Sat,Home,W,2.0,1.0,Real Sociedad,1.8,1.8,45.0,,José Luis Morales,4-4-2,4-4-2,César Soto,Match Report,,13.0,5.0,17.4,0.0,0,0,2021,Levante
+3687,2020-12-22,19:45,La Liga,Matchweek 15,Tue,Away,D,1.0,1.0,Huesca,0.7,1.4,47.0,,Coke,4-4-2,4-3-3,Isidro Díaz de Mera,Match Report,,9.0,1.0,18.7,0.0,0,0,2021,Levante
+3688,2020-12-29,21:30,La Liga,Matchweek 16,Tue,Home,W,4.0,3.0,Betis,1.7,2.8,38.0,,José Luis Morales,4-4-2,4-2-3-1,Javier Estrada,Match Report,,10.0,5.0,11.5,0.0,0,0,2021,Levante
+3689,2021-01-02,14:00,La Liga,Matchweek 17,Sat,Away,L,1.0,2.0,Villarreal,0.5,1.6,50.0,,Coke,3-1-4-2,4-3-3,Pablo González,Match Report,,9.0,2.0,19.7,1.0,0,0,2021,Levante
+3690,2021-01-10,14:00,La Liga,Matchweek 18,Sun,Home,W,2.0,1.0,Eibar,1.0,1.1,53.0,,José Luis Morales,4-4-2,4-4-2,Javier Estrada,Match Report,,4.0,2.0,16.9,0.0,0,0,2021,Levante
+3691,2021-01-19,19:00,La Liga,Matchweek 19,Tue,Away,D,2.0,2.0,Cádiz,1.9,0.8,69.0,,José Luis Morales,4-4-2,4-4-2,Carlos del Cerro,Match Report,,8.0,5.0,15.3,1.0,0,0,2021,Levante
+3692,2021-01-22,21:00,La Liga,Matchweek 20,Fri,Home,D,2.0,2.0,Valladolid,1.0,0.6,58.0,,José Luis Morales,4-4-2,4-2-3-1,José Luis Munuera,Match Report,,11.0,3.0,13.1,0.0,0,0,2021,Levante
+3693,2021-01-30,16:15,La Liga,Matchweek 21,Sat,Away,W,2.0,1.0,Real Madrid,1.8,1.3,53.0,,José Luis Morales,4-4-2,4-3-3,David Medié,Match Report,,13.0,7.0,17.9,2.0,0,1,2021,Levante
+3694,2021-02-06,14:00,La Liga,Matchweek 22,Sat,Home,D,2.0,2.0,Granada,1.4,1.2,60.0,,José Luis Morales,4-4-2,3-4-3,Adrián Cordero,Match Report,,11.0,7.0,14.1,0.0,0,0,2021,Levante
+3695,2021-02-14,18:30,La Liga,Matchweek 23,Sun,Home,L,0.0,1.0,Osasuna,1.5,0.7,63.0,,Aitor Fernández,3-1-4-2,4-2-3-1,Santiago Jaime,Match Report,,12.0,3.0,17.6,0.0,0,1,2021,Levante
+3696,2021-02-17,19:00,La Liga,Matchweek 2,Wed,Home,D,1.0,1.0,Atlético Madrid,0.6,1.1,36.0,,José Luis Morales,4-4-2,3-1-4-2,José Luis Munuera,Match Report,,7.0,4.0,23.3,0.0,0,0,2021,Levante
+3697,2021-02-20,16:15,La Liga,Matchweek 24,Sat,Away,W,2.0,0.0,Atlético Madrid,0.8,2.1,44.0,,José Luis Morales,3-4-3,3-4-3,Mario Melero,Match Report,,6.0,1.0,21.4,0.0,0,0,2021,Levante
+3698,2021-02-26,21:00,La Liga,Matchweek 25,Fri,Home,D,1.0,1.0,Athletic Club,1.2,1.9,45.0,,José Luis Morales,3-4-3,4-4-2,Isidro Díaz de Mera,Match Report,,9.0,3.0,23.3,1.0,1,1,2021,Levante
+3699,2021-03-07,18:30,La Liga,Matchweek 26,Sun,Away,L,0.0,1.0,Real Sociedad,0.2,4.7,46.0,,José Luis Morales,5-3-2,4-3-3,César Soto,Match Report,,6.0,1.0,19.8,0.0,0,0,2021,Levante
+3700,2021-03-12,21:00,La Liga,Matchweek 27,Fri,Home,W,1.0,0.0,Valencia,0.8,0.7,44.0,,José Luis Morales,4-4-2,3-4-3,Guillermo Cuadra,Match Report,,11.0,3.0,17.0,0.0,0,0,2021,Levante
+3701,2021-03-19,21:00,La Liga,Matchweek 28,Fri,Away,L,0.0,2.0,Betis,0.6,2.2,44.0,,José Luis Morales,4-4-2,4-2-3-1,Jesús Gil,Match Report,,7.0,1.0,22.8,0.0,0,0,2021,Levante
+3702,2021-04-02,21:00,La Liga,Matchweek 29,Fri,Home,L,0.0,2.0,Huesca,0.6,0.8,62.0,,José Luis Morales,3-4-3,3-5-2,Jorge Figueroa,Match Report,,13.0,3.0,20.1,0.0,0,0,2021,Levante
+3703,2021-04-10,18:30,La Liga,Matchweek 30,Sat,Away,W,1.0,0.0,Eibar,0.3,0.4,48.0,,José Luis Morales,4-4-2,3-4-1-2,Javier Estrada,Match Report,,6.0,1.0,19.5,0.0,0,0,2021,Levante
+3704,2021-04-18,21:00,La Liga,Matchweek 33,Sun,Home,L,1.0,5.0,Villarreal,1.0,1.5,44.0,,José Luis Morales,4-4-2,4-4-2,Ricardo de Burgos,Match Report,,12.0,3.0,17.6,1.0,0,0,2021,Levante
+3705,2021-04-21,19:00,La Liga,Matchweek 31,Wed,Home,L,0.0,1.0,Sevilla,0.3,2.0,43.0,,Rober,4-4-1-1,4-3-3,Valentín Pizarro,Match Report,,6.0,1.0,20.1,0.0,0,0,2021,Levante
+3706,2021-04-24,14:00,La Liga,Matchweek 32,Sat,Away,L,0.0,1.0,Elche,0.3,0.4,66.0,,José Luis Morales,4-4-2,4-4-2,David Medié,Match Report,,6.0,1.0,19.2,0.0,0,0,2021,Levante
+3707,2021-04-30,21:00,La Liga,Matchweek 34,Fri,Away,L,0.0,2.0,Celta Vigo,1.2,2.3,46.0,,Sergio Postigo,3-5-2,4-1-2-1-2,Santiago Jaime,Match Report,,10.0,2.0,18.0,0.0,0,0,2021,Levante
+3708,2021-05-08,14:00,La Liga,Matchweek 35,Sat,Away,D,2.0,2.0,Alavés,0.8,1.2,47.0,,José Luis Morales,4-4-2,4-2-3-1,Carlos del Cerro,Match Report,,6.0,3.0,14.3,1.0,0,0,2021,Levante
+3709,2021-05-11,22:00,La Liga,Matchweek 36,Tue,Home,D,3.0,3.0,Barcelona,1.1,2.7,40.0,,José Luis Morales,4-4-2,3-1-4-2,José Luis Munuera,Match Report,,16.0,6.0,18.8,0.0,0,0,2021,Levante
+3710,2021-05-16,18:30,La Liga,Matchweek 37,Sun,Away,L,1.0,2.0,Getafe,0.5,0.5,66.0,,José Luis Morales,4-4-2,4-4-2,Adrián Cordero,Match Report,,4.0,1.0,18.2,0.0,0,0,2021,Levante
+3711,2021-05-21,21:00,La Liga,Matchweek 38,Fri,Home,D,2.0,2.0,Cádiz,1.5,0.5,70.0,,Roger Martí,4-4-2,4-3-3,Javier Estrada,Match Report,,17.0,4.0,15.3,0.0,0,0,2021,Levante
+3712,2020-09-19,18:30,La Liga,Matchweek 2,Sat,Home,W,1.0,0.0,Osasuna,0.6,0.5,55.0,,Djené,4-4-2,4-4-2,Alejandro Hernández,Match Report,,6.0,1.0,18.7,0.0,0,0,2021,Getafe
+3713,2020-09-26,13:00,La Liga,Matchweek 3,Sat,Away,D,0.0,0.0,Alavés,1.1,1.3,53.0,,Djené,4-4-2,4-4-2,Alberola Rojas,Match Report,,11.0,4.0,15.4,1.0,0,0,2021,Getafe
+3714,2020-09-29,21:30,La Liga,Matchweek 4,Tue,Home,W,3.0,0.0,Betis,0.8,0.4,31.0,,Djené,4-4-2,4-2-3-1,Juan Martínez,Match Report,,8.0,4.0,21.7,0.0,0,0,2021,Getafe
+3715,2020-10-03,18:30,La Liga,Matchweek 5,Sat,Away,L,0.0,3.0,Real Sociedad,0.3,2.2,46.0,,Djené,4-4-2,4-1-4-1,Antonio Matéu Lahoz,Match Report,,5.0,1.0,24.9,2.0,0,0,2021,Getafe
+3716,2020-10-17,21:00,La Liga,Matchweek 6,Sat,Home,W,1.0,0.0,Barcelona,1.6,0.7,28.0,,Djené,4-4-2,4-2-3-1,César Soto,Match Report,,8.0,3.0,20.1,1.0,1,1,2021,Getafe
+3717,2020-10-25,18:30,La Liga,Matchweek 7,Sun,Home,L,0.0,1.0,Granada,0.9,1.1,65.0,,Djené,4-4-2,4-1-4-1,Jesús Gil,Match Report,,10.0,1.0,18.4,1.0,0,0,2021,Getafe
+3718,2020-11-01,21:00,La Liga,Matchweek 8,Sun,Away,D,2.0,2.0,Valencia,2.4,1.4,62.0,,Djené,4-4-2,4-4-2,Jorge Figueroa,Match Report,,16.0,5.0,14.7,0.0,0,0,2021,Getafe
+3719,2020-11-08,14:00,La Liga,Matchweek 9,Sun,Home,L,1.0,3.0,Villarreal,0.7,2.3,46.0,,Djené,4-4-2,4-3-3,José Luis Munuera,Match Report,,13.0,4.0,20.5,2.0,0,0,2021,Getafe
+3720,2020-11-22,14:00,La Liga,Matchweek 10,Sun,Away,D,0.0,0.0,Eibar,0.4,1.3,49.0,,Djené,4-4-2,4-4-2,Pablo González,Match Report,,8.0,3.0,17.9,0.0,0,0,2021,Getafe
+3721,2020-11-29,16:15,La Liga,Matchweek 11,Sun,Home,D,1.0,1.0,Athletic Club,0.5,0.3,51.0,,Djené,4-4-2,4-2-3-1,Mario Melero,Match Report,,11.0,3.0,21.7,1.0,0,0,2021,Getafe
+3722,2020-12-05,14:00,La Liga,Matchweek 12,Sat,Away,L,0.0,3.0,Levante,0.5,2.2,32.0,,Djené,4-4-2,4-4-2,David Medié,Match Report,,9.0,0.0,16.0,0.0,0,0,2021,Getafe
+3723,2020-12-12,16:15,La Liga,Matchweek 13,Sat,Home,L,0.0,1.0,Sevilla,0.5,0.5,26.0,,David Timor,4-1-4-1,4-3-3,Juan Martínez,Match Report,,8.0,1.0,18.4,1.0,0,0,2021,Getafe
+3724,2020-12-20,18:30,La Liga,Matchweek 14,Sun,Away,W,2.0,0.0,Cádiz,1.0,0.4,39.0,,Djené,4-4-2,4-4-2,Santiago Jaime,Match Report,,6.0,4.0,19.0,0.0,0,0,2021,Getafe
+3725,2020-12-23,17:30,La Liga,Matchweek 15,Wed,Home,D,1.0,1.0,Celta Vigo,0.3,0.8,39.0,,Djené,4-1-4-1,4-1-3-2,Pablo González,Match Report,,6.0,3.0,20.3,0.0,0,0,2021,Getafe
+3726,2020-12-30,19:15,La Liga,Matchweek 16,Wed,Away,L,0.0,1.0,Atlético Madrid,0.8,1.1,49.0,,Djené,4-4-2,3-5-2,Antonio Matéu Lahoz,Match Report,,10.0,2.0,19.5,1.0,0,0,2021,Getafe
+3727,2021-01-02,18:30,La Liga,Matchweek 17,Sat,Home,L,0.0,1.0,Valladolid,0.8,1.2,54.0,,Djené,4-4-2,4-1-4-1,Isidro Díaz de Mera,Match Report,,11.0,4.0,22.7,2.0,0,0,2021,Getafe
+3728,2021-01-11,19:00,La Liga,Matchweek 18,Mon,Away,W,3.0,1.0,Elche,3.1,1.1,54.0,,Djené,4-4-1-1,4-4-2,José Luis Munuera,Match Report,,13.0,6.0,15.9,0.0,1,1,2021,Getafe
+3729,2021-01-20,19:00,La Liga,Matchweek 19,Wed,Home,W,1.0,0.0,Huesca,0.8,0.8,48.0,,Djené,4-4-1-1,3-4-3,David Medié,Match Report,,12.0,5.0,18.6,2.0,0,0,2021,Getafe
+3730,2021-01-25,21:00,La Liga,Matchweek 20,Mon,Away,L,1.0,5.0,Athletic Club,1.3,2.0,49.0,,Djené,4-4-1-1,4-4-2,Adrián Cordero,Match Report,,5.0,1.0,25.1,0.0,0,1,2021,Getafe
+3731,2021-01-31,14:00,La Liga,Matchweek 21,Sun,Home,D,0.0,0.0,Alavés,0.4,0.2,60.0,,Jaime Mata,3-4-3,4-4-2,Santiago Jaime,Match Report,,6.0,0.0,17.2,1.0,0,0,2021,Getafe
+3732,2021-02-06,21:00,La Liga,Matchweek 22,Sat,Away,L,0.0,3.0,Sevilla,0.2,2.2,25.0,,Djené,4-1-4-1,4-3-3,Juan Martínez,Match Report,,4.0,0.0,23.3,1.0,0,0,2021,Getafe
+3733,2021-02-09,21:00,La Liga,Matchweek 1,Tue,Away,L,0.0,2.0,Real Madrid,0.1,1.6,33.0,,Damián Suárez,4-4-2,3-4-3,Alberola Rojas,Match Report,,1.0,0.0,12.3,0.0,0,0,2021,Getafe
+3734,2021-02-14,14:00,La Liga,Matchweek 23,Sun,Home,L,0.0,1.0,Real Sociedad,0.4,1.0,44.0,,Damián Suárez,4-4-2,4-1-4-1,Pablo González,Match Report,,4.0,0.0,14.3,1.0,0,0,2021,Getafe
+3735,2021-02-19,21:00,La Liga,Matchweek 24,Fri,Away,L,0.0,1.0,Betis,0.4,2.6,37.0,,Djené,4-4-2,4-2-3-1,Javier Estrada,Match Report,,6.0,1.0,16.8,0.0,0,0,2021,Getafe
+3736,2021-02-27,21:00,La Liga,Matchweek 25,Sat,Home,W,3.0,0.0,Valencia,0.9,0.3,43.0,,Djené,4-4-2,4-4-2,Jorge Figueroa,Match Report,,15.0,4.0,15.1,1.0,0,0,2021,Getafe
+3737,2021-03-06,14:00,La Liga,Matchweek 26,Sat,Away,L,1.0,2.0,Valladolid,0.9,1.2,50.0,,Djené,4-4-2,4-4-2,Mario Melero,Match Report,,9.0,2.0,17.5,0.0,0,0,2021,Getafe
+3738,2021-03-13,21:00,La Liga,Matchweek 27,Sat,Home,D,0.0,0.0,Atlético Madrid,0.7,1.6,27.0,,Djené,4-4-2,4-1-4-1,José Sánchez,Match Report,,11.0,2.0,17.0,0.0,0,0,2021,Getafe
+3739,2021-03-21,14:00,La Liga,Matchweek 28,Sun,Home,D,1.0,1.0,Elche,1.8,1.5,48.0,,Djené,4-2-3-1,4-2-3-1,Alejandro Hernández,Match Report,,11.0,4.0,21.3,2.0,0,1,2021,Getafe
+3740,2021-04-03,18:30,La Liga,Matchweek 29,Sat,Away,D,0.0,0.0,Osasuna,0.3,0.2,42.0,,Djené,4-2-3-1,4-4-2,Pablo González,Match Report,,6.0,2.0,22.6,1.0,0,0,2021,Getafe
+3741,2021-04-10,14:00,La Liga,Matchweek 30,Sat,Home,L,0.0,1.0,Cádiz,2.1,0.7,57.0,,Djené,4-2-3-1,4-4-2,Ricardo de Burgos,Match Report,,19.0,3.0,18.8,1.0,0,0,2021,Getafe
+3742,2021-04-18,21:00,La Liga,Matchweek 33,Sun,Home,D,0.0,0.0,Real Madrid,1.8,0.5,42.0,,Djené,4-4-2,4-2-3-1,José Sánchez,Match Report,,19.0,6.0,19.3,1.0,0,0,2021,Getafe
+3743,2021-04-22,22:00,La Liga,Matchweek 31,Thu,Away,L,2.0,5.0,Barcelona,1.5,1.7,20.0,,Djené,4-3-3,3-5-2,Jorge Figueroa,Match Report,,4.0,0.0,12.0,0.0,1,1,2021,Getafe
+3744,2021-04-25,14:00,La Liga,Matchweek 32,Sun,Away,W,2.0,0.0,Huesca,0.7,0.8,32.0,,Djené,4-4-2,3-1-4-2,Juan Martínez,Match Report,,6.0,4.0,13.7,0.0,0,0,2021,Getafe
+3745,2021-05-02,16:15,La Liga,Matchweek 34,Sun,Away,L,0.0,1.0,Villarreal,0.6,0.2,35.0,,Djené,4-4-2,4-2-3-1,Javier Estrada,Match Report,,15.0,3.0,24.7,1.0,0,0,2021,Getafe
+3746,2021-05-09,14:00,La Liga,Matchweek 35,Sun,Home,L,0.0,1.0,Eibar,0.8,1.1,41.0,,Djené,4-4-2,4-4-2,Alberola Rojas,Match Report,,10.0,2.0,19.3,0.0,0,0,2021,Getafe
+3747,2021-05-12,20:00,La Liga,Matchweek 36,Wed,Away,L,0.0,1.0,Celta Vigo,1.3,0.4,40.0,,Djené,4-4-2,4-1-3-2,Mario Melero,Match Report,,13.0,4.0,18.4,0.0,0,0,2021,Getafe
+3748,2021-05-16,18:30,La Liga,Matchweek 37,Sun,Home,W,2.0,1.0,Levante,0.5,0.5,34.0,,Djené,4-4-2,4-4-2,Adrián Cordero,Match Report,,9.0,3.0,15.4,0.0,0,0,2021,Getafe
+3749,2021-05-23,18:30,La Liga,Matchweek 38,Sun,Away,D,0.0,0.0,Granada,0.6,0.4,61.0,,Djené,4-4-1-1,5-4-1,David Medié,Match Report,,11.0,2.0,20.3,0.0,0,0,2021,Getafe
+3750,2020-09-13,14:00,La Liga,Matchweek 1,Sun,Home,L,0.0,1.0,Betis,1.2,0.4,43.0,,Fernando Pacheco,3-1-4-2,4-2-3-1,Pablo González,Match Report,,7.0,2.0,11.3,0.0,0,0,2021,Alaves
+3751,2020-09-20,18:30,La Liga,Matchweek 2,Sun,Away,L,1.0,2.0,Granada,0.7,2.2,44.0,,Fernando Pacheco,3-5-2,4-2-3-1,Carlos del Cerro,Match Report,,5.0,3.0,19.0,1.0,0,0,2021,Alaves
+3752,2020-09-26,13:00,La Liga,Matchweek 3,Sat,Home,D,0.0,0.0,Getafe,1.3,1.1,47.0,,Fernando Pacheco,4-4-2,4-4-2,Alberola Rojas,Match Report,,9.0,0.0,17.4,1.0,0,0,2021,Alaves
+3753,2020-09-30,19:00,La Liga,Matchweek 4,Wed,Away,L,1.0,3.0,Villarreal,1.1,2.3,41.0,,Fernando Pacheco,4-4-2,4-1-4-1,David Medié,Match Report,,8.0,3.0,15.8,0.0,0,0,2021,Alaves
+3754,2020-10-04,14:00,La Liga,Matchweek 5,Sun,Home,W,1.0,0.0,Athletic Club,0.6,0.6,41.0,,Fernando Pacheco,3-5-2,4-2-3-1,José Sánchez,Match Report,,8.0,3.0,17.1,0.0,0,0,2021,Alaves
+3755,2020-10-18,18:30,La Liga,Matchweek 6,Sun,Home,L,0.0,2.0,Elche,1.7,0.8,47.0,,Fernando Pacheco,3-4-1-2,3-4-3,Adrián Cordero,Match Report,,13.0,2.0,20.1,0.0,0,0,2021,Alaves
+3756,2020-10-25,14:00,La Liga,Matchweek 7,Sun,Away,W,2.0,0.0,Valladolid,2.5,0.3,55.0,,Fernando Pacheco,4-4-2,4-4-2,José Luis Munuera,Match Report,,13.0,3.0,15.4,0.0,0,1,2021,Alaves
+3757,2020-10-31,21:00,La Liga,Matchweek 8,Sat,Home,D,1.0,1.0,Barcelona,1.2,1.9,21.0,,Fernando Pacheco,4-1-4-1,4-2-3-1,Alejandro Hernández,Match Report,,4.0,3.0,15.7,1.0,0,0,2021,Alaves
+3758,2020-11-08,18:30,La Liga,Matchweek 9,Sun,Away,D,1.0,1.0,Levante,0.8,2.1,29.0,,Fernando Pacheco,4-4-2,4-4-2,Isidro Díaz de Mera,Match Report,,6.0,2.0,14.5,0.0,0,0,2021,Alaves
+3759,2020-11-22,21:00,La Liga,Matchweek 10,Sun,Home,D,2.0,2.0,Valencia,1.7,1.9,34.0,,Fernando Pacheco,3-5-2,4-4-2,Santiago Jaime,Match Report,,12.0,2.0,17.9,0.0,1,1,2021,Alaves
+3760,2020-11-28,21:00,La Liga,Matchweek 11,Sat,Away,W,2.0,1.0,Real Madrid,2.2,1.7,33.0,,Fernando Pacheco,4-4-2,4-3-3,Adrián Cordero,Match Report,,10.0,5.0,19.6,0.0,1,1,2021,Alaves
+3761,2020-12-06,21:00,La Liga,Matchweek 12,Sun,Home,D,0.0,0.0,Real Sociedad,0.3,1.4,32.0,,Fernando Pacheco,4-4-2,4-2-3-1,José Luis Munuera,Match Report,,5.0,1.0,15.7,0.0,0,0,2021,Alaves
+3762,2020-12-12,18:30,La Liga,Matchweek 13,Sat,Away,L,0.0,1.0,Huesca,0.2,0.4,34.0,,Fernando Pacheco,4-4-2,4-3-3,Mario Melero,Match Report,,3.0,1.0,15.6,0.0,0,0,2021,Alaves
+3763,2020-12-20,14:00,La Liga,Matchweek 14,Sun,Away,L,0.0,2.0,Celta Vigo,0.7,1.6,46.0,,Fernando Pacheco,4-4-2,4-1-3-2,Alberola Rojas,Match Report,,8.0,2.0,16.7,0.0,0,0,2021,Alaves
+3764,2020-12-23,22:00,La Liga,Matchweek 15,Wed,Home,W,2.0,1.0,Eibar,1.9,1.0,44.0,,Fernando Pacheco,4-4-2,4-2-3-1,Carlos del Cerro,Match Report,,13.0,3.0,17.5,1.0,0,0,2021,Alaves
+3765,2020-12-31,16:15,La Liga,Matchweek 16,Thu,Away,D,1.0,1.0,Osasuna,1.6,0.4,67.0,,Manu García,4-4-2,4-4-2,Santiago Jaime,Match Report,,14.0,0.0,21.2,1.0,1,1,2021,Alaves
+3766,2021-01-03,16:15,La Liga,Matchweek 17,Sun,Home,L,1.0,2.0,Atlético Madrid,0.3,2.2,42.0,,Manu García,4-5-1,3-5-2,Juan Martínez,Match Report,,4.0,1.0,14.6,0.0,0,0,2021,Alaves
+3767,2021-01-10,16:15,La Liga,Matchweek 18,Sun,Away,L,1.0,3.0,Cádiz,0.9,2.6,60.0,,Fernando Pacheco,4-4-2,4-4-2,José Sánchez,Match Report,,4.0,1.0,29.5,0.0,1,1,2021,Alaves
+3768,2021-01-19,21:30,La Liga,Matchweek 19,Tue,Home,L,1.0,2.0,Sevilla,1.6,1.2,38.0,,Fernando Pacheco,4-4-2,4-3-3,Isidro Díaz de Mera,Match Report,,11.0,2.0,18.2,0.0,0,1,2021,Alaves
+3769,2021-01-23,21:00,La Liga,Matchweek 20,Sat,Home,L,1.0,4.0,Real Madrid,0.7,1.4,40.0,,Fernando Pacheco,4-4-2,4-3-3,Alejandro Hernández,Match Report,,14.0,4.0,16.8,0.0,0,0,2021,Alaves
+3770,2021-01-31,14:00,La Liga,Matchweek 21,Sun,Away,D,0.0,0.0,Getafe,0.2,0.4,40.0,,Manu García,4-4-2,3-4-3,Santiago Jaime,Match Report,,5.0,1.0,29.7,0.0,0,0,2021,Alaves
+3771,2021-02-05,21:00,La Liga,Matchweek 22,Fri,Home,W,1.0,0.0,Valladolid,1.5,0.1,55.0,,Manu García,4-4-2,4-2-3-1,César Soto,Match Report,,20.0,5.0,17.5,3.0,0,0,2021,Alaves
+3772,2021-02-13,21:00,La Liga,Matchweek 23,Sat,Away,L,1.0,5.0,Barcelona,0.7,2.4,27.0,,Fernando Pacheco,4-4-2,4-3-3,Jorge Figueroa,Match Report,,6.0,2.0,15.9,0.0,0,0,2021,Alaves
+3773,2021-02-21,16:15,La Liga,Matchweek 24,Sun,Away,L,0.0,4.0,Real Sociedad,0.8,2.4,36.0,,Manu García,4-4-2,4-3-3,José Luis Munuera,Match Report,,7.0,2.0,16.2,0.0,0,0,2021,Alaves
+3774,2021-02-27,18:30,La Liga,Matchweek 25,Sat,Home,L,0.0,1.0,Osasuna,0.4,1.5,53.0,,Manu García,4-4-2,4-4-2,José Sánchez,Match Report,,4.0,1.0,20.2,0.0,0,0,2021,Alaves
+3775,2021-03-08,21:00,La Liga,Matchweek 26,Mon,Away,L,2.0,3.0,Betis,0.8,2.0,24.0,,Manu García,4-4-2,4-2-3-1,Alberola Rojas,Match Report,,4.0,3.0,15.9,1.0,0,0,2021,Alaves
+3776,2021-03-13,14:00,La Liga,Matchweek 27,Sat,Home,D,1.0,1.0,Cádiz,1.5,1.5,51.0,,Manu García,4-4-2,4-1-4-1,Isidro Díaz de Mera,Match Report,,8.0,1.0,20.4,0.0,1,1,2021,Alaves
+3777,2021-03-21,18:30,La Liga,Matchweek 28,Sun,Away,L,0.0,1.0,Atlético Madrid,1.2,0.5,38.0,,Fernando Pacheco,4-1-4-1,3-1-4-2,Juan Martínez,Match Report,,8.0,2.0,21.6,0.0,0,1,2021,Alaves
+3778,2021-04-04,14:00,La Liga,Matchweek 29,Sun,Home,L,1.0,3.0,Celta Vigo,2.0,2.0,54.0,,Fernando Pacheco,4-4-2,4-1-3-2,Antonio Matéu Lahoz,Match Report,,17.0,7.0,14.9,1.0,0,0,2021,Alaves
+3779,2021-04-10,16:15,La Liga,Matchweek 30,Sat,Away,D,0.0,0.0,Athletic Club,0.5,1.8,55.0,,Fernando Pacheco,4-4-2,4-4-2,Mario Melero,Match Report,,9.0,0.0,17.2,0.0,0,0,2021,Alaves
+3780,2021-04-18,16:15,La Liga,Matchweek 33,Sun,Home,W,1.0,0.0,Huesca,0.4,0.9,51.0,,Fernando Pacheco,4-4-2,3-5-2,Alejandro Hernández,Match Report,,10.0,2.0,19.2,0.0,0,0,2021,Alaves
+3781,2021-04-21,21:00,La Liga,Matchweek 31,Wed,Home,W,2.0,1.0,Villarreal,1.7,1.5,33.0,,Fernando Pacheco,4-4-2,4-4-2,Adrián Cordero,Match Report,,9.0,4.0,16.3,0.0,0,0,2021,Alaves
+3782,2021-04-24,18:30,La Liga,Matchweek 32,Sat,Away,D,1.0,1.0,Valencia,1.0,1.0,46.0,,Fernando Pacheco,4-4-2,4-4-2,Guillermo Cuadra,Match Report,,6.0,2.0,12.8,0.0,0,0,2021,Alaves
+3783,2021-05-01,14:00,La Liga,Matchweek 34,Sat,Away,L,0.0,3.0,Eibar,0.2,1.5,55.0,,Fernando Pacheco,4-4-2,4-4-2,José Luis Munuera,Match Report,,6.0,2.0,19.7,0.0,0,0,2021,Alaves
+3784,2021-05-08,14:00,La Liga,Matchweek 35,Sat,Home,D,2.0,2.0,Levante,1.2,0.8,53.0,,Fernando Pacheco,4-2-3-1,4-4-2,Carlos del Cerro,Match Report,,15.0,5.0,17.9,1.0,0,0,2021,Alaves
+3785,2021-05-11,20:00,La Liga,Matchweek 36,Tue,Away,W,2.0,0.0,Elche,1.6,0.8,33.0,,Manu García,4-3-3,4-4-2,Pablo González,Match Report,,9.0,2.0,14.8,1.0,0,0,2021,Alaves
+3786,2021-05-16,18:30,La Liga,Matchweek 37,Sun,Home,W,4.0,2.0,Granada,2.4,0.8,53.0,,Fernando Pacheco,4-4-2,4-2-3-1,José Sánchez,Match Report,,14.0,9.0,11.4,0.0,0,0,2021,Alaves
+3787,2021-05-23,21:00,La Liga,Matchweek 38,Sun,Away,L,0.0,1.0,Sevilla,1.1,0.4,32.0,,Manu García,4-3-3,4-3-3,Isidro Díaz de Mera,Match Report,,11.0,2.0,18.4,0.0,0,0,2021,Alaves
+3788,2020-09-26,18:30,La Liga,Matchweek 3,Sat,Home,L,0.0,3.0,Real Sociedad,1.0,3.1,40.0,,Gonzalo Verdú,5-4-1,4-1-4-1,Isidro Díaz de Mera,Match Report,,5.0,2.0,20.7,0.0,0,0,2021,Elche
+3789,2020-09-30,21:30,La Liga,Matchweek 4,Wed,Away,W,1.0,0.0,Eibar,0.4,1.2,39.0,,Gonzalo Verdú,3-4-3,4-4-2,Santiago Jaime,Match Report,,5.0,2.0,12.8,0.0,0,0,2021,Elche
+3790,2020-10-03,18:30,La Liga,Matchweek 5,Sat,Home,D,0.0,0.0,Huesca,0.1,1.6,51.0,,Gonzalo Verdú,3-4-3,4-4-2,Mario Melero,Match Report,,2.0,0.0,10.8,0.0,0,0,2021,Elche
+3791,2020-10-18,18:30,La Liga,Matchweek 6,Sun,Away,W,2.0,0.0,Alavés,0.8,1.7,53.0,,Gonzalo Verdú,3-4-3,3-4-1-2,Adrián Cordero,Match Report,,7.0,3.0,16.0,0.0,0,0,2021,Elche
+3792,2020-10-23,21:00,La Liga,Matchweek 7,Fri,Home,W,2.0,1.0,Valencia,0.1,1.6,47.0,,Gonzalo Verdú,3-4-3,4-4-2,César Soto,Match Report,,3.0,2.0,17.3,0.0,0,0,2021,Elche
+3793,2020-11-01,14:00,La Liga,Matchweek 8,Sun,Away,L,1.0,3.0,Betis,0.7,3.2,41.0,,Gonzalo Verdú,5-3-2,4-3-3,David Medié,Match Report,,4.0,2.0,17.9,0.0,0,0,2021,Elche
+3794,2020-11-06,21:00,La Liga,Matchweek 9,Fri,Home,D,1.0,1.0,Celta Vigo,1.5,2.1,51.0,,Gonzalo Verdú,5-4-1,4-1-4-1,Ricardo de Burgos,Match Report,,7.0,0.0,15.0,0.0,1,1,2021,Elche
+3795,2020-11-21,14:00,La Liga,Matchweek 10,Sat,Away,D,1.0,1.0,Levante,0.6,0.7,56.0,,Gonzalo Verdú,4-1-4-1,4-4-2,Jorge Figueroa,Match Report,,11.0,5.0,17.9,1.0,0,0,2021,Elche
+3796,2020-11-28,14:00,La Liga,Matchweek 11,Sat,Home,D,1.0,1.0,Cádiz,0.1,0.5,47.0,,Gonzalo Verdú,4-2-3-1,4-4-2,Carlos del Cerro,Match Report,,4.0,3.0,24.6,1.0,0,0,2021,Elche
+3797,2020-12-06,18:30,La Liga,Matchweek 12,Sun,Away,D,0.0,0.0,Villarreal,0.1,0.6,43.0,,Gonzalo Verdú,4-1-4-1,4-1-4-1,Santiago Jaime,Match Report,,3.0,0.0,28.7,0.0,0,0,2021,Elche
+3798,2020-12-13,18:30,La Liga,Matchweek 13,Sun,Home,L,0.0,1.0,Granada,0.6,1.6,67.0,,Gonzalo Verdú,4-1-4-1,4-1-4-1,Pablo González,Match Report,,9.0,1.0,14.3,0.0,0,0,2021,Elche
+3799,2020-12-19,14:00,La Liga,Matchweek 14,Sat,Away,L,1.0,3.0,Atlético Madrid,0.6,2.2,52.0,,Gonzalo Verdú,4-1-4-1,4-4-2,Javier Estrada,Match Report,,8.0,3.0,17.9,0.0,0,0,2021,Elche
+3800,2020-12-22,17:30,La Liga,Matchweek 15,Tue,Home,D,2.0,2.0,Osasuna,1.2,1.6,65.0,,Gonzalo Verdú,4-1-4-1,4-4-2,Ricardo de Burgos,Match Report,,7.0,2.0,11.2,0.0,0,0,2021,Elche
+3801,2020-12-30,21:30,La Liga,Matchweek 16,Wed,Home,D,1.0,1.0,Real Madrid,1.0,1.4,33.0,,Gonzalo Verdú,4-1-4-1,4-3-3,Jorge Figueroa,Match Report,,5.0,2.0,23.0,1.0,1,1,2021,Elche
+3802,2021-01-03,14:00,La Liga,Matchweek 17,Sun,Away,L,0.0,1.0,Athletic Club,0.2,1.4,51.0,,Gonzalo Verdú,4-1-4-1,4-2-3-1,Mario Melero,Match Report,,5.0,1.0,19.5,0.0,0,0,2021,Elche
+3803,2021-01-11,19:00,La Liga,Matchweek 18,Mon,Home,L,1.0,3.0,Getafe,1.1,3.1,46.0,,Gonzalo Verdú,4-4-2,4-4-1-1,José Luis Munuera,Match Report,,7.0,4.0,17.2,1.0,0,0,2021,Elche
+3804,2021-01-19,19:00,La Liga,Matchweek 19,Tue,Away,D,2.0,2.0,Valladolid,0.6,1.0,38.0,,Gonzalo Verdú,5-4-1,4-3-3,Santiago Jaime,Match Report,,9.0,3.0,22.9,1.0,0,0,2021,Elche
+3805,2021-01-24,16:15,La Liga,Matchweek 20,Sun,Home,L,0.0,2.0,Barcelona,0.5,2.6,35.0,,Gonzalo Verdú,4-1-4-1,4-3-3,Valentín Pizarro,Match Report,,4.0,2.0,16.3,0.0,0,0,2021,Elche
+3806,2021-01-30,18:30,La Liga,Matchweek 21,Sat,Away,L,0.0,1.0,Valencia,0.4,2.8,55.0,,Gonzalo Verdú,3-4-3,4-4-2,Pablo González,Match Report,,10.0,1.0,21.2,0.0,0,0,2021,Elche
+3807,2021-02-06,18:30,La Liga,Matchweek 22,Sat,Home,D,2.0,2.0,Villarreal,1.3,1.4,45.0,,Iván Marcone,4-4-2,4-3-3,Mario Melero,Match Report,,8.0,2.0,14.8,1.0,0,0,2021,Elche
+3808,2021-02-12,21:00,La Liga,Matchweek 23,Fri,Away,L,1.0,3.0,Celta Vigo,1.1,2.1,50.0,,Gonzalo Verdú,4-4-2,4-1-3-2,Ricardo de Burgos,Match Report,,7.0,2.0,18.5,0.0,0,0,2021,Elche
+3809,2021-02-20,14:00,La Liga,Matchweek 24,Sat,Home,W,1.0,0.0,Eibar,0.4,1.8,48.0,,Gonzalo Verdú,4-4-2,4-4-2,Adrián Cordero,Match Report,,6.0,2.0,15.1,0.0,0,0,2021,Elche
+3810,2021-02-24,19:00,La Liga,Matchweek 1,Wed,Away,L,0.0,3.0,Barcelona,0.3,2.7,35.0,,Gonzalo Verdú,3-4-3,4-3-3,Isidro Díaz de Mera,Match Report,,6.0,1.0,17.3,0.0,0,0,2021,Elche
+3811,2021-02-28,18:30,La Liga,Matchweek 25,Sun,Away,L,1.0,2.0,Granada,1.2,1.1,57.0,,Gonzalo Verdú,4-4-2,4-2-3-1,Santiago Jaime,Match Report,,12.0,4.0,15.0,0.0,0,0,2021,Elche
+3812,2021-03-06,16:15,La Liga,Matchweek 26,Sat,Home,W,2.0,1.0,Sevilla,0.9,1.2,37.0,,Gonzalo Verdú,4-4-2,4-3-3,Valentín Pizarro,Match Report,,6.0,3.0,15.0,0.0,0,0,2021,Elche
+3813,2021-03-13,16:15,La Liga,Matchweek 27,Sat,Away,L,1.0,2.0,Real Madrid,0.5,1.6,35.0,,Gonzalo Verdú,4-4-2,3-1-4-2,Jorge Figueroa,Match Report,,3.0,2.0,12.2,0.0,0,0,2021,Elche
+3814,2021-03-17,19:00,La Liga,Matchweek 2,Wed,Away,L,0.0,2.0,Sevilla,0.7,1.5,34.0,,Gonzalo Verdú,4-4-2,4-3-3,Alberola Rojas,Match Report,,11.0,5.0,22.8,1.0,0,0,2021,Elche
+3815,2021-03-21,14:00,La Liga,Matchweek 28,Sun,Away,D,1.0,1.0,Getafe,1.5,1.8,52.0,,Gonzalo Verdú,4-2-3-1,4-2-3-1,Alejandro Hernández,Match Report,,6.0,2.0,11.5,0.0,0,0,2021,Elche
+3816,2021-04-04,16:15,La Liga,Matchweek 29,Sun,Home,D,1.0,1.0,Betis,1.0,1.9,46.0,,Gonzalo Verdú,4-4-2,4-2-3-1,Adrián Cordero,Match Report,,7.0,3.0,12.3,0.0,0,0,2021,Elche
+3817,2021-04-09,21:00,La Liga,Matchweek 30,Fri,Away,L,1.0,3.0,Huesca,1.0,1.2,66.0,,Gonzalo Verdú,4-4-2,3-5-2,Alberola Rojas,Match Report,,8.0,2.0,19.7,1.0,0,0,2021,Elche
+3818,2021-04-18,14:00,La Liga,Matchweek 33,Sun,Away,L,0.0,2.0,Osasuna,0.7,0.5,52.0,,Josan,4-4-2,4-1-4-1,Jorge Figueroa,Match Report,,8.0,2.0,18.7,1.0,0,0,2021,Elche
+3819,2021-04-21,21:00,La Liga,Matchweek 31,Wed,Home,D,1.0,1.0,Valladolid,1.5,1.1,46.0,,Gonzalo Verdú,4-4-2,4-4-2,José Sánchez,Match Report,,9.0,3.0,14.3,1.0,0,0,2021,Elche
+3820,2021-04-24,14:00,La Liga,Matchweek 32,Sat,Home,W,1.0,0.0,Levante,0.4,0.3,34.0,,Fidel,4-4-2,4-4-2,David Medié,Match Report,,8.0,3.0,16.5,1.0,0,0,2021,Elche
+3821,2021-05-01,16:15,La Liga,Matchweek 34,Sat,Home,L,0.0,1.0,Atlético Madrid,1.2,0.9,50.0,,Fidel,4-4-2,3-4-3,Mario Melero,Match Report,,5.0,1.0,15.3,0.0,0,1,2021,Elche
+3822,2021-05-07,21:00,La Liga,Matchweek 35,Fri,Away,L,0.0,2.0,Real Sociedad,0.2,2.4,28.0,,Gonzalo Verdú,4-4-2,4-2-3-1,Adrián Cordero,Match Report,,1.0,0.0,4.8,0.0,0,0,2021,Elche
+3823,2021-05-11,20:00,La Liga,Matchweek 36,Tue,Home,L,0.0,2.0,Alavés,0.8,1.6,67.0,,Fidel,4-4-2,4-3-3,Pablo González,Match Report,,11.0,3.0,14.3,0.0,0,0,2021,Elche
+3824,2021-05-16,18:30,La Liga,Matchweek 37,Sun,Away,W,3.0,1.0,Cádiz,2.4,1.1,68.0,,Gonzalo Verdú,3-4-1-2,4-4-2,César Soto,Match Report,,20.0,5.0,14.7,1.0,0,0,2021,Elche
+3825,2021-05-22,18:00,La Liga,Matchweek 38,Sat,Home,W,2.0,0.0,Athletic Club,1.0,0.5,45.0,3518.0,Gonzalo Verdú,5-3-2,4-4-2,Carlos del Cerro,Match Report,,8.0,3.0,15.9,0.0,0,0,2021,Elche
+3826,2020-09-13,18:30,La Liga,Matchweek 1,Sun,Away,D,1.0,1.0,Villarreal,0.6,2.5,35.0,,Jorge Pulido,4-2-3-1,4-4-1-1,Javier Estrada,Match Report,,10.0,3.0,15.9,0.0,0,0,2021,Huesca
+3827,2020-09-20,16:00,La Liga,Matchweek 2,Sun,Home,L,0.0,2.0,Cádiz,0.3,1.2,70.0,,Jorge Pulido,4-2-3-1,4-2-3-1,César Soto,Match Report,,5.0,1.0,17.4,0.0,0,0,2021,Huesca
+3828,2020-09-26,16:00,La Liga,Matchweek 3,Sat,Away,D,1.0,1.0,Valencia,0.9,0.6,52.0,,Jorge Pulido,4-2-3-1,4-4-2,José Luis Munuera,Match Report,,17.0,4.0,18.6,1.0,0,0,2021,Huesca
+3829,2020-09-30,19:00,La Liga,Matchweek 4,Wed,Home,D,0.0,0.0,Atlético Madrid,0.9,1.6,37.0,,Jorge Pulido,4-3-3,4-4-2,Adrián Cordero,Match Report,,9.0,3.0,14.8,0.0,0,0,2021,Huesca
+3830,2020-10-03,18:30,La Liga,Matchweek 5,Sat,Away,D,0.0,0.0,Elche,1.6,0.1,49.0,,Jorge Pulido,4-4-2,3-4-3,Mario Melero,Match Report,,18.0,4.0,17.5,0.0,0,0,2021,Huesca
+3831,2020-10-18,18:30,La Liga,Matchweek 6,Sun,Home,D,2.0,2.0,Valladolid,1.1,1.0,66.0,,Jorge Pulido,4-2-3-1,4-2-3-1,Jorge Figueroa,Match Report,,12.0,7.0,15.2,0.0,0,0,2021,Huesca
+3832,2020-10-25,21:00,La Liga,Matchweek 7,Sun,Away,L,1.0,4.0,Real Sociedad,0.5,2.5,49.0,,Jorge Pulido,4-4-2,4-1-4-1,Isidro Díaz de Mera,Match Report,,7.0,4.0,21.3,0.0,0,0,2021,Huesca
+3833,2020-10-31,14:00,La Liga,Matchweek 8,Sat,Away,L,1.0,4.0,Real Madrid,1.0,2.3,40.0,,Jorge Pulido,4-4-2,4-3-3,Pablo González,Match Report,,9.0,2.0,24.7,0.0,0,0,2021,Huesca
+3834,2020-11-07,14:00,La Liga,Matchweek 9,Sat,Home,D,1.0,1.0,Eibar,2.2,0.9,59.0,,Mikel Rico,4-4-2,4-2-3-1,Mario Melero,Match Report,,14.0,5.0,12.9,0.0,0,0,2021,Huesca
+3835,2020-11-20,21:00,La Liga,Matchweek 10,Fri,Away,D,1.0,1.0,Osasuna,0.7,1.0,45.0,,Mikel Rico,4-4-2,4-4-2,Valentín Pizarro,Match Report,,6.0,5.0,14.5,0.0,0,0,2021,Huesca
+3836,2020-11-28,18:30,La Liga,Matchweek 11,Sat,Home,L,0.0,1.0,Sevilla,0.2,1.8,33.0,,Mikel Rico,4-4-2,4-3-3,Guillermo Cuadra,Match Report,,5.0,1.0,21.6,0.0,0,0,2021,Huesca
+3837,2020-12-06,14:00,La Liga,Matchweek 12,Sun,Away,D,3.0,3.0,Granada,1.5,1.5,52.0,,Jorge Pulido,4-1-4-1,4-2-3-1,Alberola Rojas,Match Report,,16.0,7.0,16.3,0.0,0,0,2021,Huesca
+3838,2020-12-12,18:30,La Liga,Matchweek 13,Sat,Home,W,1.0,0.0,Alavés,0.4,0.2,66.0,,Jorge Pulido,4-3-3,4-4-2,Mario Melero,Match Report,,11.0,3.0,18.4,0.0,0,0,2021,Huesca
+3839,2020-12-18,21:00,La Liga,Matchweek 14,Fri,Away,L,0.0,2.0,Athletic Club,0.2,1.4,46.0,,Jorge Pulido,4-3-3,4-2-3-1,Valentín Pizarro,Match Report,,6.0,1.0,24.8,1.0,0,0,2021,Huesca
+3840,2020-12-22,19:45,La Liga,Matchweek 15,Tue,Home,D,1.0,1.0,Levante,1.4,0.7,53.0,,Mikel Rico,4-3-3,4-4-2,Isidro Díaz de Mera,Match Report,,10.0,1.0,17.3,1.0,1,1,2021,Huesca
+3841,2020-12-30,19:15,La Liga,Matchweek 16,Wed,Away,L,1.0,2.0,Celta Vigo,1.3,2.3,44.0,,Jorge Pulido,4-3-3,4-4-2,José Luis Munuera,Match Report,,17.0,6.0,16.6,1.0,0,0,2021,Huesca
+3842,2021-01-03,21:00,La Liga,Matchweek 17,Sun,Home,L,0.0,1.0,Barcelona,0.8,3.0,31.0,,Jorge Pulido,4-3-3,4-3-3,Guillermo Cuadra,Match Report,,4.0,4.0,15.1,0.0,0,0,2021,Huesca
+3843,2021-01-11,21:00,La Liga,Matchweek 18,Mon,Home,L,0.0,2.0,Betis,1.3,2.4,49.0,,Mikel Rico,4-4-2,4-2-3-1,Adrián Cordero,Match Report,,10.0,3.0,15.8,0.0,0,0,2021,Huesca
+3844,2021-01-20,19:00,La Liga,Matchweek 19,Wed,Away,L,0.0,1.0,Getafe,0.8,0.8,52.0,,Jorge Pulido,3-4-3,4-4-1-1,David Medié,Match Report,,15.0,3.0,18.2,0.0,0,0,2021,Huesca
+3845,2021-01-23,14:00,La Liga,Matchweek 20,Sat,Home,D,0.0,0.0,Villarreal,0.2,0.5,44.0,,Jorge Pulido,3-4-3,3-4-3,Alberola Rojas,Match Report,,5.0,1.0,20.4,0.0,0,0,2021,Huesca
+3846,2021-01-29,21:00,La Liga,Matchweek 21,Fri,Away,W,3.0,1.0,Valladolid,1.2,1.8,45.0,,Jorge Pulido,3-5-2,4-2-3-1,Ricardo de Burgos,Match Report,,11.0,5.0,17.5,0.0,0,0,2021,Huesca
+3847,2021-02-06,16:15,La Liga,Matchweek 22,Sat,Home,L,1.0,2.0,Real Madrid,1.0,3.4,35.0,,Jorge Pulido,3-5-2,4-3-3,Javier Estrada,Match Report,,13.0,2.0,17.7,0.0,0,0,2021,Huesca
+3848,2021-02-13,16:15,La Liga,Matchweek 23,Sat,Away,L,0.0,1.0,Sevilla,1.3,1.5,35.0,,Jorge Pulido,3-5-2,4-3-3,David Medié,Match Report,,9.0,5.0,18.9,0.0,0,0,2021,Huesca
+3849,2021-02-21,18:30,La Liga,Matchweek 24,Sun,Home,W,3.0,2.0,Granada,2.3,1.0,59.0,,Jorge Pulido,3-4-3,4-2-3-1,César Soto,Match Report,,14.0,6.0,18.0,0.0,0,1,2021,Huesca
+3850,2021-02-27,14:00,La Liga,Matchweek 25,Sat,Away,D,1.0,1.0,Eibar,0.5,1.6,46.0,,Jorge Pulido,3-4-3,4-4-2,Pablo González,Match Report,,4.0,1.0,23.5,0.0,0,0,2021,Huesca
+3851,2021-03-07,14:00,La Liga,Matchweek 26,Sun,Home,L,3.0,4.0,Celta Vigo,2.2,0.9,51.0,,Jorge Pulido,3-4-1-2,4-1-2-1-2,José Luis Munuera,Match Report,,19.0,5.0,16.0,2.0,0,0,2021,Huesca
+3852,2021-03-15,21:00,La Liga,Matchweek 27,Mon,Away,L,1.0,4.0,Barcelona,2.2,1.1,31.0,,Jorge Pulido,5-3-2,3-4-3,Adrián Cordero,Match Report,,7.0,3.0,14.2,0.0,1,1,2021,Huesca
+3853,2021-03-20,18:30,La Liga,Matchweek 28,Sat,Home,D,0.0,0.0,Osasuna,0.8,0.6,56.0,,Jorge Pulido,3-5-2,4-3-3,Carlos del Cerro,Match Report,,15.0,3.0,19.2,0.0,0,0,2021,Huesca
+3854,2021-04-02,21:00,La Liga,Matchweek 29,Fri,Away,W,2.0,0.0,Levante,0.8,0.6,38.0,,Jorge Pulido,3-5-2,3-4-3,Jorge Figueroa,Match Report,,6.0,2.0,17.2,0.0,0,0,2021,Huesca
+3855,2021-04-09,21:00,La Liga,Matchweek 30,Fri,Home,W,3.0,1.0,Elche,1.2,1.0,34.0,,Jorge Pulido,3-5-2,4-4-2,Alberola Rojas,Match Report,,7.0,4.0,18.7,1.0,1,1,2021,Huesca
+3856,2021-04-18,16:15,La Liga,Matchweek 33,Sun,Away,L,0.0,1.0,Alavés,0.9,0.4,49.0,,Jorge Pulido,3-5-2,4-4-2,Alejandro Hernández,Match Report,,9.0,1.0,18.8,0.0,0,0,2021,Huesca
+3857,2021-04-22,19:00,La Liga,Matchweek 31,Thu,Away,L,0.0,2.0,Atlético Madrid,1.5,2.2,47.0,,Jorge Pulido,3-5-2,3-4-3,José Luis Munuera,Match Report,,5.0,2.0,10.5,1.0,0,0,2021,Huesca
+3858,2021-04-25,14:00,La Liga,Matchweek 32,Sun,Home,L,0.0,2.0,Getafe,0.8,0.7,68.0,,Jorge Pulido,3-1-4-2,4-4-2,Juan Martínez,Match Report,,8.0,1.0,15.4,0.0,0,0,2021,Huesca
+3859,2021-05-01,18:30,La Liga,Matchweek 34,Sat,Home,W,1.0,0.0,Real Sociedad,0.6,0.3,47.0,,Jorge Pulido,3-5-2,4-3-3,Antonio Matéu Lahoz,Match Report,,10.0,3.0,17.6,0.0,0,0,2021,Huesca
+3860,2021-05-08,18:30,La Liga,Matchweek 35,Sat,Away,L,1.0,2.0,Cádiz,0.7,0.9,66.0,,Mikel Rico,3-5-2,4-4-2,Alejandro Hernández,Match Report,,13.0,5.0,20.1,1.0,0,0,2021,Huesca
+3861,2021-05-12,20:00,La Liga,Matchweek 36,Wed,Home,W,1.0,0.0,Athletic Club,1.0,0.2,51.0,,Jorge Pulido,3-5-2,4-4-2,Jorge Figueroa,Match Report,,18.0,6.0,21.9,1.0,0,0,2021,Huesca
+3862,2021-05-16,18:30,La Liga,Matchweek 37,Sun,Away,L,0.0,1.0,Betis,0.3,1.1,53.0,,Jorge Pulido,3-1-4-2,4-2-3-1,Pablo González,Match Report,,7.0,0.0,26.1,1.0,0,0,2021,Huesca
+3863,2021-05-22,18:00,La Liga,Matchweek 38,Sat,Home,D,0.0,0.0,Valencia,1.3,0.5,54.0,,Jorge Pulido,3-5-2,3-4-3,Guillermo Cuadra,Match Report,,23.0,8.0,19.6,2.0,0,0,2021,Huesca
+3864,2020-09-13,16:00,La Liga,Matchweek 1,Sun,Home,D,1.0,1.0,Real Sociedad,0.8,0.3,40.0,,Javi Moyano,4-2-3-1,4-1-4-1,Mario Melero,Match Report,,8.0,2.0,12.5,0.0,0,0,2021,Valladolid
+3865,2020-09-20,18:30,La Liga,Matchweek 2,Sun,Away,L,0.0,2.0,Betis,0.4,1.6,44.0,,Javi Moyano,4-2-3-1,4-2-3-1,Santiago Jaime,Match Report,,9.0,2.0,20.9,1.0,0,0,2021,Valladolid
+3866,2020-09-27,18:30,La Liga,Matchweek 3,Sun,Home,D,1.0,1.0,Celta Vigo,1.5,1.3,54.0,,Nacho,4-4-2,4-2-3-1,José Sánchez,Match Report,,9.0,3.0,20.2,2.0,1,1,2021,Valladolid
+3867,2020-09-30,21:30,La Liga,Matchweek 4,Wed,Away,L,0.0,1.0,Real Madrid,0.6,2.3,38.0,,Míchel,4-2-3-1,4-3-1-2,César Soto,Match Report,,11.0,5.0,19.5,0.0,0,0,2021,Valladolid
+3868,2020-10-03,13:00,La Liga,Matchweek 5,Sat,Home,L,1.0,2.0,Eibar,1.1,1.7,53.0,,Nacho,4-4-2,4-2-3-1,Isidro Díaz de Mera,Match Report,,8.0,2.0,21.8,1.0,0,1,2021,Valladolid
+3869,2020-10-18,18:30,La Liga,Matchweek 6,Sun,Away,D,2.0,2.0,Huesca,1.0,1.1,34.0,,Nacho,4-2-3-1,4-2-3-1,Jorge Figueroa,Match Report,,4.0,2.0,21.1,0.0,1,1,2021,Valladolid
+3870,2020-10-25,14:00,La Liga,Matchweek 7,Sun,Home,L,0.0,2.0,Alavés,0.3,2.5,45.0,,Nacho,4-4-2,4-4-2,José Luis Munuera,Match Report,,5.0,1.0,14.4,0.0,0,0,2021,Valladolid
+3871,2020-11-02,21:00,La Liga,Matchweek 8,Mon,Away,L,0.0,2.0,Villarreal,0.7,1.8,41.0,,Míchel,4-2-3-1,4-4-2,Alberola Rojas,Match Report,,11.0,1.0,14.2,0.0,0,0,2021,Valladolid
+3872,2020-11-08,18:30,La Liga,Matchweek 9,Sun,Home,W,2.0,1.0,Athletic Club,2.1,1.7,30.0,,Jordi Masip,4-4-2,4-2-3-1,César Soto,Match Report,,6.0,3.0,17.6,1.0,1,1,2021,Valladolid
+3873,2020-11-22,18:30,La Liga,Matchweek 10,Sun,Away,W,3.0,1.0,Granada,1.3,1.5,40.0,,Jordi Masip,4-4-2,4-2-3-1,David Medié,Match Report,,9.0,3.0,14.8,0.0,0,0,2021,Valladolid
+3874,2020-11-27,21:00,La Liga,Matchweek 11,Fri,Home,D,1.0,1.0,Levante,1.6,1.1,36.0,,Jordi Masip,4-4-2,4-4-2,Valentín Pizarro,Match Report,,10.0,4.0,17.0,1.0,0,0,2021,Valladolid
+3875,2020-12-05,18:30,La Liga,Matchweek 12,Sat,Away,L,0.0,2.0,Atlético Madrid,0.7,1.2,46.0,,Jordi Masip,4-4-2,3-4-1-2,Pablo González,Match Report,,13.0,3.0,24.6,0.0,0,0,2021,Valladolid
+3876,2020-12-11,21:00,La Liga,Matchweek 13,Fri,Home,W,3.0,2.0,Osasuna,2.0,1.9,48.0,,Jordi Masip,4-4-2,4-4-2,Adrián Cordero,Match Report,,10.0,5.0,13.9,0.0,1,1,2021,Valladolid
+3877,2020-12-19,21:00,La Liga,Matchweek 14,Sat,Away,D,1.0,1.0,Sevilla,1.0,1.7,41.0,,Jordi Masip,4-4-2,4-3-3,Jesús Gil,Match Report,,12.0,5.0,21.0,2.0,0,0,2021,Valladolid
+3878,2020-12-22,22:00,La Liga,Matchweek 15,Tue,Home,L,0.0,3.0,Barcelona,0.8,3.0,39.0,,Míchel,4-4-2,3-4-3,Mario Melero,Match Report,,12.0,5.0,21.0,3.0,0,0,2021,Valladolid
+3879,2020-12-29,21:30,La Liga,Matchweek 16,Tue,Away,D,0.0,0.0,Cádiz,0.5,0.7,64.0,,Jordi Masip,4-4-2,4-4-2,Alejandro Hernández,Match Report,,7.0,1.0,16.2,0.0,0,0,2021,Valladolid
+3880,2021-01-02,18:30,La Liga,Matchweek 17,Sat,Away,W,1.0,0.0,Getafe,1.2,0.8,46.0,,Jordi Masip,4-1-4-1,4-4-2,Isidro Díaz de Mera,Match Report,,8.0,2.0,20.5,1.0,0,0,2021,Valladolid
+3881,2021-01-10,21:00,La Liga,Matchweek 18,Sun,Home,L,0.0,1.0,Valencia,0.7,1.2,42.0,,Jordi Masip,4-3-3,4-4-2,Guillermo Cuadra,Match Report,,11.0,4.0,17.5,2.0,0,0,2021,Valladolid
+3882,2021-01-19,19:00,La Liga,Matchweek 19,Tue,Home,D,2.0,2.0,Elche,1.0,0.6,62.0,,Jordi Masip,4-3-3,5-4-1,Santiago Jaime,Match Report,,13.0,2.0,21.6,2.0,0,0,2021,Valladolid
+3883,2021-01-22,21:00,La Liga,Matchweek 20,Fri,Away,D,2.0,2.0,Levante,0.6,1.0,42.0,,Míchel,4-2-3-1,4-4-2,José Luis Munuera,Match Report,,7.0,3.0,21.2,1.0,0,0,2021,Valladolid
+3884,2021-01-29,21:00,La Liga,Matchweek 21,Fri,Home,L,1.0,3.0,Huesca,1.8,1.2,55.0,,Míchel,4-2-3-1,3-5-2,Ricardo de Burgos,Match Report,,14.0,4.0,17.7,1.0,0,0,2021,Valladolid
+3885,2021-02-05,21:00,La Liga,Matchweek 22,Fri,Away,L,0.0,1.0,Alavés,0.1,1.5,45.0,,Jordi Masip,4-2-3-1,4-4-2,César Soto,Match Report,,3.0,1.0,20.7,0.0,0,0,2021,Valladolid
+3886,2021-02-13,18:30,La Liga,Matchweek 23,Sat,Away,D,1.0,1.0,Eibar,1.0,2.5,46.0,,Jordi Masip,4-4-2,4-4-2,Isidro Díaz de Mera,Match Report,,4.0,0.0,19.7,0.0,1,1,2021,Valladolid
+3887,2021-02-20,21:00,La Liga,Matchweek 24,Sat,Home,L,0.0,1.0,Real Madrid,1.0,0.8,36.0,,Jordi Masip,4-2-3-1,4-3-3,Guillermo Cuadra,Match Report,,9.0,5.0,20.4,0.0,0,0,2021,Valladolid
+3888,2021-02-28,14:00,La Liga,Matchweek 25,Sun,Away,D,1.0,1.0,Celta Vigo,0.7,0.9,35.0,,Óscar Plano,4-4-2,4-1-3-2,David Medié,Match Report,,7.0,3.0,17.5,0.0,0,0,2021,Valladolid
+3889,2021-03-06,14:00,La Liga,Matchweek 26,Sat,Home,W,2.0,1.0,Getafe,1.2,0.9,50.0,,Óscar Plano,4-4-2,4-4-2,Mario Melero,Match Report,,4.0,3.0,14.4,0.0,0,0,2021,Valladolid
+3890,2021-03-13,18:30,La Liga,Matchweek 27,Sat,Away,D,0.0,0.0,Osasuna,1.0,0.6,47.0,,Óscar Plano,4-4-2,4-4-2,Ricardo de Burgos,Match Report,,12.0,2.0,19.3,0.0,0,0,2021,Valladolid
+3891,2021-03-20,21:00,La Liga,Matchweek 28,Sat,Home,D,1.0,1.0,Sevilla,0.9,1.0,31.0,,Óscar Plano,4-4-2,4-3-3,Javier Estrada,Match Report,,2.0,1.0,21.2,0.0,1,1,2021,Valladolid
+3892,2021-04-05,21:00,La Liga,Matchweek 29,Mon,Away,L,0.0,1.0,Barcelona,0.4,1.6,32.0,,Jordi Masip,3-5-2,3-4-3,Santiago Jaime,Match Report,,7.0,2.0,21.1,0.0,0,0,2021,Valladolid
+3893,2021-04-11,18:30,La Liga,Matchweek 30,Sun,Home,L,1.0,2.0,Granada,1.2,1.5,54.0,,Jordi Masip,4-4-2,4-2-3-1,Carlos del Cerro,Match Report,,6.0,2.0,14.5,0.0,1,1,2021,Valladolid
+3894,2021-04-21,21:00,La Liga,Matchweek 31,Wed,Away,D,1.0,1.0,Elche,1.1,1.5,54.0,,Jordi Masip,4-4-2,4-4-2,José Sánchez,Match Report,,12.0,4.0,18.2,2.0,0,0,2021,Valladolid
+3895,2021-04-24,16:15,La Liga,Matchweek 32,Sat,Home,D,1.0,1.0,Cádiz,2.9,1.1,60.0,,Míchel,4-4-2,4-4-2,Alberola Rojas,Match Report,,13.0,6.0,13.3,0.0,0,0,2021,Valladolid
+3896,2021-04-28,19:00,La Liga,Matchweek 33,Wed,Away,D,2.0,2.0,Athletic Club,0.8,1.5,49.0,,Jordi Masip,4-4-2,4-4-2,Adrián Cordero,Match Report,,14.0,4.0,18.5,0.0,0,0,2021,Valladolid
+3897,2021-05-02,14:00,La Liga,Matchweek 34,Sun,Home,D,1.0,1.0,Betis,1.2,2.2,45.0,,Míchel,4-1-4-1,4-2-3-1,Valentín Pizarro,Match Report,,10.0,2.0,23.9,2.0,0,0,2021,Valladolid
+3898,2021-05-09,16:15,La Liga,Matchweek 35,Sun,Away,L,0.0,3.0,Valencia,1.0,1.3,59.0,,Míchel,4-3-3,3-4-3,Jesús Gil,Match Report,,19.0,2.0,21.6,3.0,0,0,2021,Valladolid
+3899,2021-05-13,19:00,La Liga,Matchweek 36,Thu,Home,L,0.0,2.0,Villarreal,1.0,0.6,39.0,,Nacho,4-1-4-1,4-4-2,Ricardo de Burgos,Match Report,,11.0,2.0,15.7,0.0,0,0,2021,Valladolid
+3900,2021-05-16,18:30,La Liga,Matchweek 37,Sun,Away,L,1.0,4.0,Real Sociedad,1.6,1.8,46.0,,Jordi Masip,4-4-2,4-2-3-1,Carlos del Cerro,Match Report,,19.0,5.0,16.7,0.0,0,0,2021,Valladolid
+3901,2021-05-22,18:00,La Liga,Matchweek 38,Sat,Home,L,1.0,2.0,Atlético Madrid,1.1,1.4,48.0,,Jordi Masip,4-4-2,4-3-3,José Sánchez,Match Report,,10.0,4.0,20.7,0.0,0,0,2021,Valladolid
+3902,2020-09-12,16:00,La Liga,Matchweek 1,Sat,Home,D,0.0,0.0,Celta Vigo,0.4,0.6,50.0,,Sergi Enrich,4-4-2,4-3-3,Valentín Pizarro,Match Report,,8.0,1.0,21.5,1.0,0,0,2021,Eibar
+3903,2020-09-19,16:00,La Liga,Matchweek 2,Sat,Away,L,1.0,2.0,Villarreal,1.5,2.7,42.0,,Kiké,4-3-3,4-4-2,Jorge Figueroa,Match Report,,12.0,4.0,18.1,0.0,0,0,2021,Eibar
+3904,2020-09-27,14:00,La Liga,Matchweek 3,Sun,Home,L,1.0,2.0,Athletic Club,0.6,0.6,49.0,,Kiké,4-3-3,4-2-3-1,Adrián Cordero,Match Report,,7.0,1.0,18.5,0.0,0,0,2021,Eibar
+3905,2020-09-30,21:30,La Liga,Matchweek 4,Wed,Home,L,0.0,1.0,Elche,1.2,0.4,61.0,,Kiké,4-4-2,3-4-3,Santiago Jaime,Match Report,,11.0,4.0,21.7,1.0,0,1,2021,Eibar
+3906,2020-10-03,13:00,La Liga,Matchweek 5,Sat,Away,W,2.0,1.0,Valladolid,1.7,1.1,47.0,,Papakouli Diop,4-2-3-1,4-4-2,Isidro Díaz de Mera,Match Report,,10.0,4.0,20.5,1.0,1,1,2021,Eibar
+3907,2020-10-18,12:00,La Liga,Matchweek 6,Sun,Home,D,0.0,0.0,Osasuna,0.3,1.0,52.0,,Kiké,4-4-2,4-4-2,David Medié,Match Report,,10.0,6.0,21.7,1.0,0,0,2021,Eibar
+3908,2020-10-24,18:30,La Liga,Matchweek 7,Sat,Away,W,1.0,0.0,Sevilla,0.2,1.7,28.0,,Kiké,4-4-2,4-3-3,Alejandro Hernández,Match Report,,3.0,1.0,19.7,0.0,0,0,2021,Eibar
+3909,2020-10-30,21:00,La Liga,Matchweek 8,Fri,Home,L,0.0,2.0,Cádiz,0.5,1.0,72.0,,Kiké,4-2-3-1,4-4-2,Antonio Matéu Lahoz,Match Report,,9.0,3.0,17.3,0.0,0,0,2021,Eibar
+3910,2020-11-07,14:00,La Liga,Matchweek 9,Sat,Away,D,1.0,1.0,Huesca,0.9,2.2,41.0,,Kiké,4-2-3-1,4-4-2,Mario Melero,Match Report,,8.0,3.0,22.6,0.0,0,0,2021,Eibar
+3911,2020-11-22,14:00,La Liga,Matchweek 10,Sun,Home,D,0.0,0.0,Getafe,1.3,0.4,51.0,,Kiké,4-4-2,4-4-2,Pablo González,Match Report,,14.0,4.0,18.3,0.0,0,0,2021,Eibar
+3912,2020-11-30,21:00,La Liga,Matchweek 11,Mon,Away,W,2.0,0.0,Betis,2.9,0.7,37.0,,Anaitz Arbilla,4-2-3-1,4-2-3-1,Juan Martínez,Match Report,,9.0,4.0,24.1,0.0,1,2,2021,Eibar
+3913,2020-12-07,21:00,La Liga,Matchweek 12,Mon,Home,D,0.0,0.0,Valencia,1.3,0.5,63.0,,Kiké,4-4-2,4-4-2,Javier Estrada,Match Report,,19.0,3.0,15.4,0.0,0,0,2021,Eibar
+3914,2020-12-13,14:00,La Liga,Matchweek 13,Sun,Away,D,1.0,1.0,Real Sociedad,1.7,1.2,51.0,,Kiké,4-4-2,4-2-3-1,Isidro Díaz de Mera,Match Report,,16.0,4.0,18.8,1.0,0,0,2021,Eibar
+3915,2020-12-20,21:00,La Liga,Matchweek 14,Sun,Home,L,1.0,3.0,Real Madrid,0.7,2.2,34.0,,Kiké,4-4-2,4-3-3,José Luis Munuera,Match Report,,10.0,3.0,20.9,1.0,0,0,2021,Eibar
+3916,2020-12-23,22:00,La Liga,Matchweek 15,Wed,Away,L,1.0,2.0,Alavés,1.0,1.9,56.0,,Kiké,4-2-3-1,4-4-2,Carlos del Cerro,Match Report,,8.0,4.0,17.4,0.0,0,0,2021,Eibar
+3917,2020-12-29,19:15,La Liga,Matchweek 16,Tue,Away,D,1.0,1.0,Barcelona,0.6,2.2,28.0,,Kiké,4-2-3-1,3-4-3,Alberola Rojas,Match Report,,9.0,3.0,23.2,1.0,0,0,2021,Eibar
+3918,2021-01-03,18:30,La Liga,Matchweek 17,Sun,Home,W,2.0,0.0,Granada,1.9,0.9,56.0,,Kiké,4-4-2,4-4-2,Antonio Matéu Lahoz,Match Report,,14.0,6.0,20.2,0.0,0,1,2021,Eibar
+3919,2021-01-10,14:00,La Liga,Matchweek 18,Sun,Away,L,1.0,2.0,Levante,1.1,1.0,47.0,,Kiké,4-4-2,4-4-2,Javier Estrada,Match Report,,17.0,4.0,15.9,0.0,0,0,2021,Eibar
+3920,2021-01-21,21:30,La Liga,Matchweek 19,Thu,Home,L,1.0,2.0,Atlético Madrid,1.5,1.2,36.0,,Kiké,4-2-3-1,3-1-4-2,Mario Melero,Match Report,,11.0,1.0,20.7,1.0,1,1,2021,Eibar
+3921,2021-01-24,18:30,La Liga,Matchweek 20,Sun,Away,D,1.0,1.0,Celta Vigo,0.9,1.6,44.0,,Kiké,4-1-4-1,4-1-4-1,Pablo González,Match Report,,9.0,2.0,17.1,1.0,0,0,2021,Eibar
+3922,2021-01-30,14:00,La Liga,Matchweek 21,Sat,Home,L,0.0,2.0,Sevilla,0.9,1.5,49.0,,Kiké,4-4-2,4-3-3,José Sánchez,Match Report,,17.0,6.0,19.2,0.0,0,0,2021,Eibar
+3923,2021-02-07,18:30,La Liga,Matchweek 22,Sun,Away,L,1.0,2.0,Osasuna,1.2,1.7,46.0,,Kiké,4-4-2,4-4-2,Jorge Figueroa,Match Report,,12.0,3.0,16.5,0.0,0,0,2021,Eibar
+3924,2021-02-13,18:30,La Liga,Matchweek 23,Sat,Home,D,1.0,1.0,Valladolid,2.5,1.0,54.0,,Kiké,4-4-2,4-4-2,Isidro Díaz de Mera,Match Report,,14.0,2.0,12.3,0.0,0,0,2021,Eibar
+3925,2021-02-20,14:00,La Liga,Matchweek 24,Sat,Away,L,0.0,1.0,Elche,1.8,0.4,52.0,,Kiké,4-4-2,4-4-2,Adrián Cordero,Match Report,,13.0,3.0,13.3,0.0,0,0,2021,Eibar
+3926,2021-02-27,14:00,La Liga,Matchweek 25,Sat,Home,D,1.0,1.0,Huesca,1.6,0.5,54.0,,Kiké,4-4-2,3-4-3,Pablo González,Match Report,,17.0,3.0,16.6,1.0,0,0,2021,Eibar
+3927,2021-03-06,18:30,La Liga,Matchweek 26,Sat,Away,L,0.0,1.0,Cádiz,1.7,1.6,67.0,,Kiké,4-4-2,4-4-2,Carlos del Cerro,Match Report,,15.0,0.0,18.4,0.0,0,1,2021,Eibar
+3928,2021-03-14,18:30,La Liga,Matchweek 27,Sun,Home,L,1.0,3.0,Villarreal,1.4,2.8,59.0,,Kiké,4-2-3-1,4-4-2,David Medié,Match Report,,15.0,6.0,19.9,0.0,0,1,2021,Eibar
+3929,2021-03-20,14:00,La Liga,Matchweek 28,Sat,Away,D,1.0,1.0,Athletic Club,0.6,1.6,44.0,,Kiké,4-2-3-1,4-4-2,Valentín Pizarro,Match Report,,4.0,2.0,11.6,0.0,0,0,2021,Eibar
+3930,2021-04-03,16:15,La Liga,Matchweek 29,Sat,Away,L,0.0,2.0,Real Madrid,0.4,1.8,37.0,,Kiké,4-1-4-1,3-4-3,Isidro Díaz de Mera,Match Report,,10.0,4.0,26.1,0.0,0,0,2021,Eibar
+3931,2021-04-10,18:30,La Liga,Matchweek 30,Sat,Home,L,0.0,1.0,Levante,0.4,0.3,52.0,,Kiké,3-4-1-2,4-4-2,Javier Estrada,Match Report,,10.0,4.0,19.9,0.0,0,0,2021,Eibar
+3932,2021-04-18,16:15,La Liga,Matchweek 33,Sun,Away,L,0.0,5.0,Atlético Madrid,0.0,1.9,39.0,,Kiké,4-1-4-1,4-4-2,César Soto,Match Report,,0.0,0.0,,0.0,0,0,2021,Eibar
+3933,2021-04-22,21:00,La Liga,Matchweek 31,Thu,Away,L,1.0,4.0,Granada,1.7,1.4,64.0,,Kiké,4-3-3,4-4-2,Santiago Jaime,Match Report,,16.0,3.0,16.7,1.0,0,0,2021,Eibar
+3934,2021-04-26,21:00,La Liga,Matchweek 32,Mon,Home,L,0.0,1.0,Real Sociedad,1.2,0.7,53.0,,Kiké,4-2-3-1,4-4-2,Jorge Figueroa,Match Report,,14.0,5.0,15.9,1.0,0,0,2021,Eibar
+3935,2021-05-01,14:00,La Liga,Matchweek 34,Sat,Home,W,3.0,0.0,Alavés,1.5,0.2,45.0,,Kiké,4-4-2,4-4-2,José Luis Munuera,Match Report,,15.0,4.0,16.1,0.0,0,0,2021,Eibar
+3936,2021-05-09,14:00,La Liga,Matchweek 35,Sun,Away,W,1.0,0.0,Getafe,1.1,0.8,59.0,,Kiké,4-4-2,4-4-2,Alberola Rojas,Match Report,,6.0,2.0,20.6,0.0,1,1,2021,Eibar
+3937,2021-05-13,20:00,La Liga,Matchweek 36,Thu,Home,D,1.0,1.0,Betis,1.2,0.8,64.0,,Kiké,4-4-2,4-2-3-1,Isidro Díaz de Mera,Match Report,,14.0,4.0,16.3,0.0,0,0,2021,Eibar
+3938,2021-05-16,18:30,La Liga,Matchweek 37,Sun,Away,L,1.0,4.0,Valencia,2.3,1.3,57.0,2689.0,Kiké,4-4-2,5-4-1,Valentín Pizarro,Match Report,,20.0,8.0,15.0,0.0,0,0,2021,Eibar
+3939,2021-05-22,18:00,La Liga,Matchweek 38,Sat,Home,L,0.0,1.0,Barcelona,1.7,0.3,33.0,,Kiké,4-4-2,3-4-3,Santiago Jaime,Match Report,,17.0,3.0,15.8,2.0,0,0,2021,Eibar
