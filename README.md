@@ -1,4 +1,4 @@
-# ⚽ Predicting LaLiga Champions using Machine Learning and Monte Carlo Simulation
+# ⚽ Predicting LaLiga Champion using Machine Learning and Monte Carlo Simulation
 
 ## 📘 Overview
 
